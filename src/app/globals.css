@@ -4,10 +4,10 @@
 
 /* Per-site palette — the only theme knobs, mirrored from tailwind colors. */
 :root {
-  --paper: #f6f5f0;
-  --ink: #10241c;
-  --accent: #c69a3a;
-  --accent-soft: rgba(198,154,58,0.30);
+  --paper: #eef6f4;
+  --ink: #083832;
+  --accent: #0f9e8c;
+  --accent-soft: rgba(15,158,140,0.30);
 }
 
 html { scroll-behavior: smooth; }
@@ -27,7 +27,7 @@ body { background: var(--paper); color: var(--ink); }
 }
 .paper-motif { background-image: radial-gradient(var(--accent-soft) 0.6px, transparent 1.4px); background-size: 22px 22px; opacity: 1; }
 .accent-text {
-  background: linear-gradient(120deg, #9c7a2c, #e6cd86 45%, #c69a3a 70%);
+  background: linear-gradient(120deg, #0b7d6f, #5eead4 45%, #0f9e8c 70%);
   -webkit-background-clip: text; background-clip: text; color: transparent;
 }
 .premium-card {
