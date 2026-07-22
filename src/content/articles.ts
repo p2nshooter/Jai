@@ -1,5 +1,6 @@
 import type { Article, Category } from './types';
 import { ARTICLES_BATCH2 } from './articles-batch2';
+import { ARTICLES_BATCH3 } from './articles-batch3';
 
 /**
  * jai.lat editorial library — original, independent, plain-English guides to
@@ -317,3 +318,4 @@ export function getArticlesByCategory(cat: string): Article[] {
 // file stays reviewable). All lists/pages sort by date, so ordering here is
 // irrelevant.
 ARTICLES.push(...ARTICLES_BATCH2);
+ARTICLES.push(...ARTICLES_BATCH3);
