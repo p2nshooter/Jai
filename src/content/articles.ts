@@ -1,4 +1,5 @@
 import type { Article, Category } from './types';
+import { ARTICLES_BATCH2 } from './articles-batch2';
 
 /**
  * jai.lat editorial library — original, independent, plain-English guides to
@@ -311,3 +312,8 @@ export function getArticle(slug: string): Article | undefined {
 export function getArticlesByCategory(cat: string): Article[] {
   return ARTICLES.filter((a) => a.category === cat).sort((a, b) => (a.date < b.date ? 1 : -1));
 }
+
+// Batch 2 merges into the same library (kept in its own module so this
+// file stays reviewable). All lists/pages sort by date, so ordering here is
+// irrelevant.
+ARTICLES.push(...ARTICLES_BATCH2);
