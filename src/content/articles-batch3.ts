@@ -656,4 +656,28 @@ export const ARTICLES_BATCH3: Article[] = [
         "The endgame is the same for everyone: a card that is paid in full, on autopilot, forever — at which point the most expensive mainstream debt product becomes, for you personally, free."] },
     ],
   },
+  {
+    slug: "insurance-what-actually-needs-covering",
+    category: "saving",
+    title: "Insurance Without the Upsell: What Actually Needs Covering",
+    excerpt:
+      "The principle behind every good insurance decision fits in one line: insure catastrophes, self-insure inconveniences. Applying it sorts the essential policies from the padding.",
+    date: "2026-07-22",
+    minutes: 7,
+    author: "The Jai Desk",
+    sections: [
+      { h: "", p: [
+        "Insurance is bought in a fog of fear and sold in a fog of add-ons, which is why households routinely carry gadget cover for a phone while carrying no protection for the income that pays every bill. One principle cuts the fog: insurance exists to transfer risks you could not absorb — not risks that would merely annoy you.",
+        "The test for any policy is the size of the uninsured loss. Could you absorb it from savings without derailing your life? If yes, you are usually better keeping the premium and carrying the small risk yourself — self-insuring. If the loss would be catastrophic — income gone, home gone, a liability claim against everything you own — that is precisely what insurance is for, and skimping there to afford gadget cover has the logic exactly backwards."] },
+      { h: "The covers that earn their place", p: [
+        "For most working adults the catastrophic list is short. Income protection or its local equivalent, because decades of future earnings are the largest asset most people own and long-term illness is more common than intuition suggests. Life cover — but only if someone depends on your income; term policies, which pay out over a set period for a modest premium, cover the dependent years cheaply. Home insurance on the building, because the loss is unaffordable by definition. Liability covers — motor, and the liability portion of home policies — because being held responsible for someone else's serious loss is the deepest financial hole available.",
+        "Health cover sits alongside these wherever public provision leaves gaps that would be ruinous. The pattern in all of it: big, rare, unaffordable events, insured; everything else, examined with suspicion."] },
+      { h: "The padding to question", p: [
+        "Extended warranties and gadget policies insure losses most budgets could absorb, at premiums that reflect their profitability to the seller. Tiny-payout add-ons bolted to checkouts — ticket insurance, appliance cover, ID-theft frills — are priced for impulse, not actuarial value. Payment-protection styles of cover have a long regulatory history of being oversold. None of these are scams by definition; they are simply insurance against inconvenience, which the one-line principle says to carry yourself.",
+        "A useful reframe: every small premium declined is a deposit into your own 'self-insurance fund' — the emergency fund — which, unlike the warranty, covers anything and refunds itself when unused."] },
+      { h: "Buying well, once a year", p: [
+        "For the covers that matter: buy the right size (enough to actually replace the income or rebuild the house — underinsurance fails at the worst moment), disclose honestly (claims die on non-disclosure), and set excesses as high as your emergency fund comfortably allows, which drops premiums for risk you can genuinely carry. Then re-shop renewals annually; loyalty pricing punishes the inattentive here more than almost anywhere.",
+        "Insurance done this way is unexciting and slightly invisible — a short list of serious policies, correctly sized, reviewed once a year. That is what protection looks like when it is bought rather than sold."] },
+    ],
+  },
 ];
