@@ -266,5 +266,28 @@
         ]
       }
     ]
+  },
+  {
+    "slug": "the-illusion-of-control-in-investing",
+    "category": "investing",
+    "title": "The Illusion of Control in Investing: Separating Luck from Skill",
+    "excerpt": "Investors often mistake chance for expertise, leading to overconfidence and poor decision-making.",
+    "date": "2026-07-23",
+    "minutes": 7,
+    "author": "The Jai Desk",
+    "sections": [
+      {
+        "h": "",
+        "p": [
+          "Investing is a complex and unpredictable field, yet many individuals believe they can outsmart the market through sheer willpower and expertise. This illusion of control can lead to overconfidence, causing investors to take on excessive risk and make poor decisions. In reality, the outcome of investment choices is often the result of chance rather than skill. For instance, a study on stock market returns found that, on average, about 70% of a fund's performance can be attributed to luck, rather than the manager's abilities. This phenomenon is known as the 'hot hand fallacy,' where investors mistakenly attribute their past successes to skill, rather than luck. As a result, they become overconfident and take on more risk, which can ultimately lead to significant losses. By recognizing the role of chance in investment outcomes, investors can take a more nuanced approach to their portfolios and make more informed decisions."
+        ]
+      },
+      {
+        "h": "The Role of Confirmation Bias",
+        "p": [
+          "Confirmation bias is a cognitive phenomenon where individuals give more weight to information that confirms their existing beliefs, while ignoring or downplaying contradictory evidence. In the context of investing, this can lead to a self-reinforcing cycle of overconfidence, where investors selectively seek out information that supports their views and dismiss information that contradicts them. For example, an investor who has had a string of successful trades may become convinced that they possess a unique ability to predict market movements, when in reality, their success is due to chance. This confirmation bias can lead to a range of negative consequences, including overtrading, poor risk management, and a failure to adapt to changing market conditions. By acknowledging the role of confirmation bias in their decision-making, investors can take steps to mitigate its effects and make more informed choices."
+        ]
+      }
+    ]
   }
 ]
