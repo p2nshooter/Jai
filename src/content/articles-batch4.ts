@@ -32,7 +32,7 @@ export const ARTICLES_BATCH4: Article[] = [
     ],
   },
   {
-    slug: 'bonds-explained-simply',
+    slug: 'what-bonds-actually-do-in-a-portfolio',
     category: 'investing',
     title: 'What Bonds Actually Do in a Portfolio (Beyond “They’re Safe”)',
     excerpt:
@@ -200,7 +200,7 @@ export const ARTICLES_BATCH4: Article[] = [
     ],
   },
   {
-    slug: 'sinking-funds-explained',
+    slug: 'sinking-funds-where-did-that-come-from',
     category: 'saving',
     title: 'Sinking Funds: The Simple Trick That Ends “Where Did That Come From?”',
     excerpt:
@@ -464,7 +464,7 @@ export const ARTICLES_BATCH4: Article[] = [
     ],
   },
   {
-    slug: 'good-debt-bad-debt',
+    slug: 'good-debt-bad-debt-the-question-that-matters',
     category: 'mindset',
     title: 'Good Debt, Bad Debt, and the Question That Actually Matters',
     excerpt:
