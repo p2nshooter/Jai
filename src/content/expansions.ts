@@ -3822,6 +3822,178 @@ export const EXPANSIONS: Expansion[] = [
           "It also protects the emergency fund's integrity as a measurement. Its balance is supposed to answer one question — could we handle an income interruption — and that answer is only reliable if the balance has not been silently eroded by things that had their own provision.",
         ],
       },
+      {
+        h: "The question the method is named after",
+        p: [
+          "The phrase in the title is worth taking seriously as a diagnostic, because it identifies precisely which costs need a fund. Any expense that has ever prompted it was, almost by definition, foreseeable and unprovided for, which is the exact category this method addresses.",
+          "Keeping a running note of every occasion the question arises, for one year, produces a better list than any amount of planning from memory. It is evidence rather than recollection, it costs nothing to maintain, and by the end of a cycle it will have identified the gaps that a statement review missed.",
+          "After two or three years of running this, the question genuinely stops occurring, which is a small and noticeable change in daily life. Costs still arrive at inconvenient moments; they simply stop being surprises, because each one draws down a balance that was accumulated for it. That is the whole claim of the method and it is a modest one that reliably delivers.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'the-50-30-20-budget',
+    sections: [
+      {
+        h: "Gross or net, and why it changes everything",
+        p: [
+          "A detail that is frequently left ambiguous determines whether the framework is achievable at all: whether the proportions apply to income before or after tax and deductions. Applied to the gross figure, the essentials share becomes impossible for most people, since a substantial portion never arrives.",
+          "The sensible reading is that it applies to take-home pay, which is the money actually available to allocate. This is how most presentations intend it and it is rarely stated, which leaves people calculating against the wrong denominator and concluding they are much further off target than they are.",
+          "A related ambiguity concerns pension contributions deducted before the money reaches you. Those are saving, and a household contributing meaningfully through payroll is already partway to the final bucket before any of this is calculated. Counting them is the honest treatment and it changes the picture substantially for anyone in a scheme with a decent contribution rate.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'automating-your-finances',
+    sections: [
+      {
+        h: "If you only automate one thing",
+        p: [
+          "A complete system takes an afternoon and some people will not spend an afternoon on this. For them, the single highest-value automation is a standing order moving a fixed amount to savings on the day after income arrives, and nothing else.",
+          "That one transfer captures most of the benefit. It converts saving from a monthly decision into a default, it establishes the habit that everything else builds on, and it works regardless of how disorganised the rest of the arrangement is. Bills paid manually and spending untracked is a perfectly survivable situation for someone whose saving happens automatically.",
+          "The ordering matters if further steps follow. Automating bill payments before automating saving produces a system that reliably pays everyone except you, which is the arrangement most people already have and the one the whole approach exists to reverse.",
+        ],
+      },
+      {
+        h: "Automating the increase, not just the amount",
+        p: [
+          "A fixed transfer set once becomes progressively less meaningful as income rises, which is the quiet failure described elsewhere on this site. Some pension schemes offer automatic escalation — a contribution rate that rises by a set amount each year without any action — and where it exists it is worth using.",
+          "Where no such facility exists, the manual equivalent is a calendar reminder on the date any pay review takes effect, prompting an increase in the standing order proportional to the rise. This takes two minutes annually and is worth a substantial amount over a career.",
+          "The research on automatic escalation in retirement schemes found participation and contribution rates considerably higher than under any voluntary arrangement, for the same reason all defaults work: what happens when nobody acts turns out to determine most outcomes. Applying that insight to your own increases is the closest thing to a free improvement available here.",
+        ],
+      },
+      {
+        h: "What automation does to the psychology",
+        p: [
+          "Beyond the mechanical reliability, moving money before it is seen changes how the remaining amount is experienced. Spending adjusts to whatever appears available, and if the saving has already gone, the smaller figure becomes the reference point within a month or two.",
+          "This is the same adaptation mechanism described in the lifestyle inflation articles here, running in a useful direction for once. It is why a transfer set up in advance feels painless while an equivalent voluntary reduction feels like sacrifice, despite being arithmetically identical.",
+          "The practical corollary is that the moment to increase a transfer is immediately after an income rise, before the higher figure has become the reference point. A week later the money has been absorbed and the same increase reads as a cut. The window is short and the difference in how it feels is entirely a matter of timing.",
+        ],
+      },
+      {
+        h: "The bills worth automating and the ones worth reviewing",
+        p: [
+          "Automating payment and automating review are different things, and conflating them is how household costs rise unnoticed. Payment should be automated for everything, since late payments cost money and damage credit records for no benefit.",
+          "Review should not be. Any contract with a variable or escalating price — insurance, utilities, telecoms, subscriptions — needs an annual look, and the automated payment removes the only event that would otherwise prompt it. The remedy is a calendar entry per renewal date rather than a change to the payment arrangement.",
+          "The distinction can be stated simply: automate the payment, calendar the price. Households that do both have the reliability of automation without the drift that comes from never seeing what anything costs, which is the specific failure that automation introduces if nothing replaces the prompt it removed.",
+        ],
+      },
+      {
+        h: "Joint households and shared automation",
+        p: [
+          "In a household, automated arrangements work best when both people can see and change them, which is not the default when one person set everything up. A system that only one person understands is fragile in a specific way: it cannot be maintained if that person is unavailable.",
+          "The fix is documentation rather than a change to the structure. A single page listing every automated transfer — what leaves, when, from where, to where, and why — kept somewhere both people can reach. This takes twenty minutes and it is the difference between a system and a dependency.",
+          "It also makes the annual review a shared activity rather than a report from one person to the other, which the article on couples elsewhere on this site suggests reduces conflict considerably. Both people looking at the same page is a different conversation from one explaining it to the other.",
+        ],
+      },
+      {
+        h: "Where automation quietly goes wrong",
+        p: [
+          "Three failures recur and all are worth checking for periodically. The first is a transfer that stopped without anybody noticing, usually after a card expiry, a bank switch or a change of account details. Nothing announces this, and it can run for a year before being discovered.",
+          "The second is a transfer to an account that no longer serves a purpose: a savings account for a goal already met, a fund no longer wanted, a product superseded. Money continues arriving somewhere it should not, which is less harmful than the first failure and equally invisible.",
+          "The third is duplication, where a payment is set up twice through different mechanisms during a period of reorganisation. This is the least common and the easiest to spot, since it shows as two identical debits. All three are caught by the same annual check of every recurring item, which is a small price for a system that otherwise runs untouched for years.",
+        ],
+      },
+      {
+        h: "Why this compounds beyond the money",
+        p: [
+          "The financial case for automation is straightforward: more gets saved, nothing is paid late, and the contribution continues through periods when a decision would have gone the other way. That alone justifies the setup.",
+          "The larger effect is on attention. A household whose financial arrangement runs by itself is not spending mental effort on it, and the low-level recurring question of whether this month works has already been answered. That freed capacity goes somewhere else, which is difficult to quantify and is what most people actually report as the benefit.",
+          "There is also a compounding of decision quality. Fewer decisions means fewer opportunities to make a poor one under pressure, and the poor ones are what damage long-term outcomes. A system designed so that the right thing happens when nobody is paying attention is not a substitute for good judgement; it is a way of needing considerably less of it. None of this is financial advice; it is a description of what tends to work.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'how-much-emergency-fund',
+    sections: [
+      {
+        h: "Building it in stages that each mean something",
+        p: [
+          "A single distant target is demotivating and a sequence of near ones is not, which argues for treating this as several goals rather than one. Each stage removes a specific category of problem, and knowing which is worth more than the total.",
+          "The first stage is enough to cover the most common single unexpected expense in your life — typically a repair or a bill. Reaching it stops the cycle where every minor problem becomes borrowing. The second is a month of essential costs, which covers most of what actually goes wrong. The third is the full multiple, which covers an income interruption.",
+          "The gap in usefulness between having nothing and having the first stage is larger than any subsequent step, which is worth knowing for anyone who finds the full figure discouraging. Most of the reduction in financial stress happens early, and the later stages address a scenario that is severe and much less frequent.",
+        ],
+      },
+      {
+        h: "Households with dependants",
+        p: [
+          "The presence of people who depend on your income changes the calculation in ways that go beyond adding their costs to the essentials figure. It reduces flexibility: a household that could otherwise move somewhere cheaper, reduce its costs sharply, or relocate for work has fewer of those options available.",
+          "It also lengthens the realistic job search, since geography becomes constrained by schools, care arrangements and a partner's employment. A search that might have taken a couple of months for an unconstrained individual can take considerably longer when the acceptable options are narrower.",
+          "The practical implication is that dependants push toward the upper end of any range rather than the middle, and that the reduction in flexibility matters as much as the increase in costs. This is also the situation where insurance — income protection and life cover — does the most work, since the scenarios that a buffer cannot cover are the ones with the most severe consequences here.",
+        ],
+      },
+      {
+        h: "The two-earner calculation people get wrong",
+        p: [
+          "A household with two incomes is frequently assumed to need less buffer, on the reasoning that both are unlikely to stop simultaneously. This holds only if the two incomes are genuinely independent, which is less often true than it appears.",
+          "Two people in the same industry face correlated risk, since a downturn affecting one affects the other. Two people at the same employer face nearly perfectly correlated risk. Two people whose incomes both depend on the same local economy are less exposed than that and more exposed than the independence assumption implies.",
+          "The useful test is to ask what single event could stop both. If such an event exists and is plausible, the household should size its buffer closer to a single-income calculation. If the two are genuinely unrelated — different sectors, different employers, different geographies — the reduction is real and the lower end of the range is defensible.",
+        ],
+      },
+      {
+        h: "How the right size changes across a life",
+        p: [
+          "The appropriate figure is not fixed and it moves for predictable reasons. Early in a career, with low costs, high mobility and no dependants, the required buffer is genuinely small, and the flexibility to reduce spending sharply is at its greatest.",
+          "It rises through the years of maximum fixed commitment — mortgage, dependants, specialised role — and this is typically when it is hardest to build. It rises again for anyone becoming self-employed or taking on business risk. It falls once a mortgage clears and costs drop, and it changes character entirely at retirement.",
+          "The implication is that a figure set once and never revisited will be wrong within a few years. Reviewing it at each major life change — job, home, household composition — takes a few minutes and catches almost every occasion when the target should move.",
+        ],
+      },
+      {
+        h: "The retirement version of the same problem",
+        p: [
+          "Once income comes from a portfolio rather than employment, the emergency fund's purpose changes but does not disappear. It is no longer protecting against job loss; it is protecting against the need to sell investments during a decline, which is the sequence problem discussed elsewhere on this site.",
+          "The sizing logic changes accordingly. Rather than months of expenses against an income interruption, the relevant measure is years of withdrawals held outside volatile assets, so that a market decline can be waited out without selling into it.",
+          "That figure is typically larger than a working-age emergency fund and it does a similar job: it removes the scenario where circumstances force a bad decision. The continuity between the two is worth noticing, since it means the habit built during working life converts directly into the structure that makes a drawdown plan robust.",
+        ],
+      },
+      {
+        h: "Measuring it by rebuild time rather than size",
+        p: [
+          "An alternative way to assess whether a buffer is adequate is to ask how long it would take to rebuild after being fully used. This captures something the multiple does not: the relationship between the fund and your capacity to replenish it.",
+          "A household that could rebuild a drained fund in six months is in a fundamentally different position from one that would take four years, even if both hold the same amount. The first can use the fund and recover; the second is effectively spending a decade of accumulation on a single event.",
+          "For the second household, the answer is not necessarily a larger fund, which may be unachievable, but more attention to insurance for the severe scenarios and to reducing the fixed costs that make rebuilding so slow. The rebuild-time measure identifies that distinction, which the standard multiple conceals entirely. As with everything on this site, this is educational rather than advice, and the right figure depends on circumstances only you can see.",
+        ],
+      },
+      {
+        h: "The number nobody wants to calculate",
+        p: [
+          "There is one figure that makes all of this concrete and which almost nobody works out: how many months your household could continue, today, with no income at all, drawing on everything accessible and cutting to essentials only.",
+          "It requires the essentials figure and the accessible balances, both of which you either have or can produce in twenty minutes. The output is a single number of months, and it is the most honest description of your financial position available.",
+          "Most people find the answer lower than they assumed, which is uncomfortable and useful. It is also the only version of this that responds directly to action: every contribution to the buffer moves it up, every increase in fixed costs moves it down, and watching it over years is a better measure of progress than any target multiple. It is worth calculating once a year alongside the net worth figure discussed elsewhere on this site.",
+        ],
+      },
+      {
+        h: "What to do while it is still small",
+        p: [
+          "For the long period before the fund reaches anything substantial, it is worth knowing what actually happens if something goes wrong, because the answer is not simply that you are unprotected.",
+          "Statutory and employer entitlements exist and are frequently more generous than people assume, particularly for illness and redundancy, and finding out what applies to you before you need it takes one look at a contract. Household insurance policies sometimes include cover people have forgotten. Creditors have hardship processes, and free debt advice services exist in many countries and are considerably more capable than most people expect.",
+          "None of these substitutes for a buffer and all of them reduce the severity of the gap while one is being built. Knowing which apply to your situation, written down alongside the account details, is a form of preparation available to anyone regardless of what they have managed to save so far.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'automating-your-finances',
+    sections: [
+      {
+        h: "The order to build it in",
+        p: [
+          "Where a full system is being assembled, the sequence that works starts with the destination accounts and ends with the transfers, because a transfer to an account that does not exist yet is the most common reason people stop halfway.",
+          "So: open whatever accounts are missing first — savings, sinking fund, fixed costs — in one sitting. Then move the existing direct debits to the fixed-costs account, which is the fiddliest step and the one that most benefits from being done all at once. Then set the transfers, in order of priority: savings first, fixed costs second, everything else last.",
+          "Doing it in this order means the system is either complete or obviously incomplete at every stage, rather than being in a half-configured state where money is moving somewhere unintended. It also means that if you run out of time, what got built is the part that matters most.",
+        ],
+      },
+      {
+        h: "When automation is the wrong answer",
+        p: [
+          "There are situations where an automated arrangement makes things worse and they are worth recognising. A household whose income genuinely cannot cover its fixed costs will experience automation as a sequence of failed payments and charges, which is more expensive than managing the shortfall manually.",
+          "Someone in the middle of a significant transition — moving country, changing employment structure, separating a joint household — is configuring a system against circumstances that are about to change, and the reconfiguration will be more work than the manual period would have been.",
+          "In both cases the answer is not never but not yet. Automation is a way of maintaining a workable arrangement without effort; it is not a way of creating one. The underlying arrangement has to be viable first, and where it is not, the effort belongs on the income or the fixed costs rather than on the plumbing.",
+        ],
+      },
     ],
   },
 ];
