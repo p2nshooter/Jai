@@ -5084,6 +5084,165 @@ export const EXPANSIONS: Expansion[] = [
           "The practical takeaway is narrow and worth carrying: during accumulation, volatility is not your enemy and may be an advantage. During the transition and early withdrawal years, it is the primary threat, and the defences against it have to be in place before the window opens rather than constructed inside it.",
         ],
       },
+      {
+        h: "Testing a plan against bad orderings",
+        p: [
+          "Rather than relying on a single projection, the informative exercise is to test the plan against the worst historical sequences rather than the average one. Several free retirement calculators run this automatically, applying every historical starting year to your figures and reporting how many of them survived.",
+          "The output is a range and a failure rate rather than a number, which is a more honest representation of what is actually knowable. A plan that survived nearly every historical sequence is robust; one that survived two thirds of them is a plan with a substantial probability of requiring significant adjustment partway through.",
+          "The value is less in the precise percentage — which depends on assumptions nobody can verify — than in seeing how sensitive the outcome is to variables you had treated as fixed. Most people running this for the first time discover that the withdrawal rate and the flexibility to reduce spending matter more than anything they had been optimising.",
+        ],
+      },
+      {
+        h: "The mirror image during accumulation",
+        p: [
+          "Understanding the mechanism during withdrawal clarifies something reassuring about the years before it. Someone still contributing benefits from a poor sequence early, because contributions buy more units at depressed prices and the eventual recovery applies to a larger holding.",
+          "This is genuinely the opposite of the withdrawal case, and it explains why a market decline in your thirties is a favourable event that feels like a disaster. The instinct to reduce contributions during a decline is not merely unhelpful; it forfeits the specific advantage that being an accumulator provides.",
+          "So the same phenomenon carries opposite instructions at different stages of a financial life. Contribute through declines and do not sell into them; later, hold a reserve so that you are not forced to. Knowing which stage you are in tells you which instruction applies, and that is most of what this concept is useful for. None of this is financial advice.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'the-4-percent-rule-explained',
+    sections: [
+      {
+        h: "What the original study actually tested",
+        p: [
+          "The rule emerged from research examining every historical thirty-year period in one major market, asking what withdrawal rate, adjusted annually for inflation, would have survived all of them. The answer was close to four percent for a portfolio split between equities and bonds.",
+          "Three features of that design matter and are frequently dropped in the retelling. It was a backtest of historical sequences rather than a forecast. It assumed a rigid withdrawal continuing regardless of conditions, which nobody actually does. And it assumed no fees, no taxes and no changes to the portfolio.",
+          "None of these invalidate the finding; they define its scope. The study answered a specific and useful question — what would have worked historically under these assumptions — and it did not answer the question people use it for, which is what will work for me.",
+        ],
+      },
+      {
+        h: "The assumptions that move the number most",
+        p: [
+          "Several inputs shift the sustainable rate substantially, and it is worth knowing which. Fees are the clearest: a percentage taken annually comes directly off the withdrawal capacity, and a portfolio charged one percent is not the portfolio the study modelled.",
+          "The horizon is next. Thirty years suits a retirement beginning in the mid-sixties. Forty years does not, and anyone stopping substantially earlier should treat the figure as an upper bound rather than a target. The direction of the adjustment is not small.",
+          "The market history used is the third and least discussed. Results drawn from the strongest large market of the twentieth century are systematically more encouraging than results from a broader international sample, and using a single favourable record introduces an optimism nobody intended. Each of these arguments for a lower starting figure than the famous one.",
+        ],
+      },
+      {
+        h: "What flexibility buys",
+        p: [
+          "The rigid-withdrawal assumption is what makes the rule conservative, and relaxing it is where most of the available improvement sits. A retiree who reduces withdrawals during a poor stretch is meaningfully safer than the fixed figure implies.",
+          "Several formalised approaches exist: withdrawing a fixed percentage of the current balance rather than an inflation-adjusted fixed amount, applying guardrails that adjust the withdrawal when the portfolio moves beyond set bounds, or simply deferring discretionary spending during bad years.",
+          "Each trades certainty of income for certainty of not running out, which is a reasonable trade for anyone whose spending contains a genuine discretionary component. Someone whose entire projected spending is essential has nothing to flex and needs a lower starting rate to compensate, which is the situation the rigid assumption actually describes.",
+        ],
+      },
+      {
+        h: "Where the rule strains hardest",
+        p: [
+          "Beyond the assumptions, the rule is silent about several things that materially affect a real retirement. It does not account for spending that changes shape over time, and the evidence suggests it usually does: higher in the early active years, lower in the middle, and potentially much higher at the end if care is needed.",
+          "It does not account for other income arriving partway through, such as a state pension starting several years after retirement, which means a higher withdrawal in the early years may be entirely sustainable. It does not account for tax, which differs by the account the money comes from.",
+          "And it says nothing about what happens if you are wrong. A plan built on the rule has no defined response to being on a failing path, which is the thing that actually matters, since the response determines whether a poor sequence produces an adjustment or a crisis.",
+        ],
+      },
+      {
+        h: "Using it as an orientation rather than a plan",
+        p: [
+          "The rule's genuine value is that it converts a formless anxiety into a checkable number using arithmetic anybody can do in a minute. Multiply intended annual spending by twenty-five and you have an order of magnitude, which is enormously more useful than no figure at all.",
+          "That makes it a good first instrument. It indicates whether the current saving rate is broadly in the right region, decades out, when precision is impossible anyway and the useful question is directional.",
+          "It is a poor final instrument. Within a few years of the decision, the questions become specific — sequencing, tax, the cash runway, the transition — and a single multiplier addresses none of them. Continuing to plan with it at that point is applying a rough tool to a problem that has become precise.",
+        ],
+      },
+      {
+        h: "A more honest way to state the answer",
+        p: [
+          "The most defensible use is to produce a range rather than a number. Run the calculation at a conservative withdrawal rate with pessimistic assumptions, at the standard figure, and at an optimistic one. The spread between the three is genuinely informative.",
+          "A plan that works at the conservative end is robust. One that only works at the optimistic end requires favourable conditions, which is worth knowing while there is still time to change something. That framing also stops the figure being treated as a threshold that has been either met or failed.",
+          "Above all, the number should not be quoted with more precision than the method supports. It came from a historical backtest with simplifying assumptions, and treating its output as a target to be hit exactly is asking it to carry weight it was never built for. As with everything on this site, this is educational rather than advice, and anyone close to this decision should consider having it reviewed properly.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'compounding-after-you-stop',
+    sections: [
+      {
+        h: "How long the money actually has to last",
+        p: [
+          "The planning horizon at retirement is longer than most people assume, and the reason is that life expectancy figures are frequently misread. A published average at birth includes everyone who died young; the relevant figure is conditional life expectancy at your current age, which is considerably higher.",
+          "For someone reaching their mid-sixties in good health, a substantial probability of living into their nineties is realistic, and for a couple the relevant question is how long at least one of them survives, which is longer still. That is a thirty-year horizon at minimum and potentially more.",
+          "Thirty years is not a short-term problem. It is the same length as an entire accumulation phase, and treating the money as though it needed only to be preserved for a few years produces an allocation calibrated to the wrong question entirely.",
+        ],
+      },
+      {
+        h: "The risk of being too safe",
+        p: [
+          "A portfolio moved entirely into cash and short-dated instruments at retirement has eliminated market risk and accepted a different one: that rising prices erode the purchasing power of the withdrawals over a horizon long enough for the erosion to be substantial.",
+          "The arithmetic is unforgiving. At even moderate rates of price increases, purchasing power halves over a couple of decades, which means a retiree relying entirely on safe assets faces a standard of living in their late eighties materially below the one they planned. That is a real risk, it is close to certain rather than probabilistic, and it produces no alarming statements along the way.",
+          "This is the strongest argument for retaining meaningful growth exposure well into retirement. The objective is not to maximise returns but to maintain purchasing power across a horizon where the alternative is a guaranteed slow decline.",
+        ],
+      },
+      {
+        h: "Two horizons in one portfolio",
+        p: [
+          "The resolution is to stop thinking of a retirement portfolio as a single pot with one horizon. The money needed in the next few years has a short horizon and belongs in cash and short-dated instruments. The money that will not be touched for twenty years has a long horizon and can be invested accordingly.",
+          "Structured that way, the apparent conflict disappears. The near-term reserve provides the stability that prevents forced selling, addressing the sequence problem described elsewhere on this site. The long-term portion provides the growth that keeps the later decades funded.",
+          "This is sometimes formalised as a bucket approach, with a cash tier, an intermediate tier and a growth tier, replenished from each other during favourable periods. The specific implementation matters less than the underlying recognition that different parts of the money are answering different questions.",
+        ],
+      },
+      {
+        h: "The withdrawal is not the whole balance",
+        p: [
+          "A useful reframing for anyone anxious about holding equities in retirement: in any given year you are only withdrawing a small percentage of the total. The overwhelming majority of the portfolio is not being touched this year, or next, and its horizon is measured in decades.",
+          "Seen that way, a decline affects a balance you were not going to spend for fifteen years, which is precisely the situation in which equity exposure is appropriate. The portion actually needed soon is the cash reserve, which was never exposed.",
+          "This does not make declines pleasant, and it does clarify what is actually at risk. The anxiety typically attaches to the headline balance figure, which is the least relevant number, while the figure that determines whether this year works — the cash reserve — is unaffected by anything markets did.",
+        ],
+      },
+      {
+        h: "What a long horizon buys later",
+        p: [
+          "There is a category of expense concentrated at the end of a long retirement that most plans handle poorly: care costs, which can be substantial and arrive at the point when the portfolio has been drawn on for decades.",
+          "A portfolio that maintained growth exposure through retirement is in a materially better position to meet these than one that preserved a nominal balance while losing purchasing power. This is the practical payoff of the argument above, and it arrives at the moment of maximum need.",
+          "It is also the reason that the very end of a long retirement is not the time to be at the most conservative allocation, which is the opposite of the usual assumption. Where an estate is intended to pass to someone else, the relevant horizon extends beyond your own lifetime entirely, and the allocation should reflect whose money it is going to become.",
+        ],
+      },
+      {
+        h: "How much growth, and how to decide",
+        p: [
+          "None of this argues for an aggressive portfolio in retirement. It argues against the assumption that safety is a single direction, and for an allocation determined by the same three inputs discussed throughout this site: capacity, tolerance and need.",
+          "Capacity is higher than it appears once the cash reserve is separated out, since the invested portion genuinely has a long horizon. Tolerance frequently falls in retirement, which is a legitimate constraint and should be respected rather than argued with. Need depends on how much of your spending is covered by guaranteed income sources and how much the portfolio must generate.",
+          "Someone whose essential costs are fully covered by state and defined benefit income has a very different situation from someone whose portfolio must fund everything, and the appropriate allocation differs accordingly. The general point stands for both: the money does not stop needing to grow on the day the salary stops, and a plan that assumes otherwise is solving a much shorter problem than the one that exists. None of this is financial advice.",
+        ],
+      },
+      {
+        h: "The all-at-once transition to safety",
+        p: [
+          "A specific and common error is treating the retirement date as a switch: an accumulation portfolio one week and a conservative one the next. This concentrates a large reallocation into a single moment chosen for reasons entirely unrelated to markets.",
+          "If that moment happens to follow a decline, the reallocation locks in the loss permanently. If it follows a strong run, it may be reasonable. Nobody knows which in advance, which means the arrangement is a substantial bet on a date selected by an employment calendar.",
+          "The alternative is a gradual shift over several years approaching the date, which is what target-date funds implement automatically and what anyone managing their own portfolio can replicate with a schedule. It removes the single-moment risk entirely and costs nothing beyond deciding it in advance.",
+        ],
+      },
+      {
+        h: "Reviewing a drawdown portfolio",
+        p: [
+          "A portfolio being drawn on needs a different review cadence from one being built. Annual is still right for the strategy, and the cash reserve needs checking more often, since its depletion determines when the next replenishment should happen.",
+          "The annual questions are short: is the reserve at its intended level, has the withdrawal rate drifted relative to the current balance, has spending changed materially, and has anything altered in the other income sources. Half an hour, once a year, on a fixed date.",
+          "What should not be part of it is reconsidering the allocation on the basis of the last twelve months, which is the review most people actually perform. The allocation should change when the horizon or the circumstances change, and a decade of retirement is long enough that both will — which is precisely why the review needs to be scheduled rather than prompted by the market.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'the-4-percent-rule-explained',
+    sections: [
+      {
+        h: "What to multiply, which matters more than the multiplier",
+        p: [
+          "Most of the error in applying this rule comes from the input rather than the rate. The figure being multiplied should be what your own assets must generate, which is total required spending minus every other reliable income source.",
+          "Those sources are usually substantial and frequently omitted. State provision, any defined benefit entitlement, rental income, part-time earnings, and in some households a partner's separate provision. Subtracting them before multiplying can reduce the portfolio target dramatically, and for lower earners state provision alone can cover a large share of essential costs.",
+          "The other adjustment is to the spending figure itself. Costs at retirement are not current costs: commuting, work expenses and the contributions being made to the plan all disappear, while healthcare and support costs tend to rise later. Building the figure from components rather than estimating a total is an evening of work and it changes the answer more than any refinement to the withdrawal rate.",
+        ],
+      },
+      {
+        h: "The other direction of failure",
+        p: [
+          "The rule is designed to answer the question of whether money will run out, and the historical testing found that in most sequences it did not merely survive — it finished with a balance considerably larger than it started with.",
+          "That is worth stating because it identifies a second kind of failure that receives almost no attention. Someone who applied a deliberately conservative rate, lived well below what their assets supported for thirty years, and died with a very large balance did not have a successful retirement; they had an unnecessarily constrained one.",
+          "The response is not to withdraw recklessly but to build in a mechanism for adjusting upward when the portfolio is clearly ahead, in the same way flexible approaches adjust downward when it is behind. A rule that only ever moves in one direction guarantees one of the two failures, and the underspending one is the more common outcome.",
+        ],
+      },
     ],
   },
 ];
