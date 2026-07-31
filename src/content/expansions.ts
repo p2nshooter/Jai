@@ -5243,6 +5243,117 @@ export const EXPANSIONS: Expansion[] = [
           "The response is not to withdraw recklessly but to build in a mechanism for adjusting upward when the portfolio is clearly ahead, in the same way flexible approaches adjust downward when it is behind. A rule that only ever moves in one direction guarantees one of the two failures, and the underspending one is the more common outcome.",
         ],
       },
+      {
+        h: "Why a single figure travels so well",
+        p: [
+          "It is worth noticing why this rule, of all the retirement research produced over several decades, is the one everybody knows. It is not the most sophisticated, the most current, or the most applicable outside the market it was derived from.",
+          "It spread because it is a single number, applied by multiplication, producing an answer to a question people find frightening and otherwise unanswerable. That combination is what makes an idea travel, and it is the same set of properties that made the budgeting rule discussed elsewhere on this site so widely repeated.",
+          "The hazard is identical too: a heuristic optimised for memorability gets treated as though it were optimised for accuracy. Holding both facts at once — that it is a genuinely useful starting point and that its precision is illusory — is the right way to carry it, and it is more or less the only defensible way. None of this is financial advice.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'compounding-after-you-stop',
+    sections: [
+      {
+        h: "The couple's horizon is longer than either individual's",
+        p: [
+          "For a two-person household, the relevant planning horizon is not either partner's life expectancy but the point at which the second one dies, which is meaningfully longer than the first. A plan built on a single life expectancy will be too short for a couple.",
+          "This has a second consequence that is easier to overlook: the surviving partner's income frequently falls when the first dies, since some pension entitlements reduce or cease, while household costs do not fall proportionally. Housing, utilities and most fixed costs are barely affected by one fewer person.",
+          "Checking the survivor provisions on every income source is a specific and finite piece of work, and it is worth doing well before it is needed. The combination of a longer horizon and a lower income at the far end of it is exactly the situation that a growth allocation maintained through retirement is best placed to address.",
+        ],
+      },
+      {
+        h: "The shape of spending across a retirement",
+        p: [
+          "Retirement spending is not flat, and assuming it is produces a plan calibrated to a pattern that rarely occurs. The commonly observed shape is higher in the early active years, when travel and activity are at their peak; lower through a middle period as activity reduces; and potentially much higher at the end if care is required.",
+          "This shape has a useful implication. Higher withdrawals in the early years may be entirely sustainable if the middle period genuinely costs less, which means a rigid inflation-adjusted withdrawal understates what is affordable early and may overstate what is needed later.",
+          "It also identifies where the growth allocation earns its keep. The potential late-life costs are the largest single uncertainty in most plans, and they sit thirty years out — a horizon over which a portfolio that maintained growth exposure is in a substantially better position than one that did not. That is the practical case for everything argued in this article, stated as a specific rather than a principle. None of this is financial advice.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'the-4-percent-rule-explained',
+    sections: [
+      {
+        h: "What to do when the calculation looks impossible",
+        p: [
+          "A great many people run this for the first time, arrive at a figure that seems unreachable, and stop engaging with the question entirely. That is the worst available response, because every lever that would improve the position works better with more time.",
+          "The first move is to check the inputs, since the initial calculation almost always overstates the requirement by using current spending unadjusted and ignoring state and workplace provision. Correcting both frequently reduces the target substantially, and occasionally enough to change the assessment completely.",
+          "The second is to recognise that the target is not binary. Assets covering half your requirement means working part-time rather than full-time, or stopping later rather than never, or having a floor under a difficult period. The framing in which anything short of the number is failure is inaccurate, and it is the single most common reason people abandon the exercise entirely.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'why-start-retirement-savings-young',
+    sections: [
+      {
+        h: "What the delay actually costs",
+        p: [
+          "The cost of waiting is usually stated as a general principle and it is more persuasive as arithmetic. A contribution made at twenty-five and left alone has roughly forty years to compound; the same contribution made at thirty-five has thirty. At plausible long-run returns, that decade of difference roughly doubles the eventual value of that single payment.",
+          "Applied to a decade of contributions rather than one, the effect is that money contributed in your twenties can end up worth more in total than money contributed across your thirties and forties combined. This is the finding that surprises everyone and it follows directly from the shape of the curve.",
+          "The corollary is that the years available are the scarcest input in the entire exercise, and they are the only one that cannot be recovered later at any price. Someone starting a decade late can contribute more, but they cannot buy back the compounding period, which is why the delay is expensive in a way that no subsequent effort fully offsets.",
+        ],
+      },
+      {
+        h: "Why it is hardest at exactly the wrong moment",
+        p: [
+          "The cruel structure of this is that the years with the most compounding value are the years with the least money. Early careers carry lower salaries, higher proportional housing costs, frequently student debt, and none of the stability that makes long-term commitments feel reasonable.",
+          "The instinct in that position is to defer until things settle, which is entirely understandable and expensive. The settled period, when it arrives, arrives with a decade of compounding already forgone and usually with more obligations rather than fewer.",
+          "The resolution is not to contribute more than is possible; it is to contribute something, at whatever scale works, on the reasoning that the habit and the years are what matter at this stage rather than the amount. A small contribution started now genuinely outperforms a large one started in five years, which is a claim about ordering rather than about capacity.",
+        ],
+      },
+      {
+        h: "The employer match, which is not optional money",
+        p: [
+          "For anyone in a scheme where an employer matches contributions, the single highest-return action available is to contribute at least enough to capture the full match. It is an immediate guaranteed return on the contributed amount, before any investment growth, of a size no investment reliably offers.",
+          "Contributing below the match threshold is turning down part of your compensation. This is worth stating plainly because a substantial number of young workers do exactly that, usually through inertia rather than any decision, and frequently for years.",
+          "The detail worth checking is how the match is structured, since arrangements vary. Some match up to a fixed percentage of salary; some match a proportion of what you contribute; some require a minimum before anything applies. Finding out which takes one email and it determines whether the arrangement is working at all.",
+        ],
+      },
+      {
+        h: "Doing it before you notice the money",
+        p: [
+          "The mechanism that makes this survivable is the one described throughout this site: the contribution leaves before the money registers as available. Someone who has been contributing since their first job never experienced the higher take-home figure and therefore never has to give anything up.",
+          "This is the strongest practical argument for starting immediately on beginning work rather than at any later point. Every month of delay establishes a spending level that a subsequent contribution has to be carved out of, and carving out of an established baseline is considerably harder than never having had it.",
+          "The same logic applies to increases. Raising the contribution on the day a pay rise first arrives captures it before it has become the reference point. A week later the money has been absorbed and the identical increase reads as a cut, which is entirely a matter of timing rather than of amount.",
+        ],
+      },
+      {
+        h: "What to do with the money at this stage",
+        p: [
+          "A long horizon is the strongest possible argument for growth exposure, and early-career contributions have the longest horizon anyone will ever have. Money that will not be touched for four decades has time to recover from any historical decline, which is the specific condition under which equity risk is best rewarded.",
+          "The practical implication is that a default fund chosen for its caution may be inappropriate for someone in their twenties. Many workplace schemes place new members in a moderate default, and moving to a more growth-oriented option is frequently a single form.",
+          "The other consideration is cost, which compounds against you across the same forty years. A percentage point of annual charge applied over that period consumes a very substantial share of the eventual outcome, and checking the charge on a default fund is one of the highest-value ten-minute tasks available at this stage.",
+        ],
+      },
+      {
+        h: "The reassuring half of the argument",
+        p: [
+          "This subject is frequently presented in a way that leaves anyone past thirty feeling the opportunity has gone, which is both untrue and counterproductive. The curve is the same curve at every age; only its length differs.",
+          "Someone beginning at forty still has a compounding period measured in decades, particularly once the years after stopping work are included, during which the balance continues to grow. Someone beginning at fifty has less time and correspondingly more capacity, since earnings typically peak in that period and obligations frequently reduce.",
+          "The honest statement is directional rather than absolute: earlier is better, delay is expensive, and the cost of delay exceeds intuition. It is not that a particular age is a cliff edge beyond which the exercise becomes pointless. Every year you begin is better than the year after it, and that remains true at any age. None of this is financial advice, and every situation is different.",
+        ],
+      },
+      {
+        h: "Locking money away for forty years",
+        p: [
+          "A legitimate objection from anyone in their twenties is that retirement accounts typically cannot be accessed for decades, and committing money to something untouchable at an age when circumstances are unsettled feels imprudent.",
+          "The answer is one of ordering rather than of dismissal. The accessible buffer described elsewhere on this site comes first, precisely so that a locked long-term account never has to be the thing you wish you could reach. Any expensive debt comes before it too, for the reasons set out in the debt articles here.",
+          "With those in place, the inaccessibility becomes a feature rather than a cost. Money that cannot be reached is money that does not get spent during a difficult month, and the evidence on voluntary long-term saving suggests that the lock is doing a substantial amount of the work. The same amount in an accessible account would, for most people, not still be there in thirty years.",
+        ],
+      },
+      {
+        h: "Everything competing for the same money",
+        p: [
+          "This is rarely a choice between contributing and doing nothing. It competes with clearing student debt, building a housing deposit, funding a period of study, or simply covering costs in an expensive city on an early-career salary. Advice that ignores this is not useful to the people it addresses.",
+          "The ordering that generally holds: capture any employer match in full first, since it is a guaranteed return unavailable elsewhere. Build a small accessible buffer. Clear anything at a high rate. Then split what remains between the longer-term goals according to which matters more to you.",
+          "What is worth resisting is the conclusion that because the full contribution is impossible, none should be made. Contributing at a low rate keeps the account open, captures whatever match applies, and preserves the habit through the years when the amounts are necessarily small. The rate can rise later; the years cannot be added back.",
+        ],
+      },
     ],
   },
 ];
