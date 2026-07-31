@@ -2294,6 +2294,305 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'skills-that-raise-earning-power',
+    sections: [
+      {
+        h: "When the employer should be paying for it",
+        p: [
+          "A significant amount of development that people fund themselves is available through their employer and goes unclaimed because nobody asked. Training budgets exist in most organisations of any size, are frequently underspent, and are allocated to whoever requests them rather than to whoever most needs them.",
+          "The request that works is specific and connected to the work: a named course or qualification, a stated cost, and a short account of what the organisation gets from it. A vague desire to develop is easy to defer. A concrete proposal attached to a business reason is much harder to refuse and much easier for a manager to approve.",
+          "Where a budget genuinely does not exist, time is frequently available even when money is not. Permission to spend some working hours on a relevant project, to shadow another team, or to take on work outside your usual remit costs the employer nothing obvious and is often granted. Both routes are worth exhausting before spending your own money.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'irregular-income-money-system',
+    sections: [
+      {
+        h: "Setting the salary figure honestly",
+        p: [
+          "The whole system depends on choosing the amount that transfers across each month, and choosing it badly is what makes most attempts fail. The temptation is to base it on an average of recent income, which produces a figure the reservoir cannot sustain through a genuinely poor stretch.",
+          "A better method is to take the worst twelve-month period in your recent history, divide by twelve, and start there. This will feel unreasonably low during good months and it is the figure that survives bad ones. Anyone who has been through a lean year knows that the cost of setting it too high is far greater than the cost of setting it too low.",
+          "The refinement is to review the figure annually rather than continuously, raising it only when the reservoir has been consistently above its target for a full year. Adjusting the salary upward in response to a single strong quarter is how the mechanism gets undermined, because the strong quarter is exactly what the reservoir exists to hold rather than to distribute.",
+        ],
+      },
+      {
+        h: "How deep the reservoir needs to be",
+        p: [
+          "For someone on a salary, the emergency fund guidance is about months of expenses. For irregular income the equivalent figure has to cover something different: not only the possibility of income stopping, but the ordinary variation in when it arrives. Those are separate needs and the reservoir handles both.",
+          "A working target is the full annual salary figure you have set, held in the reservoir, which sounds enormous and is roughly what independence from timing requires. Below that, the system still works and it depends on income arriving reasonably often. At that level, an entire year of nothing would still produce a normal monthly payment.",
+          "Reaching it takes years for most people and the partial version is genuinely useful. Even a few months of depth converts the anxiety of an unpaid invoice from an emergency into an administrative annoyance, which is the main psychological benefit and it arrives long before the full target.",
+        ],
+      },
+      {
+        h: "Tax, which is not your money",
+        p: [
+          "The single most damaging error available to anyone on irregular self-employed income is treating gross receipts as income. Tax is typically paid long after the money arrives, in a lump, and the interval is long enough for the money to have been comfortably spent.",
+          "The mechanism that solves this is a separate account that receives a fixed percentage of every payment on the day it arrives, before anything else happens, and is never used for any other purpose. The percentage should be set above your expected effective rate rather than at it, since an over-provision is a pleasant surprise and an under-provision is a serious problem.",
+          "Where a system requires payments on account or estimated instalments, these need to be in the calendar as fixed dates rather than remembered. The combination of a variable income and a large scheduled payment is one of the more common routes into borrowing for people who are otherwise doing well, and it is entirely preventable with a percentage and a separate account.",
+        ],
+      },
+      {
+        h: "The other things the reservoir has to fund",
+        p: [
+          "Anyone self-employed is meeting costs from their own income that an employer would otherwise absorb, and the list is longer than it first appears: pension contributions, any income protection or health cover, equipment, professional insurance, subscriptions and licences required to work, and periods of unpaid leave including holiday and illness.",
+          "The last of these is the one most often omitted. A salaried worker takes paid leave; a self-employed one takes leave that costs both the expense of the holiday and the income not earned during it. Treating a few weeks a year as a foreseeable cost rather than as a period of failure is a meaningful adjustment to how the annual figure is calculated.",
+          "Sick pay is the same problem with worse timing, since it arrives without notice. This is the strongest argument for income protection cover for anyone whose household depends on their ability to work, and it is a category of insurance that self-employed people buy considerably less often than their exposure would justify.",
+        ],
+      },
+      {
+        h: "Judging a good year correctly",
+        p: [
+          "The cognitive difficulty of irregular income is that the good months feel like evidence of a new normal, and the lean months feel like evidence of a crisis. Neither is usually true, and both interpretations produce bad decisions at exactly the wrong time.",
+          "The corrective is to stop looking at monthly figures entirely and to judge only rolling annual totals. A twelve-month rolling sum, updated each month, smooths out the variation and shows the trend that actually matters. It is a single figure, it takes a minute to update, and it removes most of the emotional volatility from a variable income.",
+          "This also produces better commercial decisions. Someone judging by the current month will accept poor work during a lean stretch and turn down opportunities during a busy one, when the rolling figure would show that neither stretch was as significant as it felt. Decisions made with lean-month eyes are prudent; decisions made in lean-month panic are frequently not.",
+        ],
+      },
+      {
+        h: "The client concentration problem",
+        p: [
+          "There is a risk specific to self-employment that has no equivalent on a salary, and it is worth measuring: the proportion of income coming from a single source. A freelancer earning most of their income from one client has, functionally, a job with none of the protections of employment.",
+          "The threshold worth watching is somewhere around a third. Above that, the loss of one relationship produces a shock the reservoir may not absorb, and the negotiating position with that client deteriorates because both parties know what the alternative is. Below it, the same loss is a bad quarter.",
+          "Reducing concentration takes time and is best done while the concentrated relationship is healthy rather than after it ends. The uncomfortable implication is that some capacity should be reserved for developing other clients even when the main one could absorb all of it, which costs money in the short run and is the only thing that prevents a much larger cost later. None of this is financial advice, and the right structure depends on the nature of the work.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'negotiating-beyond-salary',
+    sections: [
+      {
+        h: "Why non-salary items are easier to move",
+        p: [
+          "It is worth understanding why an employer who will not move on salary will frequently move on other things, because it is structural rather than arbitrary. Salaries sit inside bands, set precedents for colleagues in the same role, and carry ongoing cost that compounds through pension contributions and future increases calculated from the base.",
+          "Most other items have none of those properties. Additional leave costs nothing directly. A one-off training budget comes from a different pot. A title change may cost nothing at all. Flexible working arrangements can save the employer money. The person on the other side of the conversation is frequently constrained on one dimension and genuinely free on others.",
+          "This changes how to approach the conversation. Rather than pressing harder on a number that cannot move, the productive question is which constraint the person is operating under, and what is available outside it. Asking directly — what has flexibility here — is a reasonable thing to say and frequently produces a useful answer.",
+        ],
+      },
+      {
+        h: "Building the inventory before the conversation",
+        p: [
+          "Going into a negotiation with only a salary figure means having one thing to be refused. Going in with a ranked list means a refusal on one item moves the conversation to the next rather than ending it, which is a materially different dynamic.",
+          "The inventory worth preparing covers time, money and terms. Time includes annual leave, unpaid leave entitlements, sabbatical arrangements, flexible hours and remote days. Money includes pension contribution rate, bonus structure and eligibility, training and conference budgets, professional membership fees, equipment allowances, and any relocation or travel support. Terms includes title, notice period, reporting line, scope of role, and the date of the next review.",
+          "Ranking these by what actually matters to you is the part people skip, and it is the part that makes the conversation work. A negotiation where you obtain three things you do not particularly want is worse than one where you obtain the single thing you do.",
+        ],
+      },
+      {
+        h: "Valuing each item in money",
+        p: [
+          "To negotiate these coherently you need a rough monetary value for each, otherwise it is impossible to know whether an offer is good. The calculations are straightforward and almost nobody does them.",
+          "Additional leave is your daily rate multiplied by the days. An increase in employer pension contribution is that percentage of salary, and it compounds for decades, which makes it worth considerably more than the annual figure suggests. Remote days are the commuting cost and time saved. A training budget is what you would otherwise pay for the same thing.",
+          "Once these are in currency, the trades become visible. A modest increase in pension contribution can exceed the value of a salary increase the employer refused, particularly over a long career. A few extra days of leave can be worth more than a bonus that is discretionary and may not pay. Making these comparisons requires the arithmetic, and having done it beforehand means you can evaluate an offer in the room rather than afterwards.",
+        ],
+      },
+      {
+        h: "Asking without damaging the relationship",
+        p: [
+          "The fear that negotiating will be held against you is common and it is largely unfounded when the approach is collaborative rather than adversarial. Employers expect negotiation, the people conducting these conversations do it regularly, and a reasonable request professionally made is not remembered as an affront.",
+          "What does cause damage is a small set of specific behaviours: an ultimatum you are not prepared to follow through on, a competing offer invented for leverage, aggression, or reopening a settled point repeatedly. Each of these damages trust in a way that a straightforward request does not.",
+          "The framing that works is one of joint problem-solving: here is what would make this work well for me, what is possible from your side. It invites the other person to be helpful rather than to defend a position, and it keeps the relationship intact regardless of the outcome, which matters because you will be working with them afterwards either way.",
+        ],
+      },
+      {
+        h: "Getting it written down",
+        p: [
+          "An agreement reached verbally with a manager who then leaves the organisation is worth very little, and this happens often enough to be worth guarding against systematically. Anything agreed should be documented, and the documentation should be more than a note in your own records.",
+          "The lowest-friction version is a short email after the conversation summarising what was agreed, sent to the person you agreed it with, in a tone of confirming rather than of demanding. This creates a record, gives them the opportunity to correct any misunderstanding, and costs nothing.",
+          "For anything material — a changed working pattern, an altered notice period, a guaranteed review date — a formal amendment to the contract is worth requesting. The request is entirely reasonable and the reaction to it is informative: an employer unwilling to write down what they have agreed is telling you something about how firm the agreement is.",
+        ],
+      },
+      {
+        h: "The items that are worth more than they look",
+        p: [
+          "A few things on the inventory are consistently undervalued by the people negotiating for them, and they are worth flagging specifically. The employer pension contribution rate is the clearest: an increase compounds across an entire career and is frequently easier to obtain than salary, yet it is rarely on anyone's list.",
+          "A guaranteed review date with defined criteria is another. It converts a vague promise of future consideration into a scheduled conversation with an agreed standard, which is enormously more likely to produce something than an open-ended assurance that things will be looked at.",
+          "Scope of role deserves mention as the least financial and possibly most valuable item. Responsibility for something visible, ownership of a project, or exposure to a part of the business you have not seen builds the evidence that raises your market rate at the next move. It costs the employer nothing and it is the item most directly connected to what you earn five years from now. None of this is financial advice; it is a description of what is usually available and rarely asked for.",
+        ],
+      },
+      {
+        h: "Negotiating at the offer stage against negotiating in post",
+        p: [
+          "The moment of maximum leverage in any employment relationship is between an offer being made and being accepted, and it is brief. At that point the organisation has decided it wants you, has invested in a process, and faces a real cost if you decline. After acceptance, all of that leverage disappears and does not return until the next external offer.",
+          "This has a practical consequence that catches a lot of people. Items deferred at offer stage — we can look at that after your probation, we will review the title in six months — are considerably harder to obtain later, because the counterparty no longer has any pressure. Anything that genuinely matters should be settled before signing.",
+          "The corollary is that it is worth taking a day rather than accepting immediately, however enthusiastic you are. Nobody withdraws an offer because a candidate asked for twenty-four hours to consider it, and that day is when the inventory gets reviewed and the requests get formulated. Accepting in the moment feels gracious and it costs whatever you would have obtained by asking.",
+        ],
+      },
+      {
+        h: "Knowing what you will do if the answer is no",
+        p: [
+          "Every negotiation is conducted against an alternative, whether or not it has been articulated, and the strength of your position is largely determined by how good that alternative is. Someone with a credible option elsewhere negotiates differently from someone without one, and the difference is visible regardless of what is said.",
+          "This does not require bluffing, which is both risky and unnecessary. It requires knowing, honestly and privately, what you would do if nothing moves: stay and be content, stay and start looking, or leave. Having answered that question in advance means the conversation cannot go anywhere you have not already considered.",
+          "It also determines how hard to press. Someone who has decided they will stay regardless should ask clearly and accept the answer gracefully. Someone genuinely prepared to leave can be more direct without needing to threaten anything, because the position is real. The mismatch to avoid is pressing hard from a position you have no intention of acting on, which is transparent more often than people think.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'irregular-income-money-system',
+    sections: [
+      {
+        h: "Getting paid, which is half the problem",
+        p: [
+          "For self-employed people, the gap between work completed and money received is where a great deal of financial stress originates, and much of it is manageable through process rather than through better clients. Invoicing on the day work completes rather than at month end shortens every subsequent step.",
+          "Payment terms are negotiable and are frequently accepted as given. Shorter terms, deposits before starting, staged payments on longer engagements, and late payment interest written into the agreement are all standard commercial practice, and clients who would object to them are usually the ones who would pay late anyway.",
+          "The chasing process is worth systematising rather than agonising over each time. A calendar reminder on the due date, a polite standard message, an escalation at a defined interval. Making it routine removes the emotional weight, which is what causes most people to delay chasing until the position is much worse.",
+        ],
+      },
+      {
+        h: "Long-term saving on a variable income",
+        p: [
+          "Retirement provision is the thing most often postponed by people with irregular income, for the understandable reason that a fixed monthly contribution is difficult when the income is not fixed. The postponement frequently lasts years and is expensive in the way described elsewhere on this site.",
+          "The adaptation that works follows the same logic as the salary mechanism: contribute a percentage of each payment as it arrives rather than a fixed amount monthly. In strong periods more goes in, in weak ones less, and the habit persists through both. Most pension arrangements accept variable contributions without difficulty.",
+          "The alternative that also works is to treat the contribution as one of the fixed costs paid from the smoothed salary, at a level the salary can always support, with additional lump contributions in strong years. Either approach beats the common outcome, which is intending to sort it out once income becomes predictable and discovering that it never does.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'money-conversations-couples',
+    sections: [
+      {
+        h: "What the arguments are usually actually about",
+        p: [
+          "Couples rarely disagree about money in the way the surface content of the argument suggests. Underneath a dispute about a specific purchase there is almost always a disagreement about something else: security, fairness, autonomy, control, or whose judgement is being trusted.",
+          "This is why arguments about spending are so resistant to resolution through better information. Presenting a spreadsheet demonstrating that the purchase was affordable addresses the stated objection and not the actual one, which is why the same argument recurs about a different purchase a month later.",
+          "The productive move is to ask what the concern actually is when the specific one has been resolved. If the purchase was affordable and the discomfort remains, the discomfort is about something else, and naming it — I feel like large decisions get made without me, or I do not feel we have enough of a buffer — makes it addressable in a way that arguing about the item never will be.",
+        ],
+      },
+      {
+        h: "The histories that shaped both of you",
+        p: [
+          "People arrive in a relationship with money attitudes formed decades earlier, usually in childhood, usually without ever having examined them. Someone who grew up with financial insecurity frequently carries a permanent orientation toward buffers and caution that persists long after the circumstances changed. Someone who grew up with stability may find that orientation baffling and excessive.",
+          "Neither position is irrational and both feel self-evident from the inside, which is the source of a great deal of conflict. The conversation worth having early, and repeating occasionally, is about what money was like growing up: what was said about it, what was hidden, what caused stress, what was normal.",
+          "This conversation tends to be more productive than any discussion of budgets because it converts the other person's behaviour from inexplicable into comprehensible. Understanding that a partner's caution comes from a specific experience rather than from distrust of you changes how the disagreement feels, even when it does not change the position.",
+        ],
+      },
+      {
+        h: "The three structures and what each protects",
+        p: [
+          "There are broadly three ways to arrange household finances, and each has genuine merits. Fully combined means one pool, all income and all spending together. Fully separate means each person retains their own accounts and contributes to shared costs. The hybrid holds a joint account for shared expenses, funded proportionally, with individual accounts retained for personal spending.",
+          "Combined is simplest, reflects a genuinely shared life, and offers the least individual autonomy. Separate preserves autonomy and independence, and requires ongoing administration of who pays for what. The hybrid is the most common in practice and captures most of both, at the cost of one more account.",
+          "The important point is that no structure is correct in general and the choice should be deliberate rather than inherited. Most couples end up in whatever arrangement they drifted into, and a substantial proportion of ongoing friction traces back to a structure nobody ever chose, which is easily fixed by choosing one.",
+        ],
+      },
+      {
+        h: "Contributing proportionally when incomes differ",
+        p: [
+          "Where incomes are unequal, splitting shared costs evenly means the lower earner contributes a much larger proportion of what they have, which produces a household where one person has meaningful discretionary money and the other does not. Over years this creates a genuine imbalance that is rarely intended.",
+          "Contributing in proportion to income resolves this: each person pays the same percentage of what they earn into shared costs, leaving each with the same proportion for themselves. It is straightforward arithmetic and it produces a substantially fairer outcome than an even split.",
+          "This matters particularly where one partner has reduced their earnings for household reasons — caring for children or relatives most commonly. That reduction is a contribution to the household with a real cost, including to their pension and future earning power, and a financial structure that treats it as simply earning less compounds the effect for decades.",
+        ],
+      },
+      {
+        h: "The no-questions-asked threshold",
+        p: [
+          "One specific mechanism resolves more day-to-day friction than any other: an agreed amount below which either person can spend without discussion, and above which it gets talked about first. The number matters less than the existence of the rule.",
+          "This works because it separates the two things that were tangled together. Below the threshold, autonomy is complete and no accounting is required, which removes the sense of being supervised. Above it, consultation is expected, which removes the sense of decisions being made unilaterally. Both concerns are met and neither person has to police the other.",
+          "The threshold should be set at a level that covers ordinary life comfortably, and it should be reviewed occasionally since it will drift out of date. Where the arrangement includes personal accounts, the equivalent is that whatever is in the personal account is entirely that person's business, which is the same mechanism with a different implementation.",
+        ],
+      },
+      {
+        h: "The meeting, and how to stop it becoming an argument",
+        p: [
+          "A recurring scheduled conversation about money works considerably better than raising things as they arise, for the simple reason that a scheduled conversation happens at a moment neither person is upset. Raising a financial concern when you are annoyed about a specific purchase guarantees a defensive response.",
+          "Monthly is about right, thirty minutes is enough, and the agenda should be fixed: what came in, what went out, progress against whatever goals exist, anything coming up, and anything either person wants to raise. Fixed agendas prevent the meeting becoming an ambush, which is what causes people to start cancelling it.",
+          "Two conventions make a substantial difference. No blame for anything in the past month, since the meeting is for deciding what happens next rather than for adjudicating what already happened. And both people see everything, including anything either would rather not mention. Financial secrecy within a relationship is corrosive out of proportion to the amounts involved, and a regular meeting where everything is visible is the most reliable prevention. None of this is financial advice; it is a description of what tends to reduce conflict.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'spending-traps-your-brain-sets',
+    sections: [
+      {
+        h: "Why knowing about a bias does not disarm it",
+        p: [
+          "The uncomfortable finding across this literature is that awareness provides much less protection than people assume. Participants who have just been taught about anchoring still anchor. The effects operate below the level at which explanation reaches, which is why an article listing biases is insufficient on its own.",
+          "This is not a reason to skip the explanations, since recognising a mechanism afterwards is useful and occasionally interrupts it in the moment. It is a reason to be sceptical of any approach that consists entirely of being more aware, which is the form most advice in this area takes.",
+          "What does work is structural: changing the environment in which the decision is made rather than trying to make a better decision inside it. Removing stored card details, imposing a delay, shopping from a list, setting the spending account balance to the amount available. Each of these operates on the situation rather than on the reasoning, which is the level at which these effects actually run.",
+        ],
+      },
+      {
+        h: "The reference price problem",
+        p: [
+          "Almost nobody knows what things are worth in any absolute sense, which means every price is evaluated against whatever comparison is available. Retailers understand this thoroughly, and the was-price, the recommended price, the premium option placed adjacent, and the higher-priced first item shown all exist to supply that comparison.",
+          "The effect is strong enough that the same item feels differently priced depending purely on what it is placed next to, with no other information changing. This is not a failing of judgement; it is how evaluation works in the absence of an independent reference.",
+          "The countermeasure is to establish the reference yourself before entering the environment where the comparison will be supplied. Deciding in advance what you are willing to pay, or checking the price elsewhere first, means arriving with an anchor rather than accepting one. It takes a minute and it is the single most effective intervention available for large purchases.",
+        ],
+      },
+      {
+        h: "Payment methods and the pain of paying",
+        p: [
+          "The friction involved in parting with money measurably affects how much of it people part with. Research comparing payment methods has repeatedly found that the same purchase feels smaller when the payment is less tangible, and the ordering runs consistently from cash through cards to stored details and one-click arrangements.",
+          "Every step in that progression has been engineered deliberately, and the direction of the engineering is unambiguous. Contactless limits, saved payment details, instalment options at checkout and single-click purchasing all reduce the moment at which the cost registers, and each reliably increases both the frequency and size of purchases.",
+          "The practical response is to deliberately reintroduce friction where it helps. Removing saved cards from frequently used sites, keeping the everyday spending balance in an account you have to check, and using cash for whichever category you overspend on are all crude and effective. The goal is not to make spending painful in general but to restore the signal in the specific places it has been engineered away.",
+        ],
+      },
+      {
+        h: "Instalments and the reframing of cost",
+        p: [
+          "Presenting a price as a series of small payments rather than as a total is among the most effective reframings available, and its use has expanded substantially. The mechanism is straightforward: the small figure is the one evaluated, and the total is technically disclosed while not being the number anybody processes.",
+          "This applies to interest-free arrangements as well as interest-bearing ones, which is worth saying because the absence of interest is frequently treated as making the arrangement costless. It is not costly in interest and it is costly in the sense that it reliably increases what people buy, which is why it is offered.",
+          "The countermeasure is mechanical: convert any instalment price back to a total before deciding, and evaluate the total. If the item is worth the total, the instalment arrangement may be a convenient way to pay for it. If it is not, the instalments have not made it worth having, they have made it feel affordable, which is a different thing.",
+        ],
+      },
+      {
+        h: "Scarcity, urgency and the manufactured deadline",
+        p: [
+          "Limited availability and countdown timers exploit the same mechanism described in the article on fraud elsewhere on this site: urgency suppresses deliberation. The retail version is legal and ubiquitous, and the deadlines are frequently manufactured — timers that reset, stock counts that are not accurate, sales that recur on a schedule.",
+          "The response that works is the same one that works against fraud, at a lower intensity. Any purchase presented with a deadline gets deferred past the deadline. If the item is still wanted afterwards, and still available, it can be bought then. A substantial proportion of the time it is not still wanted, which is the information the delay was purchased to obtain.",
+          "For anything above a threshold you set yourself, a fixed waiting period is worth adopting as a standing rule rather than a case-by-case judgement. The rule handles the cases where your judgement is compromised, which are precisely the cases where a case-by-case judgement would fail.",
+        ],
+      },
+      {
+        h: "The bundling and the free item",
+        p: [
+          "Bundles work by making individual comparison difficult. When several items are priced together, evaluating whether the total represents value requires knowing the separate prices, and the arrangement is frequently designed so that finding them is inconvenient. The bundle can be genuinely cheaper and it can also be a way of selling something nobody wanted alongside something they did.",
+          "The word free deserves particular attention, since it produces a response out of proportion to its economic content. Research on this has found that people will choose an option with a free component over a strictly better option without one, and the effect survives explanation.",
+          "The practical test is to ask what you would pay for each component separately and whether you would have bought it. A bundle whose components you would all have purchased anyway is a genuine saving. One containing items you would not have bought is a purchase of those items at whatever the bundle premium was, which is usually more than nothing. None of this is financial advice; it is a description of some well-documented mechanisms and what interrupts them.",
+        ],
+      },
+      {
+        h: "The state you are in when you buy",
+        p: [
+          "Beyond the design of the environment, the condition you arrive in matters considerably. Tiredness, hunger, stress and low mood all measurably change purchasing behaviour, generally in the direction of buying more and deliberating less, and the effects are large enough to swamp most conscious intentions.",
+          "The best-known instance is shopping for food while hungry, which reliably increases the amount purchased and shifts what is chosen. The general version is less discussed and more consequential: significant purchases made at the end of a difficult day, or during a period of stress, are systematically different from the same decision made otherwise.",
+          "The rule this suggests is simple and effective. Large purchases get made in the morning, on a day when nothing is wrong, and never in response to feeling bad. This costs nothing, requires no analysis, and removes an entire category of purchase that reliably produces regret.",
+        ],
+      },
+      {
+        h: "Where these mechanisms are used on you deliberately",
+        p: [
+          "It is worth noting that all of this is a professional field. Retailers and platforms employ people whose work is to increase conversion, they test variations continuously against real users, and the arrangements that survive testing are the ones that most effectively produce purchases.",
+          "This is not a reason for outrage; it is simply the correct model of the situation. The layout of a shop, the sequence of a checkout flow, the timing of a notification, the default state of a toggle: none of these is accidental, and each has been selected from alternatives on the basis of measured results.",
+          "The practical implication is that a fair contest is not what is on offer, and defending yourself through effort inside their environment is not a promising strategy. The measures that work are the ones that operate before you enter it: a list, a budget, a delay rule, a payment method with friction. Deciding beforehand is the only move available that they cannot test against.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'money-conversations-couples',
+    sections: [
+      {
+        h: "Debt brought into the relationship",
+        p: [
+          "Existing debt is among the more difficult things to raise and among the more damaging to leave unsaid. Discovering a substantial balance years into a relationship causes harm out of proportion to the amount, because the concealment reads as a statement about trust rather than about money.",
+          "The conversation goes better when it is framed as a shared situation to be planned around rather than as a confession requiring absolution. What is owed, at what rate, on what schedule, and what the plan is. Those four facts make it a problem with a shape, which is considerably easier to face together than an undefined weight.",
+          "Whether the other partner contributes to clearing it is a genuine question with no single right answer, and it depends on the structure chosen and on how the household treats pre-relationship obligations generally. What matters more than the answer is that it was decided rather than assumed, since an unspoken assumption on either side reliably produces resentment later.",
+        ],
+      },
+      {
+        h: "Planning for the ways it can end",
+        p: [
+          "The least comfortable financial conversation between partners concerns what happens if the relationship ends or one person dies, and avoiding it is understandable and expensive. Both events are considerably harder to handle when nothing was arranged in advance, and the person left dealing with it is dealing with it at the worst possible moment.",
+          "The practical minimum is short. Both partners should know what accounts exist and how to access them. Wills should exist, particularly where a couple is unmarried, since in many jurisdictions an unmarried partner inherits nothing by default regardless of how long the relationship lasted. Beneficiary nominations on pensions should be current, since these frequently sit outside a will and are commonly left pointing at someone from a previous chapter of life.",
+          "For substantial assets brought into a relationship, or where children from a previous relationship are involved, this is worth taking properly rather than informally, and the specifics vary enormously by jurisdiction. None of this is legal or financial advice. The general point is that these arrangements take an afternoon while everyone is well and are close to impossible to construct afterwards.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
