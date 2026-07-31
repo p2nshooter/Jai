@@ -3110,6 +3110,207 @@ export const EXPANSIONS: Expansion[] = [
           "The advice that consistently holds up is to do nothing for several months beyond putting the money somewhere safe and accessible. Nothing is lost by waiting, the decisions available do not expire, and the person making them after six months is considerably better placed than the one making them after six days.",
         ],
       },
+      {
+        h: "A middle option that suits most people",
+        p: [
+          "Given that the arguments on each side are genuine, a split approach is more defensible than it usually gets credit for: invest a substantial portion immediately, spread the remainder over several months. This captures most of the expected-return advantage while retaining some protection against a bad start.",
+          "It is sometimes dismissed as an unprincipled compromise, and that criticism assumes expected return is the only relevant criterion. Once the psychological cost of a severe early decline is admitted as a real input, an approach that reduces the worst case at a modest expected cost is a coherent choice rather than a fudge.",
+          "The proportion is a matter of temperament and there is no correct figure. What matters is that it is decided once, written down, and executed regardless of what happens in between — which is the same requirement as every other version of this decision and the part that determines whether any of it works.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'what-bonds-actually-do-in-a-portfolio',
+    sections: [
+      {
+        h: "Reading a bond fund fact sheet",
+        p: [
+          "Almost everything you need to assess a bond holding sits on a single page and takes a few minutes to read. Four figures do most of the work, and knowing what they are removes the sense that this asset class is opaque.",
+          "Effective duration tells you how sensitive the price is to rate changes and is the single most predictive number for how the holding will behave. Average credit quality tells you what kind of borrower you are lending to and therefore how correlated the fund is likely to be with equities. Yield to maturity gives a rough indication of the return available from here if things go as scheduled.",
+          "The fourth is the ongoing charge, which matters proportionally more for bonds than for equities because the expected returns are lower. A charge that is a small fraction of an equity return can be a substantial fraction of a bond return, which is why cost discipline in this part of a portfolio deserves more attention than it usually receives.",
+        ],
+      },
+      {
+        h: "Why this asset class is worth understanding at all",
+        p: [
+          "It would be reasonable to ask why an ordinary investor should engage with any of this, given that many people hold a single mixed fund that handles it internally. The answer is that the bond component is where most mixed portfolios differ from one another, and where most of the unexplained risk sits.",
+          "Two funds described identically in terms of their equity and bond split can behave very differently depending on the duration and credit quality inside the bond half. An investor who understands only the headline percentages has no way of anticipating that, and typically discovers it during the one period when it matters.",
+          "None of this requires expertise. It requires knowing that duration and credit quality exist, checking them once, and understanding roughly what each implies. That is an hour of effort, applied once, to the portion of a portfolio that is supposed to be the reliable part — which is a reasonable place to spend an hour. As with everything on this site, this is educational rather than advice.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'what-is-an-etf',
+    sections: [
+      {
+        h: "The mechanism that keeps the price honest",
+        p: [
+          "The feature that makes the structure work is a process most holders never see. Large institutional participants can create new units of the fund by delivering the underlying holdings to it, or redeem units by taking the holdings back out. This happens continuously and in large blocks.",
+          "The effect is a self-correcting price. If the market price drifts above the value of the underlying holdings, participants can profit by creating new units and selling them, which pushes the price back down. If it drifts below, the reverse. The arbitrage keeps the traded price close to the underlying value without anybody managing it deliberately.",
+          "This mechanism is also why the structure is efficient in ways that a traditional fund is not. Because units are created and redeemed in kind rather than in cash, the fund itself is not forced to sell holdings when investors leave, which avoids costs and, in some jurisdictions, tax consequences that would otherwise be borne by the remaining holders.",
+        ],
+      },
+      {
+        h: "Where the mechanism strains",
+        p: [
+          "The arbitrage works well when the underlying holdings are liquid and easy to price, which is true of large-company equities and less true of other things. In corners of the market where the underlying instruments trade infrequently, the correcting process is slower and the traded price can diverge from the underlying value more than usual.",
+          "This has been visible during periods of stress in bond markets, where the traded price of some funds moved away from the calculated value of their holdings for a period. There is a reasonable argument that the fund price was the more accurate one, since it reflected what could actually be transacted, but either way the divergence surprised holders who had assumed the two always match.",
+          "The practical implication is to be more careful with structures wrapping less liquid assets than with broad equity ones, and to be wary of trading during periods of extreme volatility, when the mechanism is under most strain and spreads are widest.",
+        ],
+      },
+      {
+        h: "The costs of trading that a fund does not have",
+        p: [
+          "Because these instruments trade like shares, buying one incurs the costs of a share transaction: a dealing commission at many platforms, and the spread between the buying and selling price. Neither exists in the same form for a traditional index fund bought directly from the provider.",
+          "For a large one-off purchase these costs are trivial relative to the amount. For a small regular monthly contribution they are not, and a dealing charge applied to each modest purchase can exceed the annual management cost of the holding itself. Several platforms address this with scheduled commission-free dealing days, which is worth checking before assuming the structure is cheaper.",
+          "The spread deserves the same attention. Broad, heavily traded funds have very narrow spreads. Niche ones do not, and the difference is a real cost paid on every transaction that never appears in any published charge figure.",
+        ],
+      },
+      {
+        h: "Choosing between this wrapper and a plain index fund",
+        p: [
+          "For an ordinary long-term investor buying broad index exposure, the two structures deliver very similar outcomes and the choice usually comes down to the platform rather than to the products. Where regular small contributions are the pattern, a traditional index fund with no dealing charge is frequently simpler and cheaper.",
+          "Where the pattern is larger, less frequent purchases, or where the desired exposure is only available in one form, the exchange-traded structure is straightforward. Both are entirely reasonable, and the amount of debate the choice generates is out of proportion to the difference it makes.",
+          "What matters considerably more than the wrapper is what is inside it, what it charges, and what platform holds it. An investor agonising over the structure while holding an expensive fund on an expensive platform is optimising the smallest of the three variables.",
+        ],
+      },
+      {
+        h: "Physical replication against synthetic",
+        p: [
+          "A distinction worth understanding is whether the fund actually owns the underlying holdings or achieves its exposure through a contract with a counterparty. Physical replication is what most people assume and what most broad funds do. Synthetic replication uses a swap agreement to deliver the index return.",
+          "Synthetic structures can track certain indices more cheaply and precisely, particularly in markets that are difficult or expensive to access directly. They also introduce counterparty risk: the return depends on the other side of the contract meeting its obligation. Collateral arrangements mitigate this and do not eliminate it.",
+          "Neither is disqualifying and the choice deserves to be conscious. For core long-term holdings many people prefer physical replication for its simplicity, accepting a marginally higher cost in some markets. The relevant point is that the document states which it is, and a holder who has never looked does not know what they own.",
+        ],
+      },
+      {
+        h: "The proliferation problem",
+        p: [
+          "The structure's popularity has produced an enormous number of products, and the great majority of them are not the broad, cheap, diversified instruments that made the wrapper worth having. Narrow sector funds, thematic funds tracking a trend, leveraged funds that multiply daily movements, and products tracking indices constructed specifically for them.",
+          "The commercial logic is straightforward: broad index products compete almost entirely on cost and are barely profitable, while narrow ones can charge considerably more. The result is that new launches skew heavily toward exactly the products a long-term investor has least reason to hold.",
+          "Leveraged and inverse products deserve a specific warning, since their construction resets daily and the compounding over longer periods produces results that diverge substantially from what a holder expects. They are trading instruments, they are documented as such, and they are held by a large number of people who have not read the documentation. The wrapper itself is excellent; the contents require the same scrutiny as anything else. None of this is financial advice.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'risk-tolerance-finding-yours',
+    sections: [
+      {
+        h: "Capacity, tolerance and need are three different things",
+        p: [
+          "The word risk gets used for three distinct concepts in this context, and separating them resolves most of the confusion. Capacity is how much loss your circumstances can absorb: it depends on your horizon, your income stability and your obligations, and it is largely objective.",
+          "Tolerance is how much loss you can psychologically withstand without acting badly. It is subjective, it is poorly predicted by questionnaires, and it is the constraint that actually binds for most people. Need is how much risk your goals require you to take, given what you have and what you are aiming at.",
+          "The three frequently disagree, which is where the real work lies. Someone with high capacity, low tolerance and high need is in a genuinely difficult position, and the answer is not to average them. It is to accept the lowest of the three as the constraint and then address whichever one is limiting — usually by adjusting the goal or the timeline rather than by overriding the tolerance.",
+        ],
+      },
+      {
+        h: "Why questionnaires do not work",
+        p: [
+          "Risk assessment questionnaires are ubiquitous and they perform poorly at predicting behaviour, for reasons that are well understood. They ask people to forecast their own reactions to a hypothetical event, and humans are demonstrably bad at that, particularly when the event involves a strong emotional response.",
+          "The predictions are also state-dependent. The same person completing the same questionnaire after a strong market period and after a weak one will produce different answers, which means the instrument is partly measuring recent market conditions rather than any stable characteristic.",
+          "This does not make them useless — they prompt consideration of questions people would not otherwise ask — but the output should be treated as a conversation starter rather than as a measurement. The most predictive information available is what you actually did during a previous decline, which no questionnaire can supply and which becomes available only with experience.",
+        ],
+      },
+      {
+        h: "Using your own history as the evidence",
+        p: [
+          "Anyone who has been invested through a significant decline has data about themselves that is worth more than any assessment. The relevant question is not how you felt but what you did: whether you sold, whether you stopped contributing, whether you spent an unusual amount of time checking, whether you changed the allocation.",
+          "Each of those behaviours indicates something specific. Selling indicates the allocation exceeded tolerance substantially. Stopping contributions indicates it exceeded it moderately. Checking constantly while doing nothing indicates it was near the edge. Continuing without difficulty indicates there was room.",
+          "For anyone without that history, the honest position is that the tolerance is unknown, which argues for starting more conservatively than any assessment suggests and increasing after the first real test. Someone who discovers their tolerance was higher than assumed can adjust upward at leisure. Someone who discovers it was lower does so by selling at the bottom.",
+        ],
+      },
+      {
+        h: "Translating percentages into money",
+        p: [
+          "A significant reason people misjudge their tolerance is that risk is presented as percentages, and percentages do not produce the emotional response that the actual amount will. A decline expressed as a proportion sounds manageable; the same decline expressed as a specific sum, in the currency you use, does not.",
+          "The exercise worth doing is to take your actual current balance, apply a severe historical decline to it, and write down the resulting figure. Then sit with that number for a moment and ask whether you would hold. Most people find this considerably more informative than any percentage-based discussion.",
+          "Repeating it as the balance grows is important, because tolerance in absolute terms does not scale with the portfolio. Someone comfortable with a certain proportional decline on a modest balance may find the same proportion on a much larger balance genuinely intolerable, and the allocation that suited the earlier stage may need revisiting purely because the amounts have changed.",
+        ],
+      },
+      {
+        h: "Designing around the tolerance you have",
+        p: [
+          "Once tolerance is established, the useful move is to build a structure that does not test it, rather than one that relies on you passing the test. The measures are largely the ones discussed elsewhere on this site and they work by removing the pressure rather than by strengthening resolve.",
+          "A cash buffer removes any forced selling. An allocation sized to the decline you could hold means the test never becomes severe. Automatic contributions continue without a decision. Reduced checking frequency removes most of the occasions on which a decision presents itself. Each of these lowers the demand on tolerance rather than raising the supply.",
+          "This is a more reliable approach than the alternative, which is to hold an allocation beyond your tolerance and rely on discipline to survive it. Discipline is finite, it is lowest during exactly the periods when it is most needed, and a plan that depends on it holding for thirty years is depending on something nobody can guarantee about themselves.",
+        ],
+      },
+      {
+        h: "When tolerance legitimately changes",
+        p: [
+          "Tolerance is not fixed, and it moves for reasons that deserve to be respected rather than overridden. Approaching retirement shortens the recovery time available, which reduces both capacity and, for most people, tolerance. Acquiring dependants changes what a loss would mean. A period of income insecurity changes it temporarily and sharply.",
+          "Experience moves it the other way. Having held through a severe decline and seen the recovery is genuinely informative, and people who have done so once are measurably more likely to do so again. Tolerance built on evidence is more durable than tolerance assumed in advance.",
+          "The change to be sceptical about is the one that follows market movement rather than life events — feeling more tolerant after a strong run and less after a weak one. That is not tolerance changing; it is recent performance being extrapolated, and acting on it produces the buy-high sell-low pattern that the whole exercise was designed to prevent. None of this is financial advice, and the appropriate allocation is specific to the person holding it.",
+        ],
+      },
+      {
+        h: "Two people, one portfolio",
+        p: [
+          "In a household, tolerance is rarely shared and the difference is a genuine planning problem rather than a matter to be resolved by whoever argues more effectively. Two people with different tolerances holding a single joint portfolio means at least one of them is holding something they cannot comfortably hold.",
+          "The workable resolution is usually to size the shared portfolio to the lower of the two tolerances, and to let the more risk-tolerant partner hold their own allocation separately if they want to. This respects both positions without requiring either to be argued out of theirs.",
+          "What does not work is proceeding on the higher tolerance with the assumption that the other person will get used to it. They generally do not, and the arrangement fails at the worst possible moment, during a decline, when the disagreement becomes an argument about whether to sell. Settling it in advance costs an evening and prevents a considerably worse conversation later.",
+        ],
+      },
+      {
+        h: "Risk that is not volatility",
+        p: [
+          "Almost everything written about risk tolerance treats risk as price movement, which is convenient to measure and is not the only thing that can go wrong. Several other risks matter and are less discussed because they are harder to quantify.",
+          "The risk of a portfolio failing to keep pace with rising prices is the most important omission, and it is the risk taken by someone who avoids volatility entirely. Over a long horizon, holding only cash carries a near-certainty of losing purchasing power, which is a real loss that produces no unsettling statements along the way.",
+          "There is also concentration risk, the risk of needing money at a bad moment, and the risk of the plan being interrupted by circumstances. An assessment that considers only how much price movement you can stomach will systematically push toward portfolios that are safe in the visible sense and inadequate in the sense that matters over thirty years.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'what-is-an-etf',
+    sections: [
+      {
+        h: "Reading the name before buying",
+        p: [
+          "Fund names are dense with information for anyone who knows the conventions, and the conventions are learnable in a few minutes. The index being tracked usually appears first. A word indicating whether income is paid out or retained follows in many naming schemes. An indication of currency hedging appears where relevant.",
+          "Two of these matter more than people realise. Whether income is distributed or accumulated determines whether dividends arrive as cash needing reinvestment or are handled automatically, which affects both the administrative burden and, in some jurisdictions, the tax treatment.",
+          "The currency indicator is the other. A fund denominated in one currency tracking assets in another is not a currency bet — the underlying exposure is what it is — but a fund that explicitly hedges is a different proposition from one that does not, and the difference in returns over a period can be substantial. Both facts are on the fact sheet and neither takes long to check.",
+        ],
+      },
+      {
+        h: "Where the fund is domiciled and why it matters",
+        p: [
+          "A detail that is easy to ignore and occasionally expensive: the country in which the fund is legally established affects the tax treatment of the income it receives from its underlying holdings, and therefore the return delivered to you.",
+          "Withholding taxes on dividends differ depending on the treaty position between the fund's domicile and the countries where the underlying companies are based. Two funds tracking the same index, with the same charge, can deliver measurably different returns purely because of this.",
+          "There may also be consequences for your own tax position and for inheritance treatment, depending on where you are resident. The rules are jurisdiction-specific and change, so nothing here applies to any particular situation. The general point is that domicile is a real variable, it is stated in the documentation, and for a long-term core holding it is worth ten minutes of checking against your own circumstances.",
+        ],
+      },
+      {
+        h: "Tracking difference and securities lending",
+        p: [
+          "The measure of whether a tracking fund is doing its job well is how closely its return matches the index over time, and this is published. A fund lagging its index by more than its stated charge is losing something somewhere, which is worth noticing.",
+          "Occasionally a fund beats its index slightly, which sounds impossible for a passive product and has a straightforward explanation: many funds lend out their holdings to other market participants and earn a fee for doing so. That income offsets part of the charge.",
+          "Securities lending introduces a small counterparty exposure, mitigated by collateral requirements, and the arrangements vary between providers including how much of the income is passed to holders rather than retained by the manager. It is disclosed, it is rarely read, and for a large core holding it is worth knowing which policy applies to yours.",
+        ],
+      },
+      {
+        h: "Why the wrapper won",
+        p: [
+          "It is worth stepping back to note why this structure displaced so much of what came before, because the reasons are instructive about what actually matters in retail investing. It was not superior investment selection, since the underlying strategy is usually to hold everything in an index.",
+          "It was cost, transparency and access. The structure made broad diversified exposure available cheaply to people who previously faced high minimum investments and substantial charges. Holdings are typically published daily rather than quarterly. And the whole thing can be bought through an ordinary brokerage account without any relationship with a fund company.",
+          "The lesson generalises beyond this particular product: the innovations that improved outcomes for ordinary investors over recent decades have overwhelmingly been reductions in cost and friction rather than improvements in strategy. That is a useful filter to apply to whatever is presented as the next advance. As with everything on this site, this is educational rather than advice.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'risk-tolerance-finding-yours',
+    sections: [
+      {
+        h: "Writing the plan for the bad day in advance",
+        p: [
+          "The most practical output of thinking about tolerance is a short document written now, describing what you will do when the portfolio falls sharply. Not a general intention but specific instructions from your current self to your future one.",
+          "It should state the allocation and why it was chosen, the size of decline that would be within expectations, what you will do if that happens, what you will not do, and what circumstances — not market conditions — would justify a change. Half a page is enough.",
+          "The value of this appears at exactly one moment and is considerable when it does. During a severe decline, faced with a decision, you are reading a reasoned argument written by someone with the same information and none of the fear. That is a better adviser than most of what will be available at the time, and it costs twenty minutes today.",
+        ],
+      },
     ],
   },
 ];
