@@ -4832,6 +4832,178 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'why-we-buy-things-we-regret',
+    sections: [
+      {
+        h: "The three categories of regretted purchase",
+        p: [
+          "Regretted purchases sort fairly cleanly into three types, and the type determines what would have prevented it. The first is the aspirational purchase: equipment for the person you intended to become. Exercise gear, instruments, tools, courses. These are bought by an imagined future self who does not materialise.",
+          "The second is the emotional purchase, made to change how you feel rather than to acquire the object. These are identifiable afterwards by how little the object mattered — what was being bought was a moment of relief, and the object was incidental to it.",
+          "The third is the pressured purchase, made under a manufactured deadline or in a situation designed to prevent deliberation. These are the ones people describe as having felt slightly unreal at the time. Each type has a different defence, which is why a single rule about spending less does not address any of them well.",
+        ],
+      },
+      {
+        h: "Buying for the person you plan to become",
+        p: [
+          "The aspirational category deserves particular attention because it feels virtuous while it is happening. Purchasing the equipment feels like a commitment to the activity, and there is a genuine psychological effect in which acquiring the tools substitutes for doing the thing.",
+          "The test that filters most of these is straightforward: have you done the activity, in any form, in the last month, using whatever was already available? Someone who has been running in old shoes is buying better ones for a runner who exists. Someone who has not run is buying them for a hypothesis.",
+          "Where the answer is no, the useful move is to do the activity badly with borrowed or minimal equipment for a defined period first. This costs almost nothing, and it produces the only evidence that matters. A surprising proportion of aspirational purchases are avoided entirely by this, and the ones that survive it are genuinely worth making.",
+        ],
+      },
+      {
+        h: "What returns behaviour reveals",
+        p: [
+          "A quietly informative fact about regretted purchases is how rarely they are returned, even where returning is straightforward and free. The reasons are worth understanding because they explain why the regret persists rather than being corrected.",
+          "Part of it is effort and inertia. A larger part is that admitting the purchase was a mistake is uncomfortable, and keeping the item allows the possibility that it will eventually be used. Ownership itself also increases attachment, a well-documented effect that begins almost immediately and makes disposal feel like a loss.",
+          "The practical implication is that the return window should be treated as a decision point rather than as a safety net. Setting a reminder for a few days before it closes, and actively deciding whether the item has been used, converts an option that is rarely exercised into one that is. It is a small habit that recovers a meaningful amount of money over a year.",
+        ],
+      },
+      {
+        h: "The pause, and how long it needs to be",
+        p: [
+          "The single most effective intervention is a delay, and the useful question is how long. For moderate amounts, twenty-four hours removes most impulse purchases, because the emotional state that generated the impulse does not survive a night.",
+          "For larger amounts, a week is better, and the reason is that a week includes at least one change of mood and usually one occasion where the money is wanted for something else. That second consideration is the useful one: it surfaces the alternative use, which the moment of purchase actively conceals.",
+          "What makes this work is that it is a rule rather than a judgement. Deciding case by case whether something warrants a delay uses the faculty that has already been compromised. A standing rule applied to everything above a threshold does not require any assessment at the moment it matters, which is precisely why it survives contact with the moment.",
+        ],
+      },
+      {
+        h: "Where the item ends up",
+        p: [
+          "There is an uncomfortable and useful exercise available to anyone who has lived somewhere for a few years: look at what is unused. The equipment in a cupboard, the clothes never worn, the gadget in a drawer. Each represents a purchase that seemed reasonable and turned out not to be.",
+          "The value of the exercise is in the pattern rather than the individual items. Most people find their unused possessions cluster into a small number of categories, and those categories are a personal map of where their purchasing judgement is unreliable. That map is more useful than any general advice about spending.",
+          "Acting on it is simple: apply a longer delay, or a higher threshold of evidence, to purchases in your specific weak categories, and stop worrying about the ones where your record is good. This is a tuned filter rather than a blanket restriction, which is both more effective and considerably easier to sustain.",
+        ],
+      },
+      {
+        h: "Spending deliberately rather than less",
+        p: [
+          "The objective here is not to reduce spending, which is a separate question, but to shift it from purchases that produce regret to ones that do not. Someone who eliminates their regretted purchases and redirects the money to things they actually value has improved their life without spending a penny less.",
+          "The mechanism is the same one described in the hedonic treadmill article on this site: a small number of things hold up over months, and a long tail does not. Knowing which is which for you specifically, from your own record rather than from a general principle, is what makes deliberate spending possible.",
+          "The end state is not vigilance. It is a short list of categories where you buy freely without deliberation because the record supports it, and a delay rule applied to everything else. That arrangement requires almost no ongoing effort, produces less regret, and is considerably more pleasant than the alternative of feeling mildly guilty about every purchase. None of this is financial advice.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'financial-comparison-trap',
+    sections: [
+      {
+        h: "What is visible and what is not",
+        p: [
+          "The fundamental asymmetry in any financial comparison is that consumption is visible and position is not. A car, a house, a holiday and a wardrobe are all observable. The debt behind them, the savings rate, the buffer, the pension balance and the level of underlying anxiety are not.",
+          "This means every comparison you make is between your complete picture, including everything you know is wrong with it, and somebody else's most visible layer. The comparison is not merely unfavourable; it is between two different categories of information.",
+          "The practical correction is not to assume everyone is secretly in trouble, which is its own distortion. It is simply to notice that the observable evidence is consistent with almost any underlying position, and that a display of consumption is evidence about spending rather than about wealth. Those are different things and the first is frequently the enemy of the second.",
+        ],
+      },
+      {
+        h: "Why upward comparison is the default",
+        p: [
+          "Human comparison is not symmetrical: people compare upward far more readily than downward, and the effect on satisfaction is correspondingly negative. This is well documented and it is not a modern phenomenon, though the modern information environment has made the upward reference material effectively unlimited.",
+          "The mechanism is partly attentional. Someone doing better than you is more noticeable, more discussed, and more likely to be presented to you by any system optimising for engagement. Someone doing worse is neither displayed nor remarked upon, which means the available sample is heavily skewed before any comparison is made.",
+          "Recognising this changes how the resulting feeling should be interpreted. A sense of being behind, generated from a curated upward sample, is information about the sample rather than about your position. It would be produced by the same process regardless of where you actually stood.",
+        ],
+      },
+      {
+        h: "The specific financial damage",
+        p: [
+          "The harm here is not merely emotional and it operates through identifiable channels. Comparison drives spending toward visible categories — vehicles, housing, clothing, holidays — and away from invisible ones like savings and pension contributions, which is exactly the wrong direction.",
+          "It also drives investment behaviour. A person feeling behind is measurably more inclined to take inappropriate risk trying to catch up, which is how a substantial amount of retail money finds its way into concentrated positions and speculative products. The catching-up motive is one of the more reliable predictors of a poor investment decision.",
+          "And it accelerates commitments. Housing and vehicle decisions made partly under social pressure produce fixed obligations that constrain everything downstream for years, in the manner described in the lifestyle inflation articles here. The purchase is momentary; the constraint is contractual.",
+        ],
+      },
+      {
+        h: "The reference group is a variable you control",
+        p: [
+          "Satisfaction with an absolute financial position depends substantially on the comparison set, which means the comparison set is worth treating as something you influence rather than something that happens to you.",
+          "The most direct intervention is the information environment: what you follow, what is displayed to you, what you consume in idle moments. Removing sources that reliably produce the feeling is more effective than developing resilience to them, and it costs nothing.",
+          "The second is social, and it is less comfortable. People who appear immune to this frequently turn out to have maintained relationships across a range of circumstances rather than exclusively within one band. That is a structural advantage rather than a character trait, and it can be built deliberately by anyone who understands that it is doing the work.",
+        ],
+      },
+      {
+        h: "Comparison that is actually useful",
+        p: [
+          "Not all comparison is harmful, and the useful version has a specific shape: it is against a person whose position is achievable from yours, in a domain you can act on, and it produces a concrete step rather than a feeling.",
+          "Noticing that a colleague in a similar role earns substantially more is useful, because it produces the market research and the conversation described in the negotiation article on this site. Noticing that someone with similar circumstances has a larger buffer is useful, because it prompts a question about the saving rate.",
+          "The test is whether the comparison generates an action. If it does, it was information. If it generates only a feeling about your own adequacy, it was the trap, and the appropriate response is to stop looking rather than to try harder to feel better about it.",
+        ],
+      },
+      {
+        h: "The measure that replaces it",
+        p: [
+          "What eventually displaces external comparison is an internal one, and it needs to be specific enough to be checkable. The annual figures discussed elsewhere on this site do the job: net worth, the saving rate, the number of months of expenses covered.",
+          "Each of these compares you to your own previous position, which controls for every variable that an external comparison does not: your income, your obligations, your starting point, your local costs. A line that has risen for five consecutive years is unambiguous evidence that the system is working, whatever anybody else's situation happens to be.",
+          "This is not a psychological trick to feel better about a worse position. It is the observation that your own trajectory is the only comparison that carries information about whether your decisions are good, and that the other kind was never measuring that at all. As with everything on this site, this is educational rather than advice.",
+        ],
+      },
+      {
+        h: "Benchmarks by age, and why they mislead",
+        p: [
+          "Published figures stating what someone should have saved by a given age circulate widely and are among the more harmful pieces of financial content, precisely because they look objective. They are typically drawn from populations with very different housing costs, family structures and career shapes.",
+          "They are also frequently medians presented as targets, which is a category error. A median describes where the middle of a population sits, not where anybody ought to be. Half the population is below it by construction, and being below a median is not evidence of a mistake.",
+          "The specific harm is in the reaction. Someone above the figure concludes they are fine and relaxes, which may be wrong if their trajectory is poor. Someone below concludes they are behind and either gives up or takes inappropriate risk. Neither reaction is warranted by a number that was never about them.",
+        ],
+      },
+      {
+        h: "When you are the one being compared to",
+        p: [
+          "A corollary worth noting: you are somebody else's comparison target, and the parts of your position that they can see are equally unrepresentative. This is worth remembering in both directions.",
+          "It suggests a small amount of care in what gets displayed, not out of modesty but because the display feeds the same mechanism in other people. It also suggests some scepticism about your own reactions to what others show, since you know exactly how little your own visible layer reveals.",
+          "There is a practical version of this within families and friendships: talking about money in terms of structure rather than amounts. Discussing how you handle irregular costs, or what you learned about a pension, transmits something useful. Discussing figures mostly transmits comparison, which helps nobody and is why the subject is so often avoided entirely.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'why-we-buy-things-we-regret',
+    sections: [
+      {
+        h: "The purchases made for other people",
+        p: [
+          "A category that produces disproportionate regret is spending intended to signal something to somebody else: purchases made because of who will see them, what they will suggest about you, or what a particular group treats as normal.",
+          "These have a specific failure mode. The signal is received briefly and then stops registering, in the same way every other novelty does, while the cost persists. And the audience, in most cases, was paying considerably less attention than assumed — a well-documented gap between how noticeable people believe their choices are and how noticeable they actually are.",
+          "The test that helps is to ask whether you would make the purchase if nobody you knew would ever see it. This is uncomfortable to apply honestly and it separates purchases made for use from purchases made for display more reliably than any amount of reflection on whether the item is worth the money.",
+        ],
+      },
+      {
+        h: "Rebuying the same mistake",
+        p: [
+          "The most instructive regretted purchases are the repeated ones: the same category, bought again, some years after the previous one went unused. This happens more than people notice, because the memory of the previous instance has faded and the current impulse feels fresh.",
+          "The reason it repeats is that the underlying driver was never the object. An aspirational purchase reflects a persistent aspiration, which does not go away because one attempt failed. An emotional purchase reflects a recurring emotional state, which will recur.",
+          "This is why the record described earlier matters more than any individual decision. Someone who can see that they have bought equipment for the same abandoned intention three times has information that no general principle supplies, and the specific defence — a much higher evidence threshold for that one category — is obvious once the pattern is visible. None of this is financial advice.",
+        ],
+      },
+      {
+        h: "The environment that makes the impulse available",
+        p: [
+          "Regretted purchases require an opportunity as well as an impulse, and the opportunity is easier to remove than the impulse is to resist. Saved payment details, one-click purchasing, shopping apps on a phone and promotional messages in an inbox each shorten the distance between feeling and transaction to a few seconds.",
+          "Removing them lengthens it again, which is all the delay rule needs to work. Deleting stored cards, uninstalling the apps you buy from most, and unsubscribing from promotional email are each a five-minute action with a permanent effect, and none of them requires any ongoing willpower.",
+          "This is the same principle described throughout this site: change the structure rather than relying on judgement inside it. A purchase that requires finding a card and typing sixteen digits gets abandoned at a considerably higher rate than one requiring a thumbprint, and the difference is entirely in the friction rather than in the person.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'financial-comparison-trap',
+    sections: [
+      {
+        h: "The comparison inside a workplace",
+        p: [
+          "Comparison within an organisation deserves separate treatment, because unlike most other kinds it occasionally contains genuine information. Pay differences between people doing similar work are real facts about the market and about your own position.",
+          "The distinction that matters is between using that information and reacting to it. Learning that a colleague earns substantially more is a prompt for the research and the conversation described in the negotiation article on this site. Feeling diminished by it produces nothing and frequently damages the working relationship that the information came through.",
+          "The other caution is that visible comparisons within a workplace are usually incomplete: different roles, different negotiating histories, different responsibilities, different lengths of service. The useful response is to treat the figure as one data point in a market assessment rather than as a verdict on how you are regarded.",
+        ],
+      },
+      {
+        h: "What actually reduces the feeling",
+        p: [
+          "Advice to simply stop comparing does not work, since the mechanism is not voluntary. What has some evidence behind it is more specific and more modest.",
+          "Reducing exposure works, because the comparison requires material. Deliberate attention to what has improved in your own position — the annual review of the figures discussed elsewhere here — provides a competing reference point that is at least accurate. And engagement with people whose circumstances differ in both directions restores a sample that the curated environment had skewed.",
+          "None of these eliminates it, and the honest position is that some background comparison is a permanent feature of being a social animal. The achievable goal is not immunity but preventing it from driving decisions: keeping it out of housing choices, vehicle commitments and investment allocations, which is where it does financial damage rather than merely emotional damage. As with everything on this site, this is educational rather than advice.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
