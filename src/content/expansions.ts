@@ -1147,6 +1147,263 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'debt-avalanche-vs-snowball',
+    sections: [
+      {
+        h: "What the research on completion rates found",
+        p: [
+          "The debate between these two methods was for years conducted entirely on arithmetic grounds, where the highest-rate-first approach wins unambiguously. Later work examined a different question: which approach people actually finish. That is the variable that determines outcomes in practice, and it produces a less tidy answer.",
+          "Several studies of consumer debt repayment have found that people who cleared their smallest balances first were more likely to eliminate their overall debt, and that the effect appeared to run through motivation rather than through any arithmetic advantage. Closing an account entirely produces a discrete sense of progress that a reduced balance on a large debt does not.",
+          "The reasonable conclusion is not that the arithmetic is wrong but that it is incomplete as a guide to behaviour. The optimal strategy is the one with the highest expected value after accounting for the probability of abandonment, and for many people that calculation favours the approach that feels like it is working. Interest saved on a plan that was abandoned in month nine is not saved at all.",
+        ],
+      },
+      {
+        h: "Where the two methods barely differ",
+        p: [
+          "Before agonising over the choice, it is worth calculating what the difference actually amounts to in your specific situation, because it is frequently much smaller than the debate implies. Where the balances are similar in size, or where the interest rates are close together, the two orderings produce nearly identical total costs and the choice is essentially free.",
+          "The difference only becomes material when there is a large spread in rates combined with an inverse relationship between rate and balance — that is, when the most expensive debt is also the largest. In that specific configuration the arithmetic penalty for clearing small balances first is real and can be substantial.",
+          "So the useful first step is a table: each debt, its balance, its rate, and its minimum payment. With that in front of you, the total cost of each ordering can be estimated in a few minutes with any online calculator. If the difference is small, choose whichever you will finish. If it is large, that is worth knowing before deciding that motivation outweighs it.",
+        ],
+      },
+      {
+        h: "The minimum payment trap",
+        p: [
+          "Both methods assume you continue paying at least the minimum on every debt while directing extra at one, and the design of minimum payments deserves attention because it is not neutral. On revolving credit, minimums are typically calculated as a small percentage of the outstanding balance, which means they fall as the balance falls.",
+          "The effect is a repayment schedule that stretches out almost indefinitely. Paying only the minimum on a substantial balance can take decades and cost a multiple of the original sum, and the arrangement is structured so that this happens without any single month feeling burdensome. This is a feature of the product rather than an accident.",
+          "The practical implication is that a fixed payment beats a percentage payment even without any additional money. Setting a standing payment at the current minimum amount and keeping it there as the balance falls, rather than letting it decline, accelerates repayment substantially at no additional cost. It is one of the few changes here that requires no extra money at all.",
+        ],
+      },
+      {
+        h: "Whether consolidation helps or hides",
+        p: [
+          "Combining several debts into one loan at a lower rate is genuinely useful in some situations and actively harmful in others, and the difference is usually visible in advance. It helps when the new rate is meaningfully lower, the term is not extended, the fees are modest, and the accounts being cleared are then closed.",
+          "It harms when any of those conditions fail. A lower monthly payment achieved by extending the term frequently increases total interest despite the lower rate. Arrangement fees added to the principal reduce or eliminate the benefit. And the most common failure by a wide margin is that the cleared credit accounts remain open and are gradually used again, producing a household with both the consolidation loan and the original debts.",
+          "The check worth running is total cost to clear, before and after, including all fees. If that figure falls, consolidation helped. If it rises while the monthly payment falls, the arrangement has made the situation feel better and be worse, which is a specific and common outcome that the marketing for these products does nothing to discourage.",
+        ],
+      },
+      {
+        h: "Talking to creditors before assuming the terms are fixed",
+        p: [
+          "A step that is skipped almost universally is simply asking for a lower rate. Lenders have retention processes, competitors offer transfer deals, and a customer with a good payment history who mentions they are considering moving is frequently offered something. The success rate is far from certain and the cost of asking is a phone call.",
+          "Where the situation is more serious, the range of available arrangements is wider than most people realise. Lenders generally prefer a reduced but reliable payment to a default, and formal and informal forbearance arrangements exist in most jurisdictions. Free debt advice services, which exist in many countries and are distinct from commercial debt management companies, can negotiate on your behalf and know what is achievable.",
+          "The reason to mention this in an article about payoff ordering is that the ordering only matters within the terms you have. Reducing a rate changes the arithmetic more than any reordering can, and it is available to a surprising number of people who never ask because they assume the stated terms are the only terms.",
+        ],
+      },
+      {
+        h: "What happens to your credit record along the way",
+        p: [
+          "Repayment strategy interacts with credit scoring in ways that are worth understanding, particularly for anyone who will need to borrow again soon, for a mortgage or otherwise. The largest positive factor in most scoring systems is a consistent record of payments made on time, which both methods preserve equally.",
+          "Utilisation, meaning the proportion of available revolving credit currently used, is typically the second largest factor, and this is where the methods differ slightly. Clearing a small balance entirely removes one account's utilisation but may have less effect on the overall ratio than reducing a large balance on a heavily used account. For someone applying for a mortgage within a year, that difference can be worth considering.",
+          "Closing accounts after clearing them is the more consequential decision. It reduces total available credit, which raises the utilisation ratio on what remains, and it can shorten the average account age. Neither effect is large but both are real, and the case for closing an account is behavioural rather than financial: it exists to prevent the balance from returning.",
+        ],
+      },
+      {
+        h: "The month after the last payment",
+        p: [
+          "The most important part of any payoff plan happens after it finishes, and it is almost never planned for. A household that has been directing a substantial monthly sum at debt for two years suddenly has that amount free, and in the absence of a decision it is absorbed into ordinary spending within a couple of months.",
+          "The single highest-value action at that point is to redirect the entire payment, unchanged, into savings on the same date it previously left for the creditor. The household has already demonstrated it can live without that money, the habit and the mechanism both already exist, and the transition costs nothing in experienced standard of living.",
+          "This is also the moment when the emergency fund described elsewhere on this site becomes achievable quickly, since the amount that was clearing debt is typically far larger than what most people can otherwise divert. A buffer built in the months immediately after a debt is cleared is the most reliable defence against the debt returning, which is the outcome that a substantial proportion of successful payoff plans eventually suffer. None of this is financial advice; it is a description of what tends to work.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'first-salary-money-map',
+    sections: [
+      {
+        h: "Understanding what actually arrives",
+        p: [
+          "The first practical shock of employment is the gap between the salary figure that was agreed and the amount that reaches the account. Depending on the country, deductions for income tax, social contributions, pension and student loan repayments can remove a substantial proportion, and the resulting figure is the only one that matters for planning.",
+          "It is worth spending twenty minutes with the first payslip working out what each line is and confirming it is correct. Payroll errors are more common than people assume, tax codes are frequently wrong at the start of employment, and an incorrect code can cost a meaningful amount before anyone notices. Nobody else is checking this on your behalf.",
+          "The second thing to establish is what varies. Some deductions are fixed proportions and some change at thresholds, which means a bonus or overtime does not increase take-home pay in the way a simple percentage would suggest. Knowing where those thresholds sit prevents the disappointment of a raise that produced considerably less than expected.",
+        ],
+      },
+      {
+        h: "The order that matters more than the amounts",
+        p: [
+          "The sequence in which money is allocated has a larger effect on the outcome than the specific figures, because it determines what gets funded when there is not enough for everything. A workable order, applied in the first years, is: capture any employer pension match in full, build a small cash buffer, clear any high-rate debt, build the buffer to its full size, then invest the remainder for the long term.",
+          "The match comes first because it is the only step with an immediate guaranteed return that exceeds anything else available, and because contributing below the match threshold forfeits money that was part of the compensation package. This holds even while carrying debt in most cases, though the arithmetic depends on the specific rates involved.",
+          "What is worth noticing about this sequence is that none of the steps require a large income. Each one is a proportion rather than an amount, and someone applying it on a modest starting salary ends up with the same structure as someone on a large one, differing only in the absolute figures. The structure is what compounds.",
+        ],
+      },
+      {
+        h: "The housing decision that constrains the next decade",
+        p: [
+          "The largest single financial decision in the early working years is where to live, and it is frequently made on non-financial grounds and then treated as fixed. This is understandable and it is worth being aware that the choice sets a ceiling on everything else for as long as it lasts.",
+          "The specific danger is anchoring housing costs to the current salary at the top of what is affordable. A household spending a high proportion of income on housing has very little capacity to save, very little resilience to an income interruption, and very little ability to take a lower-paid opportunity that might be better in the long run. That constraint persists for the length of the commitment.",
+          "The version that keeps options open is deliberately spending less on housing than the maximum available, particularly in the first years when incomes are lowest and career direction is least settled. This frequently means sharing, living further out, or accepting less space for a period. It is the least popular advice in this article and the one with the largest effect on where someone stands at thirty.",
+        ],
+      },
+      {
+        h: "Why the first years matter disproportionately",
+        p: [
+          "The compounding arithmetic described elsewhere on this site means that money invested in the first working decade does more than money invested later, and the ratio is larger than intuition allows. This is the strongest argument for beginning during a period when the amounts available are smallest and the temptation to defer is greatest.",
+          "The habit effect compounds alongside the money. Someone who has been saving a proportion of income since their first job experiences it as the normal structure of their finances rather than as a discipline, and they never have to make the difficult adjustment of reducing an established standard of living. Someone starting at thirty-five is making that adjustment against a lifestyle that has already settled.",
+          "Neither of these means that a late start is futile, and the discouragement produced by that framing does real harm. What they mean is that a modest amount started now beats a larger amount started in five years, which is a claim about ordering rather than about capacity, and it holds at every income level.",
+        ],
+      },
+      {
+        h: "The things worth not doing",
+        p: [
+          "An article about what to do should be explicit about what to avoid, because the early years are when the most consequential mistakes are available. Financing a depreciating asset at a high rate is the most common and the most damaging, and vehicle finance in particular has ended more early savings plans than any market decline.",
+          "The second is any investment product sold to you rather than sought by you, particularly ones with long lock-in periods, opaque charges or a commission structure that explains why it was recommended. Young earners are a target market for exactly this, and the products in question are rarely the ones a person would have chosen if they had understood the alternatives.",
+          "The third is the assumption that a rising income will resolve current overspending. It reliably does not, because spending rises alongside it, and the habit established in the first years is the habit that persists. The correction is far easier at twenty-three than at thirty-three, and considerably easier then than at forty-three.",
+        ],
+      },
+      {
+        h: "What to do when the salary is barely enough",
+        p: [
+          "A significant proportion of first salaries do not comfortably support the sequence described above, and advice that assumes otherwise is unhelpful to the people who most need it. Where essential costs consume nearly everything, the honest position is that the highest-return activity available is raising the income rather than optimising what remains.",
+          "That means the effort that would otherwise go into saving strategy goes into the things that move earning power: acquiring a skill that is in demand, moving to an employer that pays the market rate, or relocating if the local market is the constraint. These are harder and slower than adjusting a standing order and they are the thing that actually changes the situation.",
+          "Alongside that, the smallest version of the buffer is still worth building, because the alternative when something breaks is high-rate borrowing that makes the following months worse. Even a very small reserve interrupts that cycle. The full structure can wait for the income that supports it; the thing that prevents the situation deteriorating cannot.",
+        ],
+      },
+      {
+        h: "Reviewing the map as circumstances change",
+        p: [
+          "The sequence described here is a starting configuration, not a permanent one, and the events that should prompt a revision are predictable: a significant change in income, a change in household composition, taking on a housing commitment, or a change in job security. Each of these alters what the right allocation is.",
+          "The most commonly missed revision is the one that should follow a raise. A contribution rate set on a starting salary and never revisited becomes progressively less meaningful over a decade, and the person continues to believe they are saving at the rate they chose. Reviewing the percentage rather than the amount, once a year, corrects this in about ten minutes.",
+          "The last thing worth saying is that this is a framework rather than a prescription, and none of it is financial advice. Circumstances differ enormously, particularly across countries with different tax, pension and healthcare structures. What generalises is the ordering and the principle underneath it: establish the gap early, automate it, and let the structure do the work while the amounts are still small.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'why-budgets-fail',
+    sections: [
+      {
+        h: "The specific ways a budget dies",
+        p: [
+          "Budgets rarely fail through a dramatic collapse. They fail through a recognisable sequence that repeats across very different people. Week one is meticulous. Week two has a gap of two days that gets reconstructed from memory. Week three has a category that went substantially over, which produces a decision about whether to record it accurately or adjust the category. Week four has no entries at all.",
+          "The critical moment is the third week, and specifically what happens when reality contradicts the plan. A budget presents the overspend as a failure, which invites either abandonment or dishonest recording, and both end the exercise. There is no version of the ordinary month that does not contain at least one category that goes wrong.",
+          "This is a design problem rather than a discipline problem. A system that treats any deviation as a failure will be abandoned by anyone whose life contains deviations, which is everyone. Systems that survive are the ones that have somewhere for the unexpected to go, which is why the buffer category matters more than the accuracy of the others.",
+        ],
+      },
+      {
+        h: "Why categorisation is harder than it looks",
+        p: [
+          "The mechanical burden of a detailed budget is underestimated because the difficulty is not in the recording but in the classification. A supermarket shop containing food, cleaning products, a birthday card and a bottle of wine is four categories on one transaction, and resolving that correctly takes longer than the shop did.",
+          "Multiply this across a month of ordinary transactions and the exercise becomes genuinely time-consuming, which is fatal for something that must be sustained indefinitely. Automated categorisation tools help and introduce their own problem, since they classify by merchant rather than by content and produce a breakdown that is precise and wrong.",
+          "The deeper issue is that the categorised output is rarely acted upon. Knowing that a specific proportion went to one category and a different proportion to another is interesting and does not by itself change anything, because the decisions that produced those figures were made one at a time under circumstances the summary does not capture. Effort spent producing information nobody acts on is the definition of a system worth simplifying.",
+        ],
+      },
+      {
+        h: "What the three-account structure is actually doing",
+        p: [
+          "The alternative described in this article works by changing the architecture rather than the discipline. Money for fixed costs sits somewhere it cannot be spent from casually. Money for saving leaves before it can be seen. What remains in the everyday account is, by construction, spendable, and no tracking is required because the constraint is the balance itself.",
+          "This converts an accounting problem into a physical one. Instead of asking whether a purchase fits within a category allowance you have to remember, you look at a balance. The information arrives at the moment of the decision rather than in a summary two weeks later, which is the only moment at which it can change anything.",
+          "The reason this succeeds where detailed budgeting fails is that it requires no ongoing effort at all once configured. There is nothing to record, nothing to categorise, and no monthly reckoning that can be failed. It is a strictly less informative system that produces better outcomes, which is an uncomfortable trade for anyone who values the information and the right one for most people.",
+        ],
+      },
+      {
+        h: "Handling the costs that do not arrive monthly",
+        p: [
+          "The largest weakness in any monthly system is the expense that arrives annually or unpredictably: insurance renewals, vehicle costs, professional fees, holidays, gifts at a particular time of year. These are entirely foreseeable in aggregate and they wreck monthly plans because they are not monthly.",
+          "The mechanism that handles them is a separate account funded by a standing order equal to one twelfth of the annual total, which converts irregular costs into a regular one. This is not a budgeting technique so much as a smoothing device, and it removes the single most common cause of a month going wrong for reasons nobody did anything to deserve.",
+          "Building the list of these costs is a one-off exercise of perhaps half an hour, done by looking back over a year of statements for anything that occurred once or twice. Most households are surprised by the total. That surprise is itself the useful output, since a household that has never counted these has been absorbing them ad hoc, usually through credit, for years.",
+        ],
+      },
+      {
+        h: "The variable-income version",
+        p: [
+          "Every budgeting method described in general terms assumes a stable monthly income, and the structures collapse when income arrives irregularly. For freelancers, commission earners and anyone whose income varies substantially month to month, the adaptation required is more than a modification.",
+          "The approach that works is to decouple income from spending entirely. Everything earned goes into a holding account. From that account, a fixed amount is paid to the everyday account on the same date each month, as though it were a salary. The holding account absorbs the variation, building in strong months and drawing down in weak ones.",
+          "The figure paid across should be based on a conservative estimate of a poor year rather than an average one, with surplus accumulating in the holding account rather than raising the payment. This feels unnecessarily austere in good periods and it is the entire mechanism: it converts variable income into a predictable one, which is what every other part of a financial system assumes.",
+        ],
+      },
+      {
+        h: "When detailed tracking is genuinely the right tool",
+        p: [
+          "There are situations where the case for detailed categorisation is strong, and dismissing it entirely would be wrong. The clearest is a diagnostic period at the start: three months of complete tracking, undertaken specifically to find out where the money goes, with no intention of continuing indefinitely. This is finite, it produces genuinely new information, and it usually contains at least one surprise large enough to justify the effort.",
+          "The second is a period of acute financial pressure, where the margin is thin enough that individual decisions matter and the cost of getting a month wrong is severe. Under those conditions the detail is worth its effort because the alternative is worse.",
+          "The third is a specific investigation: a suspicion that one category has grown, or a decision to be made that requires knowing an actual figure. All three of these are bounded exercises with a defined purpose, which is what distinguishes them from indefinite tracking maintained out of a sense that it is what responsible people do.",
+        ],
+      },
+      {
+        h: "Judging a system by whether it is still running",
+        p: [
+          "The criterion that matters for any financial system is whether it survives a year, and it is almost never the criterion people use when choosing one. The comparison is usually made on features, precision or completeness, none of which predict survival and some of which work against it.",
+          "A useful test before adopting anything is to ask what happens to it during a genuinely difficult month: illness, a work crisis, a family event. A system that requires attention will not receive it, and whether it resumes afterwards is the question. Systems built on standing orders and account structure survive such months untouched, because nothing was required of anyone.",
+          "The broader point is that personal finance is unusual in that consistency dominates optimisation. A mediocre arrangement maintained for a decade produces a far better result than an excellent one abandoned in month four, and the difference between the two is not knowledge or willpower but design. Choose the boring system that keeps running. None of this is financial advice; it is an argument about what tends to last.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'renting-vs-buying-honest-math',
+    sections: [
+      {
+        h: "The comparison that most people never run",
+        p: [
+          "The honest version of this comparison is not rent against mortgage payment, which is the version everybody performs and which is close to meaningless. It is total unrecoverable cost against total unrecoverable cost, on both sides, over the period you intend to stay.",
+          "For a renter, the unrecoverable cost is the rent. All of it, and nothing else. For a buyer, it is the interest portion of the mortgage, the property taxes, the insurance, the maintenance, the transaction costs of buying and eventually selling amortised over the holding period, and the return forgone on the capital tied up in the deposit. The capital repayment portion of the mortgage is not unrecoverable, since it becomes equity.",
+          "Run properly, this comparison frequently produces a result that surprises people in both directions depending on the market and the holding period. What it reliably does is replace a slogan with a number, and the number is different in different places and at different times, which is precisely why the slogan is unhelpful.",
+        ],
+      },
+      {
+        h: "Maintenance is the cost everyone underestimates",
+        p: [
+          "The recurring figures quoted for property maintenance — commonly expressed as a percentage of value per year — sound like a padding assumption until you have owned a property for a decade. The costs are lumpy, invisible in most years, and large in a few, which is exactly the profile that intuition handles badly.",
+          "The components are predictable in kind if not in timing. Roofing, heating systems, windows, plumbing, electrical work and external decoration all have finite lives measured in years to decades, and every one of them will arrive at some point during a long ownership. Averaged across the years, they amount to a substantial annual figure that no monthly payment reflects.",
+          "The practical implication is that a comparison excluding maintenance is not merely imprecise, it is systematically biased toward buying. And a buyer who has not provisioned for it will meet these costs through borrowing, which converts a foreseeable expense into an expensive one. This is one of the strongest arguments for the separate property fund mentioned elsewhere on this site.",
+        ],
+      },
+      {
+        h: "What buying actually protects against",
+        p: [
+          "The strongest financial argument for ownership is frequently not the one that gets made. It is not that rent is wasted, which is a category error, but that ownership fixes a large component of living costs against future increases in a way renting does not.",
+          "A repayment mortgage on a fixed or eventually cleared basis has a housing cost that declines in real terms over decades and eventually falls to maintenance and taxes alone. Rent, over the same period, tracks the market. Over a forty-year horizon that difference is very large, and it is the reason housing costs in later life differ so dramatically between owners and renters.",
+          "This benefit is real and it is back-loaded. It accrues over decades and offers little in the first years, which is why the comparison is so sensitive to how long you stay. Someone confident of remaining in one place for twenty-five years is evaluating a different proposition from someone who may move in four, even in an identical market.",
+        ],
+      },
+      {
+        h: "The renter's obligation that nobody enforces",
+        p: [
+          "The comparison in this article notes that renting only wins if the difference is invested, and this deserves emphasis because it is the assumption that most often fails. Where renting is genuinely cheaper on an unrecoverable-cost basis, the advantage exists only if the saved amount goes somewhere.",
+          "In practice it frequently does not. The saving is absorbed into ordinary spending, in exactly the way described in the lifestyle inflation articles on this site, and the renter arrives at fifty with lower housing costs behind them and no accumulated asset. The buyer, meanwhile, has been making a forced monthly contribution to an asset whether they felt like it or not.",
+          "This is a behavioural argument for buying rather than a financial one, and it is not trivial. A mortgage is a commitment device that enforces saving through social and legal pressure. Renting requires the same saving to be achieved voluntarily, and the evidence on voluntary saving rates is not encouraging. Anyone choosing to rent on financial grounds should automate the difference on day one or accept that the argument does not apply to them.",
+        ],
+      },
+      {
+        h: "The transaction costs that punish short holdings",
+        p: [
+          "Buying and selling property carries costs that are large in absolute terms and easy to overlook because they occur once. Transfer taxes, legal fees, survey costs, mortgage arrangement fees, estate agent commission on the eventual sale, and the moving costs on both ends.",
+          "Aggregated, these frequently amount to a meaningful percentage of the property value, and they are incurred regardless of what happens to prices. Spread across a twenty-five-year holding they are negligible. Spread across three years they can exceed everything the purchase gained, which is why short-horizon buying is financially precarious even in a rising market.",
+          "The rough rule this produces is that there is a break-even holding period below which buying is very unlikely to work out, and it is longer than most first-time buyers assume. Calculating that period for your specific costs and market is straightforward arithmetic and is more useful than any general guidance, because the answer varies enormously by jurisdiction.",
+        ],
+      },
+      {
+        h: "The concentration risk of a leveraged single asset",
+        p: [
+          "A home purchased with a mortgage is a large, undiversified, illiquid, leveraged position in a single asset in a single location, frequently the same location as your employment. Described in those terms rather than as a home, it would fail every principle in the diversification article on this site.",
+          "This is not an argument against buying, since a place to live is a consumption need rather than purely an investment. It is an argument against treating a home as though it were a diversified investment portfolio, and against the common position of someone who owns a property, works locally, and holds no other assets.",
+          "The leverage deserves particular attention because it works in both directions. A modest fall in property value produces a large proportional fall in the owner's equity, and a household in negative equity loses the ability to move, which compounds any employment problem in the same region. This is a well-documented sequence and it is the reason margin of safety matters more here than the headline affordability calculation suggests.",
+        ],
+      },
+      {
+        h: "Deciding when the numbers do not settle it",
+        p: [
+          "Having run the honest comparison, a great many people find the financial difference is smaller than expected and does not clearly favour either option. This is a legitimate result rather than a failure of the exercise, and it means the decision should be made on the non-financial factors, which are substantial.",
+          "Those factors are real and worth weighing explicitly. Security of tenure and the ability to make a place your own on one side; mobility, freedom from maintenance and the ability to take an opportunity elsewhere on the other. Different stages of life weight these very differently, and neither preference is financially naive.",
+          "What the exercise achieves, even when it does not settle the question, is removing the false certainty that the slogan supplies. Someone who buys knowing the honest comparison was close is in a much better position than someone who bought because rent is throwing money away, because they know what they traded and what to watch. None of this is financial advice, and the right answer depends on a market and a set of circumstances that only you can see.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'why-budgets-fail',
+    sections: [
+      {
+        h: "The one number worth watching instead",
+        p: [
+          "If a detailed budget is replaced with something simpler, it is fair to ask what replaces the information it was providing. The answer is a single figure: the proportion of income that did not get spent, calculated annually. That number captures the entire outcome the budget was aiming at, and it requires no categorisation at all.",
+          "It is calculable from two things most people already have: total income for the year, and the change in total savings and investment balances over the same period with market movement stripped out. Fifteen minutes, once a year. If the figure is rising, the system is working regardless of what any individual category did.",
+          "The reason this works as a substitute is that the categories were never the objective. Nobody's financial position improved because they correctly classified a supermarket receipt. The gap improved it, and the gap is directly measurable without any of the intermediate machinery. Watching the outcome rather than the inputs is both less work and more relevant, which is an unusual combination and worth taking when it appears.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
