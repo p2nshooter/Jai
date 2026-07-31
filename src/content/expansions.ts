@@ -1404,6 +1404,316 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'scam-proof-your-money',
+    sections: [
+      {
+        h: "Why intelligence offers no protection",
+        p: [
+          "The single most persistent myth about fraud is that it happens to people who are careless or credulous. The data does not support this. Victims span every level of education, income and professional background, and some categories of fraud disproportionately affect people with more assets and more financial sophistication, for the obvious reason that they are worth more effort to target.",
+          "The reason expertise does not protect is that these attacks do not operate on the reasoning system at all. They work by inducing a state — urgency, fear, excitement, obligation — in which deliberate reasoning is suppressed. Someone who understands exactly how a particular scam works can still fall for it while in that state, and many have.",
+          "This matters practically because it changes what a defence has to look like. Knowing more does not help much. What helps is a procedural rule that operates regardless of state: something you do every time, that does not require you to correctly assess the situation in the moment, because assessing the situation in the moment is precisely the capability being attacked.",
+        ],
+      },
+      {
+        h: "The urgency signature",
+        p: [
+          "Almost every fraudulent approach shares one feature, and it is the most reliable single indicator available: an artificial time constraint. The account will be frozen. The offer closes today. The transfer must happen before the office closes. The investigation requires immediate cooperation.",
+          "The reason urgency is universal is that it is functionally necessary. Every one of these schemes fails if the target consults someone else or thinks about it overnight, so manufacturing a reason not to is the essential step. Legitimate organisations occasionally have genuine deadlines and they are almost never measured in minutes, and none of them are harmed by you calling back.",
+          "This yields a rule requiring no judgement at all: any request involving money that comes with a deadline shorter than a day gets nothing until tomorrow. Applied without exception, this defeats the overwhelming majority of attacks, at the cost of occasionally being slower than necessary on a legitimate matter. That is a favourable trade by a very wide margin.",
+        ],
+      },
+      {
+        h: "Impersonation and the callback rule",
+        p: [
+          "A large share of fraud involves someone claiming to be an institution you have a relationship with: a bank, a tax authority, a utility, a police service. The impersonation is frequently good, incorporating real details about you that were obtained from a data breach, which is why the presence of accurate personal information proves nothing about who is calling.",
+          "Caller ID cannot be trusted, as displayed numbers are trivially spoofed. Email addresses and message sender names offer no assurance either. The only reliable verification is to end the contact entirely and initiate a new one yourself, using a number or address you obtained independently — from a card, a statement, or the organisation's website typed in directly rather than followed from a link.",
+          "The detail that catches people is using the same line immediately after hanging up, since some attacks hold the line open. Waiting several minutes, or using a different device, closes that. It sounds excessive and it is a two-minute cost applied to a category of event that would otherwise be extremely expensive.",
+        ],
+      },
+      {
+        h: "The investment approaches that target savers specifically",
+        p: [
+          "Fraud aimed at people with accumulated savings looks quite different from the crude approaches, and it is considerably more dangerous because it resembles legitimate activity. The presentation is professional, the documentation looks credible, the returns quoted are attractive but not absurd, and there is frequently a real regulated firm being impersonated.",
+          "Two features distinguish these reliably. The first is that returns are described as certain, guaranteed, or fixed at a level well above what safe assets pay. There is no legitimate instrument offering that combination, and the presence of the claim is close to conclusive on its own. The second is pressure to act before verification is complete.",
+          "The defence is jurisdictional and specific: check the firm on your country's regulator register, using the register directly rather than a link supplied by the firm, and check that the contact details on the register match the ones you were given. Cloned firm fraud, where a real authorised firm's identity is copied with different contact details, is common enough that the second half of that check matters as much as the first.",
+        ],
+      },
+      {
+        h: "The approaches that arrive through relationships",
+        p: [
+          "The most damaging category by amount lost per victim frequently involves an established relationship, built over weeks or months, before money is ever mentioned. This includes romance fraud, long-running investment relationships, and approaches that come through a genuine acquaintance whose own account has been compromised.",
+          "These defeat every rule based on suspicion of strangers, because by the time money is discussed the person is not a stranger. The relationship is the mechanism, and the investment of time is what makes the eventual request seem reasonable and makes disengaging feel like a betrayal.",
+          "The rule that still works here is about direction and channel rather than about trust. Money that moves toward someone you have never met in person, or that leaves through a channel with no reversal mechanism, deserves an independent conversation with someone uninvolved before it moves. The reluctance to have that conversation, which victims consistently report, is itself the strongest available signal that it is needed.",
+        ],
+      },
+      {
+        h: "Why irreversible payment channels are the tell",
+        p: [
+          "Fraud requires that the money cannot come back, which narrows the channels available and makes the requested payment method one of the most informative signals in any transaction. Bank transfers to a new account, cryptocurrency, gift card codes, and money transfer services all share the property of being effectively final.",
+          "No legitimate organisation requires payment in gift cards. No tax authority, court or police service accepts cryptocurrency. A genuine business will accept a payment method with buyer protection, and reluctance to do so is not a preference, it is the requirement of the scheme.",
+          "Setting up the defence in advance is worth doing. Knowing which of your payment methods have reversal and dispute mechanisms, and defaulting to those for anything unfamiliar, converts a decision made under pressure into one made in advance. Many banking apps also allow transfer limits and confirmation delays to be set, and a delay you cannot override in the moment is precisely the kind of protection that works when your judgement is compromised.",
+        ],
+      },
+      {
+        h: "Afterwards, and the second wave",
+        p: [
+          "Speed matters enormously if something has gone wrong. Contacting the bank immediately, before any attempt to work out what happened, occasionally allows a transfer to be stopped or recalled. Reporting to the relevant national fraud body creates a record that matters for any subsequent claim.",
+          "The part that is rarely mentioned is the follow-up attack. Victims are frequently approached again, sometimes within weeks, by people offering to recover the lost money for an upfront fee. These recovery approaches specifically target people already known to have lost money, and they succeed because the emotional stakes are higher the second time.",
+          "The last thing worth saying concerns shame, which is the reason a large proportion of fraud is never reported. Reporting rates are low precisely because victims blame themselves, and that silence protects the people running these schemes far more effectively than any technical measure. The mechanisms described here defeat sophisticated, prepared, professional operations by design. Being caught by one is not evidence of a defect in the person caught. None of this is financial advice; it is a description of how these approaches work and what interrupts them.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'rebalancing-when-and-why',
+    sections: [
+      {
+        h: "Calendar bands versus tolerance bands",
+        p: [
+          "There are two established ways to decide when to act, and they suit different temperaments. Calendar rebalancing acts on a fixed date regardless of how far the portfolio has drifted. Tolerance-band rebalancing acts whenever a component moves beyond a set distance from its target, regardless of the date.",
+          "The calendar version is simpler, requires no monitoring, and can act when nothing needs doing or fail to act when something does. The band version responds to what has actually happened and requires you to be watching, which reintroduces the temptation to look frequently.",
+          "The hybrid that most institutional practice has settled on captures the strengths of both: check on a fixed schedule, act only if a band has been breached. This means one review per year or half-year, at most one trade, and no monitoring in between. It is close to the minimum viable version of this discipline and it performs nearly as well as anything more elaborate.",
+        ],
+      },
+      {
+        h: "How wide the bands should be",
+        p: [
+          "Narrow bands mean frequent trading, more transaction costs, more tax events in unsheltered accounts, and a portfolio held very close to target. Wide bands mean rare trading, minimal costs, and a portfolio that spends much of its time meaningfully away from the intended allocation.",
+          "The evidence suggests the outcome is fairly insensitive across a wide middle range, which is unusually good news: there is no precision to be lost by choosing a reasonable figure rather than an optimal one. Something in the region of a fifth of the target weight as a trigger is a common and defensible choice, meaning a component targeted at a given proportion is left alone until it drifts a fifth of that away in either direction.",
+          "What is worth avoiding is the extremes. Very narrow bands generate costs that reliably exceed any benefit. Very wide ones effectively abandon the discipline, since a portfolio that only rebalances after enormous drift is a portfolio whose risk profile has already changed for years at a time.",
+        ],
+      },
+      {
+        h: "Rebalancing with new money instead of trades",
+        p: [
+          "For anyone still contributing, there is a version of this that avoids selling anything at all. Direct each new contribution toward whichever component is currently below its target, and the portfolio drifts back toward the intended weights without a single disposal.",
+          "This is meaningfully better in unsheltered accounts because it generates no taxable event, and it is better everywhere because it generates no transaction costs beyond the purchase that was happening anyway. For a portfolio in its accumulation phase with regular contributions, it can handle most ordinary drift on its own.",
+          "The limitation is scale. Once the portfolio is large relative to annual contributions, new money cannot correct a substantial drift, and actual rebalancing trades become necessary. The crossover happens gradually and it is worth knowing which regime you are in, because someone in the first regime is doing unnecessary work if they are also trading.",
+        ],
+      },
+      {
+        h: "The tax dimension in unsheltered accounts",
+        p: [
+          "Selling an appreciated holding to rebalance can realise a taxable gain, which is a real cost that the rebalancing benefit has to exceed. This is why the mechanics differ between sheltered and unsheltered accounts and why treating them identically is a mistake.",
+          "Several approaches reduce the cost. Doing all rebalancing inside sheltered accounts where possible, and letting the unsheltered portion drift, achieves the overall allocation with no tax consequence. Using contributions and any withdrawals to adjust weights, as above, avoids disposals. Where a disposal is unavoidable, selling the specific holdings with the smallest gains, if your jurisdiction permits identification of lots, reduces the charge.",
+          "Rules vary enormously by country and change over time, so nothing here should be taken as guidance about any specific tax system. The general principle that transfers is that rebalancing has a cost in unsheltered accounts which it does not have in sheltered ones, and the decision threshold should reflect that difference rather than ignoring it.",
+        ],
+      },
+      {
+        h: "What the evidence says about the benefit",
+        p: [
+          "Rebalancing is sometimes promoted as a source of additional return, on the grounds that it systematically sells high and buys low. The research is more equivocal than that framing suggests, and the honest position is that the return effect is small, inconsistent, and dependent on the specific assets and period examined.",
+          "Where the evidence is much clearer is on risk. A portfolio left unrebalanced drifts steadily toward whichever component grew fastest, which over a long period means drifting toward higher risk, since the higher-return asset compounds faster. An investor who chose a moderate allocation twenty years ago and never rebalanced is holding a considerably more aggressive portfolio than the one they selected.",
+          "So the accurate claim is that rebalancing is risk control rather than return enhancement. It keeps the portfolio at the risk level you chose, which matters most in the years when a decline would be least survivable. Selling it as a return strategy sets up a disappointment; selling it as maintenance sets an expectation it actually meets.",
+        ],
+      },
+      {
+        h: "Why it feels wrong every single time",
+        p: [
+          "The consistent experience of rebalancing is that it feels like a mistake at the moment of execution. You are selling the thing that has been working and buying the thing that has not, on the basis of an arithmetic rule rather than any view about what happens next. Every instinct argues against it.",
+          "That discomfort is not a signal to reconsider; it is a structural feature of a contrarian rule. If rebalancing felt comfortable, it would mean the components had not diverged, which would mean there was nothing to do. The discomfort and the need are the same thing observed from two directions.",
+          "This is the strongest argument for making the rule mechanical and deciding it in advance. A rebalancing policy written down in a calm moment and executed without reconsideration works. One that is reconsidered each time, on the merits, in the presence of recent performance, becomes a market view dressed as a maintenance procedure, and market views are precisely what the discipline was designed to remove.",
+        ],
+      },
+      {
+        h: "When the target itself should change",
+        p: [
+          "Rebalancing restores a portfolio to its target, which raises the separate question of when the target should move. Confusing these two is common and consequential, because it lets a market-driven decision masquerade as a plan revision.",
+          "Legitimate reasons to change a target are all internal: a shortening horizon as retirement approaches, a change in income stability, a new dependant, an inheritance that changes the scale of everything, or the discovery through experience that you cannot tolerate the volatility you signed up for. That last one is a genuine and underrated reason, and adjusting after living through a real decline is a reasonable response to new information about yourself.",
+          "Illegitimate reasons are all external and all involve the recent past. A strong run, a poor run, a widely predicted event, a compelling argument about the next decade. None of these are reasons to alter a long-term allocation, and each of them will present itself as one. Writing the legitimate list down in advance, and requiring any change to cite an item from it, is a small piece of structure that protects a portfolio from a great deal of well-intentioned damage. As always, none of this is financial advice.",
+        ],
+      },
+      {
+        h: "Rebalancing across accounts rather than within them",
+        p: [
+          "Most people hold investments in more than one place: a workplace pension, a personal account, perhaps an older scheme from a previous employer. Rebalancing each of these separately to the same allocation is intuitive and it is not the most efficient arrangement.",
+          "The portfolio that matters is the aggregate across all of them, and the target allocation applies to that total rather than to each container. This means individual accounts can hold quite lopsided allocations while the whole remains balanced, which opens up an option: place the components with the least favourable tax treatment inside the sheltered accounts, and let the unsheltered account hold whatever suffers least from being taxed.",
+          "The prerequisite is a single view of everything, which most people do not have because the accounts are at different providers. A spreadsheet listing every holding and its value across all accounts, updated when you rebalance, supplies it in about half an hour. Without that view, it is not possible to know what the actual allocation is, which means the rebalancing being performed is against a target nobody has measured.",
+        ],
+      },
+      {
+        h: "A policy you can write in five lines",
+        p: [
+          "The whole of this can be reduced to a short written statement, and writing it down is what converts an intention into something that survives the moment. Five lines suffice: the target weights, the tolerance band that triggers action, the date of the annual check, whether new contributions are used first, and the list of circumstances that would justify changing the targets themselves.",
+          "Keeping this document somewhere you will find it in a year is the only maintenance it requires. Its value appears specifically when markets have moved sharply and you are inclined to reconsider everything, at which point a statement written by a calmer version of yourself is considerably more useful than fresh reasoning.",
+          "It also makes the annual review take ten minutes rather than an afternoon, because the questions have already been answered and only the arithmetic is left. That is the practical case for a written policy: not that it produces better decisions in principle, but that it removes the need to make most of them again.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'scam-proof-your-money',
+    sections: [
+      {
+        h: "Reducing what is available to be used against you",
+        p: [
+          "Most convincing approaches are built from information the attacker obtained beforehand, and the accuracy of that information is what makes them credible. Reducing the available material is therefore a genuine defence, even though it is less immediately satisfying than a rule about hanging up.",
+          "The practical measures are unglamorous. Check whether your details have appeared in known data breaches, which several free services report. Review the privacy settings on any account that publishes your connections, employer, location or family relationships, since all of these are raw material. Be deliberate about what appears publicly about travel plans, which is used to time approaches.",
+          "The largest single measure is unique passwords on financial accounts, backed by a second factor, so that a breach at one service does not cascade. This does not prevent social engineering, which is a separate attack surface, and it removes the entire category of compromise that requires no interaction with you at all.",
+        ],
+      },
+      {
+        h: "Protecting people who are more exposed than you",
+        p: [
+          "Certain groups face a higher volume of targeted approaches, particularly older people living alone, people recently bereaved, and people whose circumstances have become publicly visible. Protecting a family member in one of these positions is a different problem from protecting yourself, because it has to be done without removing their autonomy.",
+          "What tends to work is a named person and a standing agreement rather than any monitoring arrangement. An explicit understanding that any request for money, from anyone, gets a phone call to a specific family member first, framed as a normal precaution that everyone in the family follows rather than as a measure directed at them. Some banks offer a trusted contact arrangement that notifies a nominated person about unusual activity without giving them any control over the account.",
+          "The thing to avoid is a dynamic where being approached feels like something to conceal. Victims frequently report that the strongest deterrent to telling anyone was anticipating the reaction. A family in which fraud attempts are discussed openly, including the ones that nearly worked, is considerably more resistant than one where the subject carries embarrassment.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'fees-the-quiet-wealth-killer',
+    sections: [
+      {
+        h: "Working the arithmetic yourself",
+        p: [
+          "The claim that a single percentage point can consume a quarter of a portfolio sounds like rhetoric until you construct the comparison. Take two identical portfolios, both growing at the same gross rate with the same contributions, one paying a percentage point more in annual charges. Run both for a working lifetime.",
+          "The gap that emerges is not one percent of the final figure, nor is it forty times one percent. It is much larger, because the charge is taken every year from a balance that would otherwise have compounded, and the growth on the money removed is removed as well. The effect accelerates in exactly the way the growth does, only against you.",
+          "Doing this calculation once, with your own numbers, is worth more than any general statement about fees. Free compounding calculators handle it in a few minutes, and the resulting figure tends to change behaviour in a way that a percentage never does. A charge expressed as a percentage sounds negligible. The same charge expressed as the sum it will cost you over a career does not.",
+        ],
+      },
+      {
+        h: "Percentage charges against flat charges",
+        p: [
+          "One structural distinction matters more than most people realise: whether a charge is a percentage of your assets or a fixed amount. The service delivered by a platform holding a portfolio is very largely the same whether the portfolio is small or large, and yet percentage charging means the cost rises without limit as the balance grows.",
+          "This produces a crossover point. Below it, percentage charging is cheaper because the percentage of a small balance is less than the flat fee. Above it, flat charging is dramatically cheaper, and the gap widens every year the portfolio grows. A great many people pass that crossover point without noticing, because nothing prompts a review and the charge is deducted automatically.",
+          "Working out where the crossover sits for your options, and setting a reminder to check when your balance approaches it, is a specific and finite piece of work. For a portfolio that will grow over decades, it is among the highest-value hours available, and the industry has no reason to prompt it.",
+        ],
+      },
+      {
+        h: "What advice is worth and when",
+        p: [
+          "Not all charges are extractive, and the case for paying for genuine advice deserves fair treatment. There are situations where professional input can be worth considerably more than it costs: complex tax positions, business sale proceeds, cross-border arrangements, estate planning, and the transition from accumulating to drawing down, which is genuinely difficult.",
+          "The distinction that matters is between advice charged as a one-off fee for a defined piece of work and advice charged as an ongoing percentage of assets indefinitely. The first is a service with a price. The second means the cost rises with your balance regardless of whether the work does, and over decades it can consume an enormous amount for a relationship that may amount to an annual meeting.",
+          "Where ongoing advice is genuinely wanted, the question worth asking is what specifically will be done each year that justifies the recurring charge. A clear answer is a reasonable basis for proceeding. A vague one, or an answer that amounts to monitoring and reassurance, is expensive for what it delivers, particularly when the underlying portfolio is a handful of index funds that need almost nothing done to them.",
+        ],
+      },
+      {
+        h: "The charges that are deliberately hard to total",
+        p: [
+          "A recurring frustration for anyone investigating their own costs is that no single document shows the total. Platform charges appear in one place, fund charges in another, transaction costs in a third, and any advice charge somewhere else entirely. Each disclosure is compliant and the aggregate is nowhere.",
+          "Building the total yourself is the only way to know it, and it is a one-afternoon exercise. List every account, find the platform or administration charge for each, find the ongoing charges figure for every fund held, weight them by how much is in each, and add any advice or transaction costs. The output is a single percentage describing what your money actually costs to hold.",
+          "People who do this for the first time are frequently surprised, and the surprise is almost always in the same direction. It is also actionable in a way that a vague sense of paying too much is not: with a total in hand, you can compare it against what a straightforward alternative would cost, and the difference is the annual sum at stake.",
+        ],
+      },
+      {
+        h: "Legacy accounts are where the worst charges live",
+        p: [
+          "The single most expensive holdings most people own are usually in accounts they have forgotten about. A pension from an employer two jobs ago, an investment product bought a decade ago on someone's recommendation, an account opened for a specific purpose and never revisited.",
+          "These carry the charging structures of the era in which they were opened, which in many cases are several times current levels. Nobody has any incentive to draw attention to this, and the annual statement is typically designed to report performance rather than to make the cost prominent.",
+          "Locating and reviewing these is genuinely worthwhile. Consolidation is frequently but not always the answer, since some older products carry valuable guarantees or benefits that would be lost on transfer, and exit penalties exist on some contracts. The point is to find out rather than to act automatically. The distinction between an expensive old product and a valuable one is not visible from the outside and is usually discoverable by asking the provider directly.",
+        ],
+      },
+      {
+        h: "What a reasonable total actually looks like",
+        p: [
+          "It is fair to ask what the target is, having established that the total is worth measuring. A portfolio of broad index funds on a competitively priced platform, self-managed, can be held for a total annual cost that is a small fraction of one percent, and this is available to ordinary retail investors in most developed markets without any special access.",
+          "Above that, each additional increment should be buying something identifiable. Active management, specialist exposure, ongoing advice, a platform offering something the cheap one does not. Any of these may be worth it; the test is whether you can name what you are getting.",
+          "The figure that should prompt investigation is a total in the region of two percent or more, which was common a generation ago and persists in legacy products and some advised arrangements. Over a long horizon a charge at that level consumes a very substantial share of the eventual outcome, and in most cases a cheaper alternative delivering substantially the same exposure exists a form away.",
+        ],
+      },
+      {
+        h: "The one cost worth paying more for",
+        p: [
+          "Having argued consistently for minimising charges, there is a legitimate exception worth naming. If a slightly more expensive arrangement is one you will actually stick with, and a cheaper one is one you would abandon or mismanage, the more expensive one is better.",
+          "This applies most often to people who genuinely cannot leave a portfolio alone. Someone whose history is of selling during every decline may do better in a more expensive arrangement that removes the ability to interfere than in a cheap self-managed one they will damage. The behavioural cost of a badly-timed exit exceeds decades of fee difference.",
+          "The honest framing is that this is a real consideration and it is also the argument every expensive arrangement makes about itself. The test is your own record rather than the claim: someone who has held through a previous decline has evidence they do not need to pay for that protection. Someone who has not may be buying something worth having. As with everything on this site, this is educational rather than advice, and the right structure depends on the person operating it.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'what-is-a-stock-really',
+    sections: [
+      {
+        h: "What the ownership actually entitles you to",
+        p: [
+          "A share confers a specific and limited set of rights, and knowing what they are removes a good deal of confusion about what the thing is. You are entitled to a proportional claim on whatever the company distributes to shareholders, a proportional claim on whatever remains if it is wound up after everyone else is paid, and typically a vote on certain company matters.",
+          "The order of that second claim matters. Shareholders rank behind employees, suppliers, tax authorities and lenders. If a company fails, those claims are settled first, and shareholders receive whatever remains, which is frequently nothing. This is the structural reason shares are riskier than bonds issued by the same company, and it is not a matter of market sentiment but of legal position.",
+          "The compensation for that position is that the shareholder's claim is uncapped on the upside. A lender receives the agreed interest and nothing more regardless of how well the company does. A shareholder participates in all of it. Risk and return are not correlated by coincidence here; they are two descriptions of the same structural arrangement.",
+        ],
+      },
+      {
+        h: "Where the price actually comes from",
+        p: [
+          "A share price is not a measurement of anything about the company directly. It is the price at which the last transaction occurred between two people with different views, which means it reflects the marginal opinion rather than any consensus valuation.",
+          "In principle the value of a share is the present value of all the cash the company will ever return to its owners, discounted for time and uncertainty. Every input to that calculation is unknowable, which is why reasonable people arrive at very different figures and why prices move as much as they do on information that changes the estimate only slightly.",
+          "This has a practical implication for anyone watching a price move. A twenty percent fall does not mean the business is twenty percent worse. It means the marginal buyer and seller have revised their estimate of an inherently unknowable future, or that something unrelated to the company has changed the price of risk generally. Neither of these is a fact about the business, which is why price movement is such a poor guide to what to do.",
+        ],
+      },
+      {
+        h: "Dividends, buybacks and what happens to profit",
+        p: [
+          "A profitable company has three broad options for what it earns: reinvest it in the business, distribute it to shareholders as dividends, or use it to buy back its own shares. Understanding these clarifies a great deal about why different companies behave so differently.",
+          "A company with attractive opportunities to expand will generally reinvest, paying little or nothing out, on the reasoning that shareholders are better served by growth than by cash. A mature company without such opportunities distributes instead, since retaining cash it cannot deploy well destroys value. Neither approach is superior; they suit different situations.",
+          "Buybacks reduce the number of shares outstanding, which increases each remaining holder's proportional claim on the same business. Economically this resembles a dividend, with different tax treatment in most jurisdictions and different signalling. The important point for an ordinary investor is that a company paying no dividend is not failing to return value; it may simply be returning it through a different route or reinvesting it.",
+        ],
+      },
+      {
+        h: "What a falling price does not tell you",
+        p: [
+          "The most useful discipline for an individual investor is to notice how little information a price movement contains. Prices fall for reasons ranging from a genuine deterioration in the business to a large holder needing liquidity for unrelated reasons to a general repricing of risk across every asset simultaneously.",
+          "The last of these is particularly worth understanding, because in a broad market decline the individual holdings are frequently falling for no reason connected to themselves at all. An index fund holder watching a decline is watching the price of risk change, not receiving news about thousands of companies at once.",
+          "This is why the appropriate response to a decline depends entirely on what caused it, and why the reflexive response of selling is so consistently damaging. Someone holding a broad diversified position who sells during a general repricing has converted a temporary quotation into a permanent loss for reasons that had nothing to do with the businesses they owned.",
+        ],
+      },
+      {
+        h: "Why individual companies are riskier than they look",
+        p: [
+          "Research into long-run stock returns has produced a finding that surprises most people: across large samples of individual companies over long periods, the majority underperform even safe short-term government debt, and the entire aggregate market return is generated by a small minority of extraordinary performers.",
+          "This is a much stronger statement than the usual observation that picking winners is hard. It means the median outcome for an individual company is poor, and that a portfolio of a handful of companies is considerably more likely to miss the few that generated the market return than to catch them.",
+          "It is also the most rigorous argument for owning broadly rather than selectively. A broad index fund guarantees owning the small number of extraordinary performers, because it owns everything. A concentrated portfolio has to identify them in advance, and the historical record on doing that is not encouraging even among people who do it professionally.",
+        ],
+      },
+      {
+        h: "Thinking in years rather than quotes",
+        p: [
+          "The most valuable consequence of understanding what a share is comes from noticing the mismatch between the timescale of the ownership and the timescale of the quotation. You own a claim on decades of future business activity, and you are shown a price that changes every few seconds.",
+          "That mismatch is the source of most of the behavioural damage described elsewhere on this site. A price observed constantly invites a response, and almost every response is worse than none. The same holding observed once a year prompts far fewer decisions and produces better outcomes, which is a strange thing to be true and is consistently supported by the evidence on investor returns.",
+          "The practical version of this is to check holdings on a schedule rather than when prompted, to avoid financial media designed to generate a sense that action is required, and to make any change on the basis of your own circumstances rather than the price. A share is a slice of a business that will still exist next year. It rarely requires an opinion this week. None of this is financial advice; it is a description of what the instrument is.",
+        ],
+      },
+      {
+        h: "The gap between the business and the investment",
+        p: [
+          "One of the more counterintuitive facts about equities is that a good business is not automatically a good investment, and the reason is price. If everybody agrees a company will do well, that expectation is already reflected in what you pay for it, and your return depends on the company doing better than the expectation rather than merely doing well.",
+          "This explains an otherwise puzzling pattern: periods in which a sector genuinely transformed the economy while its investors did badly. The transformation was real, the businesses succeeded, and the prices paid at the outset already assumed an outcome even better than the one that arrived. The investors were right about the industry and wrong about what it was worth.",
+          "The practical consequence for anyone tempted to buy individual companies is that a compelling story about a business is not, on its own, a reason. It is usually a reason the price is already high. This is not an argument that the price is always correct, only that a view about a company's prospects has to be a view about how they differ from what everyone else already assumes, which is a considerably harder thing to have.",
+        ],
+      },
+      {
+        h: "Reading a company without becoming an analyst",
+        p: [
+          "Even for someone who intends only to hold index funds, a rough sense of how a business is described in its own reporting is worth having, because it demystifies the vocabulary that financial media uses without explanation.",
+          "Three figures cover most of it. Revenue is what came in the door before any costs. Profit is what remained after them, and the gap between the two describes how much of the activity is actually productive. Cash flow describes what physically moved, which can differ substantially from accounting profit and is harder to present flatteringly.",
+          "The relationship between price and profit, expressed as a ratio, is the most commonly quoted valuation measure and it is more limited than its ubiquity suggests: it uses one year's profit, which may be unrepresentative, and it ignores debt entirely. It is a starting point for a conversation rather than an answer, which is roughly how it should be treated whenever it appears in a headline.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'fees-the-quiet-wealth-killer',
+    sections: [
+      {
+        h: "How the charge is actually taken",
+        p: [
+          "Part of why fees go unnoticed is the mechanism by which they are collected. Fund charges are typically deducted from the fund's assets daily, before any price is published, which means the price you see is already net of them. Nothing ever appears as a payment, and no statement shows a line item.",
+          "Platform charges are more visible but often taken from cash within the account rather than billed, which means they too are absorbed without any transaction that prompts attention. Advice charges deducted from the portfolio work the same way. The result is a set of substantial recurring costs, none of which ever requires you to actively part with money.",
+          "This is worth understanding because it explains why people who scrutinise every household bill frequently have no idea what their investments cost. The design is not deceptive in any regulatory sense — all of it is disclosed — and it removes every psychological cue that would ordinarily trigger review. Substituting a deliberate annual check for the absent cue is the only remedy.",
+        ],
+      },
+      {
+        h: "What to do with the number once you have it",
+        p: [
+          "Having totalled your costs, the useful next step is to convert the percentage into a currency amount and then into an annual figure you would notice. A percentage of a six-figure balance stops sounding abstract the moment it is expressed as a sum per year, and comparing that sum to things you deliberate over is clarifying.",
+          "The second conversion is forward-looking: what the same charge costs across the remaining years to retirement, including the growth forgone. This figure is invariably far larger than the annual one and it is the number that should inform whether a change is worth the paperwork.",
+          "Armed with both, the decision becomes straightforward rather than agonising. A transfer that takes a few forms and saves a substantial recurring amount is obviously worth doing. One that saves a trivial amount and risks losing a valuable guarantee is not. The arithmetic settles it, which is the entire reason for doing the arithmetic rather than relying on a general sense that fees matter.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
