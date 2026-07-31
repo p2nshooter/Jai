@@ -4092,6 +4092,157 @@ export const EXPANSIONS: Expansion[] = [
           "Put together, a single successful conversation early in a career can be worth a very large amount over the decades that follow, and a decade of not having it is expensive in a way that is entirely invisible while it is happening. That asymmetry — a bounded, uncomfortable hour against an unbounded, compounding benefit — is the whole case, and it is why this ranks among the highest-return activities available to most people.",
         ],
       },
+      {
+        h: "Rehearsing it out loud",
+        p: [
+          "The gap between having a good case and delivering one is larger than people expect, and it closes with practice rather than with more preparation. Saying the request aloud, including the number, several times before the actual conversation removes most of the hesitation that otherwise appears at the moment it matters.",
+          "The specific sentence worth rehearsing is the one containing the figure, because that is where people falter — trailing off, adding qualifiers, or immediately offering a lower alternative. Delivered flatly and followed by silence, it does its work. Delivered apologetically and followed by an unprompted concession, it does not.",
+          "Practising with someone else is better than practising alone, since a listener will notice hedging that you will not. Failing that, recording yourself is uncomfortable and effective. Twenty minutes of this is worth more than another hour spent refining a case that was already adequate.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'skills-over-hustle',
+    sections: [
+      {
+        h: "The hourly comparison that settles it",
+        p: [
+          "The most direct way to evaluate this trade is to work out what each option actually pays per hour. For a side activity, that means total earnings divided by every hour spent, including the unbilled ones — preparation, administration, chasing payment, and the long unpaid stretch spent finding the first customers.",
+          "For skill development, the equivalent calculation is the increase in annual earnings that the skill eventually produces, divided by the hours spent acquiring it, and then multiplied by every remaining year of your career. The second term is what makes the comparison lopsided.",
+          "Run this honestly and the side activity usually pays more in year one and dramatically less across a career. That is the whole argument, and it is worth noting that it reverses for anyone whose earning ceiling is already fixed, which is a real situation in some roles and sectors.",
+        ],
+      },
+      {
+        h: "Why scarcity rather than difficulty determines pay",
+        p: [
+          "A common error in choosing what to learn is assuming that difficulty and compensation correlate. They do not directly. What determines pay is the relationship between how many people can do something and how much demand there is for it, which is a different variable entirely.",
+          "This explains several otherwise puzzling patterns: demanding work that pays poorly because many people can do it and few employers need it urgently, and comparatively straightforward work that pays well because the supply is constrained by licensing, geography or the sheer unglamorousness of it.",
+          "The practical filter is therefore not what is hard but what is scarce relative to demand in your specific market. That question is answerable by looking at what roles are persistently advertised, what recruiters say is difficult to fill, and what your own organisation struggles to hire for. It is a local question and general lists of valuable skills answer it badly.",
+        ],
+      },
+      {
+        h: "The intersection strategy",
+        p: [
+          "Becoming the best in the world at one thing is not available to most people and is not necessary. A more reachable position is to be unusually good at a combination that few people hold, which produces scarcity without requiring exceptional ability in any single component.",
+          "The combinations that pay tend to pair depth in a domain with something the domain generally lacks. Technical competence plus the ability to explain it to people who lack it. Subject expertise plus quantitative literacy. Craft skill plus the willingness to handle commercial matters. Each component is common; the pairing is not.",
+          "This has a practical implication for where to direct effort. Someone already competent in a domain frequently gains more from adding an adjacent capability than from deepening the one they have, and the adjacent capability is usually cheaper to acquire because they are starting from zero on a shallower curve.",
+        ],
+      },
+      {
+        h: "Acquiring it inside the job you already have",
+        p: [
+          "The most efficient route to a valuable skill is almost always through work you are already being paid for, which is a considerably better arrangement than paying for a course. Volunteering for the project that requires the capability you lack supplies instruction, practice, a real deadline and, critically, a demonstrable instance afterwards.",
+          "The demonstrable instance is the part that converts capability into income. Certification without application is weak evidence and everyone assessing candidates knows this. A specific thing you did, with an outcome attached, is worth considerably more than any credential describing what you could do.",
+          "Where the current role offers no such opportunity, that is itself information about the role. A job that cannot teach you anything new is a job with a fixed ceiling, and the deliberate development described here becomes an argument for moving rather than an activity to fit around staying.",
+        ],
+      },
+      {
+        h: "The payoff is delayed and that is the difficulty",
+        p: [
+          "The genuine disadvantage of this approach relative to a side activity is timing. A few hours of freelance work pays this month; a few hours of skill development pays in an uncertain amount at an uncertain point in the future, and possibly not at all if the wrong skill was chosen.",
+          "This is why the side activity feels more concrete and why so many people choose it. The feedback is immediate, the causation is visible, and there is money in an account at the end of the week. Skill development offers none of that during the period when it is most demanding.",
+          "The way through is to treat it as an investment with a long payback rather than as work, and to judge it on a multi-year horizon in the same way a portfolio is judged. A year of deliberate development that produced no visible income is not a failed year, in the same way that a year of contributions to a long-term account is not a wasted one.",
+        ],
+      },
+      {
+        h: "When the hustle is genuinely the right answer",
+        p: [
+          "The argument here is directional rather than absolute, and there are situations where the immediate income is correct. Anyone facing a near-term shortfall needs money now, and a philosophy about compounding career value does not pay a bill this month.",
+          "Someone in a role or sector where earnings are genuinely capped, regardless of capability, is in the situation where the skill argument breaks down and the additional income stream is the only lever available. So is anyone whose long-term intention is to build something independent, for whom the side activity is not a supplement but the beginning of the main thing.",
+          "The distinction worth drawing is between a side activity chosen deliberately for one of those reasons and one drifted into because it is more tangible than the alternative. The first is a decision; the second is a substitution of the visible for the valuable, which is a pattern that shows up across financial behaviour and is worth recognising here. None of this is financial advice, and the right answer depends on circumstances only you can see.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'building-a-side-income',
+    sections: [
+      {
+        h: "Choosing for fit rather than for the headline rate",
+        p: [
+          "The activities that pay best on paper are frequently the ones that are hardest to sustain alongside a job, and sustainability determines the outcome more than the rate does. An activity paying well that you can only face on a good week produces less over a year than a lower-paying one you can do reliably.",
+          "The dimensions that determine fit are worth being explicit about. Whether it can be done in short blocks or requires long uninterrupted stretches. Whether it can be paused for a fortnight without consequences. Whether it uses the same faculties as your main job, which makes it far more tiring than it looks on paper.",
+          "That last point is the one most often missed. Someone doing analytical work all day will find analytical side work exhausting in a way that physically different work is not, even at half the hours. Matching the activity to what your main job leaves untouched is a considerably better selection criterion than the advertised rate.",
+        ],
+      },
+      {
+        h: "The burnout mechanism, specifically",
+        p: [
+          "Exhaustion from a side activity does not usually come from the hours, which are often modest. It comes from the elimination of unstructured time — the evenings and weekends that were previously not allocated to anything, and which turn out to have been doing necessary work.",
+          "Recovery is not a luxury and the evidence on this is fairly clear: sustained periods without genuine downtime degrade performance, judgement and health, and the degradation is gradual enough that the person experiencing it does not notice until it is substantial. The main job usually suffers first and least visibly.",
+          "The protective measure is to schedule the unstructured time rather than treating it as what is left over. A fixed period each week that is not available for the side activity, defended as firmly as any commitment, is what makes the arrangement sustainable for years rather than months.",
+        ],
+      },
+      {
+        h: "Setting a stop condition before starting",
+        p: [
+          "Side activities almost never have exit conditions and almost always need them. Without one, a project that has stopped making sense continues from momentum and accumulated effort, consuming hours that have better uses while producing a return that is easy not to examine.",
+          "Three conditions worth defining at the outset: a date by which some level of revenue must have appeared, an effective hourly rate below which continuing is not worthwhile, and a threshold of effect on health, relationships or main-job performance beyond which it stops regardless of the money.",
+          "Writing these down takes ten minutes and converts a future decision from an agonising judgement into a matter of checking. It also makes stopping feel like following a plan rather than failing at something, which is the framing that determines whether the decision actually gets made.",
+        ],
+      },
+      {
+        h: "The administrative reality",
+        p: [
+          "Income earned outside employment brings obligations that arrive later than the money and catch people who did not anticipate them. Tax is the largest, typically charged at your marginal rate rather than your average, and payable long after the money arrived and was spent.",
+          "Registration and record-keeping requirements apply in most jurisdictions, sometimes from the first payment. Depending on your employment contract, permission may be required and clauses about outside work or ownership of what you produce are worth reading before rather than after.",
+          "The mechanism that handles most of this is the separate account described in the irregular income article on this site: every payment arrives there, a fixed percentage moves immediately to a tax reserve, and only the remainder is available. It takes fifteen minutes to set up and it prevents the most common way a promising side activity becomes a financial problem.",
+        ],
+      },
+      {
+        h: "The first customers, which is the real obstacle",
+        p: [
+          "Most side activities fail earlier than people expect: not at the skill, not at the pricing, but at finding the first few people willing to pay. This stage consumes the most time and receives the least attention in anything written about the subject.",
+          "The route that reliably works is people who already know you, and people they know. Former colleagues, past employers, and the network built through your main job convert far better than any form of outreach to strangers, because the trust problem is already solved.",
+          "This argues strongly for choosing something adjacent to your existing work, which comes with a warm market attached. An activity in an unrelated field is not impossible and starts with none, and the first year will be spent solving a problem that the adjacent option does not have.",
+        ],
+      },
+      {
+        h: "Giving the money a destination in advance",
+        p: [
+          "Side income is absorbed without trace more reliably than any other kind, because it arrives irregularly, in amounts that feel like windfalls, and after effort that creates a sense of having earned a reward. Two years of this can pass with nothing identifiable to show for it.",
+          "Deciding the destination before the first payment prevents this. A specific purpose — a debt cleared, a buffer reached, a particular goal funded — gives every payment somewhere to go and makes the progress visible, which also sustains motivation through the stretches when the work is unrewarding.",
+          "The mechanical version is that the money never touches the everyday account: it arrives in the separate account, tax is reserved, and the remainder transfers directly to its purpose. Money that is never seen as available is not absorbed, and this single arrangement is the difference between a side activity that built something and one that merely occupied two years of evenings. None of this is financial advice; it is a description of what tends to work.",
+        ],
+      },
+      {
+        h: "Pricing, and the trap of starting low",
+        p: [
+          "Underpricing is close to universal at the start and it causes more failures than lack of demand. The reasoning is that a low price attracts early customers and can be raised later, and both halves turn out to be harder than expected.",
+          "Low prices attract the most demanding and least loyal segment of any market, and raising prices on existing customers is genuinely difficult, which means the initial figure sets a ceiling that persists for years. Starting higher and negotiating down is available; starting low and negotiating up largely is not.",
+          "The practical approach is to establish the going rate by asking people already doing the work, and to price near it. Competing on price against people with more experience is the weakest available position, and the customers won that way are the ones least worth having.",
+        ],
+      },
+      {
+        h: "Knowing what success would even look like",
+        p: [
+          "A question worth answering before starting: what would make this worth having done. The possible answers are quite different and they imply different choices, which is why leaving it unanswered leads to activities that satisfy none of them.",
+          "If the answer is a specific sum for a specific purpose, the activity should be chosen for reliability and the stop condition is reaching the sum. If it is building toward something that eventually replaces the main income, the choice should favour things that accumulate — an audience, a product, a reputation — even at a lower immediate rate. If it is variety or interest rather than money, the rate barely matters and the fit matters entirely.",
+          "Most disappointment in this area comes from pursuing the second while measuring by the first, which produces a verdict of failure on an activity that was doing exactly what it should. Naming the objective at the outset costs nothing and prevents that mismatch.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'skills-over-hustle',
+    sections: [
+      {
+        h: "Evidence, without which the skill pays nothing",
+        p: [
+          "Acquiring a capability is half the work; being able to demonstrate it is the half that produces the income. A great deal of genuine development never converts, because the person can do the thing and has no way of showing anyone.",
+          "The forms of evidence that carry weight share a structure: a specific instance, with a describable outcome, that somebody else can verify. A project delivered, a problem solved with a measurable result, work in the public record, a reference from someone who saw it happen. Any of these outweighs a statement about what you are capable of.",
+          "The practical habit is to record each instance at the time rather than reconstructing it later. Five minutes after finishing something, while the specifics are still available, produces a note that is far more usable than anything assembled from memory eleven months on when it is actually needed.",
+        ],
+      },
+      {
+        h: "Protecting against the skill going obsolete",
+        p: [
+          "Specialising deeply in a capability tied to one technology, employer or market structure carries a real risk, since all three change. The defence is not to avoid specialising but to hold some development in capabilities with longer lives.",
+          "The durable ones are consistently unglamorous: clear written communication, explaining complex things simply, negotiation, understanding how the money works in whatever business you are in, and managing a piece of work to completion without supervision. None appears on any list of emerging skills, and all have been valuable for a very long time.",
+          "The sensible allocation is a mix, in the same way a portfolio is. Specific technical capability produces the near-term increase and carries obsolescence risk; durable general capability produces less immediately and does not expire. Neglecting the second is the more common error, because its payoff is diffuse and nobody sells courses in it.",
+        ],
+      },
     ],
   },
 ];
