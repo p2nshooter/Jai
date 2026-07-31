@@ -2890,6 +2890,226 @@ export const EXPANSIONS: Expansion[] = [
           "The cleaner approach is to run everything in real terms: today's spending, today's target, and a projected balance using a return net of inflation. The numbers look less impressive and they mean something, which is the trade worth making whenever a projection is going to inform a decision rather than provide reassurance.",
         ],
       },
+      {
+        h: "Why the rule persists despite its limits",
+        p: [
+          "Given how many caveats attach to it, it is fair to ask why this rule is quoted so universally. The answer is that it does one thing well that nothing else does: it converts an unbounded anxiety into a single checkable number, using arithmetic anybody can perform in a minute.",
+          "Nothing more sophisticated has that property. Detailed modelling produces better answers and requires inputs most people do not have, produces outputs that are hard to interpret, and is generally not performed at all. A rough figure calculated is worth considerably more than a precise one that nobody works out.",
+          "So the fair assessment is that it is a good first instrument and a poor final one. Used at the start of thinking about this, it establishes the order of magnitude and indicates whether current behaviour is in the right region. Used as the basis of an actual retirement decision, it is being asked to carry weight the underlying method was never built for.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'phased-retirement-gradual-exit',
+    sections: [
+      {
+        h: "Why part-time income does disproportionate work",
+        p: [
+          "The arithmetic of continued earning is more favourable than most people expect, and the reason is that it operates on both sides of the equation simultaneously. Income earned adds to resources while also removing an equivalent withdrawal, so a modest amount of work reduces the required portfolio by considerably more than the amount earned.",
+          "The effect is largest in the first years after leaving full-time work, which are also the years when sequence risk is at its most dangerous. Money earned during that window means fewer units sold during any early decline, which protects the base that everything afterwards grows from.",
+          "The practical implication is that the choice is not binary between working fully and not at all. A modest continuing income can reduce the accumulated target substantially, which for many people converts an unreachable figure into a reachable one and brings the whole decision forward by years.",
+        ],
+      },
+      {
+        h: "Designing the ramp before you need it",
+        p: [
+          "A phased exit works best when the arrangement is built while you still have leverage, which means while you are still valuable to the organisation and before any announcement of intent. Once an employer knows you are leaving, the negotiating position for a reduced arrangement is considerably weaker.",
+          "The elements worth establishing are the pattern — fewer days, fewer months, or project-based — and what happens to the things attached to employment: pension contributions, insurance cover, and any benefits with a service qualification. Several of these frequently reduce or stop below a threshold of hours, and finding that out afterwards is a common and expensive surprise.",
+          "It is also worth establishing what the role actually becomes. A reduced-hours arrangement that retains full responsibility is a pay cut rather than a phased exit, and it is the most common way these arrangements fail. The scope needs to reduce with the hours, explicitly and in writing, or the arrangement produces the same work in less time for less money.",
+        ],
+      },
+      {
+        h: "The pension complications of working while drawing",
+        p: [
+          "Combining employment income with pension income creates interactions that vary substantially between countries and can be costly if not anticipated. In some systems, drawing flexibly from a pension restricts how much can subsequently be contributed to one, which matters enormously if you intend to keep earning.",
+          "Tax is the other interaction. Two sources of income are typically taxed together rather than separately, which can push the combined figure into a higher band and produce a marginal rate on the employment income that makes it considerably less attractive than the headline suggests.",
+          "There may also be effects on entitlement to means-tested support, on the age at which certain provisions become available, and on the treatment of any remaining pot for inheritance purposes. None of this is a reason to avoid phased working; it is a reason to establish the rules that apply to you before starting rather than discovering them through a tax bill.",
+        ],
+      },
+      {
+        h: "The non-financial case, which is the stronger one",
+        p: [
+          "The evidence on abrupt retirement is mixed but consistent on one point: the transition is harder than people anticipate, and the difficulties are concentrated in structure, social contact and identity rather than in money. A phased exit addresses all three by design.",
+          "Structure persists in a reduced form rather than disappearing overnight, which gives time to build alternatives. Workplace social contact tapers rather than stopping, which matters more than people credit given how much adult friendship is workplace-mediated. And the question of what you do has a gradual answer rather than requiring an immediate one.",
+          "There is also a practical rehearsal element. A phased period reveals what a life with more free time is actually like, which is information that no amount of anticipation supplies. People frequently discover that they want more work than they expected, or a different kind, and discovering that while still employed is considerably more useful than discovering it afterwards.",
+        ],
+      },
+      {
+        h: "When the employer will not accommodate it",
+        p: [
+          "Not every organisation offers this, and some roles genuinely do not reduce well. The alternatives are worth knowing rather than treating a refusal as the end of the option.",
+          "Consulting back to the same employer as a contractor is the most common route, and it frequently suits both sides: the organisation retains access to knowledge without a permanent commitment, and you gain control over the amount of work. The considerations are different — no employment protections, different tax treatment, and the need to handle everything discussed in the irregular income article on this site.",
+          "Moving to a different employer for the final phase is the other route, and it is more available than people assume in fields where experience is valued. A role at a smaller organisation, at reduced hours and reduced pay, can be a considerably better final phase than a full-time role held on until an arbitrary date.",
+        ],
+      },
+      {
+        h: "Deciding when the ramp ends",
+        p: [
+          "The risk specific to a gradual exit is that it never completes. Without a defined endpoint, a reduced arrangement can extend indefinitely, and people find themselves still working at an age they had not intended because no particular moment presented itself as the one to stop.",
+          "Setting a date, or a condition, in advance addresses this. The condition can be financial — a portfolio level, a state pension starting — or it can be simply a date. What matters is that it exists, because in its absence the default is continuation and the default will win.",
+          "It is equally reasonable to decide that the ramp is the destination rather than a transition, and that some work continues indefinitely because it is wanted rather than needed. That is a legitimate outcome and it is different from drifting into it. The distinction is whether the arrangement was chosen, which is a question worth answering deliberately at some point rather than leaving to inertia. None of this is financial advice, and the rules governing all of it vary considerably by country.",
+        ],
+      },
+      {
+        h: "The health assumption underneath the whole plan",
+        p: [
+          "Every phased arrangement assumes continued capacity to work, and that assumption becomes progressively less safe with age. A substantial proportion of people who intend to work into their late sixties stop earlier than planned, and health is the most common reason, followed by caring responsibilities for a partner or parent.",
+          "This matters because a plan that depends on several more years of earning is a plan with a single point of failure that gets more likely each year. The prudent structure treats continued work as an improvement to a plan that would survive without it, rather than as a component the plan requires.",
+          "Practically, that means the portfolio should be able to support a reduced but acceptable standard of living from the point of leaving full-time work, with continued earnings raising that rather than making it possible. It is a more demanding standard and it is the difference between a phased retirement that is a choice and one that turns out to have been a necessity.",
+        ],
+      },
+      {
+        h: "What partners need to agree about first",
+        p: [
+          "Phased retirement in a household is rarely a decision by one person, and the coordination problem is larger than it appears. Two people rarely reach this stage at the same time, and the period where one has stopped and the other has not creates practical tensions that catch couples by surprise.",
+          "The financial half is straightforward to discuss: what income each will have, from when, and how shared costs will be met when the balance between the two earners changes substantially. The other half is harder and matters more: expectations about how time is spent, how the household division of labour changes, and what each person imagines the arrangement will look like.",
+          "The recurring finding from people who have been through it is that the assumptions each partner held were different and neither had said so. A conversation covering what a typical week is imagined to contain, held a year or two before anything changes, is one of the more useful hours available and one of the least likely to happen without deliberate scheduling.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'dollar-cost-averaging-vs-lump-sum',
+    sections: [
+      {
+        h: "Where the lump sum came from changes the question",
+        p: [
+          "The decision is usually framed as though a lump sum were a lump sum, and in practice the source matters considerably because it determines what else is going on. A redundancy payment arrives alongside a loss of income and an uncertain period ahead, which argues for holding a much larger portion in cash than the investment question alone would suggest.",
+          "An inheritance arrives alongside grief, which is a poor state in which to make irreversible decisions, and there is a strong case for parking it somewhere safe for several months before deciding anything. A bonus arrives with income continuing, which is the simplest case. Proceeds from selling a property may be needed again soon, which changes the horizon entirely.",
+          "So the first question is not how to invest it but how much of it is genuinely long-term money. Once that is settled, the averaging question applies only to that portion, and for several of these sources the answer turns out to be considerably less than the full amount.",
+        ],
+      },
+      {
+        h: "The reframe that clarifies most of it",
+        p: [
+          "There is a thought experiment that cuts through a good deal of the deliberation. Imagine the money were already invested in your target allocation. Would you sell it and move to cash, intending to reinvest gradually over the coming year?",
+          "Almost nobody answers yes, and the reason is instructive: the position feels different depending on where you are starting, even though the economic situation is identical. Holding cash and deciding whether to invest feels like an active choice with a risk attached. Holding the investment and deciding whether to sell feels like a different and more obviously unnecessary action.",
+          "That asymmetry is a well-documented feature of how people evaluate options and it does not correspond to anything real. Noticing it does not settle the question, since the psychological cost of a bad early outcome is genuine, and it does clarify that the reluctance to invest immediately is about the framing rather than about the merits.",
+        ],
+      },
+      {
+        h: "If you are going to spread it, how long",
+        p: [
+          "Where the decision is to spread, the period matters and longer is not safer in the way it feels. Extending the period increases the average time the money spends in cash, which increases the expected cost of the approach, while the reduction in the worst case flattens out fairly quickly.",
+          "Something in the range of three to twelve months captures most of the protective benefit without incurring the full cost of a longer delay. Beyond a year, the arrangement is less an approach to entering the market and more a decision to hold a substantial cash position for an extended period, which is a different choice and should be made knowingly.",
+          "The other detail worth settling in advance is what happens if markets fall sharply during the period. The disciplined answer is to continue on schedule, and the tempting one is either to accelerate to buy the dip or to pause until things settle. Both of those convert a mechanical process into a market view, which is the thing the process existed to avoid.",
+        ],
+      },
+      {
+        h: "Where the uninvested portion should sit",
+        p: [
+          "A detail that gets overlooked: money waiting to be invested over the coming months should be earning something rather than sitting in a current account. On a substantial sum over a year, the difference between a competitive rate and nothing is not trivial and it directly offsets part of the cost of spreading.",
+          "The appropriate places are the ones described elsewhere on this site for short-term money: instant access savings at a competitive rate, or a money market arrangement if the sum justifies it. What matters is that the money remains genuinely accessible on the schedule you have set, which rules out fixed terms that would penalise the withdrawals.",
+          "It is also worth checking whether the platform holding your investments pays anything on uninvested cash, since many pay very little and some pay nothing while earning interest on it themselves. For a year-long spreading period this is worth a few minutes of checking.",
+        ],
+      },
+      {
+        h: "Tax and timing considerations",
+        p: [
+          "In systems with annual tax-sheltered allowances, the timing of a large investment interacts with those allowances in ways that can matter more than the averaging question. A lump sum arriving near the end of a tax year may allow two years of allowance to be used within a few months, which is a genuine advantage available only for a limited window.",
+          "Conversely, spreading an investment across a period that crosses a tax year boundary can be used deliberately to make better use of allowances than a single large investment would. This is a legitimate reason to spread that has nothing to do with market timing.",
+          "The rules differ substantially by country and change, so nothing here applies to any particular system. The general point is that for a large sum the tax wrapper decision usually has a larger and more certain effect than the entry-timing decision, and it is worth resolving first.",
+        ],
+      },
+      {
+        h: "Making the decision once and not revisiting it",
+        p: [
+          "Whichever approach is chosen, the failure mode is the same: changing it partway through in response to what markets have done. Someone who committed to spreading and then invests everything after a rise has captured the worst of both. Someone who invested immediately and then panics into cash after a fall has done considerably worse than either pure approach.",
+          "The remedy is to write the decision down before starting, including the schedule and the explicit statement that it will not be altered on the basis of market movement. This sounds excessive for a decision about a single sum, and it is the same mechanism that protects every other part of a long-term plan from the person operating it.",
+          "It is also worth recording why the choice was made, because in a year the reasoning will have faded and the outcome will be known, and hindsight makes every decision look either obvious or foolish. The record is what allows you to judge whether the decision was reasonable given what was known, which is the only standard by which a decision under uncertainty can fairly be assessed. None of this is financial advice, and the right approach depends on circumstances only you can see.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'what-bonds-actually-do-in-a-portfolio',
+    sections: [
+      {
+        h: "The ballast claim, examined",
+        p: [
+          "The standard description of bonds as ballast rests on the observation that they have frequently risen when equities fell, which cushions the overall portfolio. This has been true in a number of significant episodes and it is a tendency rather than a rule, which is an important distinction that gets lost in the retelling.",
+          "The mechanism behind the tendency is that severe equity declines have often coincided with economic weakness, which has often prompted lower interest rates, which raises bond prices. When that chain holds, bonds do exactly what the ballast description promises.",
+          "When the chain does not hold — most notably when the problem is rising inflation rather than economic weakness — bonds and equities can fall together, and have. Anyone relying on bonds for protection should understand that they protect against one category of bad outcome well and against another category not at all.",
+        ],
+      },
+      {
+        h: "Why not simply hold cash instead",
+        p: [
+          "If the purpose is stability, the obvious question is why not use cash, which does not fall at all. The answer is that the two do different jobs and the difference is worth being precise about.",
+          "Cash is genuinely stable in nominal terms and typically earns less than bonds over long periods, which makes it expensive to hold in size for decades. Bonds accept some price variability in exchange for a higher expected return, and crucially they have the potential to rise during equity declines, which cash does not. That potential is what makes them useful for rebalancing.",
+          "The rebalancing point is the strongest practical argument. A portfolio holding something that has risen while equities fell has more to sell into the decline, which is exactly when buying equities is most valuable. Cash provides the same function without the appreciation, which is a weaker version of the same benefit at a lower long-run cost. Most sensible portfolios hold both, for different purposes.",
+        ],
+      },
+      {
+        h: "Matching bonds to a known future need",
+        p: [
+          "There is a second, quite different use for bonds that has nothing to do with portfolio ballast: matching a known liability to a known date. If you know you need a specific sum at a specific time, a bond maturing at that time delivers it with a degree of certainty no other instrument offers.",
+          "This is how institutions with defined future obligations use them, and the logic scales down. Someone with a known large expense in seven years — a school fee, a planned purchase, a mortgage balance falling due — can address it with an instrument that matures then, rather than by holding a general portfolio and hoping.",
+          "The requirement for this to work is holding to maturity, which means individual bonds rather than a fund, since a fund never matures. This is one of the clearest cases where the distinction between the two structures genuinely matters rather than being a technicality.",
+        ],
+      },
+      {
+        h: "How the equity portion changes what bonds should do",
+        p: [
+          "The appropriate bond holding depends on what it is sitting alongside, which is why a single recommendation cannot be right for everyone. A portfolio with a large, volatile equity component needs its stabilising portion to be genuinely stable, which argues for shorter duration and the highest credit quality.",
+          "A more conservative portfolio, where the equity portion is smaller, can afford more variability in the bond portion because the overall exposure is lower. Someone in that position may reasonably accept longer duration in exchange for higher expected return.",
+          "The error to avoid is reaching for yield within the stabilising portion, which is a common and quiet way of increasing risk while appearing to reduce it. A portfolio whose safe half consists of long-duration lower-quality bonds has considerably more risk than the allocation percentages suggest, and the risk shows up at precisely the moments the allocation was designed for.",
+        ],
+      },
+      {
+        h: "What happened when the ballast failed",
+        p: [
+          "It is worth being concrete about the failure case, because it happened recently enough to be within the memory of anyone reading this. In a period of sharply rising rates driven by inflation, longer-dated bonds experienced substantial declines at the same time as equities fell, and portfolios built on the assumption of an offsetting relationship did not get one.",
+          "Two lessons follow. The first is that the correlation between the two is not fixed; it varies with the underlying economic conditions and can turn positive. The second is that duration determined almost everything about how badly a bond holding was affected, which is why the earlier point about checking that single number matters.",
+          "The response is not to abandon the asset class, which would be the performance-chasing error described elsewhere on this site applied in reverse. It is to hold the appropriate duration for the job, to hold sufficient cash for the scenarios where nothing else helps, and to understand that no arrangement of financial assets protects against every category of bad outcome simultaneously.",
+        ],
+      },
+      {
+        h: "Deciding how much, without a formula",
+        p: [
+          "Rather than a rule tied to age, a more useful approach starts from the decline you could tolerate without selling. Estimate what an equity-heavy portfolio would do in a severe fall, apply that to your actual balance, and ask honestly whether you would hold.",
+          "If the answer is no, the bond and cash portion needs to be larger, and the increase should be sized so that the answer becomes yes. This is a more demanding exercise than picking a percentage from a table and it produces an allocation you can actually live with, which is the only kind that survives.",
+          "The other input is the horizon of the money and the stability of the income supporting it. Both of these have been discussed elsewhere on this site and both matter more than age. The combination — what you can tolerate, when the money is needed, and how secure the income is — determines the answer more reliably than any single-variable rule. None of this is financial advice, and the appropriate allocation is specific to the person holding it.",
+        ],
+      },
+      {
+        h: "Whose bonds, and in which currency",
+        p: [
+          "Two choices sit underneath any bond allocation and both are frequently made by default. The first is whose debt you are holding: your own government, other governments, or corporations. The second is what currency it is denominated in, which for the stabilising portion of a portfolio matters more than people expect.",
+          "A bond holding in a foreign currency introduces exchange rate movement, which can easily exceed the price movement of the bonds themselves. That variability defeats the purpose of a stabilising allocation, which is why international bond exposure in a retail portfolio is usually held with the currency risk hedged back to the home currency.",
+          "This is one of the few places where the more complicated-sounding option is the more conservative one. An unhedged foreign bond fund is a bet on currencies wearing the clothes of a safe asset, and it is a common holding among people who chose it on yield without noticing what else came with it.",
+        ],
+      },
+      {
+        h: "The quiet role in a drawdown plan",
+        p: [
+          "Bonds acquire an additional function once a portfolio is being drawn on rather than added to, and it is the one that matters most at that stage. Holding an asset that is unlikely to have fallen sharply means withdrawals can come from it during an equity decline, leaving the equity portion untouched to recover.",
+          "This addresses the sequence problem described elsewhere on this site directly. A retiree drawing entirely from equities during a severe early decline locks in the loss permanently. One drawing from a bond and cash allocation during the same period does not, and the difference in outcomes over a long retirement is substantial.",
+          "The practical structure that follows is a small number of years of expenses held outside equities, replenished from the equity portion during good periods rather than bad ones. It is not complicated and it changes the risk profile of a drawdown considerably more than any adjustment to the overall allocation percentages does.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'dollar-cost-averaging-vs-lump-sum',
+    sections: [
+      {
+        h: "What the choice is worth in practice",
+        p: [
+          "Before spending much deliberation on this, it is worth establishing the size of what is at stake, because it is frequently smaller than the amount of writing on the subject implies. Across a full range of historical periods, the average difference between investing immediately and spreading over a year is real and modest.",
+          "In the majority of cases where immediate investment won, it won by an amount that would not have changed anyone's life. In the minority where spreading won, it occasionally won by a great deal, because those were the periods containing an early crash.",
+          "This suggests a proportionate response. For a sum that is small relative to your total position, the decision barely matters and the time is better spent on the allocation. For a sum that is large relative to everything else you have — which is the situation people are usually in when they ask this question — the tail outcomes matter more, and the case for reducing variance strengthens accordingly.",
+        ],
+      },
+      {
+        h: "The special problem of inherited money",
+        p: [
+          "Money received after a death carries a set of complications no other lump sum has, and treating it as a purely financial question tends to go badly. Decisions made within the first months are frequently regretted, and the regret takes forms that have nothing to do with returns.",
+          "Some of it is practical: estates take time to settle, there may be obligations not yet visible, and other beneficiaries may have expectations. Some of it is emotional, and it takes forms people do not anticipate — a reluctance to spend any of it, a compulsion to do something significant with it, or a sense that certain uses would be disrespectful.",
+          "The advice that consistently holds up is to do nothing for several months beyond putting the money somewhere safe and accessible. Nothing is lost by waiting, the decisions available do not expire, and the person making them after six months is considerably better placed than the one making them after six days.",
+        ],
+      },
     ],
   },
 ];
