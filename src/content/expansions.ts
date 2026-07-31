@@ -4624,6 +4624,212 @@ export const EXPANSIONS: Expansion[] = [
           "The practical version is discussed at more length in the teaching children article here, and the short form is that reliability and ordinary visible reasoning do most of the work. A household where costs are mentioned matter-of-factly, where trade-offs are explained, and where promises about money are kept is transmitting a workable script without anybody having to deliver a lesson.",
         ],
       },
+      {
+        h: "Not every script needs replacing",
+        p: [
+          "It would be a mistake to treat every inherited attitude as a defect. Some of them are well adapted to the circumstances that produced them and remain useful. A cautious orientation formed in an insecure household frequently produces excellent saving habits, and someone who grew up watching money handled badly may have learned exactly the right lessons from it.",
+          "The test is not where an attitude came from but whether it is producing outcomes you would choose. Caution that builds a solid buffer is working. The same caution preventing any long-term investment for thirty years is not, and the difference is in the consequences rather than in the origin.",
+          "So the exercise is diagnostic rather than corrective by default. Identify what the script is, look at what it has produced over the past decade, and change only the parts that are costing you something. A financial life run on inherited instincts that happen to be sound is a perfectly good financial life, and the objective is functioning rather than examined.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'good-debt-bad-debt-the-question-that-matters',
+    sections: [
+      {
+        h: "The question, stated precisely",
+        p: [
+          "If the good and bad labels are unreliable, something has to replace them, and one question does most of the work: what is the total cost of this borrowing, and what am I getting for it that I could not otherwise get?",
+          "Both halves matter. The total cost is not the monthly payment and not the interest rate; it is the aggregate sum you will hand over across the whole term, which lenders are usually required to disclose and which almost nobody quotes. Seeing that figure changes how a substantial number of borrowing decisions look.",
+          "The second half is about counterfactual. Borrowing to acquire something you could have saved for within a reasonable period is paying a fee for impatience. Borrowing to acquire something genuinely unattainable otherwise — a home, an education, the capital for a viable business — is buying access to something that would not have existed. Only the second has an argument attached to it.",
+        ],
+      },
+      {
+        h: "Why the labels leak in both directions",
+        p: [
+          "The two-category system misclassifies in both directions and it is worth seeing examples of each. A mortgage stretched to the absolute limit of affordability, on a property in a declining market, is filed as good debt and can trap a household for a decade. An education loan for a qualification with no demonstrable effect on earnings is filed as good debt and behaves like consumption.",
+          "In the other direction, a modest loan to repair a vehicle needed for work is filed as bad debt and may be the highest-return borrowing available to that household. A short-term facility that bridges a genuine timing gap at a reasonable rate is not obviously a mistake.",
+          "What each of these has in common is that the useful information is in the specifics — the rate, the term, the margin of safety, the alternative — and none of the specifics survives the two-way sort. The categories describe the asset class and the decision is about the transaction.",
+        ],
+      },
+      {
+        h: "The rate that changes the category entirely",
+        p: [
+          "Of all the specifics, the interest rate is the one that most reliably converts a defensible borrowing into an indefensible one. The same purpose, at a substantially higher rate, is a different proposition, and the threshold at which it flips is not a matter of opinion.",
+          "A useful reference point is the return you could reasonably expect from investing instead. Where a debt costs more than that, clearing it is a guaranteed return equal to the rate, with no volatility and no uncertainty, which beats an uncertain lower expected return. Where it costs meaningfully less, the arithmetic is genuinely closer and other considerations enter.",
+          "This gives an actual test rather than a label. Debt costing above your plausible investment return is expensive and should be cleared before anything else accumulates. Debt costing well below it is a financing decision to be assessed on its own terms. Nothing about the purpose of the borrowing changes that arithmetic.",
+        ],
+      },
+      {
+        h: "What the monthly payment conceals",
+        p: [
+          "Lending is presented in monthly terms because the monthly figure is the one that feels manageable, and the presentation is effective. A cost expressed as a modest recurring amount is evaluated against your monthly income; the same cost expressed as a total is evaluated against the value of the thing being bought, and those two assessments frequently disagree.",
+          "The manipulation available here is term length. Extending a loan reduces the monthly payment and increases the total substantially, and a borrower focused on the monthly figure will experience the longer term as an improvement. This is the single most common way that consumer lending costs more than the borrower believes.",
+          "The defence is a habit rather than an analysis: before agreeing to anything, find the total amount repayable and say it out loud. If the total makes the purchase look unreasonable, the monthly figure was doing the work of making an unreasonable purchase feel acceptable.",
+        ],
+      },
+      {
+        h: "Affordability under conditions that have not happened yet",
+        p: [
+          "A loan is assessed under current conditions and then persists through conditions nobody anticipated. The check worth running before any significant borrowing is whether the repayment still works under three specific stresses.",
+          "What happens if the rate rises substantially, which for variable borrowing is a recurring historical event rather than a hypothetical. What happens if household income falls by a third through job loss, illness or one earner stepping back. And what happens if a large unplanned expense arrives in the same year.",
+          "A loan that survives all three is genuinely affordable. One that survives none is not, however comfortably it fits this month's budget. Lenders perform a version of this test calibrated to their own risk tolerance rather than yours, which is why doing your own takes twenty minutes and occasionally changes the answer.",
+        ],
+      },
+      {
+        h: "The debt that was never a decision",
+        p: [
+          "A category the framework handles badly is borrowing that arose from circumstance rather than choice: medical costs, a period without work, a relationship ending, an obligation to family. Applying a framework designed for evaluating decisions produces nothing useful here except guilt.",
+          "The relevant questions for this category are only what it costs now and how quickly it can be dealt with. Debt of this kind frequently carries the worst available terms, because it was taken under pressure from whoever would lend, which usually makes it the priority regardless of size.",
+          "It is worth stating explicitly because the moralised language around good and bad debt discourages people in this position from engaging with the numbers at all. Interest compounds identically whether the borrowing was foolish or unavoidable. The response is the same in both cases: understand the terms, prioritise by rate, and find out whether refinancing at a lower rate is available. None of this is financial advice.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'the-latte-factor-reconsidered',
+    sections: [
+      {
+        h: "The arithmetic, run honestly",
+        p: [
+          "The claim behind the famous advice is that a small daily purchase, invested instead over decades, becomes a substantial sum. The arithmetic is correct as far as it goes, and it depends on assumptions that deserve stating: a consistent daily purchase, a specific return sustained for decades, and the money actually being invested rather than merely not spent.",
+          "That last assumption is the one that fails most often. Money not spent on one thing is overwhelmingly spent on something else unless a mechanism moves it, which is the entire argument for the automatic transfer described elsewhere on this site. A cancelled habit without a redirected standing order produces nothing at all.",
+          "Run with realistic figures and net of inflation, the result is real and considerably less dramatic than the popular version. It is a meaningful amount over a career and it is not, on its own, the difference between financial security and its absence, which is how it is frequently presented.",
+        ],
+      },
+      {
+        h: "Where the actual money is",
+        p: [
+          "For nearly every household, the four largest categories of lifetime spending are housing, transport, tax and, where applicable, childcare. Everything else combined is usually smaller than the first of these alone, which tells you where attention produces the most return.",
+          "A single decision about where to live, or about what vehicle to finance, moves more money than a decade of small daily economies. These decisions are made infrequently, under time pressure, with limited information, and they are almost never subjected to the scrutiny that people apply to a supermarket receipt.",
+          "This is the genuine criticism of the small-purchases framing: not that it is arithmetically wrong, but that it directs finite attention toward the categories where the least is available. An hour spent researching a mortgage rate or comparing the total cost of a vehicle decision is worth more than a year of foregone coffee.",
+        ],
+      },
+      {
+        h: "Why small cuts feel productive and large ones do not",
+        p: [
+          "There is a reason people gravitate to the small economies, and it is not stupidity. Small cuts are immediate, visible and entirely within your control. You can make one today and feel the effect. Large structural decisions are infrequent, complicated, involve other people, and produce no feedback for months.",
+          "The psychology favours the visible option in exactly the way it favours a side activity over skill development, discussed elsewhere on this site. In both cases the tangible choice displaces the valuable one, and in both cases the substitution feels like diligence.",
+          "Recognising the pattern is what allows it to be interrupted. When you next feel the impulse to economise on something small, it is worth asking whether the same energy directed at one of the four large categories would produce more. The answer is usually yes, and the reason it does not happen is that it is harder and less immediately satisfying.",
+        ],
+      },
+      {
+        h: "The small purchases that are worth examining",
+        p: [
+          "Not all small spending is equal, and the ones that matter share a specific property: they recur automatically without any decision. A subscription renewing invisibly, a tariff that reverted to a standard rate, a service you stopped using but continue paying for.",
+          "These are worth attacking precisely because eliminating them costs nothing in experienced quality of life. Nobody misses a subscription they had forgotten. The daily coffee, by contrast, is being purchased deliberately and delivering something, which means cutting it is a real reduction in something you chose.",
+          "The distinction is between spending that was decided and spending that merely continues. The second category is pure recovery, available annually with an hour of effort as described in the subscription audit article here. The first is a genuine trade and should be treated as one rather than as an obvious saving.",
+        ],
+      },
+      {
+        h: "The cost of the joyless approach",
+        p: [
+          "There is a practical argument against relentless small economies that has nothing to do with the arithmetic. A financial approach requiring constant vigilance over minor purchases is exhausting, and exhausting approaches get abandoned, usually in a manner that undoes more than the vigilance saved.",
+          "The pattern is familiar from other domains: extended restriction followed by a reversal that overshoots. Someone who spent six months denying themselves every small pleasure and then made a large impulsive purchase has ended up worse off than someone who spent moderately throughout.",
+          "The structure that survives is one where the saving happens automatically at the start of the month and the remainder is genuinely spendable without further deliberation. That arrangement requires no ongoing restraint at all, which is why it lasts, and it produces a higher saving rate than any amount of vigilance because it does not depend on maintaining vigilance.",
+        ],
+      },
+      {
+        h: "What to keep from the original idea",
+        p: [
+          "Having criticised the emphasis, the underlying observation is sound and worth retaining. Recurring costs are larger in aggregate than they appear individually, because a modest amount repeated hundreds of times is a substantial annual figure that nobody ever states as one.",
+          "The useful version of the advice is therefore about arithmetic rather than austerity: convert any recurring cost to an annual figure before deciding whether it is worth it. Some will survive that conversion easily, which means they were good purchases and should continue without guilt. Others will not, which is the information the exercise was for.",
+          "That is a considerably more useful instruction than not buying coffee, and it applies to every recurring cost rather than only to the visible small ones. Applied to a subscription, an insurance renewal or a tariff, the same conversion frequently identifies far larger sums, which is where the idea should have been pointed in the first place. None of this is financial advice; it is an argument about where attention is best spent.",
+        ],
+      },
+      {
+        h: "When small economies are genuinely the only lever",
+        p: [
+          "There is a situation in which the criticism above does not apply, and it deserves acknowledgement because it describes a great many households. Where housing is fixed by circumstance, transport is not optional, and income cannot be raised in the near term, the small categories are the only ones available.",
+          "In that position the advice becomes accurate rather than misdirected, and the aggregate of many small reductions is a real and meaningful sum. It is also considerably harder work than the popular framing suggests, and it deserves respect rather than the slightly condescending tone that usually accompanies it.",
+          "What the framing gets wrong even here is the emphasis on individual restraint. The structural version — an audit of recurring costs, a switch of tariffs, an insurance comparison, a benefits check — produces more with less ongoing effort than daily vigilance, and none of it requires giving up anything that was actually wanted.",
+        ],
+      },
+      {
+        h: "The order to work through",
+        p: [
+          "Pulling this together into a sequence: start with the largest fixed costs, because that is where the money is, even though the decisions are infrequent and difficult. Housing, transport, and any large financing commitment. One good decision here outweighs everything else combined.",
+          "Then the recurring costs that continue without decisions: subscriptions, tariffs, insurance renewals, memberships. These are pure recovery, requiring an hour a year and costing nothing in experienced quality of life.",
+          "Only then the deliberate discretionary spending, and there the correct approach is not elimination but the conversion to an annual figure described above, followed by keeping whatever survives it without further guilt. Working in that order means most of the available money has been found before anyone has to give up anything they chose, which is both more effective and considerably more sustainable than the reverse.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'good-debt-bad-debt-the-question-that-matters',
+    sections: [
+      {
+        h: "Reading past the headline rate",
+        p: [
+          "The advertised rate is the most visible term and frequently not the most consequential. Several others determine how a loan behaves once circumstances change, which is when the terms start to matter.",
+          "Whether the rate is fixed or variable, and for how long, decides who bears the risk of rates moving. Early repayment charges determine whether you can clear the debt if your position improves, and some are steep enough to trap a borrower for years. A promotional rate reverting on a specific date has caught out an enormous number of people who intended to refinance before it happened.",
+          "Fees added to the principal rather than paid upfront quietly increase the amount borrowed and the interest charged on it. Any charge expressed as a percentage of the balance behaves like additional interest. None of this is concealed, exactly; it is distributed through a document written to be complied with rather than read, and finding it requires deliberately looking.",
+        ],
+      },
+      {
+        h: "Sequencing several debts at once",
+        p: [
+          "Where more than one debt exists, the order of repayment matters and there are two defensible approaches. Highest rate first minimises total interest and is arithmetically optimal. Smallest balance first clears individual debts faster, producing visible progress that sustains motivation.",
+          "The evidence on which works better in practice is more mixed than the arithmetic suggests, because completion rates matter as much as efficiency. A slightly suboptimal plan that gets finished beats an optimal one abandoned in month eight.",
+          "A reasonable hybrid clears anything small enough to eliminate within a month or two, which reduces the number of payments to track, then switches to strict highest-rate order. This captures most of both benefits and avoids the situation where a genuinely expensive balance sits untouched for a year because it happened to be large.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'money-scripts-childhood',
+    sections: [
+      {
+        h: "Circumstances and beliefs get confused",
+        p: [
+          "A caution worth applying to this entire area: what looks like an inherited attitude is frequently an accurate response to circumstances that have not changed. Someone whose financial caution seems excessive may simply have an income that genuinely is precarious, in which case the caution is calibration rather than a script.",
+          "The distinction is testable. If the behaviour persists after the circumstances have materially improved — the income has stabilised, the buffer is substantial, the debt is cleared — and produces no reduction in anxiety, that is evidence of something operating independently of the facts. If it tracks the circumstances, it is judgement.",
+          "This matters because framing accurate caution as a psychological problem is both wrong and unhelpful. Plenty of people are anxious about money because their situation warrants it, and the answer for them is a change in circumstances rather than a change in beliefs, which is a different piece of work entirely.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'good-debt-bad-debt-the-question-that-matters',
+    sections: [
+      {
+        h: "When clearing it early is not the right move",
+        p: [
+          "The guidance to eliminate debt whose rate exceeds your expected return is sound and has boundaries. A low-rate long-term loan taken years ago may sit well below both current rates and plausible investment returns, in which case accelerating repayment means accepting a low guaranteed return over a higher uncertain one. That is defensible on peace-of-mind grounds and it is not the arithmetically strongest option.",
+          "There are also situations where liquidity matters more than the interest saved. Directing every spare pound at a mortgage while holding no accessible reserve converts available money into home equity, which is among the least accessible assets there is. A job loss then leaves you with a smaller debt and no way to service it.",
+          "The general principle is that debt reduction competes with other uses of the same money and should be assessed against them rather than treated as automatically virtuous. Expensive debt almost always wins that comparison; cheap debt frequently does not.",
+        ],
+      },
+      {
+        h: "The sentence worth writing before signing",
+        p: [
+          "A useful discipline before any significant borrowing: write one sentence stating what the debt is for, what it will cost in total rather than monthly, and what would have to happen for it to become a problem. If the sentence is difficult to write, the difficulty is itself information.",
+          "The exercise takes five minutes and it forces each of the checks in this article to be answered rather than assumed. It also produces a record you can look at in three years, when the circumstances have changed and the reasoning has faded.",
+          "None of this constitutes financial advice and the right answer varies enormously by circumstance. What is generally true is that the difference between borrowing that builds something and borrowing that quietly consumes a decade is usually visible in advance, in the terms and the arithmetic, to anyone who slows down long enough to look. The cost of looking is an hour; the cost of not looking is measured in years.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'the-latte-factor-reconsidered',
+    sections: [
+      {
+        h: "The income side of the same argument",
+        p: [
+          "Everything discussed so far concerns spending, which has a floor. The other lever has no equivalent ceiling, and any honest accounting of where attention produces the most return has to include it.",
+          "An increase in income applies to every remaining year of a career and compounds through each subsequent negotiation, in the manner described in the negotiation and skills articles on this site. A single successful conversation can be worth more than a lifetime of the small economies this article has been examining, and it takes an afternoon of preparation.",
+          "This is not an argument against frugality, which remains genuinely useful and is the only lever available to some people. It is an argument about proportion. A financial approach that gives meticulous attention to daily purchases and none to what you are paid has its effort distributed almost exactly backwards.",
+        ],
+      },
+      {
+        h: "Why the framing persists anyway",
+        p: [
+          "It is worth asking why this particular piece of advice became so widely repeated, and the answer is not that it is the most effective. It is that it is actionable immediately, requires nothing from anybody else, and produces a feeling of control today.",
+          "Advice to renegotiate a mortgage, move house, change employer or ask for a raise is all considerably more valuable and all considerably harder to act on. It involves other people, it takes weeks, and it can fail publicly. Advice to skip a purchase can be followed within the hour.",
+          "That asymmetry explains the popularity and does not justify the emphasis. The useful synthesis is to do the small things because they are easy and free, while being clear that they are the smallest lever available and not allowing them to substitute for the conversations and decisions that would actually change the position. None of this is financial advice; it is a note about where the money is.",
+        ],
+      },
     ],
   },
 ];
