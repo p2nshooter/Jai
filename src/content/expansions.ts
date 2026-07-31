@@ -2593,6 +2593,305 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'spending-traps-your-brain-sets',
+    sections: [
+      {
+        h: "One habit that covers most of it",
+        p: [
+          "If only a single practice survives from all of this, the most efficient is a standing delay applied to anything above a threshold you set. It is crude, it requires no diagnosis of which mechanism is operating, and it defeats most of them simultaneously because nearly all depend on the decision being made now.",
+          "The threshold should be low enough to catch the purchases that actually accumulate and high enough that ordinary life is unaffected. The delay can be a day for moderate amounts and a week for larger ones. What matters is that it is a rule rather than a judgement, since a judgement about whether to delay is made using the faculty already compromised.",
+          "The evidence for its effectiveness is the simplest kind: keep a note of what you deferred and whether you went back for it. Most people find the proportion they never returned to is high enough to make the case on its own, and that record is more persuasive than anything written about the underlying psychology.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'defining-your-enough-number',
+    sections: [
+      {
+        h: "Building the number from the bottom up",
+        p: [
+          "An enough-number is only useful if it is constructed rather than guessed, and the construction is a specific exercise. It starts from an annual spending figure describing the life you actually want, not the one you currently have and not an aspirational one, and it needs to be built from components rather than estimated as a total.",
+          "The components divide into three: costs that continue regardless, costs that will change, and costs that will appear. Housing may fall if a mortgage clears or rise if you move. Commuting and work-related costs disappear. Healthcare and support costs tend to rise with age. Travel and leisure frequently rise in the early years and fall later.",
+          "Working through these produces a figure meaningfully different from current spending, usually in ways that surprise people in both directions. The exercise takes an evening and it converts a vague sense of needing more into a specific number, which is the entire difference between a target and an anxiety.",
+        ],
+      },
+      {
+        h: "Why the number keeps moving",
+        p: [
+          "The most common experience of people who set a target is that they reach it and do not feel finished. The number moves, usually upward, and the sense of arrival that was expected does not arrive. This is well documented and worth anticipating rather than treating as a personal failure of contentment.",
+          "Part of the explanation is adaptation, described elsewhere on this site: circumstances that improve become the new baseline and stop registering. Part of it is that a target set years earlier was set by someone with different information. And part is that the target was frequently doing emotional work — standing in for security, or status, or the resolution of some other question — that no financial figure can complete.",
+          "The corrective is not to abandon targets but to be explicit about what the number is supposed to deliver. A figure derived from an actual annual spending requirement is checkable against reality. A figure that represents feeling safe is not, because there is no amount at which the feeling reliably arrives, and recognising which of the two you have set is the useful distinction.",
+        ],
+      },
+      {
+        h: "The costs of overshooting",
+        p: [
+          "Accumulating well beyond what a defined enough-number requires is usually described as prudent, and it carries real costs that deserve to be named. The most obvious is the time spent earning the surplus, which is the one resource that cannot be recovered and is being spent at the age when it is most usable.",
+          "The second is the compounding of habits. Someone who spent thirty years building a saving discipline frequently finds it very difficult to reverse, and a substantial number of people who comfortably exceed their requirements continue to live as though they had not. The accumulated money produces no benefit at all in that scenario, which is a strange outcome for something acquired at such cost.",
+          "The third is the decisions the surplus displaced: opportunities not taken because they paid less, work not left because the number was not yet reached, years not spent differently. None of these is visible on a balance sheet, and all of them are the actual currency the balance sheet was supposed to be converting into.",
+        ],
+      },
+      {
+        h: "Enough as a rate rather than a total",
+        p: [
+          "There is an alternative formulation that suits some people considerably better than a lump-sum target. Instead of a total to accumulate, define the annual income you need and work out what would generate it sustainably. This shifts the question from how much do I have to what does it produce, which is closer to what actually matters.",
+          "The reformulation has practical advantages. It accommodates income from sources other than a portfolio, including part-time work, rental income or a pension, which a single accumulation number handles awkwardly. It also makes partial progress meaningful: covering half your required income is a describable position, whereas being halfway to a lump sum is not obviously anything.",
+          "It also reframes the decision about when to stop working. Someone whose portfolio covers their essential costs but not their discretionary ones has a genuinely different set of options from someone with an arbitrary fraction of a target, and the first framing makes those options visible while the second does not.",
+        ],
+      },
+      {
+        h: "The comparison that undermines the number",
+        p: [
+          "The most reliable way to destroy a well-constructed enough-number is exposure to people whose number is higher. This is not a weakness of character; the evidence on relative comparison is strong, and satisfaction with an absolute level of income or wealth is consistently found to depend heavily on the reference group.",
+          "The practical consequence is that the reference group is a variable you have some control over and rarely think about. Moving into a context where your circumstances are unremarkable will move your number upward regardless of what you decided, and no amount of resolve prevents it.",
+          "This does not argue for isolating yourself from successful people, which would be both impractical and impoverishing. It argues for noticing when a shift in your sense of what is required has followed a shift in who you are around, and for treating that as information about the reference group rather than as new information about your requirements.",
+        ],
+      },
+      {
+        h: "What to do once you are above the line",
+        p: [
+          "The question of what happens after the number is reached receives remarkably little attention relative to how much is written about reaching it, and it is the question that determines whether any of it was worthwhile.",
+          "The options are few and each deserves consideration rather than default. Work less, either in hours or in years. Work differently, taking something that pays less and matters more. Spend more on the specific things that improved life when you tested them. Give some of it away, which the evidence on wellbeing suggests is more effective than most alternatives. Or continue accumulating, which is a legitimate choice when made deliberately and a failure of imagination when made by default.",
+          "The practice worth adopting is to write down, before reaching the number, what crossing it will change. A commitment made in advance is considerably more likely to be honoured than an intention formed at the moment of arrival, when the accumulated habit will be arguing for continuation. Otherwise the number recedes, the habit continues, and the exercise turns out to have had no destination. None of this is financial advice, and what constitutes enough is a question only you can answer.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'money-mistakes-of-your-twenties',
+    sections: [
+      {
+        h: "Ranking errors by how long they last",
+        p: [
+          "The useful way to sort financial mistakes is not by the amount involved but by how long the consequence persists. This produces a ranking that differs sharply from the one most advice implies, and it explains why so much attention is directed at things that barely matter.",
+          "A one-off overspend, however large it felt, resolves within months and leaves nothing behind. A recurring commitment entered into for years persists for exactly as long as the commitment. A missed decade of compounding persists for the rest of a working life. A choice that shapes what career you are in persists longest of all.",
+          "Applying this ranking immediately demotes most of what gets discussed. The purchases people feel guilty about are almost all in the first category. The decisions that actually determine where someone stands at forty are in the third and fourth, and they are made with far less deliberation because they do not feel like financial decisions at all.",
+        ],
+      },
+      {
+        h: "The errors that are basically fine",
+        p: [
+          "Some of the classic twenties mistakes are worth defending. Spending money on travel, on experiences with people you will not always have access to, and on the ordinary social life of that decade is frequently criticised in financial writing and is a reasonable use of money that will never buy the same thing again.",
+          "Changing direction, leaving a job that was going nowhere, taking a lower-paid role to get into a field you wanted, and periods of relatively low earning while working something out are similarly presented as costly and are largely investments with a long payback. The alternative — staying in the wrong thing because leaving costs money — is considerably more expensive over a career.",
+          "Small inefficiencies belong here too. Suboptimal savings accounts, funds that were not the cheapest available, a period of not investing while working out what to do. Each of these has a cost that is real and small, and the energy spent regretting them is better directed at the things in the next section.",
+        ],
+      },
+      {
+        h: "The errors that genuinely compound",
+        p: [
+          "A shorter list does lasting damage. High-rate revolving debt allowed to persist is the clearest, because the compounding runs against you at a rate no investment reliably matches, and a balance carried through the twenties can consume the entire capacity to save during the decade when saving matters most.",
+          "Vehicle finance is the most common specific instance, being a large multi-year commitment against a depreciating asset, entered into at an age when the payment looks affordable relative to a first real salary. It is the single decision most likely to prevent someone from building anything during their twenties.",
+          "The third is inertia on employer pension arrangements: not joining, contributing below a match threshold, or leaving contributions at a default set years earlier. This costs nothing to fix, is invisible while it is happening, and is worth a very large amount over a career because of exactly the compounding described elsewhere on this site.",
+        ],
+      },
+      {
+        h: "The one that is not about money at all",
+        p: [
+          "The most consequential financial decisions of the twenties are frequently career decisions that nobody categorises as financial: what field to be in, what skills to build, which employer to join, whether to move somewhere with a better market for what you do.",
+          "These determine the income that every other decision operates on, and their effects are permanent in a way that no spending decision is. Someone who spent their twenties in a field with poor prospects, saving diligently, is in a worse position than someone who spent the same decade building earning power and saving less.",
+          "This is not an argument for chasing money into work you dislike, which has its own costs and frequently does not last. It is an argument that the choice of what to do, and the deliberate development described in the skills article on this site, deserve at least as much attention as the savings rate, and that they usually receive far less because they do not present themselves as money questions.",
+        ],
+      },
+      {
+        h: "The mistake of doing nothing while working it out",
+        p: [
+          "A specific and common pattern deserves separate mention: postponing every financial decision until things are more settled. This is entirely understandable in a decade characterised by change, and it is expensive because the delay applies to precisely the years that compound the longest.",
+          "The version that works is to make the reversible decisions immediately and defer only the irreversible ones. Starting a small automatic contribution requires no certainty about the future and can be adjusted at any time. Joining a pension scheme costs nothing if circumstances change. Building a small buffer is useful regardless of what happens next.",
+          "What genuinely should wait are the commitments that are hard to undo: property purchases in a place you may not stay, long-term financial products with lock-in periods, and any arrangement that assumes a stable income you do not yet have. Distinguishing these from the reversible ones removes most of the reason to postpone everything.",
+        ],
+      },
+      {
+        h: "What the decade is actually for",
+        p: [
+          "Framed positively rather than as a list of errors, the twenties have three assignments and they are unevenly weighted. Establish the habit of spending less than you earn, at whatever small scale is possible, because the habit is what persists rather than the amount. Build earning power deliberately, since the increases achieved here apply to everything afterwards. And avoid the small number of commitments that would prevent the first two.",
+          "Everything else is optional. The optimisation, the fund selection, the tax efficiency, the detailed planning — all of it matters more later, when there is more to optimise, and all of it is a poor use of attention in a decade when the amounts are small and the trajectory is being set.",
+          "The reassuring implication is that the assignment is short and mostly achievable regardless of income. The discouraging one is that its most valuable component, the years of compounding, is the one thing that cannot be recovered later at any price. Which is the whole argument for starting badly rather than not starting. None of this is financial advice, and every situation is different.",
+        ],
+      },
+      {
+        h: "Advice from people whose twenties were different",
+        p: [
+          "A great deal of guidance aimed at this decade was written by people whose own twenties occurred under materially different conditions: different housing costs relative to income, different employment structures, different pension arrangements, different levels of student borrowing. Some of it transfers and some does not, and the parts that do not are the parts delivered with the most confidence.",
+          "The advice that transfers reliably concerns mechanisms rather than amounts: compounding works the same way, the gap between earning and spending still determines the outcome, expensive debt is still expensive. The advice that does not transfer concerns benchmarks — what proportion of income housing should take, what should have been saved by a given age, when property purchase becomes reasonable.",
+          "The useful filter is to ask whether a piece of guidance describes how something works or asserts what a number should be. The first is durable. The second was calibrated on a set of conditions and should be recalculated against yours rather than accepted, particularly when it is being used to conclude that you are behind.",
+        ],
+      },
+      {
+        h: "Repairing the ones you already made",
+        p: [
+          "Anyone reading this at the end of the decade rather than the start will recognise items from the damaging list, and the relevant question is what can be undone. More than people expect, and the ordering is fairly clear.",
+          "Expensive debt can be cleared or refinanced, and doing so is the highest-return action available. A vehicle commitment can sometimes be exited at a cost that is less than continuing. A pension contribution can be raised immediately, and in some systems past gaps can be filled retrospectively. None of these recovers the lost compounding, and all of them stop the loss continuing.",
+          "The thing that cannot be repaired is the time, which is precisely why the appropriate response is action rather than regret. A decade of compounding forgone is a real cost and it is bounded; a second decade forgone while feeling bad about the first is the version that does lasting damage. The correct move is always the same one: start now, at whatever scale is possible, and stop calculating what an earlier start would have produced.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'defining-your-enough-number',
+    sections: [
+      {
+        h: "Testing the number before you need it",
+        p: [
+          "A figure derived on paper describes a life nobody has yet lived, and it is worth checking against reality before organising a decade around it. The test is straightforward: spend a few months living at the annual rate the number assumes, and see what it is actually like.",
+          "This surfaces things no calculation does. Costs that were omitted entirely, categories that turn out to be more important than expected, and the discovery that the figure is either uncomfortably tight or considerably more generous than required. All of these are cheap to learn now and expensive to learn after the decision has been made.",
+          "It also tests something that no spreadsheet addresses, which is whether the life implied by the number is one you want. A figure that is technically sufficient and produces a version of life you find diminished is not the right figure, and finding that out through a trial period is far better than finding it out afterwards.",
+        ],
+      },
+      {
+        h: "Separating the floor from the ceiling",
+        p: [
+          "A single number conceals a distinction that is worth making explicit: the amount required to cover essentials with no discretion at all, and the amount required for the life you actually want. These are very different figures and they support different decisions.",
+          "Knowing the floor is what makes options visible. Someone whose assets cover their essential costs has genuine freedom regardless of whether they have reached their full target, because work becomes a choice about the difference rather than a necessity. That threshold arrives considerably earlier than the headline number and is rarely calculated.",
+          "The ceiling matters differently: it is the level above which additional accumulation stops changing anything, which is the point discussed earlier about overshooting. Having both figures gives a range rather than a single target, and a range is a more honest description of a situation in which the requirement genuinely depends on choices not yet made.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'how-much-to-retire-rule-of-25',
+    sections: [
+      {
+        h: "Where the multiplier comes from",
+        p: [
+          "The figure of twenty-five is the reciprocal of four percent, and it derives from a body of research examining how much could have been withdrawn annually from a portfolio, adjusted for inflation, without running out over a thirty-year period. The original work tested historical sequences in one market and found four percent survived nearly all of them.",
+          "Two features of that origin are worth holding onto. It was a historical backtest rather than a forecast, describing what would have worked in the periods examined. And it was calibrated to thirty years, which suits a retirement beginning in the mid-sixties and does not suit one beginning considerably earlier.",
+          "It also assumed a particular portfolio composition, a particular market's history, and no fees, none of which describes any actual investor. This does not make the rule useless; it makes it a reasonable rough anchor rather than a calculation, and the difference matters when someone treats it as a promise.",
+        ],
+      },
+      {
+        h: "The assumptions that do most of the work",
+        p: [
+          "Several inputs, each seemingly minor, change the answer substantially. Fees are the clearest: a portfolio charged a percentage annually is delivering that much less than the studies assumed, and the sustainable withdrawal falls accordingly. Over thirty years this is not a rounding difference.",
+          "The horizon is the second. Thirty years and forty years are different problems, and a rule calibrated on the first understates what the second requires. Anyone planning to stop working substantially before the traditional age should treat the multiplier as a floor rather than a target.",
+          "The third is which market's history is being used. Results from the most successful large market of the twentieth century are systematically more encouraging than results from a broader international sample, and there is a reasonable argument that using a single strong historical record introduces an optimism that nobody intended.",
+        ],
+      },
+      {
+        h: "What the target is a multiple of",
+        p: [
+          "The rule multiplies annual spending, and getting that input right matters more than any refinement to the multiplier. Two errors are common and they run in opposite directions.",
+          "The first is using current spending unchanged, which ignores that some costs disappear at retirement — commuting, work-related expenses, the contributions being made to the plan itself — and others appear. The second is using a figure net of expected state provision without checking what that provision actually is, which is optimistic by whatever the gap turns out to be.",
+          "The correct input is the amount your own assets must generate, which is your total required spending minus any other reliable income: state provision, defined benefit pensions, rental income, or part-time earnings. For many people the other sources cover a substantial share, which means the portfolio target is considerably lower than a naive calculation suggests. Working this out properly is the single highest-value step in the exercise.",
+        ],
+      },
+      {
+        h: "Flexibility is worth more than precision",
+        p: [
+          "The studies behind the rule assume a withdrawal that continues regardless of what markets do, which is a deliberately conservative assumption and is not how most people would actually behave. A retiree who reduces spending during a severe decline is materially safer than the fixed-withdrawal model implies.",
+          "This is the most practically useful insight available here. Building even modest flexibility into a plan — a portion of spending that could be paused, a willingness to defer a large expense, some capacity to earn — improves the sustainability considerably more than any adjustment to the multiplier.",
+          "The corollary is that a plan with no flexibility at all needs a larger cushion than one with some. Someone whose entire projected spending is essential, with no discretionary component to reduce, is in a genuinely more demanding position and should treat the standard figures as insufficient rather than adequate.",
+        ],
+      },
+      {
+        h: "Using the rule at different ages",
+        p: [
+          "The rule's usefulness changes with distance from retirement. Thirty years out, it is a rough orientation: a figure that indicates whether the current contribution rate is broadly in the right range, and which should not be trusted to any precision given how much can change.",
+          "Ten to fifteen years out it becomes genuinely actionable, because the spending estimate is more reliable and there is still enough time to change the contribution rate meaningfully if the projection falls short. This is the point at which the calculation is most valuable and, unfortunately, the point at which many people first perform it.",
+          "Within five years the rule is largely superseded. At that range the questions are about sequencing, the transition to drawing income, and the specific structure of withdrawals, none of which a single multiplier addresses. Continuing to plan with the rule at that stage is applying a rough tool to a problem that has become precise.",
+        ],
+      },
+      {
+        h: "Treating the output as a range",
+        p: [
+          "The most sensible way to use this is to calculate several versions rather than one: a conservative case using a lower withdrawal rate and pessimistic assumptions, a central case, and an optimistic one. The spread between them is genuinely informative, because it shows how sensitive the answer is to inputs nobody can know.",
+          "This also produces better decisions than a single figure does. A plan that works in the conservative case is robust. One that only works in the optimistic case is a plan that requires favourable conditions, which is worth knowing while there is still time to do something about it.",
+          "What should be resisted is precision that the underlying method does not support. A target quoted to a specific figure implies an accuracy that a historical backtest with a handful of simplifying assumptions cannot deliver. The rule is a way of turning a vague anxiety into an approximate number, which is a genuine service, and treating that number as an answer rather than an estimate is where it starts causing harm. None of this is financial advice, and anyone approaching this decision seriously should consider getting it reviewed against their own circumstances.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'three-legs-of-retirement-income',
+    sections: [
+      {
+        h: "Finding out what each leg is actually worth",
+        p: [
+          "The metaphor is only useful once you know the length of each leg, and most people have never checked any of them. Each requires a different enquiry and none takes long.",
+          "State provision usually requires checking a contribution record and an entitlement forecast, both of which are typically available online in countries that operate such schemes. Records contain gaps more often than people expect, particularly for anyone who studied, worked abroad, was self-employed or took time out for caring, and in some systems those gaps can be filled retrospectively.",
+          "Workplace provision requires locating every scheme from every employer, which for anyone with a varied career is the harder task. Personal savings is the one people usually do know, and it is frequently the smallest leg while receiving the most attention, precisely because it is the one that is visible.",
+        ],
+      },
+      {
+        h: "The two kinds of workplace scheme",
+        p: [
+          "Workplace arrangements come in two fundamentally different forms and conflating them causes real planning errors. A defined benefit scheme promises an income calculated from salary and years of service, with the investment risk carried by the scheme rather than by you. A defined contribution scheme builds a pot whose eventual income depends entirely on contributions and returns.",
+          "The difference in the planning is total. A defined benefit entitlement is closer to an income stream than to an asset and reduces the amount your other savings must generate, sometimes substantially. A defined contribution pot is an asset subject to all the questions discussed elsewhere on this site about allocation, costs and withdrawal.",
+          "Anyone with an old defined benefit entitlement from earlier in their career should establish what it is worth, because these are frequently forgotten and frequently valuable. They are also the arrangements most likely to carry guarantees that would be lost on any transfer, which is a reason for caution about consolidation that does not apply to ordinary pots.",
+        ],
+      },
+      {
+        h: "Why the mix determines what you should do next",
+        p: [
+          "The practical value of this framework is that it identifies where effort is best directed, and the answer differs enormously between people. Someone with a strong defined benefit entitlement and full state provision has a substantial income floor and needs their personal savings to cover discretionary spending rather than survival, which permits a different approach to risk.",
+          "Someone self-employed for most of their career, with no workplace provision at all, has two legs missing and a third that must do all the work. That situation demands a materially higher saving rate and it is frequently not recognised, because the absence of workplace provision produces no statement and no reminder.",
+          "Working out your own mix takes an afternoon and changes what the next decade should look like. It is the step that converts general retirement advice, which necessarily addresses an average, into something specific to a situation that is almost certainly not average.",
+        ],
+      },
+      {
+        h: "The fragility of each leg",
+        p: [
+          "The three legs fail in different ways, which is the actual argument for having more than one. State provision is subject to political change: eligibility ages have risen in many countries and further adjustment over a working life is plausible. It is unlikely to disappear and unwise to treat as fixed.",
+          "Workplace defined benefit schemes depend on the continued solvency of the sponsor and, where they exist, on protection arrangements that have limits. Defined contribution pots carry market risk directly, concentrated dangerously in the years immediately before and after retirement.",
+          "Personal savings are exposed to market risk and to the risk of being spent on something else, which is a more common failure than any market event. The point of the framework is that these risks are largely uncorrelated, so a plan resting on all three survives a problem with any one of them, which is diversification applied to income sources rather than to a portfolio.",
+        ],
+      },
+      {
+        h: "The legs the metaphor leaves out",
+        p: [
+          "The three-legged model was constructed for a particular era and omits sources that matter for a lot of people now. Continued work, whether part-time or occasional, is the largest omission and is increasingly common. It has an outsized effect because income earned during retirement both adds to resources and reduces withdrawals, and the two effects compound.",
+          "Property is the second, whether as rental income, as equity that could be released by moving somewhere smaller, or simply as the elimination of housing costs through outright ownership. This last one is easy to overlook and substantial: a household with no rent or mortgage requires meaningfully less income than one that pays either.",
+          "Inheritance and family support appear in a great many real retirements and in almost no plans, for the understandable reason that they are uncertain and uncomfortable to count on. Excluding them is the prudent default. Being aware of them as a possibility that would change the picture is different from planning around them.",
+        ],
+      },
+      {
+        h: "Reviewing the stool periodically",
+        p: [
+          "The three legs change independently and at different rates, which means a picture assembled once becomes stale. Contribution records accumulate, entitlement rules shift, employers change, and personal savings grow or do not. A review every few years keeps the picture current at very little cost.",
+          "The review that matters covers four things: whether the state contribution record has any new gaps, whether any new workplace scheme has been joined and at what contribution rate, whether any old scheme has been left behind and forgotten, and whether personal savings are on the trajectory the plan assumed.",
+          "Doing this at every job change is the most reliable trigger, since that is when new schemes start and old ones get abandoned. The pension left behind at a previous employer is the single most commonly forgotten financial asset, and a habit of documenting each one at the moment of leaving prevents a search through decades of records later. None of this is financial advice, and the specific arrangements differ substantially between countries.",
+        ],
+      },
+      {
+        h: "When the stool has fewer than three legs",
+        p: [
+          "A substantial number of people reach their fifties with essentially one leg, usually because a career was self-employed, interrupted, or spent in sectors without workplace provision. This situation is common and it is discussed far less than it should be, largely because most retirement writing addresses a career shape that a shrinking proportion of people actually have.",
+          "The honest position is that fewer legs means a higher required saving rate and, frequently, a longer working life. Neither is welcome and both are better known early than late. What is worth checking before assuming the worst is the state entitlement, which for lower lifetime earners replaces a considerably higher proportion of income than it does for high earners and may be doing more work than expected.",
+          "The other thing worth examining is whether any partial entitlement exists that has been forgotten. Brief periods of employment early in a career frequently created small workplace pots that were never consolidated, and these are more findable than people assume through national tracing services where they exist.",
+        ],
+      },
+      {
+        h: "Drawing on the legs in the right order",
+        p: [
+          "The three legs typically become available at different ages and under different rules, which creates a sequencing question that arrives suddenly and is rarely thought about in advance. State provision starts at a fixed age. Workplace schemes may have their own dates. Personal savings are available whenever you decide.",
+          "The consequence is that anyone stopping work before state provision begins faces a bridging period funded entirely by the other two, and the size of that bridge determines a great deal about whether stopping early is feasible. Calculating it explicitly, rather than assuming the pieces will fit together, frequently reveals a gap that changes the plan.",
+          "There are also interactions worth understanding: tax treatment differs between sources in most systems, some withdrawals affect entitlement to other benefits, and the order of drawing can materially change the total tax paid over a retirement. This is one of the genuine cases where professional input is likely to be worth its cost, and it is worth seeking before the first withdrawal rather than after.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'how-much-to-retire-rule-of-25',
+    sections: [
+      {
+        h: "What happens if the number looks unreachable",
+        p: [
+          "For many people the first calculation produces a figure that appears impossible from their current position, and the usual response is to stop engaging with the question entirely. This is the worst available outcome, because the levers that would improve the situation all work better with time.",
+          "The first thing worth doing is checking the inputs, since the initial calculation frequently overstates the requirement by using current spending unadjusted and ignoring state and workplace provision. Correcting both often reduces the target substantially, and occasionally by enough to change the assessment entirely.",
+          "The second is to recognise that the target is not binary. A partial result is not a failure: assets covering half your requirement means working part-time rather than full-time, or stopping later rather than never, or having a floor under a difficult period. The framing in which anything short of the number is failure is both inaccurate and the most common reason people disengage.",
+        ],
+      },
+      {
+        h: "Inflation, which the rule handles and the intuition does not",
+        p: [
+          "One point that causes persistent confusion is whether the target and the withdrawal are in today's money or future money. The research behind the rule assumed withdrawals rising each year with inflation, which means the four percent applies to the starting balance and the amount drawn increases thereafter.",
+          "This has a practical implication for anyone doing the calculation: the spending figure you multiply should be in today's money, and the resulting target is also in today's money. Comparing that target to a projected future balance in nominal terms compares two different things and produces an answer that is wrong by however much prices rise in between.",
+          "The cleaner approach is to run everything in real terms: today's spending, today's target, and a projected balance using a return net of inflation. The numbers look less impressive and they mean something, which is the trade worth making whenever a projection is going to inform a decision rather than provide reassurance.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
