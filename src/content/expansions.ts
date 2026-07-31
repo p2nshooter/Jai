@@ -3994,6 +3994,104 @@ export const EXPANSIONS: Expansion[] = [
           "In both cases the answer is not never but not yet. Automation is a way of maintaining a workable arrangement without effort; it is not a way of creating one. The underlying arrangement has to be viable first, and where it is not, the effort belongs on the income or the fixed costs rather than on the plumbing.",
         ],
       },
+      {
+        h: "The one page that makes it maintainable",
+        p: [
+          "An automated arrangement built over months exists, at the end, only in the memory of the person who built it and in a dozen scattered settings across several apps. That is enough while nothing changes and not enough afterwards.",
+          "The remedy is a single document listing each automated movement: the amount, the date, the source account, the destination, and one line on its purpose. Kept alongside the account details, it takes twenty minutes to produce and it converts a collection of settings into something that can be reviewed, handed over, or rebuilt.",
+          "Its value shows up at three specific moments: the annual review, which becomes a checklist rather than an investigation; a bank switch, which otherwise means reconstructing everything from statements; and any situation where somebody else needs to understand the arrangement. None of those are frequent and all of them are considerably worse without it.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'how-much-emergency-fund',
+    sections: [
+      {
+        h: "Why the standard advice exists at all",
+        p: [
+          "The three-to-six-month figure has been repeated for decades and it is worth understanding where it came from, because that explains both its usefulness and its limits. It approximates the historical duration of a typical spell of unemployment in developed economies, with a margin.",
+          "That origin explains why it is expressed in months of expenses rather than as a fixed sum, and why it comes as a range rather than a number: the underlying duration varies by sector, seniority and economic conditions, which is precisely the variation the range is trying to cover.",
+          "It also explains what it does not cover. The figure was calibrated on a single, temporary income interruption for a conventionally employed person. It says nothing about self-employment, about long-term illness, about a household where both earners are exposed to the same shock, or about anyone whose costs are dominated by obligations that cannot be reduced. Each of those is a reason the range may be the wrong starting point rather than a reason to distrust it generally.",
+        ],
+      },
+      {
+        h: "A short checklist to settle your own figure",
+        p: [
+          "Pulling all of this together, six questions produce a defensible number in about twenty minutes. What are your essential monthly costs, from statements rather than memory? How long would replacing your income realistically take in your field? Is there a second income and is it genuinely independent of yours?",
+          "Then: what would you actually be entitled to from an employer or the state during a gap? What insurance already covers the severe scenarios? And how quickly could you rebuild the fund after using it?",
+          "The answers determine both the target and, more usefully, which stage to aim at next. Someone with secure employment, an independent second income and decent entitlements can defend a figure at the low end. Someone self-employed, sole-earning, with dependants and no cover, should be looking well above the standard range and should treat the insurance question as at least as urgent as the saving one.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'negotiating-a-raise',
+    sections: [
+      {
+        h: "The number to ask for and how to arrive at it",
+        p: [
+          "Most requests are anchored on the current salary — a modest percentage above it — which means anyone who started below market stays below market indefinitely. The alternative is to anchor on what the role pays elsewhere, which requires half an hour of research and changes the entire conversation.",
+          "That research is more available than people assume. Advertised ranges for equivalent roles, published salary surveys for your field and region, recruiters who will speak candidly about what they are placing people at, and colleagues who have moved recently. Any two of these triangulate well enough.",
+          "Having a market figure also changes what you are doing in the room. Without one you are asking for more; with one you are pointing at a gap. The second is a considerably easier conversation to have and a considerably harder one to refuse without engaging with the substance.",
+        ],
+      },
+      {
+        h: "Evidence beats enthusiasm",
+        p: [
+          "The person deciding rarely has detailed knowledge of what you did over the year. They have an impression assembled from a few visible moments. The purpose of preparation is to replace that impression with something specific.",
+          "What belongs in the case is narrower than most people include. Not a list of responsibilities, which describes the job rather than your performance in it, but instances where an outcome was measurably better because of something you did. A cost avoided, a process shortened, revenue influenced, a risk that did not materialise. Numbers where numbers exist.",
+          "Three strong examples beat a dozen weak ones. A short, specific case is easier to remember, easier to repeat to whoever else must approve it, and harder to argue with than a long list in which the strongest items are diluted by the rest.",
+        ],
+      },
+      {
+        h: "Timing, which matters more than delivery",
+        p: [
+          "Compensation decisions are made inside a budget process with its own calendar, frequently months before any increase takes effect. A request arriving after those decisions are set receives sympathy and no money, however well it is made.",
+          "Finding out when your organisation actually allocates salary budget, and raising the conversation before that point, is worth more than any improvement in how the request is phrased. Most people have never asked when this happens, and most managers will say if asked.",
+          "The individual timing matters too. Shortly after delivering something visible is materially different from a routine week, not because it is manipulative but because the evidence is present rather than recalled. Combining both — the right point in the budget cycle, shortly after a visible success — is the strongest position available.",
+        ],
+      },
+      {
+        h: "Handling the conversation itself",
+        p: [
+          "Two things go wrong most often, and both are about behaviour rather than content. The first is filling the silence after making the request. State the case, state the number, and stop. The pause that follows is uncomfortable and it is where the other person does the work of responding, and talking through it usually means negotiating against yourself.",
+          "The second is treating it as adversarial. A collaborative framing — here is what would make this work well, what is possible from your side — invites the other person to solve a problem rather than defend a position. It also preserves the relationship, which matters because you will be working with them afterwards regardless of the outcome.",
+          "It is worth being prepared for the answer to be deferred rather than given, which is the most common outcome. That is not a refusal, and the useful response is to agree a specific date to return to it rather than leaving it open.",
+        ],
+      },
+      {
+        h: "What a refusal actually tells you",
+        p: [
+          "A no is information and the most valuable part of the conversation frequently comes after it. The question to ask immediately is what specifically would need to be true for the answer to be different, and by when. A concrete answer gives you a plan; a vague one tells you something equally useful about whether this number will ever move here.",
+          "It is also worth separating a refusal about you from a refusal about the organisation. Budget freezes, sector conditions and rigid pay bands produce identical answers to those caused by performance concerns, and treating a structural no as a personal verdict leads people to draw the wrong conclusion entirely.",
+          "Where the refusal is structural and repeated across years, the honest reading is that the market rate for your work is available elsewhere. Acting on that is not disloyalty; compensation data consistently shows that changing employer produces larger increases than internal progression, which is a fact about how pay structures operate rather than an encouragement to be restless.",
+        ],
+      },
+      {
+        h: "Preparing for the next one during the year",
+        p: [
+          "The single change that most improves these conversations happens eleven months before them. Keeping a short running record — five minutes a month, noting anything that went well and any number attached to it — removes the hardest part of the preparation entirely.",
+          "The version written a week after an event is consistently better than the version reconstructed a year later, because the details are still available and the specifics are what make a case persuasive. It also serves a second purpose: it is exactly what you need when applying elsewhere.",
+          "Alongside that, a note of the market figure whenever you encounter one keeps the anchor current rather than requiring the research to be redone each time. Between them these two habits cost an hour a year and remove most of the dread that makes this conversation get postponed, which is the actual reason so many people stay underpaid. None of this is financial advice; it is a description of what tends to work.",
+        ],
+      },
+      {
+        h: "Where the dread actually comes from",
+        p: [
+          "The reluctance around this conversation is worth examining, because the reasons people give are usually not the operative ones. The stated fear is that asking will be held against you, and the evidence for that is thin: managers conduct these conversations routinely and a reasonable request professionally made is not remembered as an affront.",
+          "The underlying discomfort is more often about exposure. Naming a number is a statement about what you think you are worth, and being refused feels like a verdict on that rather than on a budget. This is why preparation helps so much: a case built on market data and specific outcomes is not a claim about your worth as a person, and it does not read as one to the person hearing it.",
+          "There is also a documented asymmetry in who asks. Studies of negotiation behaviour have consistently found differences in how often different groups initiate these conversations, and part of that gap is a rational response to differences in how the same request is received. Naming it does not solve it, and it does clarify that the reluctance is frequently learned rather than temperamental.",
+        ],
+      },
+      {
+        h: "The compounding argument for having it at all",
+        p: [
+          "The reason this conversation is worth the discomfort is that its effect does not end with the year in question. Salary increases compound: each subsequent rise is calculated from the new base, and the eventual figure at the end of a career depends heavily on the level established along the way.",
+          "The same applies to anything calculated as a proportion of salary, most notably pension contributions, which means an increase quietly improves retirement provision alongside take-home pay. An external move years later will be negotiated against the current figure too.",
+          "Put together, a single successful conversation early in a career can be worth a very large amount over the decades that follow, and a decade of not having it is expensive in a way that is entirely invisible while it is happening. That asymmetry — a bounded, uncomfortable hour against an unbounded, compounding benefit — is the whole case, and it is why this ranks among the highest-return activities available to most people.",
+        ],
+      },
     ],
   },
 ];
