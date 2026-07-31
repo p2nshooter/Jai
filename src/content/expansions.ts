@@ -3493,6 +3493,178 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'inflation-and-your-savings',
+    sections: [
+      {
+        h: "The published figure is not your figure",
+        p: [
+          "National inflation statistics are constructed from a basket of goods and services weighted to represent an average household, and almost nobody is that household. Your own rate depends on what you actually buy, and it can differ from the headline figure substantially and persistently.",
+          "The largest source of divergence is housing. Someone with a fixed mortgage payment experiences no increase in their largest cost, while a renter facing annual increases experiences a great deal. Someone who drives a long commute is exposed to fuel prices in a way that a cyclist is not. Households with children face education and childcare costs that move differently from the general basket.",
+          "The practical implication is that planning against the published figure can mislead in either direction, and that the useful exercise is to look at your own largest recurring costs and how they have moved over several years. That is a more honest input to any long-term projection than a national average constructed for a different purpose.",
+        ],
+      },
+      {
+        h: "Why the erosion is invisible",
+        p: [
+          "The reason cash losing value causes so little alarm is that the number does not move. A balance sits at the same figure month after month, and nothing about a statement communicates that the figure buys less than it did. Losses that are visible provoke a response; losses that require a calculation do not.",
+          "This is a specific instance of what economists call money illusion: the tendency to think in nominal rather than real terms. It shows up everywhere in financial behaviour, from reluctance to accept a nominal pay cut in circumstances where a real one is accepted without complaint, to satisfaction with a savings rate that is below the rate prices are rising.",
+          "The corrective is to occasionally state balances in real terms — what a sum would have bought at some earlier date compared to now. It is a mildly depressing exercise and it is the only way to make the effect visible, since neither the account nor the statement will ever show it.",
+        ],
+      },
+      {
+        h: "What has historically outpaced it",
+        p: [
+          "Over long periods, broad equity holdings have historically delivered returns above inflation by a meaningful margin, which is the principal reason they feature in long-term plans despite their volatility. This is a historical record rather than a guarantee, and it is the strongest available argument for accepting price variability in exchange for maintained purchasing power.",
+          "Conventional bonds have historically done less well against inflation, for the reason discussed elsewhere on this site: their payments are fixed, so unexpected inflation erodes them directly. Index-linked government bonds, where available, address this directly by adjusting payments with a measured price index.",
+          "Property has a mixed record that varies enormously by location and period, and the popular belief that it reliably tracks inflation is not well supported across all markets. Commodities and precious metals are frequently proposed as inflation hedges and their record over long periods is less consistent than the argument implies. The dull conclusion is that broad equities have been the most reliable long-run defence, and that no asset provides protection over short periods.",
+        ],
+      },
+      {
+        h: "The years when it moved quickly",
+        p: [
+          "Long periods of low and stable price increases can make this feel theoretical, and the historical record is a useful corrective. There have been extended stretches in developed economies where prices rose at rates that halved purchasing power within a decade, and several in living memory.",
+          "What those periods demonstrated is how quickly the arithmetic becomes serious. At low rates, the erosion is slow enough that a decade of cash holding is a mild cost. At higher rates, the same decade is transformative, and the difference between the two scenarios is not visible in advance.",
+          "This is the argument for treating inflation as a risk to be planned for rather than a variable to be forecast. A plan that only works if price increases remain low is a plan resting on an assumption nobody can support, and building in some protection is cheaper than being wrong about it.",
+        ],
+      },
+      {
+        h: "Wages, and the half of the equation people forget",
+        p: [
+          "The effect on savings is only one side of it. Inflation also interacts with income, and whether a household ends up better or worse off depends on whether wages keep pace. Historically they sometimes have and sometimes have not, and the periods where they lagged were experienced as a sharp fall in living standards regardless of what savings did.",
+          "For anyone with a mortgage, there is an offsetting effect that gets little attention: inflation erodes the real value of fixed debt as well as fixed savings. A mortgage balance that stays the same in nominal terms while wages and prices rise becomes progressively easier to service, which historically transferred value from lenders to borrowers.",
+          "The net position for any household therefore depends on the balance between its cash holdings, its fixed debt and its income trajectory. Someone with a large mortgage, secure wages and modest cash may be a net beneficiary of an inflationary period, which is the opposite of the usual framing.",
+        ],
+      },
+      {
+        h: "What to hold in cash despite all this",
+        p: [
+          "None of this argues for holding no cash, and the argument for holding some is unaffected by the erosion. Cash exists to cover near-term needs and emergencies, and its value in that role has nothing to do with its long-run return.",
+          "The correct amount is the amount those functions require, discussed at length elsewhere on this site, and the erosion is the price paid for having it available. That price is worth paying, because the alternative — being forced to sell a volatile asset at a bad moment — is considerably more expensive than a modest annual loss of purchasing power.",
+          "What is not worth doing is holding substantially more cash than those functions require, over a period measured in years, out of a preference for the stability of a number that is quietly shrinking. That is the specific behaviour the erosion argument is directed at, and it is common among people who correctly built a buffer and then never stopped. None of this is financial advice, and the appropriate balance depends on circumstances only you can assess.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'high-yield-savings-accounts',
+    sections: [
+      {
+        h: "Deposit protection and why the limit matters",
+        p: [
+          "Most countries operate a scheme guaranteeing bank deposits up to a specified amount per person per institution. For anyone holding a substantial emergency fund, or a house deposit, checking that limit and staying below it is a straightforward precaution that costs nothing.",
+          "The detail that catches people is that the limit applies per institution rather than per account, and several apparently separate brands frequently share a single banking licence. Two accounts at what appear to be different providers may count as one for protection purposes, which is discoverable from the regulator's register and is not obvious from the brands themselves.",
+          "Splitting across genuinely separate institutions is the remedy, and it takes one additional application. For a sum above the limit this is worth doing even though bank failures are rare, because the cost of the precaution is an afternoon and the cost of not taking it is unbounded.",
+        ],
+      },
+      {
+        h: "How rate structures are designed to lapse",
+        p: [
+          "Savings products are frequently constructed so that the attractive rate is temporary, and understanding the common structures makes them easy to spot. An introductory bonus applying for twelve months and then disappearing is the most common. A rate conditional on making no withdrawals is another, and it conflicts directly with the purpose of an emergency fund.",
+          "Tiered rates deserve attention because they work in both directions: some pay more on higher balances, and some pay the headline rate only on a small initial amount with much less above it. The second structure is common and the advertised figure describes a portion of the balance rather than the whole.",
+          "The defence is a calendar entry for the date any promotional period ends, set when the account is opened. This single habit captures most of the value available here, because the reversion is silent and the account will otherwise sit at a poor rate indefinitely.",
+        ],
+      },
+      {
+        h: "Access terms and the trade you are making",
+        p: [
+          "Accounts requiring notice before withdrawal, or limiting the number of withdrawals per year, pay more precisely because they have removed the thing an emergency fund needs. This is a legitimate product with a legitimate use, and that use is not the emergency fund.",
+          "For a two-tier arrangement, described elsewhere on this site, a notice account can reasonably hold the deeper reserve while an instant-access account holds the first tier. That way the notice period applies only to money that would be needed for an extended interruption rather than for a broken boiler.",
+          "What should be avoided is holding the entire buffer somewhere with restrictions, on the reasoning that emergencies are rare. The whole point of the fund is the scenario where it is needed immediately, and a product that pays slightly more in exchange for not being available then has traded away the only feature that mattered.",
+        ],
+      },
+      {
+        h: "Where the better rates tend to be",
+        p: [
+          "Competitive rates are consistently offered by smaller and newer institutions rather than by the largest ones, for a reason that is entirely structural: established banks hold large balances from customers who do not move, and have no need to pay for deposits they already have.",
+          "This means the best available rate almost always requires opening an account somewhere you do not currently bank, which is the friction the pricing is exploiting. Provided the institution is covered by the deposit protection scheme and appears on the regulator's register, the size or age of the provider is not a safety consideration in the way people assume.",
+          "The check worth doing before applying anywhere unfamiliar is confirming the regulatory authorisation directly on the regulator's own website rather than through a link from the provider. This takes two minutes and it is the same precaution described in the fraud article on this site, applied to a context where cloned firms are a known problem.",
+        ],
+      },
+      {
+        h: "Tax on interest, which changes the comparison",
+        p: [
+          "Interest is taxable income in most systems, frequently with an allowance below which no tax is due. This means the headline rate and the rate you actually receive can differ, and comparing products on the headline alone can produce the wrong answer.",
+          "Where tax-sheltered cash accounts exist, they may pay a lower headline rate while delivering more after tax, particularly for anyone above the allowance. Working out which applies to you takes a few minutes and only needs doing once, after which the comparison becomes straightforward.",
+          "The rules vary substantially by country and change, so nothing here describes any particular system. The general principle is that the after-tax rate is the one that matters, that it may not be the highest headline figure, and that a great many people compare on the wrong number without realising there was a second one.",
+        ],
+      },
+      {
+        h: "Switching, which is easier than the inertia suggests",
+        p: [
+          "The whole business model of uncompetitive savings rates depends on customers not moving, and the effort required to move is consistently overestimated. Opening a savings account is typically a short online process, and transferring a balance is an ordinary bank transfer.",
+          "The one thing worth checking is whether any existing standing orders or automated transfers point at the account being replaced, since those need redirecting. Beyond that there is very little to do, and the entire process is usually a single evening.",
+          "Setting an annual date to compare your current rate against what is available, and moving if the gap is meaningful, is the whole maintenance requirement. On a substantial buffer the recovered amount over a decade is not trivial, and the alternative is paying an ongoing charge for the convenience of never having filled in a form. None of this is financial advice; it is a description of how these products are structured.",
+        ],
+      },
+      {
+        h: "Joint accounts and whose money it is",
+        p: [
+          "Where an emergency fund is held for a household, whether it sits in a joint account or an individual one has consequences beyond convenience. A joint account gives both parties immediate access, which is exactly what is wanted in an emergency where one person is unavailable or incapacitated.",
+          "It also means either party can withdraw the whole balance without the other's agreement, which is fine in the overwhelming majority of relationships and is worth being conscious of. Deposit protection generally treats a joint account as covering both holders separately up to the limit, which effectively doubles the protected amount, though the rules vary by country and are worth checking.",
+          "The arrangement that suits most households is a joint emergency fund alongside individual accounts for personal spending, which is the same hybrid structure described in the article on couples elsewhere on this site. What matters most is that both people know it exists, know where it is, and can reach it, since an emergency fund only one person can access has a single point of failure at the worst moment.",
+        ],
+      },
+      {
+        h: "What this account is not for",
+        p: [
+          "It is worth being explicit about the boundary, because a well-funded, competitively priced savings account exerts a gravitational pull on money that belongs elsewhere. Long-term investment money should not sit here, since the erosion described in the inflation article on this site will quietly consume it over a decade.",
+          "Neither should money for irregular but foreseeable costs, which belongs in the sinking fund arrangement discussed elsewhere. Mixing those into the emergency balance makes it impossible to know whether the emergency fund is intact, which is the single fact this account exists to make knowable.",
+          "The account has one function and it performs it well: holding a defined sum, safely, accessibly, at a reasonable rate, until something goes wrong. Every additional purpose assigned to it degrades that function. Keeping it single-purpose is the least sophisticated advice in this article and the one most likely to still be true in ten years.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'inflation-and-your-savings',
+    sections: [
+      {
+        h: "The compounding works the same way in reverse",
+        p: [
+          "The most common error in thinking about this is treating the erosion as linear. It is not. A given annual rate applied to a shrinking real value compounds in exactly the manner described in the compounding articles on this site, which means the loss over twenty years is far larger than twenty times the loss over one.",
+          "The rule of 72, mentioned elsewhere here as a way of estimating doubling times for investments, works equally well in reverse: divide 72 by the inflation rate to estimate how many years it takes for purchasing power to halve. At modest rates that is a few decades. At the rates seen in some historical periods it is under a decade.",
+          "Running that calculation against a cash balance you have been holding for years is an uncomfortable and clarifying exercise. It converts an abstraction into a specific statement about a specific sum, which is the form in which people actually act on information.",
+        ],
+      },
+      {
+        h: "Why the rate on cash rarely closes the gap",
+        p: [
+          "A reasonable objection to all of this is that savings accounts pay interest, which offsets the erosion. Sometimes they do. Historically, the rate available on ordinary deposits has frequently sat below the rate prices were rising, which means the real return was negative even while the nominal balance grew.",
+          "The reason is structural rather than accidental. Deposit rates follow central bank policy rates, and those are set with reference to economic conditions rather than to preserving savers' purchasing power. During periods when policy rates were held low, cash savers experienced years of negative real returns with no realistic alternative at the same risk level.",
+          "This does not argue against holding cash for its proper purpose. It argues against expecting the interest to solve the problem, and against the common belief that a competitive rate makes a large long-term cash holding sensible. It reduces the cost; it does not usually eliminate it.",
+        ],
+      },
+      {
+        h: "A practical response that does not require forecasting",
+        p: [
+          "Nobody can predict the rate of price increases over the next decade, and a plan that requires such a prediction is not a plan. What is available is a structure that behaves acceptably across a range of outcomes, which is a lower bar and an achievable one.",
+          "The shape of that structure is described throughout this site: cash sized to its actual functions and no larger, a broad equity holding for money with a long horizon, and whatever stabilising allocation your tolerance requires in between. That arrangement loses modestly to inflation on the cash portion and has historically outpaced it substantially on the rest.",
+          "The single most valuable habit alongside it is running every long-term projection in real terms rather than nominal ones. This makes the numbers less flattering and stops the plan being calibrated on figures that will not buy what they appear to. As with everything on this site, this is educational rather than advice, and the right structure depends on circumstances only you can assess.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'high-yield-savings-accounts',
+    sections: [
+      {
+        h: "Money market funds and the near-cash alternatives",
+        p: [
+          "For larger balances there are instruments that sit adjacent to a savings account and behave similarly, most notably money market funds holding very short-dated high-quality debt. These typically track prevailing rates closely, sometimes more closely than deposit accounts do.",
+          "The important distinction is that these are funds rather than deposits, which means they are not covered by the deposit protection scheme. They are generally regarded as very low risk and very low risk is not no risk, and the difference between the two matters most in the circumstances where you would be relying on the protection.",
+          "There is also a settlement consideration: selling a fund and receiving the cash takes a small number of business days, which is fine for a second-tier reserve and not fine for the money you need today. For most people, a deposit account for the accessible tier and a fund only for larger sums beyond it is a reasonable division.",
+        ],
+      },
+      {
+        h: "What to do the day you open it",
+        p: [
+          "There is a short list of actions worth taking at the moment an account is opened, all of which take minutes and prevent the common failures. Record the rate and the date any promotional period ends, and put the end date in the calendar.",
+          "Set up the standing order that funds it, on the day after payday, at whatever amount the plan calls for. An account opened without a funding mechanism attached is an account that stays near empty, which is the most common way a well-intentioned buffer never materialises.",
+          "Finally, note the account details somewhere accessible to whoever else would need them, and confirm that transferring money out actually works by moving a small amount back to your current account. Discovering an access problem during an emergency is a specific and avoidable failure, and a five-minute test at the outset rules it out.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
