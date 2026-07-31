@@ -5004,6 +5004,88 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'why-we-buy-things-we-regret',
+    sections: [
+      {
+        h: "Gifts, which follow different rules",
+        p: [
+          "Spending on other people generates a distinct pattern of regret, and it is worth separating because the usual filters do not apply. The research on gift-giving finds a consistent mismatch: givers tend to choose based on how impressive or surprising something is, while recipients report valuing usefulness and the fit with what they already wanted.",
+          "The practical consequence is that money spent trying to find something remarkable frequently performs worse than money spent on something the person had already indicated they wanted. Asking directly outperforms guessing by a considerable margin, despite feeling less thoughtful.",
+          "The other source of regret here is scale, driven by reciprocity anxiety around occasions that arrive on a known schedule. Both halves of that are addressable in advance: agreeing a limit with the people involved, and funding the whole category through the sinking fund described elsewhere on this site, so the amount was decided in a calm month rather than in the week before.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'sequence-of-returns-risk',
+    sections: [
+      {
+        h: "Why the same average produces different outcomes",
+        p: [
+          "The counterintuitive part of this is that two portfolios with identical average returns over the same period can end in completely different places, and the only difference is the order the returns arrived. During accumulation this barely matters. During withdrawal it matters enormously.",
+          "The mechanism is that a withdrawal made during a decline sells more units to raise the same amount of money, permanently removing them from the portfolio. Those units are not available to participate in the recovery, so the base that all subsequent growth applies to is smaller, and the effect compounds for the rest of the retirement.",
+          "This is why averages are close to useless for planning a drawdown. A projection using an average return will describe an outcome that only occurs if returns are smooth, which they never are, and it will systematically understate the risk of the specific sequence that does the most damage.",
+        ],
+      },
+      {
+        h: "The window where it actually bites",
+        p: [
+          "The vulnerable period is narrower than people assume: roughly the last few years of contributing and the first several years of withdrawing. Before that, a decline is an opportunity, since contributions buy at lower prices. After it, the portfolio has either survived or the plan has already been adjusted.",
+          "Within that window, the portfolio is at its largest and the time available to recover is at its shortest, which is the worst possible combination. A severe decline occurring here does damage that a decline fifteen years earlier or fifteen years later would not.",
+          "Knowing the window exists changes what should happen approaching it. The transition from accumulating to drawing is not a moment; it is a period requiring preparation, and the preparation has to begin several years before the date rather than at it.",
+        ],
+      },
+      {
+        h: "Holding a cash runway",
+        p: [
+          "The most direct defence is to hold a few years of planned withdrawals in cash and short-dated instruments, entirely separate from the growth portfolio. During a decline, withdrawals come from that reserve while the equity holding is left alone to recover.",
+          "The reserve is then replenished from the growth portfolio during periods when markets are up, rather than on a fixed schedule regardless of conditions. This single arrangement addresses the mechanism directly: it removes the requirement to sell during a decline, which is the thing that converts a temporary fall into a permanent reduction.",
+          "The cost is real and modest: the reserve earns less than the portfolio would have over the same period, which is a drag on the total. That drag is the premium being paid to eliminate the scenario that most reliably ends a retirement plan early, and on that basis it is generally regarded as worth paying.",
+        ],
+      },
+      {
+        h: "Flexible withdrawal as the other half",
+        p: [
+          "The second defence is behavioural rather than structural: reducing withdrawals during bad periods rather than continuing regardless. The studies underlying most retirement guidance assume rigid withdrawals precisely because they cannot model judgement, which makes them deliberately conservative.",
+          "In practice, a retiree who can reduce spending by a meaningful proportion during a poor stretch is considerably safer than the fixed-withdrawal figures suggest. Deferring a large discretionary expense, reducing travel for a year, or postponing a replacement all work.",
+          "This is why the composition of retirement spending matters as much as its level. Someone whose entire projected spending is essential has no flexibility to deploy, and needs a substantially larger cushion. Someone with a meaningful discretionary component has a second line of defence that costs nothing to hold.",
+        ],
+      },
+      {
+        h: "The glide path into the window",
+        p: [
+          "Because the risk concentrates around a known date, the allocation can be adjusted to reflect it in advance. Reducing equity exposure gradually over the years approaching retirement, rather than all at once, is the approach that target-date funds implement automatically.",
+          "There is an interesting refinement that some research supports: reducing equity into the transition and then increasing it again through retirement, on the reasoning that once the vulnerable window has passed, the long remaining horizon justifies more growth. This runs against intuition and it follows directly from where the risk actually sits.",
+          "Whichever shape is chosen, the important part is that it is decided in advance and executed mechanically. An allocation reduced in a panic during a decline is the failure this whole exercise exists to prevent, and it is what happens to people who arrive at the window without a plan.",
+        ],
+      },
+      {
+        h: "Retiring into a bad market",
+        p: [
+          "The scenario that produces the most anxiety is reaching your intended date and finding markets substantially down. The options available are worth knowing in advance, because none of them is catastrophic and improvising is harder than choosing.",
+          "Working longer, even by a year or two, is the most powerful single response: it adds contributions, removes withdrawals and shortens the period the money must last, all at once. Working part-time achieves much of the same effect with less sacrifice. Reducing the first years of withdrawals and increasing them later is another.",
+          "The option that is not available is waiting for markets to recover while withdrawing at the planned rate, which is the default if nothing is decided. Having a written trigger — if the portfolio is down by more than a certain amount at the intended date, this is what changes — converts a frightening situation into an executed plan. None of this is financial advice, and anyone approaching this decision seriously should consider getting it reviewed against their own circumstances.",
+        ],
+      },
+      {
+        h: "Guaranteed income as a floor",
+        p: [
+          "A structurally different defence is to cover essential spending with income that does not depend on markets at all, leaving the portfolio to fund only the discretionary portion. State provision does part of this automatically; a defined benefit pension does more; an annuity purchased with part of the portfolio can complete it.",
+          "Annuities are unfashionable and the reasons are worth separating. They are irreversible, they offer no residual value in most forms, and they have historically been sold badly. What they do provide is exactly the thing sequence risk threatens: an income that continues regardless of what markets do and however long you live.",
+          "Partial annuitisation — using a portion of the portfolio to guarantee essential costs and investing the rest — is a reasonable middle position that gets less attention than it deserves. It converts the worst-case scenario from destitution into a reduced standard of living, which is a materially different kind of bad outcome.",
+        ],
+      },
+      {
+        h: "Why this is the risk that gets missed",
+        p: [
+          "Sequence risk is absent from most retirement planning conversations, and the reason is structural rather than negligent. The tools people use produce a single projected outcome from an assumed average return, and that model has no way of representing the problem.",
+          "It is also counterintuitive in a specific way: the risk is not that returns will be poor on average, which people do worry about, but that adequate average returns will arrive in an unfavourable order. Nothing about ordinary financial intuition prepares anyone for the idea that the same set of returns can produce success or failure depending on their arrangement.",
+          "The practical takeaway is narrow and worth carrying: during accumulation, volatility is not your enemy and may be an advantage. During the transition and early withdrawal years, it is the primary threat, and the defences against it have to be in place before the window opens rather than constructed inside it.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
