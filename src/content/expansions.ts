@@ -4354,6 +4354,165 @@ export const EXPANSIONS: Expansion[] = [
           "The exception worth allowing is work taken deliberately for a reason other than the rate: a portfolio piece, an entry into a sector, a relationship worth building. Those are legitimate investments. What is not legitimate is drifting into underpriced work because the fee looked adequate before anybody counted the hours.",
         ],
       },
+      {
+        h: "The unpaid time nobody costs in",
+        p: [
+          "Beyond the buffer and the tax reserve, the biggest single surprise for people leaving employment is how much time goes to things nobody pays for. Finding work, writing proposals, invoicing, chasing, keeping records, maintaining equipment, and the professional development that an employer previously arranged.",
+          "Estimates vary by field and the proportion is consistently large — frequently a third or more of the working week for anyone running a small independent practice. Since none of it is billable, it has to be covered by the rate charged for the hours that are, which is why the multiple discussed above is so much larger than a simple salary conversion suggests.",
+          "The practical response is to track it for a month, once, and find out what the actual proportion is. That single number turns pricing from guesswork into arithmetic, and it tends to be the piece of information that most changes how someone runs their business. None of this is financial or tax advice; the specifics differ by country and by trade.",
+        ],
+      },
+      {
+        h: "Raising rates on clients you already have",
+        p: [
+          "A rate set at the start of a freelance career tends to persist for years, because raising it on an existing client is uncomfortable and there is no annual review process to force the question. The result is a practice where the newest clients pay the most and the longest-standing ones pay the least, which is exactly backwards.",
+          "The approach that works is a fixed annual date on which rates are reviewed for everyone, communicated in advance with a reasonable period of notice. Framing it as a scheduled adjustment rather than a request removes most of the awkwardness, because it is not a negotiation about this particular relationship.",
+          "Some clients will decline and a proportion of those will leave, which is uncomfortable and is the mechanism working. Capacity freed by a client unwilling to pay the current rate is capacity available for one who will. The freelancers whose earnings stagnate for a decade are almost always the ones who never had this conversation with anybody.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'multiple-income-streams-myth',
+    sections: [
+      {
+        h: "Where the statistic came from",
+        p: [
+          "The claim about a specific number of income streams circulates widely and has no identifiable source. Attempts to trace it lead to repetition rather than to any study, and the figure varies between tellings, which is usually a sign that nobody is working from data.",
+          "What probably underlies it is an observation about tax filings: wealthy people report income under multiple categories — employment, dividends, interest, rent, capital gains, business profits — while people of modest means typically report one. That observation is accurate and it describes a consequence rather than a method.",
+          "The distinction matters because of how the claim is deployed. Presented as a description, it says that people with substantial assets receive income from those assets in several forms. Presented as a prescription, it says that acquiring several income sources will make you wealthy, which does not follow and is the reading that sells courses.",
+        ],
+      },
+      {
+        h: "The direction of causation",
+        p: [
+          "Someone with a portfolio receives dividends and interest. Someone with property receives rent. Someone who built a business receives profits and may later receive gains from selling it. Each of these streams exists because an asset exists, and the asset came first.",
+          "This reverses the usual advice completely. The productive sequence is to build a surplus from one reliable income, convert that surplus into assets, and let the assets produce the additional streams as a by-product. Nothing in that sequence involves deliberately acquiring more sources of active income.",
+          "It also explains why the prescriptive version disappoints. Adding a second and third active income does not build assets faster; it divides finite attention across activities that each earn less than the first, while the mechanism that actually produces wealth — the gap between earning and spending, invested — receives no additional input at all.",
+        ],
+      },
+      {
+        h: "Why concentration usually wins early",
+        p: [
+          "Early in a career, the highest-return use of available effort is almost always to increase one income rather than to add a second. The reason is that the first income has a career attached to it: increases compound through every subsequent year and every subsequent negotiation.",
+          "A second activity has no such structure. It earns what it earns, it does not raise the base from which future increases are calculated, and it competes for the hours that would otherwise go into the thing that does. Two mediocre incomes are a considerably worse position than one strong one at the same total, because only one of them is growing.",
+          "The exception is where the primary income has a genuine ceiling — a fixed pay scale, a saturated market, a sector in decline. In that situation the argument reverses and diversifying is the right move, which is why the answer depends on which situation you are in rather than on a general principle about streams.",
+        ],
+      },
+      {
+        h: "Passive, which usually is not",
+        p: [
+          "The streams presented as passive are worth examining individually, because the label is doing a great deal of work. Rental property requires tenant management, maintenance, void periods and regulatory compliance, which is a part-time job with a variable schedule.",
+          "Digital products require ongoing marketing, support and updating as platforms change, without which sales decay steadily. Content of any kind requires continual production to remain visible. Businesses run by other people require managing the people. Each of these can be genuinely worthwhile and none is passive in the sense of requiring nothing.",
+          "The only genuinely passive income available to most people is the return on financial assets, which requires no attention whatever once the arrangement is set up. That is the least discussed of all these options and the only one that fully delivers what the others promise, which is worth noticing.",
+        ],
+      },
+      {
+        h: "The order that actually builds this",
+        p: [
+          "The sequence that produces multiple income sources is unremarkable and it works. Maximise one income, which for most people means the skill development and negotiation discussed elsewhere on this site. Establish a substantial gap between earning and spending. Direct that gap consistently into broad, low-cost investments.",
+          "Over time, that portfolio produces dividends and interest, which is genuinely a second stream requiring nothing. If a business or property is added later, it comes from accumulated capital rather than from divided attention, which is a fundamentally different proposition from starting one alongside a job with no capital behind it.",
+          "At the end of that process, a tax return would show several categories of income and the person would look exactly like the statistic describes. The streams were the result of the accumulation, not the method of achieving it, which is the whole point that the popular version of the claim inverts.",
+        ],
+      },
+      {
+        h: "What the myth gets right",
+        p: [
+          "It would be unfair to dismiss the underlying instinct, because there is something correct inside it: depending entirely on a single employer is a genuine concentration risk, and the people who have experienced a sudden job loss with no alternative do not need this explained.",
+          "The reasonable version of the concern is about resilience rather than about wealth-building. Some capacity to earn outside the main job, some accumulated assets, some skills that transfer elsewhere: each reduces the severity of losing the primary income. That is worth having and it is a different objective from getting rich.",
+          "Held that way, the idea is useful. A modest secondary capability, developed slowly, alongside a growing portfolio, is a reasonable structure for anyone whose employment carries real risk. What it is not is a shortcut, and the material that presents it as one is almost invariably selling the shortcut rather than describing the structure. None of this is financial advice.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'the-hedonic-treadmill-money',
+    sections: [
+      {
+        h: "How quickly adaptation actually happens",
+        p: [
+          "The speed of the effect is the part that surprises people. Research following individuals through major life changes has found that reported wellbeing frequently returns close to its previous level within months rather than years, even after events that seemed likely to be permanently significant.",
+          "For purchases, the timescale is shorter still. The elevated satisfaction from a new possession is typically measured in weeks, after which it becomes part of the background and stops registering at all. The cost, meanwhile, either persists as a payment or has already been permanently spent.",
+          "Knowing the timescale is more useful than knowing the phenomenon exists, because it makes the trade explicit. A purchase that will deliver a few weeks of noticeable improvement and then nothing is not necessarily a bad purchase; it is simply a purchase whose value should be assessed against a few weeks rather than against the years of ownership that follow.",
+        ],
+      },
+      {
+        h: "The asymmetry that makes this exploitable",
+        p: [
+          "Adaptation is not symmetrical, and the asymmetry is the most practically useful finding in this area. People adapt strongly and quickly to improvements in circumstances, and considerably less well to the removal of persistent irritations.",
+          "The research on this is fairly consistent. Chronic noise, a long commute, ongoing pain, and persistent uncertainty are all things people adapt to poorly, meaning the relief from removing them continues to register long after the change. New pleasures adapt away; removed negatives largely do not.",
+          "This produces a direct spending filter. Money directed at eliminating something that reliably makes your weeks worse keeps paying. Money directed at adding something that makes a week better stops paying within a couple of months. Both are legitimate uses of money and only one of them is durable, which is worth knowing when deciding where a raise goes.",
+        ],
+      },
+      {
+        h: "Variety, and why the same thing stops working",
+        p: [
+          "Adaptation operates on repetition, which suggests a second exploitable pattern: things consumed occasionally resist it far better than things consumed constantly. A restaurant visited monthly retains its appeal in a way that the same restaurant visited weekly does not.",
+          "This means the same annual spending can produce very different amounts of satisfaction depending purely on how it is distributed. A large number of small, spaced, varied occasions generally outperforms a smaller number of expensive ones, and it certainly outperforms a permanent upgrade that becomes invisible.",
+          "The practical version is to prefer frequency and variety over magnitude in discretionary spending. This is close to the opposite of the usual instinct, which is to save up for the one big thing, and it is supported reasonably well by what is known about how satisfaction actually accumulates.",
+        ],
+      },
+      {
+        h: "Anticipation is part of the value",
+        p: [
+          "A consistent finding about experiences is that the period of looking forward to them delivers a substantial share of the total satisfaction, sometimes more than the event itself. This has an immediate practical implication that most people arrange backwards.",
+          "Paying for something in advance and then waiting for it captures the anticipation and separates the payment from the enjoyment. Paying afterwards, or in instalments, does the reverse: it removes the anticipation and attaches an ongoing cost to something already consumed, which is the least satisfying possible arrangement.",
+          "This is a reasonable argument against instalment purchasing that has nothing to do with interest. Even at zero cost, paying for something after you have it converts a period of pleasant anticipation into a period of mild obligation, which is a real loss that no arithmetic captures.",
+        ],
+      },
+      {
+        h: "The upgrades that genuinely stay",
+        p: [
+          "Not everything adapts away and it is worth naming the exceptions, because a blanket conclusion that spending is futile is both wrong and unlivable. Changes that alter the baseline conditions of daily life tend to persist: moving from an unsafe area to a safe one, ending a punishing commute, resolving a chronic health problem, leaving accommodation that was making you ill.",
+          "These all share the feature described earlier — they remove a persistent negative rather than adding a novelty. Purchases that buy time by eliminating a disliked recurring task belong in the same category, which is why the research on paying to save time finds such consistent effects.",
+          "The filter worth applying to any significant purchase is therefore whether it removes ongoing friction or adds a new pleasure. The first tends to justify its cost indefinitely. The second tends to be worth about six weeks of elevated satisfaction followed by a permanent bill, which may still be worth it and should at least be understood as the trade being made.",
+        ],
+      },
+      {
+        h: "Using it deliberately rather than fighting it",
+        p: [
+          "The most useful reframing is that adaptation is not an enemy to be defeated but a mechanism that works in both directions and can be pointed usefully. It is the reason a reduction in spending stops hurting after a couple of months, which is the entire basis of the pay-yourself-first approach described elsewhere on this site.",
+          "It is also why an automatic saving transfer becomes invisible. The smaller available amount becomes the reference point through exactly the same process that makes a nicer car stop registering, and the person adapts to it without any exercise of willpower.",
+          "So the same mechanism that undermines spending underwrites saving. Someone who understands this can use it to make an increased contribution painless while remaining sceptical about whether an upgrade will still be delivering anything by the time the next one is being considered. That is a more useful position than either denying the effect or concluding from it that nothing is worth buying. As with everything on this site, this is educational rather than advice.",
+        ],
+      },
+      {
+        h: "Testing it on yourself",
+        p: [
+          "General findings about populations are one thing and your own response is another, and the second is checkable. Keep a short note of any significant purchase, and revisit it at one week, one month and six months, recording whether it is still noticeably improving anything.",
+          "A year of this produces a personal record that is considerably more useful than any general principle, because it identifies which categories hold up for you specifically. Most people find the results skewed: a small number of purchases still registering after six months, and a long tail that stopped mattering almost immediately.",
+          "The practical output is a filter tuned to your own responses rather than to an average. Spending more freely on the categories that survive the six-month test, and cutting the ones that never do, produces both a lower total and a higher level of satisfaction from it — which is the only version of spending advice worth acting on.",
+        ],
+      },
+      {
+        h: "Why the effect exists at all",
+        p: [
+          "It is worth asking why humans are built this way, because the answer makes the phenomenon less frustrating. A system that stopped responding to improvements would be useless for guiding behaviour: if satisfaction from a past achievement persisted indefinitely, there would be no signal prompting further effort.",
+          "Adaptation resets the baseline so that new information can register. It is the same mechanism that lets you stop noticing a constant sound, or adjust to a dark room. Treating it as a design flaw misunderstands what it is for.",
+          "That framing suggests the right response is not to defeat it but to stop expecting purchases to do something the machinery is built to prevent. Spending can buy a few weeks of noticeable improvement, the removal of an ongoing irritation, or the option to make different choices. Sustained elevated contentment is not on the list, and no amount of money has ever purchased it, which is a genuinely useful thing to have settled.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'multiple-income-streams-myth',
+    sections: [
+      {
+        h: "The attention cost that nobody prices",
+        p: [
+          "Every additional income source consumes something scarcer than the hours it takes: the capacity to think about it. Each one requires monitoring, decisions, administration and a share of background mental space, and that share is not proportional to how much it earns.",
+          "This is why three small activities frequently feel considerably more burdensome than one substantial one at the same total income. The overheads are largely fixed per activity rather than per pound earned, which means the smallest streams have the worst ratio of effort to return.",
+          "The practical implication for anyone already running several is to consider consolidating rather than adding. Ending the least productive activity typically costs a small amount of income and returns a disproportionate amount of capacity, which can then go into the one that actually pays.",
+        ],
+      },
+      {
+        h: "What to do if your single income is genuinely at risk",
+        p: [
+          "The reasonable core of the concern deserves a practical answer. Anyone whose employment carries real risk — a contracting sector, a single large employer in a small town, a role being automated — has a legitimate reason to build something alongside it.",
+          "The most effective response is usually not a second income but a larger buffer and a set of transferable skills, both of which address the risk directly and neither of which divides attention during working hours. A year of expenses in accessible savings does more for resilience than a small second income ever will.",
+          "Where a secondary activity is the right answer, choosing one adjacent to your existing capability is what makes it viable, since it can be scaled up quickly if the primary income stops. An unrelated activity earning a trivial amount provides very little protection, whatever the number of streams it adds to the count. None of this is financial advice.",
+        ],
+      },
     ],
   },
 ];
