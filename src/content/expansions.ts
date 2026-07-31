@@ -2000,6 +2000,300 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'automate-your-money-system',
+    sections: [
+      {
+        h: "Sequencing the transfers so nothing bounces",
+        p: [
+          "The detail that determines whether an automated system runs smoothly or generates a monthly cascade of failed payments is the order and timing of the transfers. Money has to arrive before it leaves, and the buffer between the two needs to be wide enough to absorb a payment landing a day late.",
+          "A workable arrangement puts income arriving on day one, savings and investment transfers on day two, and bills from day five onward. That leaves several days of slack at the front and keeps the outgoing payments clustered rather than scattered through the month, so the account balance follows a predictable shape rather than an unpredictable one.",
+          "Where several bills are collected by direct debit on dates chosen by the biller rather than by you, most providers will move a collection date if asked, and few people ever ask. Getting them all into a single window near the start of the month, immediately after the savings have left, removes most of the timing risk without any change to what is being paid.",
+        ],
+      },
+      {
+        h: "The buffer that stops the whole thing failing",
+        p: [
+          "A fully automated system with a current account balance that runs close to zero at the end of each month is fragile in a specific way: a single unexpected payment, or an income arriving two days late, produces a failed direct debit, a charge, and occasionally a mark on a credit record.",
+          "The fix is a permanent float in the current account that is never counted as available money — an amount sitting there that absorbs mistiming without any intervention. Conceptually it is not savings; it is the operating margin of the system, and it should be excluded from any calculation of what you have.",
+          "Building this once, at the start, is what allows everything else to run untouched. Without it, the automated arrangement requires monitoring to prevent failures, which reintroduces exactly the ongoing attention it was designed to eliminate. The float is the difference between a system that runs and a system that requires supervision.",
+        ],
+      },
+      {
+        h: "What should deliberately stay manual",
+        p: [
+          "Automating everything is not the goal and a few categories are better left as decisions. Anything with a variable amount and a rising trend — subscriptions, insurance renewals, service contracts — benefits from an annual friction point at which the price is noticed.",
+          "The specific danger is automatic renewal at a price that has increased. A contract that renews without any action, at a rate higher than the one you agreed, is the most common route by which household costs rise without a decision. Setting these to require a manual step once a year is a deliberate reintroduction of friction at the only moment friction is useful.",
+          "Discretionary spending is the other category. An automated allowance transferred into a spending account works well; automating the spending itself does not, because the point of the arrangement is to make the constraint visible at the moment of choosing. Automate the structure, leave the choices.",
+        ],
+      },
+      {
+        h: "Adapting it when the pay date moves",
+        p: [
+          "Automated systems fail most often at transition points, and a change of employer is the classic one. A new pay date, a different amount, a gap between the last payment from one job and the first from the next, and a set of standing orders configured for the old rhythm.",
+          "The specific risk is a gap month, where the old employer's final payment arrives early and the new one arrives late, leaving a stretch during which the transfers still fire against a balance that has not been replenished. This is entirely predictable and almost never planned for.",
+          "The practical response is a short checklist applied at any income change: confirm the new pay date, move the transfer dates to match, verify the amounts against the new net figure, and ensure the float can cover the transition gap. Fifteen minutes at the point of change prevents a month of failures and a set of charges that are entirely avoidable.",
+        ],
+      },
+      {
+        h: "The evidence behind defaults",
+        p: [
+          "The case for automation is not merely convenience, and the supporting evidence is unusually strong for a personal finance claim. Studies of workplace retirement schemes have repeatedly found that participation rates differ dramatically depending on whether enrolment is automatic with an opt-out or voluntary with an opt-in, with the difference frequently exceeding fifty percentage points.",
+          "What makes this striking is that the financial decision is identical in both cases, the information available is identical, and the amounts are identical. The only difference is what happens if the person does nothing, and that single structural detail dominates every other factor including education and financial literacy.",
+          "The lesson generalises directly. Wherever you have a choice about how something is arranged, arranging it so the desirable outcome is what occurs by default is more effective than any amount of intention. This is the whole theory behind an automated money system: not that it saves effort, though it does, but that it changes what happens when you are tired, distracted or busy, which is most of the time.",
+        ],
+      },
+      {
+        h: "The escape hatch, and why it matters",
+        p: [
+          "An automated system that cannot be interrupted is a liability rather than an asset, and knowing in advance how to stop it is part of building it properly. There will be a month where the transfer genuinely cannot go, and the important thing is that stopping it is easy and reversing the stop is easier.",
+          "The failure mode to design against is the one where pausing requires effort and restarting requires more, because the restart then does not happen. Standing orders that can be suspended for a single payment and resume automatically are better than ones that must be cancelled and recreated, and most banking apps now support the former.",
+          "The other half of the escape hatch is a written note of what the system consists of: which transfers exist, on what dates, to where, and for what purpose. Kept somewhere findable, this is what allows the system to be reconstructed after a bank switch, adjusted after a life change, or understood by someone else if it needs to be. An automated arrangement that only exists inside one person's memory of setting it up is one forgotten password away from being unmaintainable. None of this is financial advice; it is a description of how to build something that keeps running.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'subscription-audit-small-leaks',
+    sections: [
+      {
+        h: "Why these charges are designed to be invisible",
+        p: [
+          "Recurring billing is not accidentally easy to forget; it is engineered that way, and understanding the design makes the audit feel less like a personal failing. Amounts are set below the threshold at which most people scrutinise a statement line. Billing descriptors frequently bear no resemblance to the service name, so a scan of a statement does not identify them.",
+          "Renewal happens without notification in many cases, or with a notification sent to an email address created for the signup and never checked. Cancellation is routinely several steps deeper in an interface than signup, and some services require contact through a channel with limited hours. None of this is illegal and all of it is deliberate.",
+          "The relevant consequence is that the ordinary attention people apply to household costs does not detect these, no matter how careful they are. The audit is a substitute for a detection mechanism that the design has specifically defeated, which is why doing it periodically works when general vigilance does not.",
+        ],
+      },
+      {
+        h: "Finding the ones that do not appear on a card statement",
+        p: [
+          "A card statement search catches most subscriptions and misses several categories that are worth chasing separately. Charges billed to an app store appear as a single aggregated line rather than as individual services, and the itemisation lives inside the store account rather than on the statement.",
+          "Payment intermediaries create the same problem, aggregating several merchants into charges that identify the intermediary rather than the service. Anything billed annually will not appear in a three-month review at all, which is why the audit needs to cover a full twelve months. And subscriptions charged to a card that has since been replaced may have been migrated automatically by the network without your involvement.",
+          "The thorough version therefore involves four passes: twelve months of every card and bank statement, the subscription list inside each app store account, the merchant list inside any payment intermediary account, and a search of the email archive for renewal confirmations. It takes an hour and it is the only method that finds everything.",
+        ],
+      },
+      {
+        h: "Sorting what you find into three piles",
+        p: [
+          "Once the list exists, the sorting is quick and the categories are obvious. The first pile is services you use regularly and would pay for again today; these stay untouched and require no further thought. The second is services you do not use at all and had frequently forgotten existed; these are cancelled immediately with no deliberation.",
+          "The third pile is the interesting one: services you use occasionally, or used to use, or feel you should use. This is where the money actually leaks, because each of these has a plausible defence and the aggregate is substantial. The useful test is not whether you use it but whether you would sign up for it today at the current price knowing what you know.",
+          "For anything in the third pile that survives that test, there is a further question worth asking: whether an annual plan, a lower tier, or a shared household plan delivers the same thing for less. Providers rarely volunteer that a cheaper option exists that would suit you better, and in many cases one does.",
+        ],
+      },
+      {
+        h: "Cancelling in a way that actually works",
+        p: [
+          "Cancellation frequently does not complete on the first attempt, and the reasons are worth knowing. Retention flows are designed to convert cancellations into pauses or discounted continuations, and a pause is not a cancellation — it resumes at full price on a date you will not remember.",
+          "Discounted retention offers deserve particular scepticism. Accepting a reduced rate for a few months converts a decision you had made into a decision you will have to make again, at a moment you have not chosen, and the reversion is automatic. If the service genuinely was not worth the price, a temporary discount does not change that.",
+          "The verification step is the one most often skipped: check the following statement to confirm the charge actually stopped. Cancellations that did not take effect are common enough to be worth this thirty-second check, and a screenshot of the confirmation is worth keeping for any that turn out to be disputed.",
+        ],
+      },
+      {
+        h: "The arithmetic that makes it worth an hour",
+        p: [
+          "The reason a modest monthly amount deserves attention is that it is not a monthly amount. A recurring charge is an annual figure, and treating it as such changes how it reads. Several of them together frequently exceed what a household spends on categories they scrutinise carefully.",
+          "There is a further step that makes the case stronger. A recurring cost eliminated permanently is equivalent, in terms of the annual sum released, to a lump of capital generating that amount indefinitely. Working out how much invested capital would be required to produce the same annual income puts the value of a cancellation in a form that is genuinely startling.",
+          "None of this argues for eliminating things you value. It argues for the modest proposition that recurring costs deserve the same scrutiny as one-off ones of equivalent annual size, which they almost never receive, precisely because they are divided into instalments small enough to escape notice.",
+        ],
+      },
+      {
+        h: "Preventing the list from rebuilding",
+        p: [
+          "The audit finds what accumulated; a few structural habits slow the reaccumulation. Using a virtual card number per service, where the bank supports it, makes each charge trivially identifiable on a statement and cancellable at source. A dedicated email address for signups keeps renewal notices in one findable place.",
+          "The most effective single habit is a calendar entry created at signup for two days before any free trial ends. Free trials are the largest single source of forgotten subscriptions, and the reason is that the conversion date is deliberately unmemorable and the reminder, if sent at all, is easy to miss.",
+          "Finally, a fixed annual date for the audit itself, treated as a recurring appointment rather than as something to do when you think of it. Doing it when you think of it means doing it once. The value here is entirely in repetition, since the mechanisms that produced the first list have not gone anywhere and will produce another one given a couple of years. None of this is financial advice; it is a description of a leak and a maintenance schedule.",
+        ],
+      },
+      {
+        h: "The subscriptions that are not called subscriptions",
+        p: [
+          "A complete audit should extend beyond the obvious media and software services to every recurring charge in a household, because the same inattention applies to all of them and the amounts are frequently larger. Insurance policies that renew annually at a rate nobody checks are the clearest example, and the difference between the renewal quote and a fresh quote from the same insurer is routinely substantial.",
+          "Utility and telecommunications contracts behave identically. A tariff that was competitive when chosen reverts to a standard rate at the end of its term, and the standard rate exists precisely to be paid by people who did not act. The same is true of mortgage rates reverting after a fixed period, which is the largest example of this pattern by a wide margin.",
+          "Extended warranties, breakdown cover, subscription boxes, gym memberships, professional memberships that lapsed in usefulness but not in billing, and paid tiers of services whose free tier would now suffice all belong on the same list. The unifying feature is not what the service is but that the charge repeats and the decision does not.",
+        ],
+      },
+      {
+        h: "Where the recovered money should go",
+        p: [
+          "The audit produces a monthly amount that is now free, and the default outcome is that it disappears into general spending within a couple of months, leaving the exercise with nothing to show for it. This is the same pattern described elsewhere on this site whenever a fixed cost ends.",
+          "The step that converts the exercise into something durable is to immediately set up a standing order equal to the amount recovered, on the same date the cancelled charges used to leave. The household has already demonstrated it can live without that money, and redirecting it requires no adjustment at all to how anything feels.",
+          "Doing this on the same day as the audit matters. A week later the money has already been absorbed and the transfer feels like a new sacrifice rather than a continuation of an existing one. The audit and the redirection are one task, and separating them is how the recovered amount quietly evaporates.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'automate-your-money-system',
+    sections: [
+      {
+        h: "Reviewing a system that requires no attention",
+        p: [
+          "A well-built automated arrangement runs without intervention, which creates a specific hazard: it also runs without anybody checking that it is still appropriate. Transfers configured against a salary from four years ago continue at that amount, allocations chosen for circumstances that have changed persist unquestioned, and the whole thing works perfectly while being calibrated to a life you no longer have.",
+          "The remedy is a single annual review with a fixed short agenda: verify each transfer is still firing, check the amounts against current net income, confirm the destinations are still the right ones, and note anything that has changed in your circumstances. Half an hour, once a year, on a date in the calendar.",
+          "What makes this review different from the monthly checking that automation was designed to eliminate is its frequency and its scope. It examines the configuration rather than the outcomes, it happens on a schedule rather than in response to anything, and it explicitly does not involve reconsidering investment strategy on the basis of the last twelve months.",
+        ],
+      },
+      {
+        h: "Building it in one sitting",
+        p: [
+          "The whole arrangement can be constructed in a single session and the ordering makes it considerably easier. Start by listing every regular outgoing and its amount, which most banking apps will produce. Total the fixed costs, subtract from net income, and decide what proportion of the remainder is going to savings.",
+          "Then open whatever accounts are missing — typically a separate account for fixed costs, one for savings, and one for the sinking fund described elsewhere on this site. Move each direct debit to the fixed-costs account, set the transfers for the day after payday, and leave the everyday account holding only what is genuinely spendable plus the float.",
+          "The whole thing takes an afternoon, most of which is the account opening. What it produces is an arrangement in which the everyday account balance is, by construction, an accurate statement of what is available to spend, which is a piece of information almost nobody has and which removes the need for any tracking at all.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'side-income-realistic-guide',
+    sections: [
+      {
+        h: "The hourly rate calculation nobody runs",
+        p: [
+          "The single most clarifying exercise before committing to any side activity is to estimate what it will pay per hour of actual work, including the hours that are not billable. Preparation, administration, marketing, invoicing, chasing payment, and the unpaid time spent acquiring the first customers all count.",
+          "Run honestly, this calculation frequently reveals that an activity paying a respectable headline amount delivers an effective rate below what the person already earns in their main job. That does not automatically make it a bad idea — it may be building a skill, a portfolio or an asset — but it changes the reasoning from income to investment, which is a different decision.",
+          "The comparison worth making is against the alternative use of the same hours. For many people, the highest-return use of ten hours a week is directed at raising their primary income, which compounds through every subsequent year of their career, rather than at a side activity paying less per hour with no such effect.",
+        ],
+      },
+      {
+        h: "Trading hours, selling a product, or building an asset",
+        p: [
+          "Side activities divide fairly cleanly into three types with quite different economics. Selling hours — freelancing, consulting, tutoring, driving — starts earning immediately, scales linearly, and stops the moment you stop. It is the most reliable and the least leveraged.",
+          "Selling a product, whether physical or digital, involves upfront work before any revenue and then a weaker link between hours and income. Building an audience, a piece of software, a body of content or a small business is the third, and it is the only one where the work continues generating after it stops, at the cost of the longest and least certain path to any revenue at all.",
+          "Most disappointment in this area comes from choosing the third type while expecting the timeline of the first. The activities described as passive income are almost universally in the third category, where the passive part follows a substantial period that is anything but. Knowing which type you have chosen sets the right expectation for when, and whether, it pays.",
+        ],
+      },
+      {
+        h: "The costs that are not hours",
+        p: [
+          "A side activity carries costs beyond time and the obvious expenses, and they are the ones most likely to be discovered late. Tax is the largest: additional income is typically taxed at your marginal rate rather than your average one, which means the proportion retained is lower than the main job's payslip would suggest.",
+          "Registration, record-keeping and filing obligations arrive with self-employment income in most jurisdictions, along with the requirement to set money aside for a bill that arrives long after the money was earned and spent. Insurance may be needed. Depending on your employment contract, permission may be required, and some contracts contain clauses about outside work or intellectual property that are worth reading before rather than after.",
+          "None of these is prohibitive and all of them are easier to handle when anticipated. The specific failure worth avoiding is spending gross income and meeting a tax bill from money that no longer exists, which is among the most common ways a promising side activity becomes a financial problem.",
+        ],
+      },
+      {
+        h: "The traps that recur with different names",
+        p: [
+          "Certain propositions circulate continuously with updated terminology, and the underlying structure is worth recognising. Any arrangement where the primary income comes from recruiting others rather than from selling to end customers is a structure with a well-documented outcome for the overwhelming majority of participants.",
+          "Anything requiring a substantial upfront payment for training, inventory, a licence or access, before any income is possible, has inverted the normal direction of a business relationship. Legitimate work pays you; it does not require you to pay for the privilege of doing it, and the exceptions to this are narrow and well known.",
+          "The third pattern is the course or programme teaching how to make money, sold by someone whose income appears to come from selling the course rather than from the activity it describes. This is not always fraudulent and the incentive is worth noticing: the person profits whether or not you succeed, which is a structure that reliably produces optimistic teaching.",
+        ],
+      },
+      {
+        h: "Pricing, which almost everyone gets wrong initially",
+        p: [
+          "Underpricing is close to universal among people starting a side activity, and it causes more failures than lack of demand. The reasoning is usually that a low price will attract initial customers and prices can rise later, and both halves of that turn out to be harder than expected.",
+          "Low prices attract a customer segment that is more demanding, more likely to dispute, and least likely to accept an increase. Raising prices on existing customers is genuinely difficult and frequently means losing them, which means the low initial price sets a ceiling that persists for years. Starting higher and negotiating down is available; starting low and negotiating up largely is not.",
+          "The practical approach is to find out what the going rate is by asking people already doing the work, and to price near it rather than below it. Competing on price against people with more experience is the weakest available position, and the customers won that way are the ones least worth having.",
+        ],
+      },
+      {
+        h: "Deciding what the money is for before it arrives",
+        p: [
+          "Side income has a distinctive tendency to be absorbed without trace, more so than an equivalent increase in salary. It arrives irregularly, in amounts that feel like windfalls rather than income, and the effort that produced it creates a sense of having earned some reward, which is a reasonable feeling and an expensive one.",
+          "Deciding the destination in advance, before the first payment, is what prevents this. A specific purpose — clearing a particular debt, funding a particular goal, reaching a particular buffer — gives each payment somewhere to go and makes the progress visible, which also sustains motivation through the periods when the work is unrewarding.",
+          "The mechanical version is a separate account that the income is paid into, from which tax is set aside immediately and the remainder transferred to its purpose. Money that never touches the everyday account is not absorbed by it, and this single arrangement is the difference between two years of side work producing something and producing nothing identifiable at all.",
+        ],
+      },
+      {
+        h: "Knowing when to stop",
+        p: [
+          "Side activities should have exit conditions and almost never do. Without one, a project that has stopped making sense continues out of momentum and sunk cost, consuming hours that have better uses and producing a diminishing return that is easy not to notice.",
+          "Reasonable conditions to define at the start: a date by which some level of revenue must have appeared, an effective hourly rate below which the activity is not worth continuing, and a threshold of impact on health, relationships or main-job performance beyond which it stops regardless of the money. Writing these down takes ten minutes and makes the eventual decision a matter of checking rather than of agonising.",
+          "It is also worth saying that stopping is a normal outcome rather than a failure. Most side activities that end were reasonable things to attempt and turned out not to work, which is information that could only be obtained by attempting them. The cost of the attempt was bounded and the alternative was not knowing. As with everything on this site, this is educational rather than advice, and the right choice depends on circumstances only you can assess.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'skills-that-raise-earning-power',
+    sections: [
+      {
+        h: "Why the return here beats the portfolio early on",
+        p: [
+          "For someone in the first half of their working life, the arithmetic strongly favours investing in earning power over almost anything they could do with a modest portfolio. A permanent increase in salary applies to every remaining year of work, and it also increases the amount available to save, which compounds separately.",
+          "The comparison is stark when set out. A meaningful percentage increase in income, sustained across decades, produces a total effect that a small portfolio would need extraordinary returns to match. And the increase is considerably more within your control than any market return, which is the part that makes it a genuinely different category of investment.",
+          "This reverses later. Once a portfolio is large relative to annual income, its returns dominate and the marginal value of another skill falls. Knowing which regime you are in tells you where the next available hour is best spent, and the answer for most people under forty is not portfolio optimisation.",
+        ],
+      },
+      {
+        h: "Which skills actually change what you are paid",
+        p: [
+          "Not all capability translates into compensation, and the distinguishing feature is fairly consistent: skills that are scarce relative to demand, that are demonstrably connected to something an employer values in money, and that are difficult to acquire quickly.",
+          "The skills that reliably fail this test are the ones that are pleasant to learn, widely taught and easily verified — which is precisely why they are widely taught. A capability that thousands of people acquire each year through an accessible route does not create scarcity, whatever its intrinsic merit.",
+          "The pattern that tends to pay best is a combination rather than a single skill: competence in a domain plus a capability that most people in that domain lack. Technical ability plus the ability to explain it to non-specialists. Domain expertise plus quantitative literacy. Each component is common; the intersection is not, and the intersection is where scarcity lives.",
+        ],
+      },
+      {
+        h: "Finding out what your market values",
+        p: [
+          "Rather than guessing which skills matter, the information is available and specific. Job advertisements for the roles one or two levels above yours list requirements explicitly, and reading twenty of them produces a reliable picture of what is being asked for and what is optional.",
+          "The advertisements that state a salary range are more informative still, because they let you associate specific requirements with specific compensation. Comparing the requirements of roles at different points in the range identifies which capabilities actually correspond to the difference in pay, which is a much sharper question than what skills are valuable.",
+          "Recruiters in your field will answer this directly if asked, and generally have a better view of it than anyone inside a single organisation. So will people who have recently moved. Half a dozen conversations produce a more accurate map than any amount of general reading about future skills.",
+        ],
+      },
+      {
+        h: "Learning without spending much",
+        p: [
+          "The assumption that skill acquisition requires expensive formal training holds in a small number of regulated fields and is largely false elsewhere. Most of what determines whether someone can do a thing is practice on real problems, and access to real problems is frequently free or already available inside a current job.",
+          "The cheapest and most effective route is usually to volunteer for work at your existing employer that requires the capability you lack. This supplies instruction, practice, a real deadline and, critically, an example you can point to afterwards. Certification without application is weak evidence and everyone hiring knows it.",
+          "Where formal learning is genuinely needed, the honest question is whether the credential is a gate or a signal. Gates — professional licences, regulated qualifications — must be paid for and are worth it. Signals can usually be replaced by demonstrated work, which costs time rather than money and is more convincing. Establishing which you are facing before spending is worth the hour it takes.",
+        ],
+      },
+      {
+        h: "The evidence problem",
+        p: [
+          "A capability that cannot be demonstrated does not raise what you are paid, which means the acquisition is only half the task. This is where a great deal of genuine skill-building fails to convert into income: the person can do the thing and has no way of showing it.",
+          "The forms of evidence that work vary by field and share a structure: a specific instance, with a describable outcome, that someone else can verify. A project delivered, a problem solved with a measurable result, a piece of work in the public record, a reference from someone who saw it. Each of these is worth more than any statement about what you are capable of.",
+          "Building the evidence deliberately, at the time rather than retrospectively, is the practical habit. The record described in the negotiation article on this site serves exactly this purpose, and it is considerably easier to write a note immediately after finishing something than to reconstruct it a year later when it is needed.",
+        ],
+      },
+      {
+        h: "The skills that do not go obsolete",
+        p: [
+          "There is a real risk in specialising deeply in a capability tied to a specific technology, employer or market structure, since all three change. This is the argument for holding some portion of your development in capabilities with longer lives.",
+          "The durable ones are unglamorous and consistently valuable: clear written communication, the ability to explain complex things simply, negotiation, understanding how the money works in whatever business you are in, and the capacity to manage a piece of work through to completion without supervision. None of these appears on a list of emerging skills and all of them have been valuable for a very long time.",
+          "The reasonable allocation is a mix, in the same way a portfolio is. Specific technical capability generates the near-term earning increase and carries obsolescence risk. Durable general capability generates less immediately and does not expire. Neglecting either produces a predictable problem, and the second is the one people neglect because its payoff is diffuse.",
+        ],
+      },
+      {
+        h: "Compounding across a career rather than a year",
+        p: [
+          "The reason this is described as compounding rather than merely as accumulation is that capabilities enable each other. A skill acquired makes the next one easier, opens access to work that teaches further skills, and moves you into environments where the ambient level is higher, which raises what you learn passively.",
+          "The same mechanism operates on the compensation side. A higher salary establishes a base from which the next increase is calculated, and the effect persists through every subsequent move. This is why the increases achieved early in a career matter disproportionately, and why an extended period at below-market pay is expensive well beyond the years it lasted.",
+          "The practical implication is that deliberate skill-building deserves the same treatment as any other long-term investment: a regular allocation of time, maintained through periods when it is not obviously paying, reviewed occasionally, and not abandoned because a particular year produced no visible return. The people who look effortlessly employable at fifty generally did this steadily rather than intensively. None of this is financial advice, and the right investment depends on the field you are in.",
+        ],
+      },
+      {
+        h: "The realistic time budget",
+        p: [
+          "Advice to invest in skills rarely says how much time, which makes it easy to agree with and impossible to act on. A useful concrete figure is a few hours a week, sustained, which over a year amounts to a substantial block and over five years to something that genuinely changes what you can do.",
+          "What matters more than the total is that the time is protected and specific. An unallocated intention to learn something produces nothing; a recurring slot in the calendar with a defined project attached produces steady progress. The failure mode is the same as with saving: an aspiration competing against everything else loses, and a scheduled commitment does not.",
+          "It is also worth being realistic about periods when this is not possible. New parents, people caring for relatives, and anyone in an unusually demanding stretch at work should not treat a pause as failure. Careers are long, and a year without deliberate development matters far less than a decade of good intentions that never became a schedule.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'side-income-realistic-guide',
+    sections: [
+      {
+        h: "The first customer problem",
+        p: [
+          "Almost every side activity fails at the same point, and it is earlier than people expect. Not at the skill, not at the pricing, but at finding the first few people willing to pay. This is the step that consumes the most time, produces the most discouragement, and receives the least attention in anything written about the subject.",
+          "The route that works most reliably is unglamorous: people who already know you, and people they know. Existing colleagues, former employers, and the network built through your main job convert at a far higher rate than any form of advertising to strangers, because the trust problem is already solved.",
+          "This has a practical implication for what to choose. An activity adjacent to your existing work has a warm market attached to it, and an activity in an unrelated field starts with none. The second is not impossible and it should be entered with the knowledge that the first year is largely about solving a problem the first option does not have.",
+        ],
+      },
+      {
+        h: "Protecting the main job",
+        p: [
+          "The largest financial risk in most side activities is not the money invested but the effect on the primary income, which is almost always the larger and more reliable of the two. A side project that degrades performance, attention or health at the main job is risking a substantial sum to earn a modest one.",
+          "The specific hazards are predictable: work bleeding into hours that should be recovery, using employer time or equipment, competing with the employer, and any ambiguity about who owns work produced. The last two are contractual matters worth checking rather than assuming, since the consequences of getting them wrong extend beyond the money.",
+          "A reasonable discipline is a hard boundary on when the side work happens, a policy of never using anything belonging to the employer, and an honest periodic check on whether the main job is suffering. If it is, the arithmetic almost certainly favours scaling back, however promising the side activity feels.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
