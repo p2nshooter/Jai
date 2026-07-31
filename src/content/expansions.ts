@@ -5354,6 +5354,307 @@ export const EXPANSIONS: Expansion[] = [
           "What is worth resisting is the conclusion that because the full contribution is impossible, none should be made. Contributing at a low rate keeps the account open, captures whatever match applies, and preserves the habit through the years when the amounts are necessarily small. The rate can rise later; the years cannot be added back.",
         ],
       },
+      {
+        h: "Not losing track of it",
+        p: [
+          "An account opened at twenty-two and left behind at the first job change is the most commonly forgotten financial asset there is, and early careers involve several job changes. Money contributed diligently and then mislaid is a specific and avoidable waste.",
+          "The habit that prevents it costs ten minutes at each departure: record the scheme name, the provider, the reference number and the approximate balance, in one document kept somewhere permanent. Update it at every subsequent change. That single page is what makes consolidation possible later rather than requiring an archaeological search.",
+          "Many countries operate tracing services for exactly this problem, which is evidence of how common it is. Using one is better than nothing and considerably worse than never having lost track, and the difference is a note written on the day you leave rather than a search conducted thirty years afterwards.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'the-psychology-of-enough',
+    sections: [
+      {
+        h: "Why the target moves",
+        p: [
+          "The consistent experience of people who set a financial target is that reaching it does not produce the sense of arrival they expected. The number moves, usually upward, and the anticipated feeling does not arrive. This is common enough to be worth expecting rather than treating as a personal failure of contentment.",
+          "Part of the explanation is adaptation, described elsewhere on this site: an improved circumstance becomes the baseline and stops registering. Part is that a target set years earlier was set by a person with different information. And part is that the number was frequently standing in for something else — security, status, the resolution of an old anxiety — that no financial figure can complete.",
+          "The distinction worth drawing is between a figure derived from an actual annual spending requirement, which is checkable against reality, and one that represents feeling safe, which is not. There is no amount at which the second reliably arrives, and recognising which of the two you have set is what determines whether the exercise can ever conclude.",
+        ],
+      },
+      {
+        h: "Defining it from components",
+        p: [
+          "A number is only useful if it is constructed rather than guessed, and the construction is a specific evening of work. It starts from an annual spending figure describing the life you actually want, built from parts rather than estimated as a total.",
+          "The parts divide into three: costs that continue regardless, costs that will change, and costs that will appear. Housing may fall if a mortgage clears or rise if you move. Commuting and work-related costs disappear. Support and healthcare costs tend to rise with age. Travel frequently rises early and falls later.",
+          "Working through these produces a figure meaningfully different from current spending, usually in ways that surprise people in both directions. It also converts a vague sense of needing more into a specific number, which is the entire difference between having a target and having an anxiety.",
+        ],
+      },
+      {
+        h: "The floor and the ceiling",
+        p: [
+          "A single figure conceals a distinction worth making explicit: the amount required to cover essentials with no discretion at all, and the amount required for the life you actually want. These support quite different decisions.",
+          "The floor is what makes options visible. Assets covering essential costs mean work becomes a choice about the difference rather than a necessity, and that threshold arrives considerably earlier than the headline number. It is rarely calculated and it is the more actionable of the two.",
+          "The ceiling is the level beyond which further accumulation changes nothing, which is the overshooting problem discussed below. Having both figures gives a range rather than a point, and a range is a more honest description of a situation where the requirement genuinely depends on choices not yet made.",
+        ],
+      },
+      {
+        h: "What overshooting costs",
+        p: [
+          "Accumulating well beyond a defined requirement is usually described as prudent and it carries real costs. The most obvious is the time spent earning the surplus, which is the one resource that cannot be recovered and is being spent at the age when it is most usable.",
+          "The second is habit. Someone who spent thirty years building a saving discipline frequently cannot reverse it, and a substantial number of people who comfortably exceed their requirements continue living as though they had not. Money accumulated at that cost and never converted into anything produces no benefit to anybody.",
+          "The third is what the surplus displaced: opportunities not taken because they paid less, work not left because the number had not been reached, years not spent differently. None of these appears on a balance sheet, and all of them are the actual currency that the balance sheet was supposed to be converting into.",
+        ],
+      },
+      {
+        h: "Deciding in advance what crossing the line changes",
+        p: [
+          "The question of what happens after the number is reached receives remarkably little attention relative to the effort spent reaching it, and it determines whether any of it was worthwhile.",
+          "The options are few and each deserves a deliberate choice: work less, either in hours or in years; work differently, taking something that pays less and matters more; spend more on the specific things that survived the test of still mattering after six months; give some away, which the wellbeing evidence supports more strongly than most alternatives; or continue accumulating, which is legitimate when chosen and a failure of imagination when it happens by default.",
+          "The practice worth adopting is to write down, before reaching the number, what crossing it will change. A commitment made in advance is considerably more likely to be honoured than an intention formed at the moment of arrival, when three decades of accumulated habit will be arguing for continuation.",
+        ],
+      },
+      {
+        h: "The reference group problem",
+        p: [
+          "The most reliable way to undo a well-constructed number is exposure to people whose number is higher. The evidence on relative comparison is strong: satisfaction with an absolute level of wealth depends heavily on the reference group, and the reference group is not fixed.",
+          "The practical consequence is that moving into a context where your circumstances are unremarkable will move your sense of what is required, regardless of what you calculated. No amount of resolve prevents this, because the mechanism is not deliberative.",
+          "This does not argue for isolating yourself from successful people. It argues for noticing when a shift in your sense of what is needed has followed a shift in who you spend time with, and treating that as information about the reference group rather than as new information about your requirements. Distinguishing the two is most of what defending a number consists of. None of this is financial advice, and what constitutes enough is a question only you can answer.",
+        ],
+      },
+      {
+        h: "Testing the number by living at it",
+        p: [
+          "A figure derived on paper describes a life nobody has yet lived, and it is worth checking against reality before organising a decade around it. The test is straightforward: spend a few months living at the annual rate the number assumes, and see what it is actually like.",
+          "This surfaces things no calculation does — costs omitted entirely, categories that turn out to matter more than expected, and the discovery that the figure is either uncomfortably tight or considerably more generous than needed. All of these are cheap to learn now and expensive to learn afterwards.",
+          "It also tests something no spreadsheet addresses: whether the life implied by the number is one you want. A figure that is technically sufficient and produces a version of life you find diminished is the wrong figure, and a trial period is a far better way to discover that than arriving at it permanently.",
+        ],
+      },
+      {
+        h: "Enough as a rate rather than a total",
+        p: [
+          "There is an alternative formulation that suits some people considerably better than a lump-sum target. Instead of a total to accumulate, define the annual income you need and ask what would generate it sustainably. That shifts the question from how much do I have to what does it produce, which is closer to what actually matters.",
+          "The reformulation has practical advantages. It accommodates income from sources other than a portfolio — part-time work, rental income, a pension — which a single accumulation figure handles awkwardly. It also makes partial progress meaningful: covering half your required income is a describable position, whereas being halfway to a lump sum is not obviously anything.",
+          "It reframes the stopping decision too. Someone whose assets cover essential costs but not discretionary ones has a genuinely different set of options from someone with an arbitrary fraction of a target, and only the first framing makes those options visible.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'why-start-retirement-savings-young',
+    sections: [
+      {
+        h: "Seeing it happen is what sustains it",
+        p: [
+          "The hardest part of this at twenty-five is that nothing appears to happen for a very long time. The balance is small, the growth on it is smaller, and the curve described in the compounding articles here is at its flattest for the entire first decade.",
+          "Knowing that in advance is worth more than any calculation, because it inoculates against quitting during the phase where quitting feels most reasonable. The flat stretch is not a sign that something is broken; it is what the beginning of the curve looks like from inside it.",
+          "One thing that helps is to track total contributions alongside the balance. Early on the two are nearly identical, which is discouraging until you understand it. The moment they diverge — when growth begins visibly outpacing what you put in — is the crossover described elsewhere on this site, and watching for it gives the early years a milestone rather than only an absence.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'the-psychology-of-enough',
+    sections: [
+      {
+        h: "The people who never stop",
+        p: [
+          "The pattern worth watching for is the plan that becomes the point. Someone accumulating steadily while indefinitely postponing every use of the money has converted a means into an end, and the evidence on adaptation suggests the eventual figure will not deliver what the postponement cost.",
+          "This is not rare and it is rarely deliberate. It happens because the habit of accumulating is genuinely useful for decades and then continues past the point where it was serving anything, with no event marking the transition. Nothing prompts a reassessment, so none occurs.",
+          "The defence is the written commitment described above, made in advance, specifying what changes. Without it, the number recedes, the habit continues, and the exercise turns out to have had no destination. Building security and then using the options it buys was the entire design; the accumulation on its own was never the objective.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'what-financial-independence-means',
+    sections: [
+      {
+        h: "The definition that survives scrutiny",
+        p: [
+          "Financial independence is most usefully defined as the point at which your assets can cover your essential costs without requiring you to work. Not the end of work, not a particular lifestyle, and not a specific age — simply the removal of compulsion from the decision.",
+          "That definition matters because it identifies a threshold considerably earlier and more achievable than the one most people imagine. Covering essential costs is a lower bar than replacing an entire salary, and it is the bar at which the character of work genuinely changes.",
+          "It also explains why so many people who reach the full version continue working. If the point was never to stop but to make stopping optional, then continuing is a choice consistent with the objective rather than evidence of having missed it. The thing acquired is the option, and options are not obliged to be exercised.",
+        ],
+      },
+      {
+        h: "The partial versions that arrive first",
+        p: [
+          "Because the usual framing is binary, the intermediate positions get overlooked, and they are where most of the practical benefit lives. Each of them changes something concrete long before the full threshold.",
+          "A few months of expenses in accessible savings means you can leave a job that has become intolerable without a replacement lined up. A year means you can take a period out to retrain or to care for someone. Assets covering half your essential costs means part-time work is viable, which is a genuine transformation of what your week looks like.",
+          "Framed as a sequence rather than a destination, the whole project becomes considerably more motivating, because progress produces visible changes in what is available rather than only a larger number. It also means the effort is not wasted if the full version never arrives, which is a meaningful reassurance for anyone whose circumstances make it unlikely.",
+        ],
+      },
+      {
+        h: "The two levers, and their relative weight",
+        p: [
+          "The threshold depends on two numbers: what you have accumulated and what your life costs. Reducing the second moves the target closer while simultaneously increasing the rate at which you approach it, which is why it operates with roughly double the leverage of the first.",
+          "This is the arithmetic behind the observation that a high saving rate compresses the timeline dramatically. A household saving half its income is funding a much shorter working life than one saving a tenth, and the difference in years is far larger than the difference in behaviour appears.",
+          "It is also worth stating the limit honestly. A gap of that size requires an income sufficiently above essential costs that a large proportion can be diverted, which is not everyone's situation and should not be presented as though it were. For anyone whose income barely covers their costs, the relevant lever is the income rather than the saving rate, and no amount of discipline changes that.",
+        ],
+      },
+      {
+        h: "What the option is actually worth",
+        p: [
+          "The benefits of the intermediate positions are easy to underrate because they are not financial. Knowing you could leave changes how you behave in a job: what you are willing to say, what you decline, how quickly you accept an unreasonable arrangement, whether you tolerate a manager who should not be tolerated.",
+          "These changes frequently improve the job rather than ending it. Someone negotiating from a position where the outcome does not determine whether they can pay rent negotiates differently, and usually better. The option changes the situation without being exercised.",
+          "There is also a health dimension that the financial framing misses entirely. Persistent financial insecurity is associated with measurable effects on sleep, stress and physical health, and removing it produces improvements that no amount of additional income at the same level of insecurity would deliver.",
+        ],
+      },
+      {
+        h: "What it does not solve",
+        p: [
+          "It would be dishonest to present this as a solution to more than it addresses. People who reach it consistently report that the difficulties afterwards were not financial: the structure that work imposed on a week disappears, social contact that arrived automatically stops arriving, and the question of what you do becomes genuinely open.",
+          "There is also a specific difficulty with spending. Someone who spent two decades building a saving discipline frequently finds it very hard to reverse, and a substantial number of people who reach independence continue living well below what their position supports, not from choice but because the habit does not switch off.",
+          "This suggests that the thing worth building alongside the assets is everything the job was quietly supplying: interests, relationships, and a sense of purpose that does not depend on employment. Those take years to develop and cannot be acquired quickly at the point of stopping.",
+        ],
+      },
+      {
+        h: "Keeping it honest",
+        p: [
+          "A closing caution about how this subject is usually discussed. A great deal of the material on it is written by people whose income comes from writing about it, which is a structure worth noticing, and the timelines presented are frequently drawn from unusually high incomes, unusually low costs, or an unusually favourable market period.",
+          "The mechanism is real and available to anyone whose income exceeds their essential costs by enough to sustain a gap. The timelines are not general, and presenting a particular person's decade as a template understates how much of it was circumstance.",
+          "The version worth carrying is modest and durable: build the gap, automate it, invest it cheaply and broadly, and treat each intermediate threshold as a real improvement rather than as a fraction of a destination. What that buys is security and choice, which was always the point, and it arrives progressively rather than on a single day. None of this is financial advice, and every situation is different.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'why-most-budgets-fail',
+    sections: [
+      {
+        h: "Too strict is the most common flaw",
+        p: [
+          "The single most frequent design error is a budget built for an unusually good month and then applied to every month. Every category is set at the minimum plausible figure, there is no allowance for anything unexpected, and the total exactly matches income with nothing spare.",
+          "Such a budget fails the first time anything ordinary happens, which is generally within three weeks. And because it presents any deviation as a failure, it invites either abandonment or dishonest recording, both of which end the exercise.",
+          "The correction is a deliberate buffer category with no purpose attached to it, sized at a meaningful fraction of the total. This feels like sloppiness and it is what makes a plan survive an ordinary month, since there is no version of an ordinary month that contains no surprises at all.",
+        ],
+      },
+      {
+        h: "Too manual is the second",
+        p: [
+          "A system requiring daily attention is competing against fatigue, distraction and every other demand on a person's evening, and it loses within a month or two. The failure is not a lack of discipline; it is a design that placed an ongoing demand where a one-off decision would have done.",
+          "The specific burden is usually classification rather than recording. A single supermarket transaction containing food, cleaning products and a gift is three categories on one line, and resolving that correctly takes longer than the shop did. Automated categorisation helps and introduces its own problem, since it sorts by merchant rather than by content.",
+          "The alternative is to move the constraint into the account structure, as described in the automation articles on this site, so that the everyday balance is by construction the amount available to spend. That requires no recording at all, and the information arrives at the moment of the decision rather than in a summary two weeks later.",
+        ],
+      },
+      {
+        h: "Too joyless is the third",
+        p: [
+          "A budget with no allowance for anything enjoyable is a restriction plan, and restriction plans fail in a characteristic way: a period of successful denial followed by a reversal that overshoots and undoes more than the denial saved.",
+          "The pattern is familiar from other domains and the mechanism is the same. Sustained deprivation depletes whatever capacity is doing the restraining, and the eventual failure is not gradual. Someone who spent four months denying every small pleasure and then made a large impulsive purchase has ended up worse off than someone who spent moderately throughout.",
+          "The design that survives includes a genuinely unrestricted allowance — money that can be spent on anything, with no tracking and no justification. It looks like a concession to weakness and it is the component that makes the rest of the arrangement last beyond a season.",
+        ],
+      },
+      {
+        h: "Ignoring the irregular is the fourth",
+        p: [
+          "The most predictable way a monthly plan gets destroyed is by a cost that is not monthly: an insurance renewal, a vehicle service, a seasonal cluster of gifts and travel. These are entirely foreseeable in aggregate and they arrive in months that then look like failures.",
+          "The fix is not a better budget but a separate mechanism, described at length in the sinking funds articles here: total the annual irregular costs, divide by twelve, and move that amount to a separate account every month. Irregular costs become a regular one and stop interacting with the monthly plan at all.",
+          "This one change removes the most common cause of a month going wrong for reasons nobody did anything to deserve, and it is the single highest-value addition to any budgeting arrangement that does not already have it.",
+        ],
+      },
+      {
+        h: "Judging by survival rather than precision",
+        p: [
+          "The criterion that matters is whether an arrangement is still running in a year, and it is almost never the criterion used when choosing one. People compare on features, precision and completeness, none of which predict survival and several of which work against it.",
+          "A useful test before adopting anything: what happens to it during a genuinely difficult month — illness, a work crisis, a family event. A system that requires attention will not receive it, and whether it resumes afterwards is the whole question. Arrangements built on standing orders and account structure pass through such months untouched.",
+          "This is why a mediocre system maintained for a decade beats an excellent one abandoned in month four, and why the difference between them is design rather than character. Choose the boring arrangement that keeps running.",
+        ],
+      },
+      {
+        h: "Restarting after one has collapsed",
+        p: [
+          "Most people reading this have abandoned at least one budget, and the useful question is what to do next rather than why the last one failed. The instinct is to build a stricter version, on the theory that the previous attempt was insufficiently rigorous, which reliably produces a faster failure.",
+          "The productive move is the opposite: build something considerably less ambitious. One automatic transfer to savings on payday, a separate account for fixed costs, and no tracking whatsoever. That arrangement handles the outcome the budget was aiming at and asks nothing of anyone.",
+          "If more detail turns out to be wanted later, it can be added to a foundation that is already working. Starting with the detail and hoping the foundation emerges is the sequence that has already been tried. As with everything on this site, this is educational rather than advice, and the right system is whichever one you will still be running next year.",
+        ],
+      },
+      {
+        h: "When a budget is genuinely the right tool",
+        p: [
+          "Having argued against detailed budgeting as a permanent practice, there are situations where it earns its cost. The clearest is a bounded diagnostic period: three months of complete tracking, undertaken specifically to find out where the money goes, with no intention of continuing.",
+          "The second is a stretch of acute financial pressure, where the margin is thin enough that individual decisions matter and the cost of a month going wrong is severe. Under those conditions the detail is worth its effort because the alternative is worse.",
+          "The third is a specific investigation: a suspicion that one category has grown, or a decision requiring an actual figure. All three are finite exercises with a defined purpose, which is what distinguishes them from indefinite tracking maintained out of a sense that it is what responsible people do.",
+        ],
+      },
+      {
+        h: "Two people, one budget",
+        p: [
+          "A budget in a household has an additional failure mode: it becomes an instrument of oversight, with one person effectively auditing the other. Once that dynamic establishes itself the arrangement is finished, regardless of how well designed it was.",
+          "The structure that avoids it is the one described in the couples article on this site: shared costs funded proportionally from a joint account, individual accounts for personal spending, and an agreed threshold above which purchases get discussed. Below the threshold nobody explains anything to anybody.",
+          "That arrangement removes the two things that cause conflict — the sense of being supervised and the sense of decisions being taken unilaterally — while still producing the shared visibility that a household needs. It requires no tracking at all, which is why it survives where a joint spreadsheet reliably does not.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'what-financial-independence-means',
+    sections: [
+      {
+        h: "Calculating where you actually are",
+        p: [
+          "The abstraction becomes useful when it produces a number, and the calculation is short. Take your essential annual costs, as distinct from your total spending. Divide your accessible assets by that figure. The result is the number of years you could cover without any income at all.",
+          "That single figure is the most honest statement of your position available, and most people find it lower than expected the first time. It also responds directly to action: every contribution moves it up, every increase in fixed costs moves it down, and watching it across years is a better measure of progress than any target.",
+          "The full threshold, in these terms, is the point at which the figure becomes effectively unbounded because the assets generate the costs indefinitely. That is a long way off for most people, and the intermediate values are meaningful on their own — which is precisely the argument this article is making.",
+        ],
+      },
+      {
+        h: "Where the movement has drifted",
+        p: [
+          "The idea has acquired a substantial online following, and some of what surrounds it is worth approaching carefully. The extreme-frugality strand can shade into a decade of deferred living for a payoff that adaptation research suggests will be smaller than anticipated.",
+          "There is also a numerical optimism problem. Timelines presented as achievable frequently rest on unusually high incomes, unusually low costs, favourable market periods, or income from documenting the pursuit itself. None of those is dishonest and all of them limit how far the example generalises.",
+          "The version worth keeping strips out the identity and retains the mechanism: a persistent gap between earning and spending, automated, invested cheaply and broadly, producing progressively more optionality over time. That is available at a wide range of incomes and it requires no allegiance to anything. As with everything on this site, this is educational rather than advice.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'the-psychology-of-enough',
+    sections: [
+      {
+        h: "The version that is not about money",
+        p: [
+          "There is a reading of this idea that has nothing to do with a portfolio and is arguably the more useful one. Enough can describe a relationship with money rather than a quantity of it: the point at which money stops occupying the background of your attention.",
+          "That state arrives earlier than any accumulation target, and it arrives through structure rather than through scale. A buffer that covers ordinary emergencies, freedom from expensive debt, and a saving rate that runs automatically together answer the recurring question of whether this month will work, which is the question that was actually consuming the attention.",
+          "People who reach that point frequently report it as the largest change in their financial life, larger than any subsequent increase in the balance. It is also the only part of this that is available to almost anyone, at almost any income, which makes it a considerably better objective than a figure that most people will never reach. None of this is financial advice.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'what-financial-independence-means',
+    sections: [
+      {
+        h: "Barista, coast and the other partial forms",
+        p: [
+          "Several intermediate arrangements have acquired names, and the names are less important than the fact that they describe genuinely different positions with different requirements.",
+          "One version covers essential costs from assets while a modest ongoing income covers the rest, which permits work chosen for interest rather than pay. Another involves accumulating enough early that no further contributions are needed for the balance to reach the target by a conventional retirement age, at which point everything currently earned becomes available to spend.",
+          "That second arrangement deserves more attention than it gets, because it is achievable considerably earlier than full independence and it changes the situation immediately: someone in that position can stop saving entirely, which is a substantial raise in everything but name. Calculating whether you are already there takes ten minutes and a compounding calculator, and a surprising number of people who started early turn out to be.",
+        ],
+      },
+      {
+        h: "Health, and the assumption underneath everything",
+        p: [
+          "Every plan of this kind assumes continued capacity to work until the threshold is reached, and that assumption weakens with age. A substantial proportion of people stop working earlier than intended through health, redundancy or caring responsibilities.",
+          "This is an argument for the intermediate thresholds rather than against the project. A plan that only delivers anything at the final point is a plan with a single point of failure; one that delivers a meaningful improvement at each stage has already banked something if it is interrupted.",
+          "It is also an argument for the insurance discussed elsewhere on this site. Income protection covers precisely the scenario that would otherwise end the accumulation, and it is bought considerably less often than the exposure warrants, particularly by people who are otherwise diligent about every other part of the plan.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'why-most-budgets-fail',
+    sections: [
+      {
+        h: "The variable-income version",
+        p: [
+          "Every budgeting method described in general terms assumes a stable monthly income, and the structures collapse when income arrives irregularly. For anyone whose earnings vary substantially, the required adaptation is more than a modification.",
+          "The approach that works decouples income from spending entirely. Everything earned goes into a holding account. From there, a fixed amount pays into the everyday account on the same date each month, as though it were a salary. The holding account absorbs the variation, building in strong months and drawing down in weak ones.",
+          "The figure paid across should be based on a conservative estimate of a poor year rather than an average one. This feels austere during good periods and it is the entire mechanism: it converts a variable income into a predictable one, which is what every other part of a financial system assumes and which no budget can supply on its own.",
+        ],
+      },
+      {
+        h: "The single number that replaces all of it",
+        p: [
+          "If detailed tracking is abandoned, something should replace the information it provided, and one figure does: the proportion of income that did not get spent, calculated annually. That captures the entire outcome the budget was aiming at, with no categorisation whatsoever.",
+          "It is derivable from two things most people already have — total income for the year, and the change in savings and investment balances with market movement stripped out. Fifteen minutes, once a year. A rising figure means the arrangement is working, regardless of what any individual category did.",
+          "This works as a substitute because the categories were never the objective. Nobody's position improved because they classified a receipt correctly; the gap improved it, and the gap is directly measurable without any of the intermediate machinery. Watching the outcome rather than the inputs is both less work and more relevant, which is a combination worth taking whenever it appears.",
+        ],
+      },
     ],
   },
 ];
