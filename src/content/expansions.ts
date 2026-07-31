@@ -1714,6 +1714,292 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'bonds-explained-simply',
+    sections: [
+      {
+        h: "Duration, or why some bonds move much more than others",
+        p: [
+          "The seesaw between rates and prices is the first thing anyone learns about bonds, and the second thing — which explains far more — is that the size of the swing varies enormously between bonds. The measure of that sensitivity is called duration, and it is roughly the weighted average time until you receive the money.",
+          "A bond repaying in two years has a short duration and its price barely moves when rates change, because you get your money back soon and can reinvest at whatever the new rate is. A bond repaying in thirty years has a long duration and its price moves substantially, because you are locked into the old rate for decades while the world has repriced.",
+          "This single concept explains why bond funds behave so differently from one another. Two funds both described as bond funds can have wildly different responses to the same change in rates, and the difference is visible in a single number that every fund publishes. Checking it takes seconds and is the most informative thing you can know about a bond holding.",
+        ],
+      },
+      {
+        h: "The two risks that get conflated",
+        p: [
+          "Bond risk comes in two separate forms that behave completely differently and are frequently discussed as though they were one. Interest rate risk is the price movement described above, and it affects even bonds where repayment is certain. Credit risk is the possibility that the borrower does not repay at all.",
+          "Government bonds from stable issuers in their own currency carry essentially only the first. Corporate bonds carry both, and the lower the credit quality the more the second dominates. This matters because credit risk correlates with equity risk: the conditions that cause companies to default are the same conditions that cause their shares to fall.",
+          "The practical consequence is important for anyone holding bonds as a stabiliser alongside equities. High-yield corporate bonds pay more precisely because they carry substantial credit risk, which means they tend to fall at the same time as shares, which is exactly when the stabilising function was needed. A holding chosen for its yield may be providing much less diversification than assumed.",
+        ],
+      },
+      {
+        h: "Individual bonds against bond funds",
+        p: [
+          "There is a real structural difference between holding a bond directly and holding a fund of bonds, and it is the source of a persistent confusion. An individual bond held to maturity repays its face value on a known date regardless of what happened to its price in between, which means a rate rise costs you nothing if you simply wait.",
+          "A bond fund never matures. It holds a rolling portfolio, selling bonds as they approach maturity and buying new ones, so there is no date on which you are made whole. A rate rise reduces the fund's value and the recovery comes through the higher income the fund subsequently earns, which takes roughly the duration period to work through.",
+          "Neither structure is superior in general. Direct holding gives certainty of outcome at a specific date, which suits a known future liability. A fund gives diversification and no reinvestment work, which suits an ongoing allocation. The mistake is holding a fund while reasoning about it as though it were a bond, which produces genuine surprise when a rate rise reduces the value of the supposedly safe portion.",
+        ],
+      },
+      {
+        h: "What inflation does to a fixed payment",
+        p: [
+          "The defining weakness of a conventional bond is in the name: the payments are fixed. A fixed sum received in fifteen years buys whatever it buys then, and if prices have risen substantially in the interim, that is considerably less than it would buy today.",
+          "This is why periods of unexpected inflation are historically bad for conventional bonds and why the risk is asymmetric. Inflation lower than expected is a modest benefit; inflation much higher than expected can produce a substantial real loss over the holding period even if every payment arrives exactly as promised.",
+          "Some governments issue bonds whose payments adjust with a measured price index, which addresses this directly, and they behave quite differently from conventional bonds as a result. They are not a free solution — they carry their own characteristics, and the inflation measure used may not match your own costs — but they exist, and anyone holding bonds for a long horizon is worth knowing they do.",
+        ],
+      },
+      {
+        h: "The yield figure and what it does not promise",
+        p: [
+          "Bond funds quote several different yield figures and they mean different things, which produces a good deal of confusion. The distribution yield describes what the fund has recently paid out. The yield to maturity describes the return you would receive if the current holdings were held to their maturity dates and everything repaid.",
+          "The second is the more informative for anticipating future returns, and it is a rough guide rather than a promise. It assumes no defaults, and it assumes the fund does not change its holdings, which it will. Over a period roughly equal to the fund's duration, however, the starting yield has historically been a reasonable predictor of the return achieved.",
+          "What neither figure describes is the path. A bond fund with a modest yield to maturity can produce a negative return in any given year if rates rise, and the yield does not warn you about this. The two pieces of information you need together are the yield, which suggests the long-run return, and the duration, which suggests how uncomfortable the journey might be.",
+        ],
+      },
+      {
+        h: "How much of a portfolio belongs here",
+        p: [
+          "The traditional guidance ties the bond proportion to age, on the reasoning that a shorter remaining horizon justifies less volatility. This is a reasonable starting heuristic and it ignores everything else about a person's situation, which is why it should not be the end of the analysis.",
+          "The variables that matter more are the stability of your income, the size of your cash buffer, and honestly assessed tolerance for watching a portfolio fall. Someone with very secure employment and a large cash reserve can carry more equity risk at any age than someone whose income is volatile. Someone who sold during a previous decline has evidence about their own tolerance that no formula captures.",
+          "There is also a horizon question that the age rule handles badly. Money that will not be touched for thirty years has a long horizon whether the owner is thirty or sixty, and an ageing investor with substantial assets is frequently investing partly for a subsequent generation. The relevant horizon is the money's, not the person's, and conflating them leads to portfolios that are considerably more conservative than the situation warrants. None of this is financial advice, and the right allocation depends on circumstances only you can assess.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'market-crash-survival-guide',
+    sections: [
+      {
+        h: "What history says about the recovery",
+        p: [
+          "The most useful context during a severe decline is the historical record on what followed previous ones, and the record is more encouraging than it feels at the time. Broad equity markets have recovered from every major decline to date, including several that were widely described in the moment as structurally different from anything before.",
+          "The important caveat is the timescale. Recoveries have taken anywhere from months to well over a decade depending on the episode and the market, and an investor whose horizon was shorter than the recovery period experienced a permanent loss regardless of what happened afterwards. The claim that markets recover is a claim about long periods, not a promise about any particular investor's timeline.",
+          "The second caveat is geography. The recovery record for broad global markets is considerably more robust than for any individual national market, several of which have experienced declines that took a very long time to recover or, in a few historical cases, did not. This is among the stronger arguments for holding globally rather than domestically.",
+        ],
+      },
+      {
+        h: "The concentration of good days",
+        p: [
+          "One of the most frequently cited findings in this area is that missing a small number of the best-performing days across a long period dramatically reduces the total return. The figures are striking and they are frequently deployed in a misleading way, so it is worth stating what they do and do not establish.",
+          "What is genuinely true is that returns are extremely concentrated in a small number of days, and that those days cluster during and immediately after periods of severe decline. The best single days in market history have overwhelmingly occurred within weeks of the worst ones, in the same turbulent stretch.",
+          "What this does not establish is the usual conclusion that you must never be out of the market, since a symmetrical calculation excluding the worst days produces an equally dramatic result in the other direction. The honest lesson is narrower and still useful: because the best and worst days are adjacent, exiting during turbulence is very likely to miss the recovery, and there is no way to capture one while avoiding the other.",
+        ],
+      },
+      {
+        h: "Why the emotional experience differs from the numbers",
+        p: [
+          "A decline of a given size produces an emotional response considerably stronger than an equivalent gain, and this asymmetry is one of the most consistently replicated findings in behavioural research. The practical effect is that a portfolio down by a certain proportion feels roughly twice as bad as the same portfolio up by that proportion feels good.",
+          "This is compounded by how the loss is experienced. During accumulation, a decline is not a loss of money you had; it is a reduction in a paper figure that will recover if you leave it. But the figure was on a statement, it felt real, and the reduction registers as a loss of something possessed rather than as a lower price on future purchases.",
+          "Understanding this in advance does not eliminate the feeling, and it does make it easier to recognise the feeling as a predictable physiological response rather than as information about what to do. The gap between what a decline feels like and what it means is the single largest source of avoidable damage in retail investing.",
+        ],
+      },
+      {
+        h: "The specific things worth doing while it happens",
+        p: [
+          "There is a short list of genuinely productive actions during a decline, and none of them involves changing the allocation. Continuing the regular contribution is the first and most valuable, since it is buying at lower prices, and pausing it is the most common quiet mistake.",
+          "Rebalancing, if a tolerance band has been breached, is the second. This will involve buying more of whatever has fallen most, which feels wrong and is the mechanical discipline described elsewhere on this site working exactly as designed. In unsheltered accounts, a decline may also present an opportunity to realise losses for tax purposes while maintaining broadly equivalent exposure, though the rules around this vary by jurisdiction and are worth checking carefully.",
+          "The third is to write down what you are feeling and what you are tempted to do, without acting. This sounds like a therapeutic exercise and its value is evidential: reading it a year later tells you something accurate about your own risk tolerance that no questionnaire can, and it informs whether your allocation is genuinely right for you.",
+        ],
+      },
+      {
+        h: "Preparing before, which is the only time preparation works",
+        p: [
+          "Every defence described here has to be installed before a decline, because during one there is no capacity to build anything. The specific preparations are few and each takes an afternoon.",
+          "The cash buffer is the foundation, since it removes any forced selling. A written investment policy, stating the allocation and the circumstances under which it would change, gives a calm version of yourself authority over a frightened one. An automatic contribution that does not require a decision each month continues by default rather than by resolve. And an allocation genuinely sized to what you can tolerate rather than what a questionnaire suggested removes the pressure at source.",
+          "The last of these is the one most often got wrong, and the error is systematic. Risk tolerance assessed during a calm period consistently overstates the tolerance available during a bad one. A useful correction is to size the equity portion by imagining it halved and asking whether you would still hold. If the honest answer is no, the allocation is wrong now, while the correction is cheap.",
+        ],
+      },
+      {
+        h: "When a decline genuinely does change something",
+        p: [
+          "It would be dishonest to present holding through every decline as universally correct, because there are circumstances where a decline does legitimately change a plan. The distinguishing feature is always something about your situation rather than about the market.",
+          "If a decline coincides with a job loss and the buffer runs out, selling may be genuinely necessary, and there is no virtue in destitution. If a decline reveals that your allocation was far beyond what you can tolerate, adjusting it is a rational response to new information about yourself, ideally after some recovery rather than at the worst point. If your horizon has shortened materially, the allocation should reflect that regardless of what markets did.",
+          "What is not a legitimate reason is an argument about what happens next, however compelling, and however credentialed its source. The people confidently explaining the coming decade during a decline have no better record than at any other time, and acting on such an argument converts a temporary decline into a permanent decision. None of this is financial advice, and every situation is specific.",
+        ],
+      },
+      {
+        h: "Managing the information flow",
+        p: [
+          "A great deal of the damage during a decline is mediated by consumption of financial news, which during these periods is produced in enormous volume and is optimised for attention rather than for the decisions of long-term investors. The tone escalates with the severity of the decline, which is precisely the wrong direction for a signal.",
+          "There is nothing conspiratorial about this. Coverage that describes a decline as ordinary and probably temporary is accurate and generates no engagement, and the incentive structure of every commercial media operation pushes toward the alternative. Understanding the incentive removes any need to assess the content.",
+          "The practical measure is to reduce the frequency of exposure rather than to attempt scepticism while continuing to consume it. Removing price-checking apps from the phone, unsubscribing from alerts, and checking positions on a schedule rather than reactively are all crude and effective. Nobody has ever improved a long-term outcome by reading more coverage during a bad month, and a great many have made it worse.",
+        ],
+      },
+      {
+        h: "What a decline looks like in hindsight",
+        p: [
+          "A useful exercise, available at any time, is to look at a long-run chart of a broad market index and locate the declines that felt overwhelming while they were happening. Each of them appears on a multi-decade chart as a modest notch, frequently one that requires effort to find at all.",
+          "This is not an argument that the experience was not severe. It was, and people made irreversible decisions during each one. The point is that the scale of the emotional experience and the scale of the eventual mark on the record are entirely different quantities, and only one of them is visible in advance.",
+          "Printing that chart and keeping it somewhere findable is a slightly eccentric suggestion with a genuine function. During the next decline, it supplies a visual counterweight to a rising volume of coverage explaining why this time the situation is categorically different. That explanation has accompanied every previous notch on the chart, which is the most useful thing the chart demonstrates.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'bonds-explained-simply',
+    sections: [
+      {
+        h: "Where the safe part of a portfolio actually sits",
+        p: [
+          "It is worth being precise about what job bonds are doing, because they are frequently described as the safe portion in a way that overstates it. Government bonds from a stable issuer are safe in the specific sense of very likely to repay, and they are not safe in the sense of stable in price, particularly at longer durations.",
+          "The genuinely stable component of a financial position is cash, and it is doing a different job. Cash covers the near-term liabilities and the emergencies, absorbing everything that would otherwise force a sale at a bad moment. Bonds sit between that and equities, offering more return than cash and less volatility than shares, with the balance depending heavily on duration.",
+          "Understanding this ordering prevents a common misallocation, where someone holds a long-duration bond fund as though it were an emergency reserve and discovers during a rate rise that the reserve has shrunk. Money with a short and certain need belongs in cash or very short-dated instruments. Bonds are a portfolio component, not a substitute for a buffer.",
+        ],
+      },
+      {
+        h: "Why an unpopular decade does not settle the question",
+        p: [
+          "Bonds spent a long stretch offering very low yields, during which a great deal was written about whether they still had any role at all. The argument had force: an asset paying almost nothing, exposed to losses if rates rose, appeared to offer neither income nor much protection.",
+          "What that argument overlooked is that the starting yield is the main driver of subsequent returns, which means the case for bonds strengthens automatically as yields rise and weakens as they fall. The period during which they looked least attractive was, by construction, the period in which their expected return was lowest, and the situation reverses when yields do.",
+          "This is a general caution about any argument that an asset class has become permanently obsolete. Such arguments tend to appear after a long stretch of poor returns, which is frequently the point at which future returns have improved. It is the same reasoning error that makes performance chasing costly, applied at the level of a whole category rather than an individual fund.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'sinking-funds-explained',
+    sections: [
+      {
+        h: "Why irregular is not the same as unpredictable",
+        p: [
+          "The distinction the whole method rests on is worth stating carefully, because conflating the two is what makes these expenses feel like emergencies. An unpredictable expense is one you could not have known about: a sudden illness, an accident, a job ending. An irregular expense is one you know is coming and cannot name the date of.",
+          "Almost everything that wrecks a monthly budget falls into the second category. Vehicles need servicing and eventually need repairs. Appliances have finite lives. Insurance renews annually. Gifts cluster around dates that are known years in advance. None of these is a surprise in any meaningful sense; they are simply not monthly.",
+          "The reason this matters is that the two categories deserve entirely different treatment. Unpredictable events are what the emergency fund exists for and cannot be planned in detail. Irregular events can be costed, totalled and divided by twelve, which converts them into a monthly figure like any other. Treating the second category as though it were the first is why the emergency fund keeps getting drained by things that were never emergencies.",
+        ],
+      },
+      {
+        h: "Building the list from evidence rather than memory",
+        p: [
+          "The list is the whole exercise and it should be built from statements rather than from recollection, because memory reliably omits the expenses that only occur once a year. Going back through twelve or ideally twenty-four months and noting every payment that was not monthly produces a considerably more complete list than any amount of thinking about it.",
+          "The categories that appear most often are vehicle costs including tax, insurance and servicing; property maintenance and appliance replacement; annual insurance renewals of every kind; professional fees, subscriptions and memberships billed annually; holidays and travel; gifts and seasonal occasions; and periodic health, dental or optical costs.",
+          "The total tends to be a genuinely uncomfortable figure and the discomfort is the point. A household seeing this number for the first time is usually seeing an accurate account of why their finances feel tighter than the monthly arithmetic suggests they should. Those costs were always being paid; they were just being paid reactively, frequently through credit.",
+        ],
+      },
+      {
+        h: "Estimating the ones without a fixed amount",
+        p: [
+          "Some entries have exact figures and some do not. An insurance renewal is knowable; the cost of the next appliance failure is not. The temptation is to omit the uncertain ones, which reintroduces exactly the problem the method was solving.",
+          "A workable approach for these is replacement cost divided by expected life. An appliance costing a certain amount and lasting roughly a decade justifies a tenth of that per year in the fund. Applied across the major items in a household, this produces a maintenance figure that is approximately right, which is enormously better than nothing.",
+          "For genuinely open-ended categories like vehicle repairs, an average of the last few years is a reasonable estimate, adjusted upward as the vehicle ages. The precision does not matter much. What matters is that a fund exists and is roughly the right size, so that the eventual bill draws down a balance rather than creating a crisis.",
+        ],
+      },
+      {
+        h: "One account or several",
+        p: [
+          "There are two schools on the mechanics and both work. The multiple-account approach opens a separate pot for each category, which some banking apps make easy, and gives an unambiguous answer to whether a particular category is funded. The single-account approach holds one balance and tracks the allocation in a spreadsheet.",
+          "The multi-pot version is clearer and can be rigid: a well-funded holiday pot sitting alongside an underfunded car pot when the car breaks creates a decision that the single-pot version does not. The single-account version is more flexible and requires a record, without which it degenerates into an ordinary savings account whose purpose is forgotten.",
+          "The choice is largely temperamental. What is not optional is the separation from both the current account and the emergency fund. Sitting in the current account, the balance reads as spendable. Merged with the emergency fund, it destroys the ability to know whether the emergency fund is intact, which is the one thing that fund needs to be true of it.",
+        ],
+      },
+      {
+        h: "The first year is the hard one",
+        p: [
+          "There is an unavoidable difficulty at the start: the annual costs continue arriving while the fund is still being built, which means the first year requires paying both the monthly contributions and the bills the contributions had not yet accumulated for. This is the reason many attempts at this fail in month three.",
+          "Two things make it manageable. The first is starting with the categories whose next occurrence is furthest away, which gives the maximum accumulation time before the first draw. The second is accepting a partial fund in the first year rather than a complete one, since even a partial balance reduces the shortfall.",
+          "It is also worth knowing that the difficulty is genuinely temporary. Once a full cycle has passed, the fund is drawing down and refilling in rhythm, and the monthly contribution becomes simply another fixed cost that requires no attention. The steady state is easy; the transition is not, and knowing that in advance prevents abandoning during the only part that is hard.",
+        ],
+      },
+      {
+        h: "What this does to the rest of the system",
+        p: [
+          "The downstream effects are larger than the mechanism suggests, and they explain why this modest technique is worth the setup. The most immediate is that the emergency fund stops being consumed by non-emergencies, which means it is intact when something genuinely unforeseen happens.",
+          "The second is that credit usage falls, frequently substantially. A large proportion of ordinary consumer borrowing is incurred to meet exactly these irregular costs, and a household that meets them from a fund does not accumulate the balance that then compounds against them for years.",
+          "The third is harder to quantify and more valuable: the removal of a recurring low-grade anxiety about what is coming next. A household with a funded list knows the year ahead is provided for, which changes how a large unexpected bill feels when it arrives. That is the same relief the emergency fund provides, extended to the far more frequent category of things that were never actually surprises. None of this is financial advice; it is a description of a mechanism and what it tends to change.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'where-to-keep-short-term-money',
+    sections: [
+      {
+        h: "Where the five-year figure comes from",
+        p: [
+          "The threshold is a rule of thumb rather than a calculated boundary, and it is worth understanding what generates it. Looking at historical rolling periods for broad equity markets, the proportion of periods ending below their starting point falls steadily as the period lengthens. Over one year it is substantial. Over five it is smaller. Over twenty it becomes small in most markets studied.",
+          "So five years is not a point at which risk disappears; it is roughly where the probability of a loss falls to a level many people consider acceptable for money that is not essential. For money that absolutely must be available at a specific date, even that residual probability is too high, which argues for a longer threshold or none at all.",
+          "The other consideration the simple rule omits is the consequence of being wrong. A house deposit that arrives thirty percent short does not merely delay the purchase; it can end a chain, forfeit a deposit and cost more than the shortfall. Where the consequence of a loss is severe, the horizon rule should be applied more conservatively than the probabilities alone suggest.",
+        ],
+      },
+      {
+        h: "The instruments available and what distinguishes them",
+        p: [
+          "The toolkit for short-horizon money is deliberately dull and the options differ on three dimensions: access, certainty of return, and protection if the institution fails. Instant-access savings offer full access and a variable rate. Fixed-term deposits offer a known rate in exchange for locking the money away, with penalties for early access.",
+          "Short-dated government debt, held directly or through a fund of very short maturities, offers high credit quality with minimal price sensitivity, and money market funds hold a diversified pool of very short-term instruments. These typically track prevailing rates closely and are not deposit-protected in the way a bank account is, which is a meaningful distinction.",
+          "Deposit protection schemes exist in most countries and cover balances up to a limit per institution. For anyone holding a substantial short-term sum — a house deposit is the common case — checking that limit and, if necessary, splitting across institutions is a straightforward precaution that costs nothing beyond a second application form.",
+        ],
+      },
+      {
+        h: "Matching the instrument to the actual date",
+        p: [
+          "The most efficient arrangement is usually not a single account but a ladder matched to when the money is needed. Cash needed within months sits in instant access. Money needed in a year can accept a twelve-month fixed term, which typically pays more. Money needed in three years can accept a longer term or a short-dated bond holding.",
+          "This captures a higher blended return than holding everything in instant access, without taking any meaningful risk, and it requires setting up once. The constraint is that the dates need to be genuine, since early access to a fixed term carries a penalty that can erase the advantage.",
+          "The common failure is the opposite arrangement: holding everything in instant access at a poor rate because the money might be needed at any time, when in reality only a portion might. Being honest about which portion is genuinely uncertain and which has a known date is worth a surprising amount over several years on a large balance.",
+        ],
+      },
+      {
+        h: "The inflation cost, stated honestly",
+        p: [
+          "Holding cash over several years carries a real cost that deserves to be stated plainly rather than glossed over. If prices rise faster than the interest earned, the money buys less at the end than it would have at the start, and over a five-year period that erosion can be substantial.",
+          "This is a genuine loss and it is not a reason to take market risk with money that has a date attached. The correct framing is that you are paying a known, bounded cost to eliminate an unbounded one. The alternative — accepting a possible thirty percent shortfall to avoid a smaller certain erosion — is a poor trade when the money has a specific purpose.",
+          "What is worth doing is minimising the cost rather than accepting it passively. Ensuring the rate is competitive, using the ladder described above, and using any tax-sheltered cash allowance available all reduce the gap between the rate earned and the rate of price increases. In some periods that gap closes entirely; in others it does not, and the cost is simply the price of certainty.",
+        ],
+      },
+      {
+        h: "The specific case of a house deposit",
+        p: [
+          "House deposits deserve separate treatment because they combine every difficulty: a large sum, an uncertain date, a severe consequence if short, and a target that may itself be moving as property prices change. This last point is the one that generates the most tempting bad argument.",
+          "The argument runs that since property prices may rise while you save, keeping the deposit in cash means falling behind, and therefore it should be invested to keep pace. The flaw is that property prices and equity markets are not the same thing and do not move together reliably, so the hedge frequently does not hedge, and a decline arriving in the month you found a house is catastrophic in a way that slow erosion is not.",
+          "The more effective responses are unglamorous: increase the saving rate, use any government scheme available for first-time buyers, and be realistic about the timeline. Some countries offer accounts with bonuses or tax advantages specifically for this purpose, and these frequently provide a better risk-adjusted improvement than any investment approach would.",
+        ],
+      },
+      {
+        h: "The awkward middle horizon",
+        p: [
+          "Money needed in something like five to ten years falls into a genuinely difficult zone, too long for cash to be obviously right and too short for equities to be comfortable. There is no clean answer here and it is more honest to say so than to invent one.",
+          "The reasonable approaches involve either a blend, holding some in each and accepting a middle outcome, or a glide path that starts with more market exposure and shifts progressively toward cash as the date approaches. The second is what target-date retirement funds do, and the logic applies equally to any dated goal.",
+          "What makes the middle horizon manageable is flexibility about the date. If the goal can be postponed by a couple of years without serious cost, more market exposure is defensible, because a decline can be waited out. If the date is immovable, the horizon is effectively shorter than the calendar suggests and should be treated accordingly. Knowing which situation you are in is the most useful input, and it is one only you can supply. None of this is financial advice.",
+        ],
+      },
+      {
+        h: "Reviewing the rate you are actually getting",
+        p: [
+          "Savings providers rely on inertia, and the business model is explicit enough to be visible in how products are structured. An attractive introductory rate that reverts after twelve months, a headline rate available only on a new account while existing customers sit on a lower one, a bonus conditional on making no withdrawals.",
+          "The consequence is that a rate which was competitive when the account was opened is frequently uncompetitive two years later, without anything having been announced. Nobody writes to tell you that a better version of the same product now exists at the same institution, and in many cases it does.",
+          "An annual check, on a fixed date, comparing your rate against what is currently available, takes fifteen minutes and on a substantial short-term balance recovers a meaningful sum every year. Setting a calendar reminder for whenever any introductory period expires is the other half of it, since that is the specific date the rate falls and the one nobody remembers.",
+        ],
+      },
+      {
+        h: "Keeping short-term money separate from everything else",
+        p: [
+          "A practical failure that undermines all of the above is holding money for a specific dated purpose in the same place as general savings. The balance becomes a single figure, the purpose becomes abstract, and the money is gradually used for other things without any decision having been taken.",
+          "Naming the account after its purpose sounds trivial and is measurably effective. Research on mental accounting suggests that money assigned to a labelled purpose is spent differently from identical money in an unlabelled pot, and while that inconsistency is irrational in one sense, it can be used deliberately in your own favour.",
+          "The same logic argues for a separate account per goal rather than one large balance covering several. It makes progress toward each visible, it makes any raid on one obvious rather than invisible, and it removes the question of whether the total is sufficient for all of them at once. The cost is a few extra accounts, which most banking apps now make trivial to open.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'sinking-funds-explained',
+    sections: [
+      {
+        h: "The categories people always forget",
+        p: [
+          "Even a careful pass through statements tends to miss a consistent set of items, and they are worth listing because they are among the larger ones. Vehicle replacement is the clearest: a car has a finite life and will eventually need replacing entirely, which is a foreseeable cost that almost nobody provisions for and almost everybody finances.",
+          "Professional and regulatory costs are another: licences, registrations, insurance required to practise, continuing education requirements. These are predictable, annual, and frequently substantial for people in regulated professions who nonetheless treat them as an unwelcome surprise each year.",
+          "The third group is family-related and the most awkward to plan for because it feels cold to schedule: weddings you will be invited to, milestone birthdays, contributions toward family events, travel to see people. These occur reliably every year in some combination, and a household that has never provisioned for them meets each one from whatever is available.",
+        ],
+      },
+      {
+        h: "When the fund is not enough and what that tells you",
+        p: [
+          "Occasionally a bill exceeds the fund it was supposed to come from, and the response should depend on why. If the estimate was simply too low, raise the monthly contribution for that category and continue. This is ordinary calibration and the first year of any system produces several of these corrections.",
+          "If the bill was genuinely exceptional — a repair far beyond anything foreseeable, a cost of a kind that had never occurred — then it belongs in the emergency fund category after all, and using that fund is correct. The line between the two is not always clean and it does not need to be, provided the decision is made deliberately rather than by default.",
+          "What is worth watching is a pattern of repeated shortfalls in one category, which usually indicates something more than an estimating error. A vehicle whose repair fund is consistently exhausted is telling you something about the vehicle. A property whose maintenance fund never lasts is telling you something about the property. The fund is functioning as a diagnostic at that point, which is a second use worth having.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
