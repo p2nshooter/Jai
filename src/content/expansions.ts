@@ -4243,6 +4243,117 @@ export const EXPANSIONS: Expansion[] = [
           "The sensible allocation is a mix, in the same way a portfolio is. Specific technical capability produces the near-term increase and carries obsolescence risk; durable general capability produces less immediately and does not expire. Neglecting the second is the more common error, because its payoff is diffuse and nobody sells courses in it.",
         ],
       },
+      {
+        h: "A time budget you can actually keep",
+        p: [
+          "Advice to invest in skills rarely specifies how much time, which makes it easy to agree with and impossible to act on. A concrete figure worth committing to is a few hours a week, protected, which over a year is a substantial block and over five years is enough to change what you are capable of.",
+          "What matters more than the total is that the time is scheduled and attached to a defined project. An unallocated intention to learn something produces nothing, in exactly the way an unallocated intention to save produces nothing. A recurring slot with a specific objective produces steady progress with no particular willpower involved.",
+          "It is also worth being realistic about the periods when this is not possible. New parents, people caring for relatives, anyone in an unusually demanding stretch at work: a pause is not failure. Careers are long, and a year without deliberate development matters far less than a decade of intentions that never became a schedule.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'building-a-side-income',
+    sections: [
+      {
+        h: "Protecting the income that actually matters",
+        p: [
+          "The largest financial risk in most side activities is not the money invested but the effect on the primary income, which is nearly always the larger and more reliable of the two. Anything that degrades performance, attention or health at the main job is risking a substantial sum to earn a modest one.",
+          "The specific hazards are predictable and avoidable: work bleeding into hours that should be recovery, using employer time or equipment, competing with the employer, and ambiguity about who owns what you produce. The last two are contractual questions worth resolving in advance, since the consequences of getting them wrong extend well beyond the money.",
+          "A reasonable discipline is a hard boundary on when the side work happens, a policy of never using anything belonging to the employer, and an honest periodic check on whether the main job is suffering. If it is, the arithmetic almost certainly favours scaling back, however promising the side activity feels at the time.",
+        ],
+      },
+      {
+        h: "What to do when it starts working",
+        p: [
+          "The situation nobody prepares for is success: the activity grows to the point where it competes seriously with the main job for time, and a decision arrives that was never anticipated. Reaching it without having thought about it usually produces a drift rather than a choice.",
+          "The questions worth having answered in advance are what level of income would justify reducing the main job, what would justify leaving it, and what buffer would need to exist first. Concrete thresholds, decided while nothing is at stake, are considerably better than a judgement made in the excitement of a good quarter.",
+          "The caution worth stating is that side income is not equivalent to salary at the same figure. It typically lacks the pension contribution, the sick pay, the notice period and the predictability, which means the threshold for replacing a salary should be meaningfully above the salary rather than equal to it. Working out that multiple beforehand prevents a decision that looks sound on the headline number and is not. As with everything on this site, this is educational rather than advice.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'skills-over-hustle',
+    sections: [
+      {
+        h: "Getting somebody else to fund it",
+        p: [
+          "A substantial amount of development that people pay for themselves is available through an employer and goes unclaimed because nobody asked. Training budgets exist in most organisations of any size, are frequently underspent, and go to whoever requests them rather than to whoever most needs them.",
+          "The request that works is concrete: a named course or qualification, a stated cost, and a short account of what the organisation gets. A general desire to develop is easy to defer; a specific proposal attached to a business reason is harder to refuse and easier for a manager to approve upward.",
+          "Where no budget exists, time frequently does. Permission to spend some working hours on a relevant project, to shadow another team, or to take on work outside your usual remit costs the employer nothing visible and is often granted. Both routes are worth exhausting before spending your own money, and neither is available to anyone who does not ask.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'freelancing-money-basics',
+    sections: [
+      {
+        h: "Pricing that accounts for everything a salary hid",
+        p: [
+          "The most common pricing error is converting a former salary into an hourly figure by dividing by working hours, which produces a rate that looks reasonable and is substantially too low. It omits everything an employer was absorbing.",
+          "The things that need to be covered by the rate include: the hours that are not billable, which for most freelancers is a large proportion; paid leave and public holidays, which now cost income as well as money; sick days; pension contributions that were previously partly funded by someone else; insurance; equipment; software; and the periods between engagements.",
+          "Working through these produces a multiple rather than a direct conversion, and the multiple is usually considerably larger than people expect. Someone who has done this calculation prices from a defensible position; someone who has not is frequently working harder than they were as an employee for less than they earned.",
+        ],
+      },
+      {
+        h: "The tax reserve, which is the thing that catches people",
+        p: [
+          "Tax on self-employed income is typically paid long after the money arrives, in lumps, and frequently with a requirement to pay in advance toward the following year as well. The interval between earning and paying is long enough for the money to have been comfortably spent.",
+          "The mechanism that solves this is a separate account receiving a fixed percentage of every payment on the day it arrives, before anything else. The percentage should be set above your expected effective rate rather than at it, since over-providing is a pleasant surprise and under-providing is a serious problem.",
+          "Where a system requires payments on account or estimated instalments, those dates belong in a calendar rather than in memory. The combination of variable income and a large scheduled payment is one of the most common routes into borrowing for people who are otherwise doing perfectly well, and it is entirely preventable with a percentage and a second account.",
+        ],
+      },
+      {
+        h: "Getting paid, which is half the job",
+        p: [
+          "The gap between finishing work and receiving money is where most freelance financial stress lives, and much of it is manageable through process rather than through better clients. Invoicing the day work completes rather than at month end shortens everything downstream.",
+          "Payment terms are negotiable and are usually accepted as given. Shorter terms, deposits before starting, staged payments on longer engagements, and late payment interest written into the agreement are all standard commercial practice. Clients who object to them tend to be the ones who would have paid late anyway.",
+          "Chasing is worth systematising rather than agonising over. A reminder on the due date, a standard polite message, an escalation at a defined interval. Making it routine removes the emotional weight, which is what causes most people to delay chasing until the position is considerably worse.",
+        ],
+      },
+      {
+        h: "Replacing what employment quietly provided",
+        p: [
+          "An employer supplies a set of things that disappear on the day you leave, and the list is longer than most people account for. Depending on the country: pension contributions, sick pay, income protection, life cover, health provision, professional insurance, and in some systems contributions toward state entitlements.",
+          "Income protection deserves particular mention because self-employed people buy it considerably less often than their exposure warrants. Without sick pay, an illness lasting months has no financial floor at all, and this is precisely the category of risk that insurance handles better than any realistic buffer.",
+          "The pension gap is the slower-acting one. Nobody is contributing on your behalf and nothing prompts you to contribute yourself, which is why self-employment is strongly associated with under-provision. Setting up a percentage-of-income contribution at the start, as described in the irregular income article on this site, is the practical remedy.",
+        ],
+      },
+      {
+        h: "Client concentration as a financial risk",
+        p: [
+          "A freelancer earning most of their income from one client has, functionally, a job with none of the protections of employment: no notice period, no redundancy entitlement, and no warning. This is a risk worth measuring rather than sensing.",
+          "The threshold worth watching is somewhere around a third of income from a single source. Above it, losing that relationship is a shock a buffer may not absorb, and the negotiating position deteriorates because both sides understand what the alternative is. Below it, the same loss is a difficult quarter.",
+          "Reducing concentration takes time and is best done while the main relationship is healthy rather than after it ends. That means reserving some capacity for developing other clients even when the main one could take all of it, which costs money now and prevents a much larger cost later.",
+        ],
+      },
+      {
+        h: "The business and personal boundary",
+        p: [
+          "Mixing business and personal money in one account makes everything harder: tax returns, expense claims, understanding whether the work is actually profitable, and demonstrating anything to anyone who asks. A separate account is the single most useful administrative decision available and takes an afternoon.",
+          "With that in place, a simple structure works: income arrives in the business account, tax moves to its reserve immediately, business expenses are paid from what remains, and a regular fixed amount transfers to personal as a salary. That last transfer is the smoothing mechanism described elsewhere on this site, and it converts irregular income into something every other financial system can work with.",
+          "Keeping records as you go rather than reconstructing them annually is the other half. A few minutes when each invoice and expense occurs replaces a genuinely unpleasant week at year end, and it means the question of whether a given month was profitable can be answered rather than guessed. None of this is financial or tax advice, and the rules vary considerably by country.",
+        ],
+      },
+      {
+        h: "The buffer a freelancer actually needs",
+        p: [
+          "The standard emergency fund guidance assumes an employed person with notice and possibly redundancy entitlement. A freelancer has neither, and the buffer has to absorb two distinct things: the ordinary variation in when payments arrive, and the possibility of work drying up entirely.",
+          "That combination pushes the appropriate figure well above the usual range. A working target is enough to cover the smoothed monthly salary you have set for a full year, which sounds enormous and is roughly what independence from timing requires. Reaching it takes years and the partial version is genuinely useful long before then.",
+          "The change that arrives at even a few months of depth is worth describing, because it is the point at which the whole arrangement stops feeling precarious. An unpaid invoice becomes an administrative annoyance rather than a crisis, which changes how you negotiate, which client work you accept, and how much of your attention money consumes.",
+        ],
+      },
+      {
+        h: "Deciding whether a piece of work is worth taking",
+        p: [
+          "Freelancers accept unprofitable work more often than they realise, because the assessment is made on the fee rather than on what the fee works out to. A short exercise applied to each engagement prevents most of it.",
+          "Estimate the total hours honestly, including the unbilled ones: scoping, revisions, meetings, chasing payment. Divide the fee by that figure. Compare it to your target rate. Work that falls substantially below is not merely less profitable; it is occupying capacity that could have gone to work at the proper rate, which makes it worse than idle time in some circumstances.",
+          "The exception worth allowing is work taken deliberately for a reason other than the rate: a portfolio piece, an entry into a sector, a relationship worth building. Those are legitimate investments. What is not legitimate is drifting into underpriced work because the fee looked adequate before anybody counted the hours.",
+        ],
+      },
     ],
   },
 ];
