@@ -4513,6 +4513,117 @@ export const EXPANSIONS: Expansion[] = [
           "Where a secondary activity is the right answer, choosing one adjacent to your existing capability is what makes it viable, since it can be scaled up quickly if the primary income stops. An unrelated activity earning a trivial amount provides very little protection, whatever the number of streams it adds to the count. None of this is financial advice.",
         ],
       },
+      {
+        h: "Counting the streams you already have",
+        p: [
+          "Before pursuing more, it is worth counting what already exists, because most people undercount substantially. Employer pension contributions are a stream. Interest on savings is a stream. Any dividend from a fund held in a workplace scheme is a stream. Employer benefits with a monetary value are effectively income.",
+          "Someone in ordinary employment with a pension and some savings frequently has three or four sources already, none of which required a second job. That is not an argument for complacency; it is a correction to the framing that the ordinary position is a single fragile income.",
+          "It also identifies where the cheapest additions are. Raising a pension contribution to capture an unclaimed employer match adds to a stream immediately, requires one form, and delivers a return that no side activity approaches. Checking what is already available and unclaimed is a considerably better first move than starting something new.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'the-hedonic-treadmill-money',
+    sections: [
+      {
+        h: "Where the treadmill does the most damage",
+        p: [
+          "The mechanism is mildly costly when applied to ordinary purchases and genuinely damaging when applied to housing, because housing decisions are large, contractual and slow to reverse. An upgrade to a larger or better-located home delivers the same few weeks of elevated satisfaction as anything else, and then becomes the baseline, while the cost persists for the length of the commitment.",
+          "The specific trap is that the next upgrade is then evaluated from the new baseline, which is exactly the same position as before. The satisfaction available from a further move is unchanged; only the cost has risen. This is how households reach very high housing costs through a series of individually reasonable decisions, none of which produced a lasting improvement.",
+          "Vehicles operate on the same pattern with a shorter cycle and a depreciating asset attached. Between them, these two categories account for most of the money that adaptation quietly consumes, which is why they deserve considerably more scrutiny than the small discretionary purchases people usually feel guilty about.",
+        ],
+      },
+      {
+        h: "Deliberately resetting the baseline",
+        p: [
+          "Because the effect works in both directions, a period of doing without something restores its capacity to register. This is why people returning from a trip with basic accommodation report noticing their own home for a week or two, and it is exploitable rather than merely interesting.",
+          "The practical version is periodic and voluntary reduction: a month without a particular convenience, a period of simpler food, a stretch without whatever upgrade has become invisible. The cost is a mild inconvenience and the return is that the thing becomes noticeable again when resumed.",
+          "This is a genuinely unusual mechanism in that it increases satisfaction while reducing spending, which almost nothing else does. It is also the reason that people who have experienced a period of real constraint frequently report a durable appreciation for things others do not notice, and the effect is available deliberately rather than only through misfortune.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'multiple-income-streams-myth',
+    sections: [
+      {
+        h: "Why this particular claim spreads so well",
+        p: [
+          "The statistic has all the properties that make an idea circulate independently of whether it is true. It contains a specific number, which reads as evidence. It flatters the reader by implying an insider fact about the wealthy. And it converts a difficult problem into a countable task, which is enormously more appealing than the actual answer.",
+          "It is also commercially useful, which explains a great deal about where it appears. Almost every version of the claim arrives attached to something being sold: a course, a programme, a platform, a template. The claim generates the need that the product satisfies.",
+          "Recognising this pattern is worth more than the specific debunking, because the same structure recurs constantly in financial content. A surprising statistic, a named number, an implied insider status, and an offer. Any three of those together is a reasonable prompt to check whether the underlying claim has a source, and this one does not.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'money-scripts-childhood',
+    sections: [
+      {
+        h: "Where the scripts come from",
+        p: [
+          "Financial attitudes are formed considerably earlier than most people assume, and largely through observation rather than instruction. Children absorb what money meant in their household — whether it was discussed openly or in tense whispers, whether it was a source of stability or of recurring crisis — long before they encounter any explicit teaching about it.",
+          "The formative material is rarely what was said. It is what was noticed: a parent's expression opening post, a conversation that stopped when someone entered the room, the way a request for something was received. These impressions form a working model of what money is and how it behaves, and the model persists.",
+          "The reason this matters practically is that the resulting beliefs feel like observations about reality rather than like inherited assumptions. Someone who believes money is inherently precarious does not experience that as a belief; they experience it as a fact about the world, which is precisely what makes it resistant to any amount of contrary evidence about their own circumstances.",
+        ],
+      },
+      {
+        h: "The scripts that show up most often",
+        p: [
+          "A few patterns recur frequently enough to be worth naming. Money avoidance treats money as somewhat shameful or corrupting, and produces people who do not look at statements, do not know what they have, and feel uncomfortable asking to be paid properly.",
+          "Money vigilance treats it as something that must be watched constantly and never fully trusted. It produces good savers who cannot spend, who accumulate substantial assets while living as though they had none, and who experience no reduction in anxiety as the balance grows.",
+          "Money status treats it as a measure of the person, which produces spending directed at signalling rather than at use. Money worship treats it as the solution to problems it cannot solve, and produces a permanently receding target of the kind discussed in the enough article on this site. Most people carry elements of more than one, frequently in tension.",
+        ],
+      },
+      {
+        h: "Spotting yours in your own behaviour",
+        p: [
+          "Scripts are more visible in behaviour than in stated beliefs, so the useful evidence is in what you actually do. A few questions surface most of it. What is your physical reaction to opening a bank statement? Which financial task do you consistently postpone? What sort of purchase produces guilt out of proportion to its size?",
+          "Also: what did money mean in your household growing up, and what would your parents have said about the way you handle it now? That last question tends to produce the most revealing answer, because scripts are usually either an inheritance or a deliberate reaction against one, and both leave the same fingerprint.",
+          "The point is not self-diagnosis for its own sake. It is that a persistent financial behaviour which survives every rational argument against it is usually being driven by something that is not an argument, and identifying what makes it addressable in a way that more information never will.",
+        ],
+      },
+      {
+        h: "Where inherited scripts cost real money",
+        p: [
+          "These are not merely psychological curiosities; each produces identifiable financial consequences. Avoidance costs money through unopened correspondence, uncompared insurance renewals, unclaimed entitlements and underpricing of one's own work.",
+          "Vigilance costs money through excessive cash holdings that erode, through investment allocations far more conservative than the circumstances warrant, and through decades of unspent surplus that produces no benefit to anyone. It is the script most likely to produce a large balance and no improvement in the life it was accumulated for.",
+          "Status spending costs money directly and, more damagingly, through the fixed commitments it produces. Worship costs money through the pursuit of returns that require taking risks the person cannot actually tolerate. In each case the financial error is downstream of something formed decades earlier, which is why generic advice bounces off it.",
+        ],
+      },
+      {
+        h: "How much of this is inherited rather than learned",
+        p: [
+          "It is worth being careful about the strength of the claim. Research on financial attitudes finds meaningful associations between parental behaviour and adult financial patterns, and the associations are modest rather than deterministic, and confounded by everything that families transmit alongside attitudes, including circumstances themselves.",
+          "The more defensible statement is that childhood experience shapes financial attitudes substantially, that the effect is neither total nor unchangeable, and that people raised in identical households frequently develop opposite patterns — one replicating and one reacting against.",
+          "That last observation is the useful one, because a reaction against a script is still governed by it. Someone who spends freely specifically because their household was anxious about money is not making free choices; they are making the inverse of somebody else's choices, which is a different kind of constraint and equally worth noticing.",
+        ],
+      },
+      {
+        h: "Rewriting one, practically",
+        p: [
+          "Changing a belief by deciding to believe something else does not work. What does work is changing behaviour and letting the evidence accumulate, which is slower and considerably more reliable.",
+          "For avoidance, the intervention is a fixed short appointment — fifteen minutes, same day each month, looking at accounts, regardless of whether anything needs doing. The repetition without consequence is what erodes the association. For vigilance, it is a deliberately small, planned, guilt-free expenditure, made regularly, specifically to demonstrate that spending does not produce disaster.",
+          "In both cases the mechanism is the same: repeated experience contradicting the script, at a scale small enough that it actually happens. This is unglamorous and it takes months. It is also the only approach with any track record, and it works considerably better than any amount of reading about compound interest by someone who cannot open a statement. None of this is financial or psychological advice; anyone whose relationship with money is causing real distress deserves better help than an article.",
+        ],
+      },
+      {
+        h: "When two scripts share a household",
+        p: [
+          "Partners rarely arrive with matching scripts, and the mismatch explains a great deal of financial conflict that appears to be about amounts. A vigilant person and a status-oriented person will disagree about nearly every discretionary purchase, and neither disagreement is about the purchase.",
+          "The conversation that helps is the one described in the couples article on this site: each person describing what money meant in their household growing up, before any discussion of current spending. It converts the other person's position from inexplicable into comprehensible, which does not resolve the disagreement and does change its character entirely.",
+          "There is also a pairing that looks harmonious and is not: two people with the same script reinforcing each other. Two vigilant partners can accumulate for decades without ever spending any of it; two status-oriented ones can escalate together with nobody applying any brake. A mismatch at least produces a conversation, which is why it is frequently the healthier arrangement.",
+        ],
+      },
+      {
+        h: "The scripts you are writing now",
+        p: [
+          "Anyone with children is currently generating the material that will form their scripts, mostly through what is observed rather than what is taught. This is worth knowing because it identifies where the influence actually operates.",
+          "What children register is tone and pattern: whether money is discussed calmly or not at all, whether decisions are explained or announced, whether the household treats a constraint as ordinary or as a crisis. A parent who never mentions money is transmitting something quite specific, and it is rarely what they intended.",
+          "The practical version is discussed at more length in the teaching children article here, and the short form is that reliability and ordinary visible reasoning do most of the work. A household where costs are mentioned matter-of-factly, where trade-offs are explained, and where promises about money are kept is transmitting a workable script without anybody having to deliver a lesson.",
+        ],
+      },
     ],
   },
 ];
