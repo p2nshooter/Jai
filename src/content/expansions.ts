@@ -842,6 +842,311 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'emergency-fund-how-much',
+    sections: [
+      {
+        h: "A rough scoring method for income fragility",
+        p: [
+          "Rather than choosing a multiplier by instinct, it helps to score the specific features of your situation that determine how long a gap would last. Six questions cover most of it. Is your income from one source or several? Is your sector expanding, stable or contracting? Is your role generic enough to be replaced quickly or specialised enough that few employers need it? Do you have a notice period and any redundancy entitlement? Is there a second earner in the household, and is their income exposed to the same conditions as yours? And do others depend on the income?",
+          "Each answer pushes the multiplier up or down, and the arithmetic is less important than the fact of having asked. A generic role in a stable sector, with notice, a second earner in a different industry and no dependants, sits comfortably at the low end. A specialised role in a contracting sector, self-employed, sole earner, with dependants, sits well above the top of the usual range.",
+          "What this exercise reliably produces is a number that differs from the one people would have chosen by feel, usually in the upward direction. It also produces a clear account of why, which is what makes the target defensible to yourself during the months when building it feels like an unrewarding use of money.",
+        ],
+      },
+      {
+        h: "Structuring it in tiers rather than one pot",
+        p: [
+          "A single account holding several months of expenses is simple and it handles two quite different jobs with one instrument. The small, frequent emergencies — a repair, a bill, a journey you had not planned — and the rare large one, meaning an extended loss of income. Separating these improves both.",
+          "A workable structure has a small first tier, perhaps a month of essential costs, in the most accessible place available, which absorbs the frequent events without any decision being required. The second tier holds the remainder, at a different institution, in an account that pays better and takes a day or two to reach. The friction on the second tier is deliberate: it is the money that should only move for a genuine income interruption.",
+          "The benefit is behavioural rather than financial. A single pot gets nibbled, because every withdrawal is equally easy and each one is individually justified. A two-tier arrangement means the routine withdrawals hit the small pot, which visibly empties and visibly refills, while the substantial reserve stays untouched and stays whole. That distinction is worth the extra fifteen minutes of setup.",
+        ],
+      },
+      {
+        h: "Where insurance replaces part of the fund",
+        p: [
+          "An emergency fund and an insurance policy are addressing the same underlying problem from different directions, and it is worth being deliberate about which risks each is covering rather than letting them overlap by accident.",
+          "Insurance is efficient for events that are rare and large: a serious illness, long-term disability, the loss of a household's main earner. Self-insuring those through savings would require a reserve most people cannot build. The fund is efficient for events that are common and moderate, where an insurance product would cost more in premiums over time than the events themselves.",
+          "The specific implication is that someone with good income protection and adequate life cover has genuinely reduced the size of the reserve they need for the catastrophic scenarios, and can size their fund toward the ordinary ones. Someone with neither is self-insuring everything and needs a considerably larger buffer. Checking which position you are in, including what cover you might already have through an employer without knowing it, changes the target and frequently reduces it.",
+        ],
+      },
+      {
+        h: "The cost of building it too large",
+        p: [
+          "Overfunding is a real if minor error and it deserves mention because the instinct to keep building is strong once the habit is established. Money held in cash beyond what the emergency function requires is money not compounding, and over a long period the difference between an adequate buffer and an excessive one is meaningful.",
+          "The erosion is quiet. Cash held over many years loses purchasing power at whatever rate prices are rising, and the interest on a savings account frequently does not fully offset that. A reserve that is twice the size it needs to be is not twice as safe; it is appropriately safe plus a slowly shrinking sum that could have been doing something else.",
+          "The right response when the target is reached is to redirect the standing order rather than to cancel it, which preserves the habit while changing its destination. People who cancel the transfer on reaching the target frequently do not restart it, and the saving rate that took two years to establish evaporates in a month. Redirect, do not stop.",
+        ],
+      },
+      {
+        h: "Renting, owning and the difference it makes",
+        p: [
+          "Housing tenure changes the shape of the required reserve in ways that are easy to overlook. Owners face a category of expense that renters do not: the structural failures that are legally and practically theirs to fix. A roof, a boiler, subsidence, an electrical system that fails inspection. These are not ordinary emergencies in the sense of being unpredictable, but their timing is, and they are large.",
+          "The practical consequence is that owners benefit from a separate provision for property maintenance, sized against the property rather than against income, sitting alongside the income-interruption reserve. Treating the two as one pot means a boiler failure consumes the job-loss buffer, which is exactly the situation the whole arrangement exists to prevent.",
+          "Renters have the opposite exposure. Their housing costs can rise at renewal or the tenancy can end, both of which produce a moving cost and potentially a deposit before the old one returns. That is a smaller and more frequent shock than a structural failure, which argues for a slightly larger first tier rather than a separate fund.",
+        ],
+      },
+      {
+        h: "When the target is genuinely out of reach",
+        p: [
+          "For a significant number of people, several months of expenses is not a stretching target but an implausible one given current income, and standard advice that treats it as merely a matter of discipline is both wrong and discouraging. It is worth addressing directly rather than pretending the situation does not exist.",
+          "Where the full target is unreachable, the partial version still does most of the work. The evidence on financial distress suggests that the largest single improvement comes from moving from nothing to something, because it converts the class of small shocks — the ones that occur several times a year — from crises into inconveniences. That transition happens at a level far below three months.",
+          "So the useful framing is a sequence of small targets rather than one distant one. Enough for the most common single unexpected expense in your life. Then enough for two. Then a month. Each of these changes something concrete, each is reachable, and the psychological difference between the first and second is larger than any subsequent step. The full target can remain the eventual destination without being the thing you measure yourself against this year.",
+        ],
+      },
+      {
+        h: "Knowing when the number is right",
+        p: [
+          "There is a practical test for whether a reserve is adequately sized, and it is not arithmetic. Imagine, specifically, being told tomorrow that your income has stopped. Notice what the reaction is. If it is a calculation about how long you have and what you would change, the reserve is doing its job. If it is a physical jolt of alarm, it is too small regardless of what the multiplier says.",
+          "This sounds unrigorous and it captures something the calculation misses, which is that the fund exists to remove a particular kind of anxiety and the anxiety is the measurable output. Two people with identical circumstances can require different multipliers to reach the same state, and the one who needs more is not being irrational.",
+          "The corollary is that a reserve which has stopped producing any improvement in how you feel about a hypothetical income loss has reached its useful size, and further additions belong elsewhere. That point arrives at different places for different people and it is worth noticing when you get there, since continuing past it is the overfunding described above. As with everything on this site, this is educational rather than advice, and the right figure depends on circumstances only you can see.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'lifestyle-inflation-silent-leak',
+    sections: [
+      {
+        h: "The five-year statement comparison",
+        p: [
+          "The most direct way to see this happening is also the least popular, which is to pull up a bank statement from five years ago alongside a recent one and compare them line by line. Not the totals, which people already have a rough sense of, but the individual recurring items.",
+          "What tends to emerge is a specific pattern. A handful of items have appeared that did not exist before and are now treated as fixed. Several items exist in both statements at meaningfully higher amounts. And a small number of things have genuinely improved in a way that justifies the cost. The third category is usually the shortest of the three, which is the finding that makes the exercise worth doing.",
+          "The reason this works better than reflection is that memory reconstructs the past to match the present. Asked whether your spending has increased, most people say yes and substantially underestimate by how much, because the current arrangement feels like it has always been the arrangement. The statement does not have that problem.",
+        ],
+      },
+      {
+        h: "Why it is physiologically invisible",
+        p: [
+          "The invisibility is not a failure of attention, it is a consequence of how perception works. Human sensory and evaluative systems are built to detect change rather than absolute level, and they recalibrate to whatever is currently ongoing. This applies to temperature, to noise, and to the standard of living you are experiencing.",
+          "The relevant consequence is that a spending increase is noticeable at the moment it occurs and unnoticeable a few weeks later, at which point it has become the baseline against which the next change is measured. Nothing about this process is available to introspection; the recalibration happens whether or not you are paying attention to it.",
+          "This is why the advice to simply be more mindful about spending has such a poor record. It asks a perceptual system to report on something it is structurally unable to detect. External measurement — the statement comparison, an annual figure written down, a tracked savings rate — substitutes an instrument for a sense that does not exist, which is why those approaches work and exhortation does not.",
+        ],
+      },
+      {
+        h: "The categories where creep concentrates",
+        p: [
+          "Increased spending does not distribute evenly, and knowing where it accumulates makes it far easier to find. Four categories account for most of it in most households.",
+          "Housing is the largest and the most consequential, because it is contractual and because it drags several other costs with it: higher utilities, more furniture, sometimes a longer commute. Recurring subscriptions are the second, and their defining feature is that each is individually trivial and the aggregate is not, particularly once annual renewals that nobody reviews are included. Convenience spending is the third: delivery, taxis, prepared food, all of which substitute money for time in ways that are individually reasonable and collectively substantial.",
+          "The fourth is the most awkward to examine, which is spending driven by a changed social context. Gifts, occasions, joint activities and the general standard of what your circle treats as normal. This is where the largest increases frequently hide, because each instance is attached to a relationship rather than to a purchase, which makes it uncomfortable to count.",
+        ],
+      },
+      {
+        h: "The housing ratio as an anchor",
+        p: [
+          "Because housing drives so much of the rest, a single ratio does more work than any other measure: housing cost as a share of net income. It is easy to calculate, it is comparable across time, and it constrains everything downstream of it.",
+          "The reason it is worth tracking specifically is that it is the one component of spending that is genuinely difficult to reverse. Discretionary increases can be undone in a month. A housing commitment cannot, and a household whose housing ratio has crept upward with each move has progressively less capacity to absorb anything else, regardless of how much their income has risen.",
+          "Watching this ratio across moves, rather than watching the absolute amount, is the discipline that matters. An absolute increase alongside a proportionally larger income increase is fine. An absolute increase that raises the ratio means the household has taken on more fixed obligation relative to its capacity, which is the specific change that makes a financial life more fragile even as it looks like it is improving.",
+        ],
+      },
+      {
+        h: "When two people are doing it simultaneously",
+        p: [
+          "In a household with two earners, lifestyle creep operates through a mechanism that neither person can see individually. Each observes their own spending, each concludes it is reasonable, and the household total rises in a way that neither has authored and neither is tracking.",
+          "The pattern is particularly pronounced when both incomes rise around the same time, which happens more often than chance would suggest, since promotions cluster in the same career stage. Two independent decisions to upgrade something, made in the same quarter without coordination, can consume both raises entirely while each person believes they absorbed only half.",
+          "The fix is a single shared number reviewed at a fixed interval: total household income against total household spending, without attribution and without a category breakdown. Attribution turns it into a conversation about who spent what, which is where these discussions go wrong. The aggregate figure is the thing that matters and it is the thing neither person can see alone.",
+        ],
+      },
+      {
+        h: "How to reverse it without a dramatic cut",
+        p: [
+          "Once the creep is visible, the instinct is a comprehensive cut, which almost always fails for the same reason crash diets do. A better approach removes a small number of things completely rather than reducing many things partially, because partial reductions require ongoing decisions and complete removals do not.",
+          "The candidates are the items from the statement comparison that appeared without ever being chosen — the subscription started for one thing and never cancelled, the upgraded tier that was a promotion, the standing order to something no longer used. Removing these entirely costs nothing in experienced quality of life because they were not producing any, and the aggregate is frequently substantial.",
+          "The second move is to identify the one significant recurring cost you would least miss, and remove that too. Not the one that is largest, which is usually housing and cannot move, but the largest one you feel indifferent about. One removal of this kind, made once, tends to outperform a month of vigilant restraint and requires no ongoing effort at all.",
+        ],
+      },
+      {
+        h: "Keeping the raise without becoming miserable",
+        p: [
+          "The purpose of any of this is not to arrive at a spending level identical to the one you had five years ago, which would make the entire period of increased earning pointless. It is to ensure the increase went to things you would choose again rather than to things that arrived by default.",
+          "The test worth applying to any elevated cost is whether you would start paying it today at that price, knowing what it delivers. A surprising proportion of ongoing costs fail this test — they were reasonable at the moment they began, circumstances changed, and nobody revisited. The ones that pass are exactly the ones the raise should have been spent on.",
+          "Run that filter once a year and the outcome is a spending level that has risen, deliberately, toward things that hold up, with the remainder going into the gap. That is what a raise is supposed to produce and it very rarely does without an explicit mechanism. None of this is financial advice; it is a description of a leak and how to find it.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'compound-interest-eighth-wonder',
+    sections: [
+      {
+        h: "The quotation nobody can source",
+        p: [
+          "The line about compound interest being the eighth wonder of the world is attributed to Einstein in an enormous number of books, articles and presentations, and there is no evidence he ever said it. Researchers who have looked for a primary source have found none, and the attribution appears to have accumulated through repetition rather than through any documented origin.",
+          "This is worth mentioning for a reason beyond pedantry. The habit of attaching a famous name to a financial claim in order to lend it authority is common, and it is a reasonable signal to check anything that arrives that way. The underlying arithmetic here does not need an endorsement; it is verifiable by anyone with a calculator.",
+          "It also illustrates something about how financial ideas circulate. The claims that spread most widely are the ones that are quotable rather than the ones that are most useful, which is why almost everyone has heard the wonder line and far fewer have ever calculated what their own contribution rate produces over thirty years. The second exercise takes ten minutes and is considerably more informative.",
+        ],
+      },
+      {
+        h: "Why the final decade contains most of the growth",
+        p: [
+          "The single most counterintuitive feature of a long compounding period is how heavily the total growth concentrates at the end. On a plausible long-run return, the growth produced in the last ten years of a forty-year period can exceed the growth produced in the first thirty combined, which is a startling claim until you work through why.",
+          "The reason is that each year's growth is applied to a balance that includes every previous year's growth. In year five the base is small, so even a strong percentage return produces a modest absolute amount. In year thirty-five the base is large, and the same percentage produces a figure that dwarfs the early years in absolute terms.",
+          "The practical implication is uncomfortable and important: the years closest to the end are the ones with the most at stake, and they are also the ones during which people most often interfere. A plan abandoned at year thirty has forfeited disproportionately more than the same plan abandoned at year ten, even though thirty years of effort feel like they should have banked most of the benefit.",
+        ],
+      },
+      {
+        h: "Reinvestment is where a large share of the return lives",
+        p: [
+          "Long-run equity returns are usually quoted as a total figure that assumes all income from the holdings was reinvested rather than taken as cash. The distinction is not a technicality: over multi-decade periods, the reinvested income component accounts for a very substantial share of the total, in some markets and periods a majority of it.",
+          "This matters because taking income as cash is a default in some account structures and an easy option in most. An investor who spends the income while assuming they are earning the headline long-run return is in fact earning considerably less, and the shortfall compounds in the same way everything else here does.",
+          "The check is straightforward: confirm whether your holdings are accumulating income automatically or distributing it, and if distributing, confirm where it goes. A cash balance quietly accruing inside an investment account, uninvested for years because nobody set a reinvestment instruction, is a common and entirely avoidable leak.",
+        ],
+      },
+      {
+        h: "What tax does to the curve",
+        p: [
+          "Taxation interacts with compounding in a way that makes account structure unusually consequential. Tax charged annually on growth removes not only that amount but everything that amount would have earned over the remaining decades, which is why a modest annual drag produces a large terminal difference.",
+          "This is the entire argument for using tax-advantaged accounts where they are available, and it is a stronger argument than the headline relief usually suggests. The benefit is not primarily the initial treatment but the elimination of the annual friction across the whole period. Two identical portfolios, one sheltered and one not, diverge steadily and then dramatically.",
+          "The specific rules vary enormously between countries and change over time, so nothing here should be read as guidance about any particular scheme. What generalises is the principle: find out what sheltered capacity you have, use it before unsheltered alternatives, and treat the annual drag as a cost of the same kind as a fund charge, because arithmetically it behaves identically.",
+        ],
+      },
+      {
+        h: "The true cost of an interruption",
+        p: [
+          "Pausing contributions for a period feels like it costs the amount not contributed, and it costs considerably more than that. A contribution missed in year eight forfeits not only itself but the entire growth it would have generated over the following three decades, which on a long horizon is a multiple of the original sum.",
+          "This asymmetry means that protecting the contribution stream during difficult periods has a value out of proportion to the amounts involved. It is one of the strongest practical arguments for the emergency buffer described elsewhere on this site: its function is partly to prevent the long-term plan from being the thing that gets sacrificed when a bad year arrives.",
+          "Where a pause is genuinely unavoidable, reducing rather than stopping preserves both the habit and part of the compounding, and is meaningfully better than a full suspension. The restart is the hard part. A pause with a specific end date written down restarts far more reliably than an open-ended one, which in practice frequently does not restart at all.",
+        ],
+      },
+      {
+        h: "What leaving it alone actually requires",
+        p: [
+          "The instruction to leave a portfolio alone is easy to state and specifies almost nothing about what to do, which leaves people unsure whether ordinary maintenance counts as interference. It does not. Rebalancing to a chosen allocation, adjusting contributions with income, consolidating an old account and reviewing charges are all maintenance and all improve the plan.",
+          "What the instruction is warning against is changing the strategy in response to recent returns. Selling equities after a decline, shifting into whatever performed well last year, moving to cash pending clarity, or increasing risk after a strong run are all versions of the same error, and the fact that each feels like a considered decision at the time is exactly the problem.",
+          "The distinction that separates the two is whether the trigger is internal or external. A change prompted by something in your own life — a shorter horizon, a new dependant, a different capacity to absorb loss — is legitimate. A change prompted by something in the market is almost always the behaviour that the evidence on investor returns identifies as costly.",
+        ],
+      },
+      {
+        h: "What to do at each stage of a working life",
+        p: [
+          "In the first decade of earning, the balance is small enough that returns are almost irrelevant and the contribution rate is nearly everything. The highest-value activities are establishing the automatic transfer, capturing any employer match in full, and raising earning power, which has a larger effect at this stage than any investment decision could.",
+          "In the middle decades, the balance becomes large enough that costs and allocation start to matter substantially. This is the period for consolidating forgotten accounts, checking charges, and ensuring the contribution rate has kept pace with income rather than remaining at whatever it was set to a decade earlier. It is also when the temptation to interfere peaks, because the sums are now large enough to feel consequential.",
+          "In the final decade before drawing on it, the questions change character entirely. The balance is at its largest, the time available to recover from a severe decline is at its shortest, and the transition from accumulating to withdrawing needs to be planned rather than improvised. That transition is a genuinely difficult problem and deserves to be approached well before it arrives. None of this is financial advice, and the appropriate approach at every stage depends on individual circumstances.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'teaching-kids-about-money',
+    sections: [
+      {
+        h: "What children can actually understand at each age",
+        p: [
+          "Financial concepts land at different ages and teaching them out of sequence produces confusion rather than understanding. Very young children can grasp that things cost money and that money is finite, which is enough for the foundational lesson that choosing one thing means not having another. Abstract ideas about saving for the future are largely beyond them.",
+          "Somewhere in the primary years the ability to defer, to plan toward a goal several weeks out and to understand the idea of earning in exchange for effort becomes available. This is the stage where a structured allowance and a savings goal start to work as teaching tools rather than as arbitrary rules.",
+          "Adolescence brings the capacity for genuinely abstract reasoning about money — interest, borrowing, opportunity cost, the relationship between skills and income — and it arrives alongside considerably more spending autonomy and considerably more social pressure. The conversations that matter most tend to happen in this window, and they land better as ongoing discussion than as instruction.",
+        ],
+      },
+      {
+        h: "The problem with money you cannot see",
+        p: [
+          "Children historically learned about money by watching it change hands, and that visible transaction has largely disappeared. A card tapped at a terminal, a payment made by phone, a subscription that renews invisibly: none of these communicate that a finite resource was reduced, which is the single most basic thing a child needs to observe.",
+          "The consequence is not that children believe money is infinite, exactly, but that they have no intuitive model of where it comes from or how it depletes. Asked how a parent gets money, a substantial number of young children will say from the machine in the wall, which is an entirely reasonable inference from the available evidence.",
+          "The fix is to deliberately restore visibility somewhere. Physical cash for allowance, at least initially, gives the depleting-resource experience that a card cannot. Narrating transactions out loud — saying what something cost and what that meant you did not buy — supplies the reasoning that used to be visible. Neither requires much effort and both substitute for evidence the environment no longer provides.",
+        ],
+      },
+      {
+        h: "Should allowance be tied to chores?",
+        p: [
+          "This question generates strong opinions and the honest answer is that both approaches have defensible logic and different failure modes. Paying for chores teaches the connection between work and income, which is a real and important lesson. It also risks establishing that contributions to the household are transactions, which can make unpaid help harder to ask for later.",
+          "An unconditional allowance teaches money management without attaching it to labour, which keeps household contribution as a separate expectation. Its weakness is that it supplies money without any experience of earning it, which leaves a significant gap.",
+          "A structure that resolves most of the tension separates the two explicitly: a baseline allowance that is unconditional and exists to be managed, alongside separate paid opportunities for work beyond the ordinary expected contribution. The child learns both lessons in their proper domains, and the household chores that everyone does because they live there stay outside the market.",
+        ],
+      },
+      {
+        h: "The delayed gratification research and its caveats",
+        p: [
+          "The famous experiment in which young children who waited for a larger reward later showed better outcomes is one of the most cited findings in psychology and one of the most frequently overstated. Later replications with larger and more varied samples found the effect substantially smaller once family background was accounted for.",
+          "The more careful interpretation is that the ability to wait is partly a disposition and substantially a response to environment. A child who has learned that promised rewards reliably arrive will wait. A child whose experience suggests otherwise is behaving sensibly by taking what is available, and their choice reflects accurate learning rather than poor self-control.",
+          "The teaching implication is more useful than the original headline. Reliability is the thing being taught. A parent who consistently follows through on what was promised is building the underlying belief that makes waiting rational, and that belief does more than any exercise in patience. Waiting is trainable mostly in the sense that trustworthiness is demonstrable.",
+        ],
+      },
+      {
+        h: "Letting mistakes happen while they are cheap",
+        p: [
+          "The most valuable thing a child can do with their own money is spend it badly on something they wanted very much and then regret it. This is an experience with a genuine cost attached and no lasting consequence, which is a combination that essentially never occurs again in adult life.",
+          "The parental instinct to prevent it is strong and worth resisting. A warning given and then overridden, followed by the disappointment arriving on schedule, teaches something that no amount of successful prevention can. The lesson is about one's own judgement rather than about the specific purchase, and it is not available second-hand.",
+          "What matters is what happens afterwards. A response that emphasises being right is unproductive and makes the child defensive about future decisions. A response that simply acknowledges the disappointment and moves on lets the experience do its own work. The goal is a child who has already learned, cheaply, that wanting something intensely is a poor predictor of being satisfied by it.",
+        ],
+      },
+      {
+        h: "How much to tell them about the family's finances",
+        p: [
+          "Households vary enormously in how openly this is discussed, and the extremes both cause problems. Complete secrecy leaves children with no model of how a household actually works and frequently with anxiety filling the gap, since they detect stress without being given any account of it. Complete disclosure places worries on people who have no capacity to act on them.",
+          "A workable middle ground is honesty about structure without detail about amounts. Explaining that income arrives, that certain costs are fixed, that choices are made between remaining options, and that this is normal, gives an accurate model without transferring the burden. Older children can handle more, and by late adolescence a fairly complete picture is usually more helpful than protective vagueness.",
+          "Where the household is under genuine financial pressure, some acknowledgement is almost always better than none. Children notice, and an unexplained atmosphere is more frightening than an explained constraint. What they need is the reassurance that the adults are managing it, which is a different message from a detailed account of the difficulty.",
+        ],
+      },
+      {
+        h: "The first job and the first real money",
+        p: [
+          "A first earned income is the highest-leverage teaching moment available, and the leverage comes from the fact that the money is unambiguously theirs. Every lesson that was theoretical becomes concrete: the gap between the headline rate and what actually arrives, the relationship between hours and money, the surprising speed with which a sum disappears when nobody is tracking it.",
+          "The intervention worth making at this point is minimal and structural. Helping set up a separation between spending money and saved money, and establishing that some proportion goes across automatically, installs the habit described elsewhere on this site at the earliest possible moment and at the lowest possible stakes. Someone who has been doing this since their first job does not experience it as a discipline later; it is simply how their money works.",
+          "The other thing worth doing is resisting the urge to direct the spending portion. A young person who earns their own money and spends it on things adults consider unwise is exercising exactly the judgement they need to develop, and the cost of the errors at that age is small. The habit that matters is the separation, not the wisdom of what happens on the spending side of it.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'the-barber-who-retired-early',
+    sections: [
+      {
+        h: "What retiring at fifty actually means in practice",
+        p: [
+          "The phrase suggests a permanent cessation of work, and for most people who reach this position it describes something more specific: the point at which continuing to work becomes a choice rather than a requirement. A substantial share of people who reach financial independence early continue doing some form of paid work, often at reduced hours and often at things they would not have accepted when the income mattered.",
+          "This distinction matters because the version involving total permanent idleness at fifty is both rarer and, by most accounts from people who have tried it, less satisfying than expected. Work supplies structure, social contact and a sense of contribution that the accumulated balance does not replace automatically.",
+          "The more accurate description of what was bought is leverage. The ability to refuse a client, to take a season off, to work three days rather than five, to walk away from an employer without calculating whether the mortgage clears. Framed that way, the achievement is available in partial forms long before the full number is reached, which is a considerably more encouraging framing than an all-or-nothing target.",
+        ],
+      },
+      {
+        h: "The arithmetic that makes it possible",
+        p: [
+          "The mechanism is unremarkable and rests almost entirely on one variable: the proportion of income that is not spent. Someone saving a tenth of what they earn is funding a very long working life. Someone saving half is funding a much shorter one, and the relationship between the savings rate and the years required is steeper than intuition suggests.",
+          "The reason the relationship is so steep is that the savings rate operates on both sides simultaneously. A higher rate builds the balance faster and, because it implies a lower spending level, reduces the size of the balance required. Two effects pushing in the same direction produce a result that looks disproportionate to the change in behaviour.",
+          "This is why the story is genuinely about the gap rather than about the income, and why an ordinary income with an extraordinary gap outperforms the reverse. It is also why the approach is not universally available: a gap of that size requires an income sufficiently above essential costs that a large proportion can be diverted, which is not everyone's situation and should not be presented as though it were.",
+        ],
+      },
+      {
+        h: "What could have gone wrong along the way",
+        p: [
+          "Stories of this kind are told from the endpoint, which systematically excludes everyone who followed the same approach and did not arrive. That survivorship problem is worth naming, because the plan has several failure points that the retrospective account tends to smooth over.",
+          "A serious health event during the accumulation years would have consumed both the savings and the earning capacity. A property market turn at the wrong moment, a business failure, a family obligation arriving unexpectedly, a divorce: each of these has ended similar plans. The person in the story avoided all of them, partly through prudence and substantially through not being unlucky.",
+          "None of this makes the approach unsound. It means the honest version includes a probability rather than a guarantee, and that the appropriate response to the risk is a plan with slack in it rather than one optimised to the edge. The people whose plans survive setbacks are generally the ones who built for a worse case than they expected, which costs a few additional years and buys a considerably higher chance of arriving at all.",
+        ],
+      },
+      {
+        h: "The sequence problem for anyone stopping early",
+        p: [
+          "Someone drawing on a portfolio for forty years rather than twenty faces a materially harder version of the withdrawal problem, and it is the part of early retirement most often underestimated. The danger is not the average return over the whole period but the returns in the first few years of drawing.",
+          "A severe decline early in the withdrawal phase permanently reduces the base that all subsequent growth applies to, because the withdrawals during the decline convert paper losses into realised ones. The same decline occurring fifteen years later, after the balance has grown, is far more survivable. The average return can be identical in both cases and the outcomes very different.",
+          "The defences are known and none is free. Holding several years of expenses in cash and near-cash so that withdrawals during a decline do not come from the equity portion. Retaining the flexibility to reduce spending in bad years. Keeping some earning capacity available, which is one of the strongest arguments for the partial-retirement version described above. Any plan that depends on selling assets on a fixed schedule regardless of conditions is exposed to this in a way that is worth understanding before rather than after.",
+        ],
+      },
+      {
+        h: "The costs that reappear when the salary stops",
+        p: [
+          "Employment quietly supplies a set of things that have to be replaced and are easy to omit from a projection. Depending on the country, this can include health cover, income protection, life cover, contributions toward state entitlements, and in some cases pension contributions that continue only while employed.",
+          "The replacement cost for these is not trivial and it tends to rise with age, which means it grows exactly as the plan is least able to accommodate it. A projection built on current spending, without accounting for what an employer is currently absorbing, can understate the required figure substantially.",
+          "There is also a subtler effect on state provision in systems where entitlement accrues through years of contribution. Stopping early can mean a reduced eventual entitlement, and in some systems the gap can be filled voluntarily at a cost that is small relative to the benefit. Finding out how this works in your own system, before rather than after, is a specific and finite piece of homework with an unusually clear payoff.",
+        ],
+      },
+      {
+        h: "The part that is not financial at all",
+        p: [
+          "People who reach this position consistently report that the transition was harder psychologically than they anticipated, and the difficulties are fairly consistent. The structure that work imposed on a week disappears and has to be replaced deliberately. Social contact that arrived automatically through a workplace stops arriving. The question of what you do, which had a ready answer for thirty years, becomes genuinely open.",
+          "There is also a specific difficulty around spending. Someone who spent decades building the habit of not spending frequently finds it very hard to reverse, and a substantial number of people who reach financial independence continue living well below what their position supports, not from choice but because the habit has become difficult to switch off.",
+          "This is worth knowing during the accumulation years because it suggests the useful thing to build alongside the balance: interests, relationships and a sense of purpose that do not depend on the job. Those take years to develop and cannot be acquired quickly at the point of stopping. The people for whom this works well are generally the ones who built both simultaneously.",
+        ],
+      },
+      {
+        h: "What is replicable here and what is not",
+        p: [
+          "The replicable part is the mechanism: a persistent gap between earning and spending, automated so that it does not depend on monthly resolve, invested cheaply and broadly, left alone for a long period. That is available to anyone whose income exceeds their essential costs by enough to sustain it, and it works regardless of the size of the income.",
+          "The parts that are not replicable are the ones the story cannot supply. A period of decades without a serious health event or family crisis. A career in which income was stable. The absence of the kind of luck that ends other people's plans. Presenting these as though they were achievements rather than conditions is where stories of this kind become misleading.",
+          "The reasonable conclusion is narrower than the headline and more useful. The mechanism works and the timeline is uncertain. Building the gap improves your position in every scenario, including the ones where you never stop working early, because what it actually purchases is optionality rather than a specific retirement date. That is worth having whether or not the full version ever arrives. None of this is financial advice, and everyone's circumstances differ.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
