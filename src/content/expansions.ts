@@ -3313,6 +3313,186 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'market-crashes-what-history-teaches',
+    sections: [
+      {
+        h: "The vocabulary, which is arbitrary but useful",
+        p: [
+          "The terms used to describe market declines have conventional thresholds that carry no analytical significance and are nonetheless worth knowing, because they shape how coverage is written. A fall of around ten percent is conventionally called a correction. A fall of around twenty percent is conventionally called a bear market.",
+          "These numbers are round because someone chose round numbers, not because anything changes at those points. A market down nineteen percent and one down twenty-one percent are in materially the same situation, and the different labels applied to them will produce noticeably different coverage.",
+          "Knowing this is a small inoculation against the framing. When a threshold is crossed and the tone of reporting shifts, the shift reflects a naming convention rather than any change in the underlying situation. It is the sort of detail that seems trivial until you notice how much of the emotional weight of a decline comes from how it is described.",
+        ],
+      },
+      {
+        h: "The three broad causes and why they matter",
+        p: [
+          "Historical declines fall into loosely distinguishable categories, and the category tends to predict how the recovery goes. The first is the valuation unwind, where prices had risen far beyond earnings and the correction removes the excess. These have tended to take longer to recover because the starting point was genuinely too high.",
+          "The second is the external shock: a war, a pandemic, a disaster. These have historically been sharp and comparatively quick to recover, because the underlying businesses were not fundamentally impaired and the disruption was temporary.",
+          "The third and most damaging is the credit event, where excessive borrowing across the financial system unwinds. These have been the deepest and slowest, because the damage extends into the real economy and the repair takes years. Recognising which type is underway does not tell you what to do, and it does calibrate how long the discomfort is likely to last.",
+        ],
+      },
+      {
+        h: "How long declines have actually lasted",
+        p: [
+          "The duration data is more useful than the depth data for planning purposes, and it is less frequently quoted. Across major historical declines in broad developed markets, the fall itself has typically taken months rather than days, and the recovery to the previous peak has ranged from under a year to well over a decade.",
+          "The median case has been considerably shorter than the worst case, which is the pattern in most financial data and the reason averages mislead. Planning against the median produces a plan that fails in the scenarios that matter; planning against the worst case produces one that is unnecessarily conservative most of the time.",
+          "The reasonable response is the one described elsewhere on this site: hold enough outside equities that a long recovery does not force any action, and treat the equity portion as money you genuinely will not need for a period longer than the historical worst case. That is a demanding standard and it is the one that makes the duration data survivable rather than alarming.",
+        ],
+      },
+      {
+        h: "Why the recovery is invisible while you are in it",
+        p: [
+          "A consistent feature of past recoveries is that they began before anything looked better. The bottom was reached while the news remained uniformly bad, while unemployment was still rising, and while forecasts were still being revised downward. This is not a coincidence; markets price expectations, so the turn happens when the expectations stop deteriorating rather than when conditions improve.",
+          "The practical consequence is severe for anyone waiting for clarity before returning. Clarity arrives well after the recovery is underway, which means the strategy of exiting during the decline and returning when things stabilise has historically meant selling low and buying considerably higher.",
+          "This is the specific mechanism behind the finding that the best days cluster near the worst ones. It is not a statistical curiosity; it is a description of markets turning at the moment of maximum pessimism, which is by construction the moment at which staying invested feels least defensible.",
+        ],
+      },
+      {
+        h: "This time is different, and sometimes it is",
+        p: [
+          "The phrase is used to mock people who panic during declines, and the mockery is not entirely fair. Every episode genuinely has features the previous ones did not, and the people arguing that a particular decline is structurally distinct are usually pointing at something real.",
+          "What the historical record suggests is not that the differences are imaginary but that they have so far not changed the eventual outcome for broad diversified holdings in developed markets. The distinctive features mattered for the path and, to date, not for whether a recovery eventually occurred.",
+          "The honest caveat is that this is a record rather than a law, and it is drawn from a particular set of markets over a particular century. There are historical examples of markets that did not recover in any useful timeframe. Global diversification is the principal defence against that scenario, and it is the reason the argument for holding broadly is stronger than the argument for holding any single country's index.",
+        ],
+      },
+      {
+        h: "What the historical record does not promise",
+        p: [
+          "It is worth stating the limits plainly, since the reassurance offered by long-run charts can be overextended. The record establishes that broad markets have recovered from every decline so far, over periods ranging from months to more than a decade. It does not establish that any future decline will recover, or on what timescale.",
+          "It also says nothing about individual companies or narrow sectors, many of which have declined and never recovered, which is a different and much less reassuring dataset. The comfort available from market history applies specifically to broad diversified holdings, and applying it to a concentrated position is a category error with a substantial cost attached.",
+          "Finally, it says nothing about your own timeline. A market that recovers in eleven years is a footnote to someone with thirty years remaining and a catastrophe to someone who needed the money in year three. The record is genuinely reassuring for money with a long horizon and offers no comfort at all for money without one, which is the entire argument for matching investments to when they are needed.",
+        ],
+      },
+      {
+        h: "What actually helps while it is happening",
+        p: [
+          "Given all of this, the list of things worth doing during a decline is short and mostly negative. Continue contributing, which is buying at lower prices. Rebalance if the bands have been breached. Avoid checking frequently. Avoid financial media that escalates with the severity of the fall.",
+          "The one genuinely useful positive action is to look at the plan written during a calm period and follow it. If no such plan exists, writing one during a decline is not ideal and is still better than improvising, because the act of writing slows the decision down enough for reasoning to participate.",
+          "Beyond that, the most valuable contribution is usually to do something unrelated. The temptation during a decline is to feel that constant attention is a form of responsibility, and it is precisely the opposite: attention produces opportunities to act, and acting is the thing that historically converts a temporary decline into a permanent loss. None of this is financial advice, and the appropriate response depends on circumstances only you can see.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'dividend-investing-truth',
+    sections: [
+      {
+        h: "The mechanical fact that changes how this looks",
+        p: [
+          "On the day a dividend is paid, the value of the company falls by approximately the amount paid out, because cash that was inside the business is now outside it. The share price adjusts accordingly on the relevant date. This is not a market reaction; it is arithmetic.",
+          "The consequence is that receiving a dividend does not increase your wealth at the moment it is paid. You held a share worth a certain amount; now you hold a share worth slightly less plus cash making up the difference. The total is unchanged before tax and slightly lower after it in unsheltered accounts.",
+          "This is the single most important thing to understand about dividends, and it is genuinely counterintuitive because the cash feels like a gain arriving from outside. Recognising it does not make dividends bad; it removes the illusion that they are free money, which is the belief underlying most of the errors in this area.",
+        ],
+      },
+      {
+        h: "Total return is the number that matters",
+        p: [
+          "Since a dividend is a transfer from the share price to your account, the meaningful measure of how an investment has done is the total return: price change plus income, considered together. Assessing a holding by its dividend alone is like assessing a salary by the amount paid in cash and ignoring the rest.",
+          "This matters practically because it changes how portfolios get compared. A holding yielding little but growing substantially may have delivered a far better total return than one paying a generous income while the price stagnated. Judged by income alone, the second looks superior and is not.",
+          "It also reframes the question of whether to seek income at all. For an investor in the accumulation phase, dividends received are simply cash requiring reinvestment, with a possible tax cost in an unsheltered account. Whether the return arrives as income or as price appreciation is close to irrelevant, and the tax treatment may make one slightly preferable to the other.",
+        ],
+      },
+      {
+        h: "Why the highest yields are usually a warning",
+        p: [
+          "Yield is calculated by dividing the dividend by the price, which means it rises when the price falls. A company whose shares have halved on bad news displays a yield twice what it did before, and screening for high yield reliably surfaces companies the market has recently marked down.",
+          "Sometimes the market is wrong and the company recovers. Frequently it is not, and the dividend is subsequently reduced or eliminated, at which point the investor holds a company with a lower price and no income. This pattern is common enough to have a name among practitioners and to be worth checking for specifically.",
+          "The check is whether the dividend is covered by earnings and cash flow, both of which are published. A payment exceeding what the business generates is being funded by borrowing or by depleting reserves, and neither can continue indefinitely. This takes a few minutes to establish and it removes the most common way that yield-focused investing goes wrong.",
+        ],
+      },
+      {
+        h: "Where dividends genuinely earn their reputation",
+        p: [
+          "The defence of dividends is stronger than the mechanical argument above suggests, and it rests on what the payment reveals rather than on what it delivers. A company that has paid and increased a dividend for decades has demonstrated something about the reliability of its cash generation that is difficult to fake.",
+          "Dividends are also comparatively hard to manipulate. Reported earnings are subject to accounting judgement; a cash payment either happened or it did not. A long record of them is evidence of a business that actually generates cash, which is not universally true of businesses that report profits.",
+          "There is a governance argument as well. Cash retained inside a company can be deployed well or badly, and management has incentives that do not always favour returning it. A commitment to a regular dividend imposes discipline by removing cash from the pool available for uses that may serve management better than shareholders.",
+        ],
+      },
+      {
+        h: "The drawdown case, which is the real one",
+        p: [
+          "For someone drawing an income from a portfolio rather than building it, dividends have a practical appeal that has nothing to do with returns. Living from dividends means not having to sell holdings, which removes the decision about what to sell and when, and avoids selling into a decline.",
+          "This is a genuine psychological benefit and it comes with a cost. A portfolio constructed to produce a high income is necessarily concentrated in the sectors and geographies that pay well, which means giving up diversification. Historically, income-focused portfolios have been heavily weighted toward a small number of sectors, with the concentration risk that implies.",
+          "The alternative is a total-return approach, holding a broadly diversified portfolio and selling a small portion periodically to generate income. This is more diversified and requires the investor to sell holdings regularly, which many people find genuinely uncomfortable. Neither approach is wrong; the choice is between concentration you can live with and selling you can live with.",
+        ],
+      },
+      {
+        h: "Tax, which frequently decides it",
+        p: [
+          "In unsheltered accounts, dividends are typically taxed when received, whether or not you wanted the cash. Capital gains are typically taxed only when realised, which gives the investor control over the timing. This asymmetry can make a dividend-heavy approach meaningfully less efficient for someone still accumulating.",
+          "The rates themselves differ between income and gains in many systems, sometimes substantially, and the allowances available differ too. For a portfolio of any size, this can outweigh most of the other considerations discussed here.",
+          "Inside a sheltered account none of this applies and the question becomes purely one of portfolio construction. This is one of several reasons why using available sheltered capacity first, discussed elsewhere on this site, tends to simplify a great many subsequent decisions. Rules vary by country and change; nothing here describes any particular system, and this is educational rather than advice.",
+        ],
+      },
+      {
+        h: "Buybacks, which do the same job differently",
+        p: [
+          "A company returning cash to shareholders has a second route available: buying its own shares in the market and cancelling them. Each remaining share then represents a larger slice of the same business, which increases its value proportionally.",
+          "Economically this closely resembles a dividend, and the difference that matters to an individual holder is usually tax. A dividend is typically taxed on receipt whether wanted or not; a buyback raises the share price and is taxed only when the holder chooses to sell. For someone accumulating, that difference can be meaningful.",
+          "This is worth knowing because it undermines a common comparison. A company paying no dividend is frequently described as returning nothing to shareholders, when it may be returning a comparable amount through repurchases. Assessing companies on dividend policy alone systematically misreads what is actually happening to the cash.",
+        ],
+      },
+      {
+        h: "Reinvestment, and where the long-run returns came from",
+        p: [
+          "Long-run studies of equity returns consistently find that reinvested income accounts for a very large share of the total, in some markets and periods a clear majority. This is the strongest argument for ensuring dividends are reinvested rather than accumulating as cash.",
+          "The mechanism is the compounding described elsewhere on this site. Income reinvested buys more shares, which produce more income, which buys more shares. Over decades the difference between doing this and not doing it is not marginal; it is most of the result.",
+          "The practical check is simple and rarely done: confirm whether your holdings accumulate income automatically or distribute it, and if they distribute it, confirm that the cash is actually being reinvested rather than sitting in an account. Uninvested dividend cash accumulating quietly for years is a common and entirely avoidable leak, and it is the exact opposite of what the long-run return figures assume.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'market-crashes-what-history-teaches',
+    sections: [
+      {
+        h: "Frequency, and why that is the reassuring part",
+        p: [
+          "The genuinely useful thing about the historical record is how ordinary declines turn out to be. Falls of around ten percent have occurred roughly once a year on average in broad equity markets. Falls of around twenty percent have occurred every few years. Severe declines beyond that have occurred several times in a century.",
+          "Framed that way, an investor holding for thirty years should expect to experience several substantial declines and at least one severe one. These are not aberrations that a well-constructed plan avoids; they are the ordinary conditions any long-term plan operates in.",
+          "The practical value of internalising this is that it converts each occurrence from a crisis into an expected event. A plan built with the expectation of several severe declines is a different plan from one built assuming smooth growth, and the first is the one that survives contact with reality.",
+        ],
+      },
+      {
+        h: "The two errors that bracket the sensible response",
+        p: [
+          "Faced with a decline, investors tend toward one of two errors, and they are opposite in direction while being identical in origin. The first is capitulation: selling to stop the loss, which converts a quotation into a realised outcome and historically has been the single most expensive action available.",
+          "The second is over-correction in the other direction: deciding this is the opportunity, abandoning the plan and concentrating heavily into whatever has fallen furthest. This feels courageous and is the same error wearing different clothes, since both involve making a large discretionary bet under emotional pressure.",
+          "The sensible response sits between them and is unexciting by design: continue the contributions, rebalance within the pre-set bands, and change nothing else. Both errors originate in the feeling that a dramatic situation requires a dramatic response, which is a reasonable instinct in most of life and a costly one here.",
+        ],
+      },
+      {
+        h: "Reading history without over-fitting it",
+        p: [
+          "There is a hazard in studying past declines closely, which is the temptation to identify the pattern and to act on it next time. Every historical episode looks legible in retrospect, with clear warning signs and an obvious turning point, and none of that was visible while it was happening.",
+          "The signals that appear predictive across a handful of past episodes are frequently coincidence, and a rule fitted to a small number of events will not generalise. This is why the people who correctly called one decline so rarely call the next one, a pattern consistent enough to be worth remembering whenever someone's earlier prediction is offered as credentials.",
+          "The defensible use of the historical record is broad rather than specific: declines happen regularly, they vary in cause and duration, broad diversified holdings have so far recovered, and the behaviour that damages outcomes is consistent across every episode. Those conclusions are robust. Anything more precise is a pattern fitted to too little data.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'dividend-investing-truth',
+    sections: [
+      {
+        h: "The mental accounting that makes income feel safer",
+        p: [
+          "There is a well-documented tendency to treat income and capital as different categories of money, spending the first freely while regarding the second as untouchable. This is economically arbitrary — a given sum is the same sum however it arrived — and it is nearly universal.",
+          "For dividend investors this produces a specific and comfortable arrangement: an income that feels acceptable to spend, drawn from a portfolio that feels preserved because the number of shares has not changed. The fact that the share price fell by the amount paid does not register, because share prices move for many reasons and the connection is invisible.",
+          "Whether this is a problem depends on what it produces. If the framing keeps someone invested through declines who would otherwise have sold, it is doing genuine good regardless of its logical inconsistency. If it leads to a concentrated, poorly diversified portfolio chosen entirely on yield, it is doing harm. The framing is a tool, and like most behavioural tools it is worth knowing you are using it.",
+        ],
+      },
+      {
+        h: "What to check before buying anything for its income",
+        p: [
+          "For anyone who does want income-producing holdings, a short list of checks removes most of the common failures. Whether the payment is covered by earnings and by cash flow, both published, which establishes whether it is sustainable. The record over a full economic cycle including the last severe downturn, which establishes whether it was maintained under stress.",
+          "The level of borrowing carried by the business, since a heavily indebted company paying a generous dividend is prioritising shareholders over its own balance sheet and will stop doing so when lenders insist. And the sector concentration of the overall holding, since income-focused selection reliably produces portfolios clustered in a few industries.",
+          "None of this requires expertise beyond reading a fact sheet or an annual report summary. It takes perhaps twenty minutes per holding and it filters out the category of company whose yield is high precisely because the market expects the payment to be cut. As with everything on this site, this is educational rather than advice, and nothing here is a recommendation of any particular holding.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
