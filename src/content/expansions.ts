@@ -3665,6 +3665,165 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'sinking-funds-where-did-that-come-from',
+    sections: [
+      {
+        h: "Why labelled money behaves differently",
+        p: [
+          "The effectiveness of this method rests on something economically irrational and reliably true: money assigned a purpose is treated differently from identical money without one. A balance labelled for a specific thing is spent on that thing; the same sum in an unlabelled pot gets absorbed.",
+          "Economists call this mental accounting and generally treat it as a bias, since a given sum has the same value regardless of what it is called. That is correct as a statement about the money and beside the point as a statement about behaviour, which is what actually determines outcomes.",
+          "The practical move is to use the bias deliberately rather than trying to overcome it. Naming each fund specifically — not savings but car tyres, not miscellaneous but December — changes what happens to the balance, at no cost and with no ongoing effort. It is one of the few places where a documented cognitive quirk can simply be pointed in a useful direction.",
+        ],
+      },
+      {
+        h: "The name matters more than the structure",
+        p: [
+          "Following from that, the specificity of the label does real work. A fund called holiday behaves better than one called leisure, and one called February trip to see family behaves better still. The more concrete the name, the more clearly the balance belongs to something and the more obvious it is when it is being raided.",
+          "This also makes the annual review easier. A list of vaguely named funds requires remembering what each was for; a list of specific ones is self-documenting, and any that no longer correspond to something real are obvious and can be closed.",
+          "Where a bank offers named sub-accounts within a single balance, this is close to free to implement. Where it does not, a spreadsheet with one line per purpose does the same job. The mechanism is the naming rather than the technology, which means it works with whatever tools are available.",
+        ],
+      },
+      {
+        h: "Guilt-free spending, which is the underrated benefit",
+        p: [
+          "The framing of this method is usually defensive: preventing costs from becoming crises. There is an equally important benefit on the other side, which is that money accumulated for a specific enjoyable purpose can be spent without any of the low-level unease that usually accompanies a large discretionary purchase.",
+          "Someone who has been putting money aside for a holiday for eleven months spends it differently from someone paying for the same holiday from general savings. The second is making a decision at the point of purchase, with all the second-guessing that involves. The first made the decision a year ago and is simply executing it.",
+          "This is a genuine improvement in the experience of spending money, and it is available at no financial cost whatsoever. For anyone who finds discretionary spending stressful — which is a large proportion of people who are otherwise good with money — it is possibly the most valuable thing this method does.",
+        ],
+      },
+      {
+        h: "What to do with a surplus at year end",
+        p: [
+          "Some funds will end a cycle with money left over, because the estimate was generous or the expense did not materialise. The temptation is to sweep it into general spending, and there are better options.",
+          "Rolling it forward is the default and it is usually right, since an estimate that was generous this year may be inadequate next year and the categories are lumpy by nature. A car fund that survived a year untouched is not evidence that the car will never need work.",
+          "Where a surplus is genuinely persistent across several years, the estimate was simply too high and the monthly contribution should be reduced, with the difference redirected to whichever fund keeps running short or to long-term savings. What is worth avoiding is treating an accumulated surplus as a windfall, since that converts a functioning system back into the ad hoc arrangement it replaced.",
+        ],
+      },
+      {
+        h: "Running this with a partner",
+        p: [
+          "In a household, this method works considerably better when the list is built jointly, for a reason that has nothing to do with the arithmetic. Two people almost always have different views about which irregular costs are inevitable and which are optional, and building the list surfaces that disagreement in a low-stakes context.",
+          "It also removes a common source of friction. A large annual expense arriving without provision produces a conversation about whether it should have been anticipated. The same expense arriving against a fund that both people agreed to a year earlier produces no conversation at all.",
+          "The practical arrangement is a shared set of funds for household costs, funded proportionally as described in the article on couples elsewhere on this site, alongside any individual ones each person wants. The shared list is the part that matters; the individual ones are nobody else's business.",
+        ],
+      },
+      {
+        h: "Reviewing the list once a year",
+        p: [
+          "The list is not permanent and it drifts out of date faster than people expect. Circumstances change, vehicles get replaced, subscriptions end, children reach ages with different costs, and a list built three years ago will contain entries that no longer apply and omit ones that now do.",
+          "An annual review covering four questions handles this: which funds were never drawn on, which ran short, what significant irregular cost occurred that had no fund, and what has changed that will produce new costs next year. Twenty minutes, once a year.",
+          "The most useful of these is the third. Any expense that arrived without a fund is either a genuine emergency, which belongs elsewhere, or a gap in the list. Distinguishing between the two each year is how the list becomes progressively more complete, and after two or three cycles the number of genuinely unanticipated costs falls to something quite small.",
+        ],
+      },
+      {
+        h: "Why this changes how a budget feels",
+        p: [
+          "The subjective effect of running this for a full cycle is out of proportion to the mechanism, and it is worth naming because it is the reason people who adopt it keep doing it. The recurring sense that something expensive is probably coming, which most households live with permanently, largely disappears.",
+          "It is replaced by something more specific: a list of known costs, each provided for, with a visible balance behind it. The unknown becomes a much smaller category, containing only genuine emergencies, which is what the emergency fund exists for and which is far less frequent than the ad hoc alternative makes it feel.",
+          "None of this requires earning more or spending less. It requires paying the same costs on a schedule rather than in response to their arrival, which changes nothing about the total and a great deal about the experience. That is an unusually good return on an hour of setup. As with everything on this site, this is educational rather than advice.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'the-50-30-20-budget',
+    sections: [
+      {
+        h: "The hard cases in sorting needs from wants",
+        p: [
+          "The rule's usefulness collapses at exactly the point where most real spending sits: the large category of things that are neither obviously essential nor obviously discretionary. A car is a need for someone whose work requires it and a want for someone with viable alternatives. The same is true of a phone plan, of childcare, of a home larger than the minimum.",
+          "The productive way to resolve this is to distinguish the function from the version. Transport to work is a need; a particular car is a choice about how to meet it. Somewhere to live is a need; the specific property is a choice. Splitting each item this way puts the baseline cost in the first bucket and the premium above it in the second.",
+          "This is more informative than any classification argument, because it identifies where money is genuinely going. A household discovering that a substantial share of what it called needs is actually the premium version of a need has learned something actionable, which the simple two-way sort would have concealed.",
+        ],
+      },
+      {
+        h: "Where the ratios do not survive contact with reality",
+        p: [
+          "The first bucket at half of income assumes a relationship between housing costs and earnings that does not hold in many places. In expensive urban markets, housing alone can consume that proportion, which makes the framework arithmetically impossible before anything else is counted.",
+          "This produces two unhelpful responses. Some people conclude they are failing and disengage. Others reclassify aggressively until the numbers fit, which produces a budget that balances on paper and describes nothing real.",
+          "The honest third option is to accept that the ratios do not apply and to use the framework diagnostically instead. Calculating your actual split — whatever it is — and watching it over time is genuinely useful. Comparing it to numbers derived from a different housing market is not, and the resulting sense of failure is measuring the market rather than the household.",
+        ],
+      },
+      {
+        h: "The last bucket is the one that matters",
+        p: [
+          "Of the three proportions, only the last has a defensible claim to being a target rather than a description. The split between essentials and discretionary spending is largely determined by circumstances; the proportion that gets saved is the variable that determines where a household ends up.",
+          "This suggests inverting the usual approach. Rather than allocating the first two and saving what remains — which is the failure mode described in the pay-yourself-first article on this site — set the saving proportion first, move it automatically, and let the other two divide whatever is left.",
+          "Framed this way, the rule becomes a single instruction with a supporting observation, which is both easier to follow and closer to what actually drives outcomes. The other two numbers are then a description of your circumstances rather than a standard you are failing to meet.",
+        ],
+      },
+      {
+        h: "Adapting it while carrying debt",
+        p: [
+          "The framework has no obvious place for debt repayment beyond minimum payments, which is a significant omission given how many households are in that position. Minimum payments are unavoidable and belong with essentials; anything above them is a different category entirely.",
+          "The most useful adaptation is to treat additional debt repayment as belonging in the final bucket alongside saving, since both increase net worth and both are the flexible portion. A household directing a substantial share of income at clearing expensive debt is doing exactly what the last bucket is for, even though nothing is accumulating in an account.",
+          "This matters because the alternative framing — treating debt repayment as an expense — makes a household that is aggressively clearing debt look like one that saves nothing, which is both discouraging and wrong. They are building their position faster than someone saving the same amount at a lower return.",
+        ],
+      },
+      {
+        h: "Using it once rather than continuously",
+        p: [
+          "The strongest case for this framework is as a one-off diagnostic rather than an ongoing system. Calculating your current split takes an evening with a year of statements, and the result is frequently surprising in a way that prompts a change.",
+          "As an ongoing practice it inherits every problem of category budgeting described elsewhere on this site: the classification burden, the ambiguous items, the monthly reckoning that can be failed. Those problems are what cause people to abandon it, and the abandonment usually takes the useful diagnostic insight with it.",
+          "The arrangement that captures the benefit without the cost is to do the calculation annually, act on what it shows, and run the rest of the year on the automated structure described in the automation articles here. That way the information arrives without a system that has to be maintained daily to produce it.",
+        ],
+      },
+      {
+        h: "The variable-income and irregular-cost problems",
+        p: [
+          "Two structural issues break the framework for a large number of households and neither is addressed in the usual presentation. Variable income means the proportions are calculated against a figure that changes monthly, so the same spending produces different ratios in different months for reasons unrelated to behaviour.",
+          "Irregular costs are the second. A month containing an annual insurance renewal has a wildly different essentials proportion from the eleven months that do not, which makes any single month unrepresentative and any monthly assessment misleading.",
+          "The fixes are the ones described elsewhere on this site: smooth variable income to a fixed monthly figure using a reservoir account, and convert irregular costs to a monthly contribution using sinking funds. With both in place the proportions become meaningful, and without them the framework is measuring the calendar rather than the household.",
+        ],
+      },
+      {
+        h: "Knowing when to stop using it",
+        p: [
+          "Frameworks like this are training wheels, and there is a point at which they stop adding anything. That point arrives when the automated structure is running, the saving proportion is set and rising with income, and the remaining spending fits comfortably within what is left.",
+          "At that stage the categorisation serves no purpose, since nothing is being decided on the basis of it. Continuing out of a sense that responsible people track their spending is effort spent producing information nobody acts on, which is the definition of a system worth retiring.",
+          "The thing worth keeping is the annual figure: what came in, what went out, what proportion was saved. That single comparison captures everything the framework was measuring and takes fifteen minutes a year. Everything else was scaffolding for building the habit, and scaffolding is supposed to come down. As with everything on this site, this is educational rather than advice.",
+        ],
+      },
+      {
+        h: "Why simple rules spread and detailed ones do not",
+        p: [
+          "It is worth noticing why this particular framework became the most quoted one, because the reason is instructive about financial advice generally. It is memorable, it requires no software, it can be explained in a sentence, and it gives someone with no system at all somewhere to start.",
+          "Those properties matter more than accuracy for a piece of guidance intended to reach people who are not already engaged. A more precise framework requiring detailed inputs is better in principle and reaches almost nobody, which makes it worse in practice.",
+          "The corresponding hazard is that a rule optimised for memorability gets treated as though it were optimised for correctness. The proportions are round numbers chosen because round numbers are memorable, not because analysis identified them. Holding both facts at once — that it is a useful starting point and that its specific numbers carry no authority — is the right way to use it.",
+        ],
+      },
+      {
+        h: "What to do if your split looks alarming",
+        p: [
+          "Someone calculating their actual proportions for the first time and finding essentials at a very high share, with almost nothing saved, is in a common position and the framework offers no help with it. The rule describes a target and says nothing about how to reach one.",
+          "The honest sequence in that situation is the one described throughout this site. The largest fixed cost is nearly always housing, and it is the only item large enough to change the picture materially, which means the meaningful options are about housing or about income rather than about discretionary spending.",
+          "Meanwhile the small version still works. A saving proportion far below the suggested figure is still a saving proportion, and the habit it builds is what matters at this stage rather than the amount. A framework that makes someone in this position feel they have failed has done harm; the same framework used to identify which single number to work on has done good.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'sinking-funds-where-did-that-come-from',
+    sections: [
+      {
+        h: "Starting with three rather than twenty",
+        p: [
+          "The most common way this method fails at the outset is over-engineering. Someone builds a comprehensive list of fifteen categories, sets up fifteen transfers, discovers the total exceeds what is available, and abandons the whole thing within two months.",
+          "A better start is three funds covering whichever costs have caused the most disruption in the past two years. For most households that is some combination of vehicle, property maintenance and the December cluster of gifts and travel. Three transfers, three balances, and a system that fits comfortably within what is available.",
+          "Once those have run through a full cycle and become invisible, adding a fourth is easy. The staged approach reaches the same place as the comprehensive one within a couple of years and has a far higher chance of still existing then, which is the only comparison that matters.",
+        ],
+      },
+      {
+        h: "When the fund and the emergency fund disagree",
+        p: [
+          "There will be occasions where a cost arrives that could reasonably be met from either, and having a default resolves it without deliberation each time. The workable default is that anything on the list comes from its fund even if the fund is short, with the shortfall covered from the emergency fund and repaid.",
+          "This keeps the categories meaningful. A shortfall recorded as a shortfall produces the information needed to adjust the contribution next year. The same shortfall quietly absorbed by the emergency fund produces no information and leaves the estimate wrong indefinitely.",
+          "It also protects the emergency fund's integrity as a measurement. Its balance is supposed to answer one question — could we handle an income interruption — and that answer is only reliable if the balance has not been silently eroded by things that had their own provision.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
