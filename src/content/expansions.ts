@@ -548,6 +548,300 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'raise-negotiation-basics',
+    sections: [
+      {
+        h: "Finding out what the work is actually worth",
+        p: [
+          "Most people asking for a raise are working from a number they generated internally, which means it is anchored to their current salary rather than to the market. This is why requests cluster around modest percentage increases regardless of how far below market the starting point was, and it is the single largest avoidable error in the process.",
+          "The market figure exists and it is more findable than people assume. Published salary surveys for your field and region, job advertisements for equivalent roles that state a range, recruiters who will tell you candidly what they are placing people at, and colleagues who have moved recently and are willing to talk. Any two of these triangulate reasonably well.",
+          "The reason this matters more than the presentation of your case is that it determines what you are asking for. Someone thirty percent below market who asks for five percent has spent their negotiating capital reaching a position still substantially below market, and will need to repeat the exercise annually for years to close a gap that a single well-informed conversation might have addressed.",
+        ],
+      },
+      {
+        h: "The record you should have been keeping",
+        p: [
+          "The specific difficulty in these conversations is that the person deciding usually does not have detailed knowledge of what you did. They have an impression, formed from a handful of visible moments and whatever they happened to be aware of. The purpose of a running record is to convert your year into something they can evaluate rather than something they must recall.",
+          "What belongs in it is narrower than people assume. Not a list of tasks completed, which describes the job rather than your performance in it, but instances where an outcome was measurably better because of something you specifically did. A problem that would have cost something and did not. A process that took less time afterwards. Revenue, cost, risk or time, ideally with a number attached.",
+          "Keeping this contemporaneously takes about five minutes a month and is enormously easier than reconstructing a year in the week before a review. It also has a second use: the same record is what you need when applying elsewhere, and the version written a week after the event is consistently better than the version remembered eleven months later.",
+        ],
+      },
+      {
+        h: "Timing the conversation deliberately",
+        p: [
+          "Compensation decisions are made inside a budgeting process with its own calendar, and a request that arrives after those decisions are set gets a sympathetic hearing and no money. Finding out when your organisation actually allocates its salary budget, which is often several months before increases take effect, is worth more than any improvement in how you phrase the request.",
+          "The individual timing matters too. Immediately after you have delivered something visible and successful is a materially different moment from a routine Tuesday, and the difference is not manipulation, it is simply that the evidence is present in the room rather than being described from memory.",
+          "What is worth avoiding is the annual review as the only venue. Reviews are frequently structured to assess performance against objectives rather than to negotiate, and the person conducting yours may have no authority over pay at all. A separate, explicitly framed conversation with whoever does have that authority is a different meeting with a different purpose, and treating it as such tends to work better.",
+        ],
+      },
+      {
+        h: "What to do when the answer is no",
+        p: [
+          "A refusal is information rather than a conclusion, and the most valuable part of the conversation frequently happens after it. The question worth asking immediately is what specifically would need to be true for the answer to be different, and when that could be revisited. A concrete answer gives you a plan. A vague answer gives you different but equally useful information about whether this is a place where the number will ever move.",
+          "It is also worth separating a no about you from a no about the organisation. Budget freezes, sector conditions and internal pay bands produce refusals that have nothing to do with your performance, and treating those as a personal verdict leads people to either give up or leave a job they liked for reasons that were never about them.",
+          "Where a refusal is structural and recurring, the honest conclusion is that the market rate for your work is available elsewhere and not here. That is a legitimate finding and acting on it is not disloyalty. Compensation research consistently shows that changing employer produces larger increases than internal progression, which is an uncomfortable fact about how most pay structures operate rather than a recommendation to be restless.",
+        ],
+      },
+      {
+        h: "The parts of the package that are not salary",
+        p: [
+          "Salary is the most visible element of compensation and frequently the least flexible, because it sits inside bands and sets precedents. Other elements are often easier to move and can be worth a substantial amount, particularly to the specific person receiving them.",
+          "Employer pension contributions are the clearest example and the most consistently undervalued. An increase in contribution rate is money that compounds for decades and is frequently not counted by employees when comparing offers. Additional leave, flexible or remote arrangements that eliminate a commuting cost, training budgets that build the skills that raise your future market rate, and professional membership fees all carry real value.",
+          "There is a caution here worth stating. These elements are genuinely valuable and they are also the ones offered when salary will not move, and accepting them repeatedly in place of salary leaves your base compensation drifting further below market each year. They are best treated as additions to a satisfactory number rather than as substitutes for an unsatisfactory one.",
+        ],
+      },
+      {
+        h: "Building the skill without leaving the job",
+        p: [
+          "The advice to invest in skills is universally offered and rarely made specific, which limits its usefulness. The version that works is to identify what the roles one level above yours actually require, which is findable from their job descriptions, and to acquire those things deliberately rather than accumulating capability at random.",
+          "The most efficient route is usually inside your current work. Volunteering for the project that uses the skill you lack is faster, better evidenced and considerably cheaper than a course, and it produces the thing that matters more than the skill itself: a demonstrable instance of having done it. Certification without application is weak evidence and everyone assessing candidates knows this.",
+          "The exception is where a formal credential is a gate rather than a signal, which is true in some regulated fields and false in most others. Establishing which situation you are in before spending money is worth doing, because the two cases justify very different amounts of investment and people frequently assume they are in the first when they are in the second.",
+        ],
+      },
+      {
+        h: "Why the income side eventually caps out too",
+        p: [
+          "The argument that income has a higher ceiling than expenses have a floor is correct and it is not unlimited, and it is worth saying because the pursuit of higher income has its own costs that a purely financial framing misses. Roles that pay substantially more frequently demand more hours, more travel, more availability and more responsibility for outcomes that keep you awake.",
+          "There is a genuine trade being made and it is not always favourable. A significant increase in income that comes with a significant increase in hours may represent a lower effective rate, and one that comes with sustained stress may cost more in health and relationships than it delivers in money. These are not reasons to avoid advancement; they are reasons to evaluate specific opportunities rather than assuming higher is better.",
+          "The framing that holds up is that both levers matter and neither is sufficient alone. A rising income with a widening gap between earning and spending is the combination that compounds. A rising income with a proportionally rising lifestyle is a busier version of the same position. And the point of any of it, as with everything on this site, is to buy security and choice rather than to maximise a number. None of this is financial advice; it is a description of how the two levers interact.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'net-worth-track',
+    sections: [
+      {
+        h: "Valuing the things that are hard to value",
+        p: [
+          "The calculation is straightforward for cash and investments, where a current figure is available, and considerably less straightforward for everything else. Property, vehicles, pensions with a defined benefit component and any business interest all require a judgement, and the judgement you make determines whether the resulting number tells you anything useful.",
+          "The convention that produces the most honest result is conservative valuation. Use the lower end of any plausible range for property, use realistic resale value rather than purchase price for vehicles, and exclude anything you would never actually sell. Household possessions are the clearest case: they have real value in principle and no realistic disposal value, and including them inflates the number without improving the information.",
+          "Consistency matters more than precision. A figure calculated the same way each time reveals the trend accurately even if the absolute level is somewhat off. A figure where the property valuation is revised upward whenever you feel optimistic reveals nothing at all, and the temptation to do exactly that is stronger than most people expect.",
+        ],
+      },
+      {
+        h: "What the number does not capture",
+        p: [
+          "Net worth is a good measure of accumulated financial position and it is silent on several things that matter enormously to your actual security. The most important is liquidity: two people with identical net worth, one holding it in accessible investments and the other entirely in home equity, are in very different positions when something goes wrong.",
+          "It is also silent on the stability of the income that is building it, on the concentration of the assets, and on any obligation that is real but not a formal liability, such as expected support for family members. A single figure necessarily compresses all of this, which is fine provided you remember that the compression happened.",
+          "The practical response is to track one or two supplementary figures alongside it. Liquid net worth, meaning the portion you could access within a month, is the most useful. Months of essential expenses covered by accessible assets is another. Neither takes additional effort since you have already listed everything, and together they describe the position considerably better than the headline figure alone.",
+        ],
+      },
+      {
+        h: "Reading the trend rather than the level",
+        p: [
+          "The absolute number invites comparison and comparison is where this practice usually goes wrong. Net worth at any given moment is heavily determined by age, inheritance, housing market timing and the sector you happen to work in, none of which are meaningful measures of how well you are managing money.",
+          "The trend, by contrast, is almost entirely about your own behaviour, which makes it the part worth attending to. A steadily rising line means your habits are working regardless of where the line sits. A flat line during years of solid income is a clear signal that something is absorbing everything, and it prompts the right question in a way that no amount of general reflection does.",
+          "One refinement makes the trend considerably more informative: separate the change caused by your own contributions from the change caused by market movement. The first is what you control. The second is noise over short periods and matters over long ones. Conflating them produces false confidence in good years and unwarranted discouragement in bad ones.",
+        ],
+      },
+      {
+        h: "Starting from a negative number",
+        p: [
+          "A substantial share of people who calculate this for the first time get a negative result, typically because of student borrowing, a mortgage taken recently or consumer debt accumulated over several years. The instinct is to stop doing the exercise, which is precisely the wrong response, because a negative figure moving in the right direction is a better position than a positive figure moving in the wrong one.",
+          "It is also worth noting that a negative net worth early in a working life, arising from an investment in education or a property purchase, is a structurally different situation from a negative figure arising from consumer debt at high rates. Both are negative and only one is a problem requiring urgent attention. The single number does not distinguish between them and you should.",
+          "The most useful framing for anyone in this position is to focus on the crossing point rather than the level: the date at which the line reaches zero, projected from the current rate of change. That is a concrete and achievable target, it moves closer with every payment, and it converts a discouraging figure into a countdown.",
+        ],
+      },
+      {
+        h: "How often to look, and why less is more",
+        p: [
+          "Monthly calculation is the common recommendation and quarterly is probably better for most people, with annual being entirely adequate. The reason is that the value of this exercise lies in the trend across years, and increasing the sampling frequency does not improve the trend while it does increase exposure to short-term market noise.",
+          "There is a documented behavioural pattern here worth knowing about: investors who monitor their positions more frequently observe more losses, because losses are more common over short intervals than long ones, and they consequently take less risk than their horizon justifies. Frequent net worth tracking is a mild version of the same mechanism.",
+          "A reasonable arrangement is a quarterly calculation recorded in a single spreadsheet with one row per quarter, taking perhaps fifteen minutes, plus an annual review where you actually look at the whole series and think about what it shows. The record accumulating over a decade is the asset here, and it only exists if the process is light enough that you keep doing it.",
+        ],
+      },
+      {
+        h: "The comparison problem",
+        p: [
+          "Publishing net worth benchmarks by age has become common and the figures circulate widely, usually without the context that would make them interpretable. They are typically drawn from populations with very different circumstances, they are frequently medians presented in ways that read as targets, and they take no account of housing costs, family structure or the local cost of living.",
+          "The effect of encountering these is reliably one of two things, both unhelpful. Someone above the figure concludes they are doing well and relaxes, which may be false if their trajectory is poor. Someone below concludes they are behind and either despairs or takes inappropriate risk trying to catch up, which is how a substantial amount of retail money finds its way into things it should not.",
+          "The only comparison that carries information is with your own previous figures. It controls for every variable that the external comparison does not, it measures precisely the thing you can influence, and it cannot be gamed. A line that has risen every year for a decade is unambiguous evidence that the system is working, whatever anyone else's number happens to be.",
+        ],
+      },
+      {
+        h: "Turning the number into a decision",
+        p: [
+          "Tracking is only worthwhile if it occasionally changes what you do, and the specific decisions it should inform are worth naming. A rising liquid portion suggests the emergency buffer is adequate and contributions can shift toward longer-term holdings. A concentration that has grown unnoticed, where one asset now dominates, is a signal to rebalance.",
+          "A flat trend during a period of solid income prompts an examination of the gap between earning and spending, which is the underlying driver and the thing that is actually adjustable. A trend that improved sharply in one year is worth understanding, since if it was a windfall rather than a habit change, the improvement will not repeat.",
+          "Used this way the calculation stops being a scoreboard and becomes a diagnostic, which is a considerably more useful thing for it to be. It takes fifteen minutes a quarter, requires no software, and produces a record that will tell you more about your financial life in ten years than any single decision you make this month. None of this is financial advice, and the right response to any given trend depends on circumstances the number cannot see.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'retirement-three-levers',
+    sections: [
+      {
+        h: "The fourth lever nobody wants to discuss",
+        p: [
+          "The three levers described here are the ones you control most directly during your working life, and there is a fourth that has at least as much influence on the outcome: when you stop, and whether you stop entirely. It gets less attention because it feels like a constraint rather than a choice, and for many people it partly is.",
+          "The arithmetic is nonetheless striking. Working two additional years does three things simultaneously: it adds two years of contributions, it removes two years of withdrawals, and it shortens the period the money must last. Those effects compound with each other, which is why a delay that sounds modest can improve the sustainable withdrawal figure substantially.",
+          "The same mechanism works in reverse and explains why involuntary early retirement is so financially damaging. A significant share of people stop working earlier than planned, through health, redundancy or caring responsibilities, which means a plan that depends on working to a specific late date is depending on something partly outside your control. Building in a margin for stopping earlier than intended is prudent rather than pessimistic.",
+        ],
+      },
+      {
+        h: "What the employer match is actually worth",
+        p: [
+          "Where an employer matches contributions, the advice to capture the full match is universal and the reason it matters is frequently understated. A match is an immediate return on the contributed amount, before any investment growth, of a size that no investment reliably offers. Declining it is turning down part of your compensation.",
+          "The detail worth checking is how the match is structured, because the arrangements vary and the differences matter. Some match up to a fixed percentage of salary, some match a proportion of whatever you contribute up to a cap, and some require a minimum contribution before any match applies. Contributing below the threshold in the last case captures nothing at all.",
+          "Vesting is the other thing to check. Some schemes require a period of service before the employer contributions become genuinely yours, and leaving before that point forfeits them. This does not change whether to contribute, since the alternative is to forfeit them certainly, but it is worth knowing when comparing an offer elsewhere against staying.",
+        ],
+      },
+      {
+        h: "Where retirement fees hide specifically",
+        p: [
+          "The cost lever is the most controllable of the three and also the hardest to see, because retirement accounts frequently carry charges at more than one level and no single document shows the total. There is typically a charge for administering the account itself, a charge within each fund held, and in some arrangements a further charge for advice, whether or not advice is being received.",
+          "Legacy accounts from previous employers are where the worst examples concentrate. A scheme joined fifteen years ago may be charging several times what a current one would, invested in a default fund chosen under an older regime, and nobody has any incentive to tell you. Locating and reviewing old accounts is a well-defined afternoon of work with an unusually clear payoff.",
+          "The other place worth checking is the default fund itself. Defaults are chosen to be broadly suitable rather than optimal, and in many schemes they carry higher charges than alternative options available within the same scheme to anyone who asks. A substantial number of people remain in a default they never chose for an entire career without ever discovering that a cheaper option was one form away.",
+        ],
+      },
+      {
+        h: "Contribution rates and what they actually produce",
+        p: [
+          "Advice on how much to contribute tends to arrive as a single percentage, which conceals that the required rate depends heavily on when you start. Someone beginning in their twenties needs a considerably lower rate than someone beginning in their forties to reach the same position, and quoting a single figure to both is misleading in opposite directions.",
+          "A more useful way to think about it is in terms of the replacement ratio: what proportion of your final working income the plan will produce. This is the number that determines whether retirement feels like continuity or like a reduction, and it is calculable in rough terms from the contribution rate, the years remaining and a conservative return assumption.",
+          "Doing this calculation once, with a genuinely conservative return figure and adjusted for inflation, is uncomfortable and valuable. It usually reveals that the contribution rate people default to is lower than what their expectations require, and it reveals it while there is still time to change something. Finding out at sixty is finding out too late to do much about it.",
+        ],
+      },
+      {
+        h: "The state provision that fits underneath",
+        p: [
+          "Most countries have some form of public retirement provision, and its role in a plan is frequently either ignored entirely or relied upon too heavily. Neither is right. It typically provides a foundation that covers basic costs and does not approach a comfortable standard of living, which means it changes how much private provision is needed rather than whether it is needed.",
+          "What is worth doing is finding out what you are actually entitled to, which usually requires a contribution record that you can check and which contains errors more often than people expect. Gaps from periods of study, caring or self-employment can reduce entitlement, and in some systems those gaps can be filled retrospectively at a cost that is small relative to the benefit.",
+          "The planning implication is that state provision reduces the amount your own savings must generate, particularly for lower earners where it replaces a higher proportion of income. Building a plan that ignores it will overestimate what you need. Building one that assumes it will remain unchanged for forty years assumes something no government has ever guaranteed. A reasonable approach counts it and does not depend on it.",
+        ],
+      },
+      {
+        h: "How the levers interact with each other",
+        p: [
+          "Treating the three levers as independent understates how much they reinforce one another, and the interaction is where the case for acting early becomes strongest. Starting earlier means each contribution has longer to compound, which means a lower contribution rate achieves the same result, which means the plan is easier to sustain, which means it is less likely to be interrupted.",
+          "Costs interact with time in the same multiplicative way. A percentage point of annual charge applied for forty years removes far more than twice what it removes over twenty, because it is compounding against a compounding balance. This is why the fee lever, which looks like the smallest of the three, frequently turns out to be comparable in effect to a meaningful change in contribution rate.",
+          "The practical consequence is that a plan that is mediocre on all three levers is considerably worse than the individual shortfalls suggest, and a plan that is decent on all three is considerably better. This is encouraging rather than otherwise, since modest improvements applied to each simultaneously produce a disproportionate combined effect.",
+        ],
+      },
+      {
+        h: "Reviewing without redesigning",
+        p: [
+          "Retirement plans fail more often from neglect than from poor design, and the neglect is understandable given that the feedback arrives decades late. A structured annual review addresses this at low cost, and it should be narrow enough that it actually happens.",
+          "Four things are worth checking each year: that contributions are still going in at the intended rate, that the rate has kept pace with any income increase, that the charges have not changed, and that any accounts from previous employers are accounted for rather than forgotten. That is the entire review and it takes under an hour.",
+          "What should not be part of it is reconsidering the investment strategy based on the last twelve months, which is the review most people actually perform and the one most likely to do damage. The strategy should change when your circumstances or horizon change, not when returns have been disappointing. Separating the maintenance review from the strategy question, and scheduling only the first of them annually, is a small structural decision that protects a plan from its owner across several decades. None of this is financial advice, and specific arrangements vary considerably by country and scheme.",
+        ],
+      },
+      {
+        h: "Why the complexity exists at all",
+        p: [
+          "It is worth understanding why retirement planning feels so much harder than three levers would suggest, because the reason is not that the underlying problem is genuinely complicated. Much of the apparent complexity is regulatory, arising from decades of accumulated rules, transitional arrangements and account types that were introduced for reasons no longer relevant.",
+          "The rest of it is commercial. Complexity supports intermediation, and an industry that earns fees for guidance has limited incentive to emphasise how few decisions actually determine the outcome. This is not a conspiracy so much as a structural feature, and it is visible in the way products are named, documented and sold.",
+          "Recognising this is practically useful because it changes how you allocate attention. The hours are better spent verifying the three levers than on understanding the full taxonomy of account types, most of which will never apply to you. Getting the levers right in a simple arrangement beats getting them wrong in a sophisticated one, and the second outcome is considerably more common than the first.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'raise-negotiation-basics',
+    sections: [
+      {
+        h: "Income streams beyond the single employer",
+        p: [
+          "Everything discussed so far assumes one income from one source, which for most people is the right place to concentrate effort because it is the largest number and the most improvable. It is also, structurally, a single point of failure, and the case for a secondary stream is about resilience rather than about the money it produces initially.",
+          "The realistic version of this is modest. A second income built alongside full-time work is usually small relative to the main one for a considerable period, and the honest framing is that its first year is an investment of time with a poor immediate return. What it produces earlier than money is optionality: a partial buffer against the main income stopping, and evidence about whether the thing could ever become larger.",
+          "The failure mode worth avoiding is a second activity that consumes the energy which would otherwise have gone into raising the primary income. For most people, an increase in the main salary is available faster, more reliably and for less effort than an equivalent amount earned elsewhere, which is why the order of operations here matters as much as the ambition.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'net-worth-track',
+    sections: [
+      {
+        h: "Sharing the number, or not",
+        p: [
+          "Whether to discuss this figure with a partner is not really an open question in a shared financial life, and the more useful discussion is about how. Couples who track a household figure alongside individual ones tend to have fewer conflicts about money, largely because disagreements become disagreements about a shared visible object rather than about character.",
+          "The mechanics that work are unremarkable: the same quarterly calculation, done together, with both people seeing the full picture including anything either would rather not mention. The first occasion is frequently uncomfortable and the discomfort is nearly always about disclosure rather than about the numbers themselves, which is worth knowing in advance.",
+          "Beyond a partner, the case for discretion is strong. Discussing net worth with friends, family or colleagues reliably produces comparison, and comparison in either direction changes behaviour without adding information. The figure is a tool for managing your own decisions, and it works better when it is not also serving as a social signal.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'money-and-happiness',
+    sections: [
+      {
+        h: "What the famous threshold study actually claimed",
+        p: [
+          "The widely repeated finding that wellbeing stops improving above a certain income level came from a specific piece of research that distinguished between two things people usually conflate. One was day-to-day emotional experience, meaning how much of an ordinary day is spent in a pleasant or unpleasant state. The other was life evaluation, meaning how you rate your life overall when asked to reflect on it.",
+          "The study found that the first appeared to plateau above a threshold while the second continued rising with income. Subsequent work using different measurement methods has challenged the plateau, finding continued improvement in both measures well above the original figure, though with the rate of improvement slowing considerably.",
+          "The honest summary of the current position is that more money continues to help on average, that the help per additional unit diminishes, and that the effect is smaller than most people assume when they are pursuing it. That is a more useful conclusion than a hard threshold, because it does not invite the mistake of concluding that beyond some number the pursuit is pointless.",
+        ],
+      },
+      {
+        h: "Averages conceal enormous individual variation",
+        p: [
+          "Nearly all of this research reports population averages, and the variation around those averages is large enough that the average describes almost nobody in particular. Some people show a strong relationship between income and wellbeing across the whole range. Others show almost none. The two groups are mixed together in every headline figure.",
+          "Later analysis has suggested that the plateau effect is concentrated among a subset of people who are unhappy for reasons money does not address, while for others the improvement continues indefinitely. This is intuitively plausible and it has an important implication: the research cannot tell you which group you are in, and general conclusions drawn from it may not apply to your situation at all.",
+          "The practical response is to treat the findings as a reason to be sceptical of your own assumptions rather than as a rule. Someone assuming that a higher income will resolve a persistent dissatisfaction has evidence to consider. So does someone assuming that money beyond a certain point makes no difference, which is equally unsupported as a general claim.",
+        ],
+      },
+      {
+        h: "The specific misery of financial uncertainty",
+        p: [
+          "One finding is unusually consistent across studies and populations: the damage done by financial insecurity is disproportionate to the amounts involved. Not having enough is bad. Not knowing whether you will have enough is measurably worse on several dimensions, including sleep, cognitive performance and physical health.",
+          "The mechanism appears to be that uncertainty demands ongoing attention in a way that a known constraint does not. A person on a low but predictable income can plan around it. A person on a variable income that is sometimes adequate and sometimes not cannot, and the cost of that permanent open question shows up in domains apparently unrelated to money.",
+          "This is the strongest evidence-based argument for the unglamorous parts of a financial plan. An emergency fund and freedom from high-interest debt do not increase income at all, and they convert an uncertain financial position into a predictable one. On the wellbeing measures, that conversion appears to be worth considerably more than an equivalent sum spent on anything else.",
+        ],
+      },
+      {
+        h: "Why the experiences finding is more complicated than it sounds",
+        p: [
+          "The advice to spend on experiences rather than possessions is well supported and it is frequently applied too broadly. The research finding is about average satisfaction reported after the fact, and it is driven substantially by the fact that experiences are typically social, memorable and not directly comparable to other people's.",
+          "Those three properties are the active ingredients rather than the experience category itself. A possession that is social, memorable and not subject to comparison behaves like an experience on these measures. A solitary, forgettable and status-comparable experience behaves like a possession. The category is a useful proxy and it is not the mechanism.",
+          "This matters because it gives a better filter than the simple rule. Rather than asking whether something is an experience, ask whether it will produce a memory, whether it involves people you care about, and whether your satisfaction with it depends on what other people have. Purchases that score well on those three tend to hold up regardless of which category they nominally fall into.",
+        ],
+      },
+      {
+        h: "Buying time is the most underused option",
+        p: [
+          "Among the specific spending patterns that research associates with higher wellbeing, paying to eliminate disliked tasks stands out as both effective and rarely done, including by people who can comfortably afford it. Studies across several countries have found that people who spend money to save time report higher life satisfaction, and that most people do not do it even when they have the means.",
+          "The reason for the reluctance appears to be that time-saving purchases feel indulgent in a way that equivalent spending on objects does not. Paying someone to do a chore reads as laziness in a way that buying something of the same price does not, which is a cultural judgement rather than an economic one and it costs people a measurable amount of wellbeing.",
+          "The practical version is narrow and worth doing: identify the recurring task you dislike most, find out what it would cost to stop doing it, and compare that to what you spend on things you enjoy less. The comparison frequently favours the time purchase by a wide margin, and the benefit recurs every week rather than fading.",
+        ],
+      },
+      {
+        h: "The adaptation problem and what resists it",
+        p: [
+          "The reason money delivers less happiness than expected is largely explained by adaptation: the reliable tendency for any improvement in circumstances to become the new baseline within a surprisingly short period. This applies to income increases, home upgrades, possessions and most other positive changes, and it applies faster than people predict.",
+          "What is more interesting is the list of things that resist it. Reduced commuting appears to resist adaptation substantially. So does chronic pain relief, improved sleep, and the removal of an ongoing source of noise or stress. The common feature is that these remove a recurring negative rather than adding a recurring positive, and the human capacity to adapt to removed irritations is much weaker than the capacity to adapt to new pleasures.",
+          "This provides a genuinely actionable filter for large spending decisions. Money directed at eliminating something that reliably makes your weeks worse tends to keep paying. Money directed at adding something that makes a week better tends to stop paying within a couple of months. Both are legitimate uses; only one of them is durable.",
+        ],
+      },
+      {
+        h: "Where the research runs out",
+        p: [
+          "It is worth marking the limits of all this, because wellbeing research is genuinely difficult and the confidence with which its findings get repeated frequently exceeds what the underlying work supports. Self-reported happiness is a noisy measure, cross-cultural comparison is fraught, and most of these studies establish correlation in populations rather than causation in individuals.",
+          "There is also a selection effect in what gets popularised. Findings that are surprising, quotable and actionable circulate widely; findings that are equivocal or contradict a previous headline do not. The result is that public understanding of this literature lags the literature itself by a considerable margin and is skewed toward the tidier results.",
+          "None of which makes it useless. The broad shape holds up: security matters more than luxury, how you spend matters as well as how much, adaptation erodes most gains, and removing negatives outlasts adding positives. Those are defensible conclusions and they are enough to inform how you use money without requiring anyone to treat a research finding as a rule for their own life. As always, this is educational rather than advice.",
+        ],
+      },
+      {
+        h: "Spending on other people, and the caveat",
+        p: [
+          "Among the more robust findings in this area is that money spent on others tends to produce more reported wellbeing than the same amount spent on yourself, an effect that has replicated across several countries and income levels. It is one of the more surprising results in the field and one of the easiest to act on.",
+          "The caveat that usually gets dropped is that the effect depends heavily on the spending being voluntary and on the giver seeing some connection to the outcome. Obligatory contributions, transfers made under social pressure, and anonymous giving into a large undifferentiated pool all show weaker effects. The mechanism appears to involve the relationship rather than the transfer.",
+          "This has a practical implication that is worth stating carefully. Directing generosity toward specific people or causes where you can see what the money did is likely to feel meaningfully different from an equivalent automatic deduction, even though the money is identical. That is a fact about how the giving affects you rather than a reason to prefer one over the other, and both have their place.",
+        ],
+      },
+      {
+        h: "The point of the whole exercise",
+        p: [
+          "Everything discussed across this site — the saving rate, the index funds, the emergency buffer, the debt discipline — is instrumental. None of it is worth anything in itself, and it is easy to spend a decade optimising the instruments while losing track of what they were meant to produce.",
+          "What they produce, on the evidence, is a specific and limited set of things: relief from the persistent low-grade stress of financial uncertainty, the ability to absorb a setback without it becoming a catastrophe, and a growing set of options about how to spend your time and whose terms you accept. Those are real and they are not the same as luxury.",
+          "The failure mode worth watching for is the plan that becomes the point. Someone accumulating steadily while postponing every use of the money indefinitely has converted a means into an end, and the research on adaptation suggests they will not find the accumulated figure delivers what the postponement cost. Building the security and then actually using the options it buys is the whole design. The number was never the objective.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
