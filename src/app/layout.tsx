@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import { SiteBeacon } from "@/components/SiteBeacon";
-import { Playfair_Display, Inter } from 'next/font/google';
+import { Bodoni_Moda, Karla } from 'next/font/google';
 import './globals.css';
 import './copa2026.css';
 import { SITE } from '@/lib/site';
@@ -9,8 +9,10 @@ import { Copa2026 } from '@/components/Copa2026';
 import { Analytics } from '@/components/Analytics';
 import { jsonLdHtml } from '@/lib/json-ld';
 
-const serif = Playfair_Display({ subsets: ['latin'], weight: ['400', '700', '900'], variable: '--font-serif', display: 'swap' });
-const sans = Inter({ subsets: ['latin'], variable: '--font-sans', display: 'swap' });
+// Tesoro de la reina de Saba (docs/ADSENSE-BLUEPRINT.md §4 in ulyah.com):
+// Bodoni Moda for the engraved headings, Karla for calm reading.
+const serif = Bodoni_Moda({ subsets: ['latin'], weight: ['500', '600', '700', '800', '900'], style: ['normal', 'italic'], variable: '--font-serif', display: 'swap' });
+const sans = Karla({ subsets: ['latin'], weight: ['400', '500', '600', '700'], variable: '--font-sans', display: 'swap' });
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
