@@ -1,0 +1,27 @@
+/* Spain, world champion 2026 — the ribbon at the top of every page
+   (owner: "animasi pemenang piala Dunia 2026 Spanyol" on every site).
+   Palace room: Tesoro de la reina de Saba: laca negra y pan de oro. Decoration only; nothing here is clickable. */
+/* jai.lat — Tesoro de la reina de Saba: black lacquer, gold leaf. A sheet of
+   gold leaf sweeps across the ribbon; the ball glints like a coin. */
+.tesoro26{position:relative;overflow:hidden;display:flex;align-items:center;justify-content:center;gap:10px;
+  min-height:34px;padding:4px 12px;background:#0d0b08;color:#f3dfa0;border-bottom:1px solid #4a3a14;
+  font:700 12.5px/1.2 Georgia,'Times New Roman',serif;letter-spacing:.04em}
+.tesoro26::after{content:"";position:absolute;inset:0;pointer-events:none;
+  background:linear-gradient(105deg,transparent 35%,rgba(255,226,140,.35) 48%,rgba(255,246,210,.6) 50%,rgba(255,226,140,.35) 52%,transparent 65%);
+  transform:translateX(-100%);animation:tesoro26-leaf 6.5s ease-in-out infinite}
+@keyframes tesoro26-leaf{0%,20%{transform:translateX(-100%)}70%,100%{transform:translateX(100%)}}
+.tesoro26-text{background:linear-gradient(90deg,#c9a03c,#fff0b8,#c9a03c);-webkit-background-clip:text;background-clip:text;color:transparent;background-size:200% 100%;animation:tesoro26-gild 5s linear infinite}
+@keyframes tesoro26-gild{to{background-position:200% 0}}
+.tesoro26-flag{width:18px;height:12px;border-radius:2px;background:linear-gradient(#c60b1e 0 25%,#ffc400 25% 75%,#c60b1e 75%);box-shadow:0 0 0 1px #6b5418}
+.tesoro26-trophy{font-size:16px;filter:drop-shadow(0 0 6px rgba(255,200,80,.7));animation:tesoro26-sway 3s ease-in-out infinite;transform-origin:50% 90%}
+@keyframes tesoro26-sway{50%{transform:rotate(7deg)}}
+.tesoro26-pitch{position:relative;width:46px;height:20px}
+.tesoro26-ballx{position:absolute;left:0;bottom:0;animation:tesoro26-x 2.6s ease-in-out infinite}
+.tesoro26-ball{display:block;font-size:12px;animation:tesoro26-y .65s cubic-bezier(.35,0,.65,1) infinite alternate;filter:drop-shadow(0 0 4px rgba(255,210,90,.8))}
+@keyframes tesoro26-x{50%{transform:translateX(32px)}}
+@keyframes tesoro26-y{to{transform:translateY(-9px) rotate(200deg)}}
+.tesoro26-chip{padding:2px 7px;border-radius:999px;font:800 10px/1.4 system-ui,sans-serif;color:#1a1204;background:linear-gradient(135deg,#f6e3a1,#c9a03c 55%,#f6e3a1)}
+
+.tesoro26-text{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+@media (max-width:480px){.tesoro26-pitch{display:none}.tesoro26{font-size:11.5px;gap:7px}}
+@media (prefers-reduced-motion:reduce){.tesoro26,.tesoro26 *,.tesoro26::before,.tesoro26::after,.tesoro26 *::before,.tesoro26 *::after{animation:none!important}}
