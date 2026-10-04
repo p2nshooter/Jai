@@ -3,6 +3,7 @@ import { ARTICLES_BATCH2 } from './articles-batch2';
 import { ARTICLES_BATCH3 } from './articles-batch3';
 import { ARTICLES_BATCH4 } from './articles-batch4';
 import { applyExpansions } from './expansions';
+import { ARTICLES_ES } from './articles-es';
 
 /**
  * jai.lat editorial library — original, independent, plain-English guides to
@@ -16,6 +17,7 @@ export const CATEGORIES: Category[] = [
   { slug: 'income', name: 'Income', tagline: 'Raises, side income and growing what you earn', icon: '💼' },
   { slug: 'mindset', name: 'Money Mindset', tagline: 'Habits, psychology and avoiding costly mistakes', icon: '🧭' },
   { slug: 'retirement', name: 'Retirement', tagline: 'Compounding, drawdown and financial freedom', icon: '🌅' },
+  { slug: 'espanol', name: 'En español', tagline: 'Guías de finanzas personales para Latinoamérica, escritas en español', icon: '🇪🇸' },
 ];
 
 export const ARTICLES: Article[] = [
@@ -325,6 +327,10 @@ ARTICLES.push(...ARTICLES_BATCH4);
 
 // Machine-written articles are no longer published here: hand-written only.
 // The five that were removed redirect to their hand-written twins (next.config.js).
+
+// The Spanish desk ("En español"): hand-written Spanish guides, kept as an
+// additional section of the English library.
+ARTICLES.push(...ARTICLES_ES);
 
 // Hand-written additive expansions. Appends only — never removes or merges.
 applyExpansions(ARTICLES);

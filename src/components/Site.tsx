@@ -10,7 +10,8 @@ import { CATEGORIES, ARTICLES } from '@/content/articles';
  */
 
 function latest(n: number) {
-  return [...ARTICLES].sort((a, b) => (a.date < b.date ? 1 : -1)).slice(0, n);
+  // The English front page leads with English; the Spanish desk has its own page.
+  return ARTICLES.filter((a) => !a.lang).sort((a, b) => (a.date < b.date ? 1 : -1)).slice(0, n);
 }
 
 export function SiteHeader() {

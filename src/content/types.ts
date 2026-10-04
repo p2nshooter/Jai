@@ -13,6 +13,8 @@ export interface Article {
   minutes: number;
   author: string;
   sections: Section[];
+  /** Set only for the Spanish desk; everything else is English. */
+  lang?: 'es';
 }
 
 export interface Category {
