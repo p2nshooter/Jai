@@ -24,6 +24,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       type: 'article',
       url,
       siteName: SITE.name,
+      locale: a.lang === 'es' ? 'es_LA' : undefined,
       publishedTime: a.date,
       modifiedTime: a.date,
       authors: [a.author],
@@ -56,7 +57,7 @@ export default async function ArticlePage({ params }: Props) {
         dateModified: a.date,
         articleSection: catName,
         wordCount,
-        inLanguage: SITE.locale,
+        inLanguage: a.lang ?? SITE.locale,
         mainEntityOfPage: { '@type': 'WebPage', '@id': url },
         author: { '@type': 'Organization', name: a.author, url: SITE.url },
         publisher: {

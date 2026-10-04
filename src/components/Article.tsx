@@ -5,14 +5,58 @@ import type { Article } from '@/content/types';
 
 export function ArticleCard({ article }: { article: Article }) {
   const cat = CATEGORIES.find((c) => c.slug === article.category);
+  const es = article.lang === 'es';
   return (
-    <Link href={`/articles/${article.slug}`} className="premium-card block p-5">
+    <Link href={`/articles/${article.slug}`} className="premium-card block p-5" lang={article.lang}>
       <p className="text-[11px] font-semibold uppercase tracking-wider text-gold-600">{cat?.name}</p>
       <h3 className="mt-1.5 font-serif text-lg font-bold leading-snug">{article.title}</h3>
       <p className="mt-2 line-clamp-3 text-sm leading-relaxed text-ink-800/70">{article.excerpt}</p>
-      <p className="mt-3 text-xs text-gold-600">{article.minutes} min read</p>
+      <p className="mt-3 text-xs text-gold-600">{es ? `${article.minutes} min de lectura` : `${article.minutes} min read`}</p>
     </Link>
   );
+}
+
+/** Inline **bold** only — the content is our own, so no other markup is honoured. */
+function inline(text: string) {
+  return text.split(/(\*\*[^*]+\*\*)/g).map((part, i) =>
+    part.startsWith('**') && part.endsWith('**') ? <strong key={i}>{part.slice(2, -2)}</strong> : part
+  );
+}
+
+/**
+ * One paragraph string. English articles are plain prose; the Spanish desk
+ * may carry light block markdown: ### subheads, - and 1. lists, > quotes and
+ * | tables |. Anything else is a paragraph.
+ */
+function Block({ text }: { text: string }) {
+  const lines = text.split('\n');
+  if (text.startsWith('### ')) return <h3>{inline(text.slice(4))}</h3>;
+  if (lines.every((l) => /^- /.test(l))) return <ul>{lines.map((l, i) => <li key={i}>{inline(l.slice(2))}</li>)}</ul>;
+  if (lines.every((l) => /^\d+\. /.test(l))) return <ol>{lines.map((l, i) => <li key={i}>{inline(l.replace(/^\d+\. /, ''))}</li>)}</ol>;
+  if (lines.every((l) => l.startsWith('>'))) return <blockquote>{inline(lines.map((l) => l.replace(/^>\s?/, '')).join(' '))}</blockquote>;
+  if (lines.length > 2 && lines.every((l) => l.startsWith('|'))) {
+    const cells = (l: string) => l.replace(/^\||\|$/g, '').split('|').map((c) => c.trim());
+    const [head, , ...rows] = lines;
+    return (
+      <div className="table-wrap">
+        <table>
+          <thead><tr>{cells(head!).map((c, i) => <th key={i}>{inline(c)}</th>)}</tr></thead>
+          <tbody>{rows.map((r, i) => <tr key={i}>{cells(r).map((c, k) => <td key={k}>{inline(c)}</td>)}</tr>)}</tbody>
+        </table>
+      </div>
+    );
+  }
+  // A lead-in line followed by a list ("Ejemplos:\n- a\n- b").
+  const firstItem = lines.findIndex((l) => /^- /.test(l));
+  if (firstItem > 0 && lines.slice(firstItem).every((l) => /^- /.test(l))) {
+    return (
+      <>
+        <p>{inline(lines.slice(0, firstItem).join(' '))}</p>
+        <ul>{lines.slice(firstItem).map((l, i) => <li key={i}>{inline(l.slice(2))}</li>)}</ul>
+      </>
+    );
+  }
+  return <p>{inline(text)}</p>;
 }
 
 /**
@@ -20,12 +64,13 @@ export function ArticleCard({ article }: { article: Article }) {
  * site, Auto ads (switched on in the AdSense dashboard) choose the positions.
  */
 export function ArticleBody({ article }: { article: Article }) {
+  const es = article.lang === 'es';
   return (
-    <article className="mx-auto max-w-prose2 px-4">
+    <article className="mx-auto max-w-prose2 px-4" lang={article.lang}>
       <h1 className="font-serif text-3xl font-black leading-tight sm:text-4xl">{article.title}</h1>
       <p className="mt-3 text-sm text-gold-600">
-        {new Date(article.date).toLocaleDateString('en-GB', { year: 'numeric', month: 'long', day: 'numeric' })} ·{' '}
-        {article.minutes} min read · {article.author}
+        {new Date(article.date).toLocaleDateString(es ? 'es' : 'en-GB', { year: 'numeric', month: 'long', day: 'numeric' })} ·{' '}
+        {es ? `${article.minutes} min de lectura` : `${article.minutes} min read`} · {article.author}
       </p>
       <div className="ornament-rule mt-5" />
 
@@ -34,7 +79,7 @@ export function ArticleBody({ article }: { article: Article }) {
           <section key={i}>
             {s.h && <h2>{s.h}</h2>}
             {s.p.map((para, j) => (
-              <p key={j}>{para}</p>
+              <Block key={j} text={para} />
             ))}
           </section>
         ))}
@@ -42,8 +87,9 @@ export function ArticleBody({ article }: { article: Article }) {
 
       <div className="ornament-rule mt-8" />
       <p className="mt-4 text-xs leading-relaxed text-ink-800/60">
-        This article is educational and general in nature — not personalised advice. Verify current rules and
-        figures with official sources, and consult a qualified professional before making decisions.
+        {es
+          ? 'Este artículo es educativo y general: no es asesoría personalizada. Verifica las reglas y cifras vigentes en fuentes oficiales de tu país y consulta a un profesional calificado antes de tomar decisiones.'
+          : 'This article is educational and general in nature — not personalised advice. Verify current rules and figures with official sources, and consult a qualified professional before making decisions.'}
       </p>
     </article>
   );
@@ -64,7 +110,7 @@ export function RelatedArticles({ articles }: { articles: Article[] }) {
 }
 
 export function HomeContent() {
-  const latest = [...ARTICLES].sort((a, b) => (a.date < b.date ? 1 : -1));
+  const latest = ARTICLES.filter((a) => !a.lang).sort((a, b) => (a.date < b.date ? 1 : -1));
   const featured = latest[0];
   const featuredCat = featured ? CATEGORIES.find((c) => c.slug === featured.category) : undefined;
   return (
