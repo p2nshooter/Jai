@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Jai">
-  <defs><linearGradient id="g" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#1f7a4d"/><stop offset="1" stop-color="#34c77b"/></linearGradient></defs>
-  <rect width="64" height="64" rx="16" fill="#07271a"/>
-  <polyline points="12,46 24,34 33,40 52,18" fill="none" stroke="url(#g)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
-  <polyline points="44,18 52,18 52,26" fill="none" stroke="url(#g)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="16" y="30" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#f4d98a">J</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><circle cx="24" cy="46" r="15" fill="#f2c14e" stroke="#a87512" stroke-width="3"/><text x="24" y="52" text-anchor="middle" font-family="Georgia,serif" font-weight="700" font-size="17" fill="#7a520a">$</text><path d="M34 36C34 20 44 8 60 6c1 17-9 30-24 30" fill="#2bb673" stroke="#14774a" stroke-width="2.5" stroke-linejoin="round"/><path d="M36 34c5-8 11-14 18-20" fill="none" stroke="#eafff3" stroke-width="2.5" stroke-linecap="round"/></svg>
