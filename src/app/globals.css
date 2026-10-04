@@ -4,22 +4,14 @@
 
 /* Per-site palette — the only theme knobs, mirrored from tailwind colors. */
 :root {
-  --paper: #faf4e6;          /* parchment */
-  --ink: #16110b;            /* black lacquer */
-  --accent: #b8862b;         /* gold leaf */
-  --accent-soft: rgba(184,134,43,0.30);
-  --gold-hi: #f6e2a4;
-  --gold-lo: #8a6118;
-  --lacquer: #0d0a07;
+  --paper: #eef6f4;
+  --ink: #083832;
+  --accent: #0f9e8c;
+  --accent-soft: rgba(15,158,140,0.30);
 }
 
 html { scroll-behavior: smooth; }
-body {
-  background:
-    radial-gradient(ellipse at 50% -10%, rgba(230,191,94,0.10), transparent 60%),
-    var(--paper);
-  color: var(--ink);
-}
+body { background: var(--paper); color: var(--ink); }
 
 /* ————— Shared premium ornament kit ————— */
 .ornament-rule {
@@ -35,28 +27,22 @@ body {
 }
 .paper-motif { background-image: radial-gradient(var(--accent-soft) 0.6px, transparent 1.4px); background-size: 22px 22px; opacity: 1; }
 .accent-text {
-  background: linear-gradient(110deg, #7a5410 0%, #b8862b 30%, #d9ad4f 45%, #a8781f 60%, #7a5410 100%);
-  background-size: 220% 100%;
+  background: linear-gradient(120deg, #0b7d6f, #5eead4 45%, #0f9e8c 70%);
   -webkit-background-clip: text; background-clip: text; color: transparent;
-  animation: saba-leaf 7s ease-in-out infinite;
 }
 .premium-card {
-  position: relative; border: 1px solid rgba(184,134,43,0.55); border-radius: 0.75rem;
-  background: linear-gradient(180deg, #fffaf0, #fbf3df); box-shadow: 0 1px 2px rgba(40, 26, 8, 0.08), inset 0 0 0 1px rgba(255,255,255,0.6);
+  position: relative; border: 1px solid var(--accent-soft); border-radius: 0.75rem;
+  background: #fffdf8; box-shadow: 0 1px 2px rgba(15, 30, 61, 0.06);
   transition: transform .25s ease, box-shadow .25s ease;
 }
 .premium-card::before { content: ''; position: absolute; inset: 5px; border: 1px solid var(--accent-soft); border-radius: 0.5rem; opacity: 0.55; pointer-events: none; }
 .premium-card:hover { transform: translateY(-3px); box-shadow: 0 12px 28px rgba(15, 30, 61, 0.13); }
-.dropcap > section:first-child > p:first-of-type::first-letter,
 .dropcap > p:first-of-type::first-letter {
-  float: left; font-size: 3.3em; line-height: 0.8; padding: 0.04em 0.12em 0 0;
-  font-weight: 800; font-family: var(--font-serif), Georgia, serif;
-  background: linear-gradient(160deg, var(--gold-hi), #c99a3a 55%, var(--gold-lo));
-  -webkit-background-clip: text; background-clip: text; color: transparent;
+  float: left; font-size: 3.1em; line-height: 0.82; padding-right: 0.1em;
+  color: var(--accent); font-weight: 700; font-family: var(--font-serif), Georgia, serif;
 }
 .article-body p { margin-bottom: 1.1rem; line-height: 1.9; font-size: 1.06rem; }
 .article-body h2 { margin-top: 2.1rem; margin-bottom: 0.85rem; font-size: 1.4rem; font-weight: 700; }
-.article-body h2, .article-body h3 { font-family: var(--font-serif), Georgia, serif; letter-spacing: -0.005em; }
 .article-body h3 { margin-top: 1.5rem; margin-bottom: 0.6rem; font-size: 1.15rem; font-weight: 700; }
 .article-body ul, .article-body ol { margin: 0 0 1.1rem 1.3rem; line-height: 1.8; font-size: 1.04rem; }
 .article-body ul { list-style: disc; }
@@ -110,70 +96,4 @@ body {
   .mk-ticker-track, .mk-orb, .mk-fade-up, .mk-ring, .mk-live-dot { animation: none !important; }
   .mk-fade-up { opacity: 1; }
   .mk-lift, .mk-underline::after { transition: none; }
-}
-
-
-/* ————— Tesoro de la reina de Saba (docs/ADSENSE-BLUEPRINT.md §4) —————
-   Black lacquer inlaid with a gold-leaf lattice of eight-pointed stars; the
-   menu catches a sweep of gold leaf on hover; a gold coin glints by the name.
-   Geometry only — no figures — and every motion stops for reduced motion. */
-@keyframes saba-leaf { 0%, 100% { background-position: 100% 0; } 50% { background-position: 0 0; } }
-@keyframes saba-sweep { from { transform: translateX(-120%) skewX(-18deg); } to { transform: translateX(220%) skewX(-18deg); } }
-@keyframes saba-glint { 0%, 70%, 100% { opacity: 0; transform: rotate(0deg) scale(.6); } 80% { opacity: 1; transform: rotate(45deg) scale(1); } }
-@keyframes saba-coin { 0%, 100% { transform: rotateY(0deg); } 50% { transform: rotateY(180deg); } }
-
-.saba-lacquer {
-  position: relative;
-  background-color: var(--lacquer);
-  background-image:
-    linear-gradient(180deg, rgba(255,255,255,0.04), transparent 40%, rgba(0,0,0,0.35)),
-    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='56' height='56' viewBox='0 0 56 56'%3E%3Cg fill='none' stroke='%23c99a3a' stroke-opacity='.22' stroke-width='.8'%3E%3Cpath d='M28 6l6 16 16 6-16 6-6 16-6-16-16-6 16-6z'/%3E%3Crect x='18' y='18' width='20' height='20' transform='rotate(45 28 28)'/%3E%3Cpath d='M0 0l8 8M56 0l-8 8M0 56l8-8M56 56l-8-8'/%3E%3C/g%3E%3C/svg%3E");
-  background-size: auto, 56px 56px;
-  color: #f6ecd2;
-}
-.saba-lacquer .accent-text {
-  background-image: linear-gradient(110deg, #b8862b 0%, #e6bf5e 30%, #f6e2a4 45%, #c99a3a 60%, #b8862b 100%);
-}
-.saba-lacquer::after {
-  content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 2px;
-  background: linear-gradient(90deg, transparent, #8a6118 12%, var(--gold-hi) 50%, #8a6118 88%, transparent);
-}
-
-.saba-nav { background: rgba(13,10,7,0.94); color: #efe3c4; }
-.saba-nav a { position: relative; overflow: hidden; padding: 0.15rem 0.1rem; }
-.saba-nav a::before {
-  content: ''; position: absolute; top: -20%; bottom: -20%; left: 0; width: 45%;
-  background: linear-gradient(90deg, transparent, rgba(246,226,164,0.55), transparent);
-  transform: translateX(-120%) skewX(-18deg); pointer-events: none;
-}
-.saba-nav a:hover::before, .saba-nav a:focus-visible::before { animation: saba-sweep .75s ease-out; }
-.saba-nav a:hover { color: var(--gold-hi); }
-.saba-nav .mk-underline::after { background: linear-gradient(90deg, #8a6118, var(--gold-hi), #8a6118); }
-
-.saba-coin {
-  position: relative; display: inline-block; width: 2.1rem; height: 2.1rem; border-radius: 9999px; flex: none;
-  background: radial-gradient(circle at 35% 30%, #fff4cf, #e6bf5e 35%, #b07f22 70%, #6e4c10);
-  box-shadow: 0 0 0 2px #6e4c10, 0 0 0 4px rgba(230,191,94,0.45), 0 6px 18px rgba(230,191,94,0.35);
-  animation: saba-coin 9s ease-in-out infinite;
-}
-.saba-coin::before {
-  content: ''; position: absolute; inset: 5px; border-radius: 9999px;
-  border: 1px dashed rgba(110,76,16,0.75);
-}
-.saba-coin::after {
-  content: ''; position: absolute; right: -2px; top: -2px; width: 12px; height: 12px;
-  background: radial-gradient(circle, #fff, rgba(255,255,255,0) 60%);
-  clip-path: polygon(50% 0, 60% 40%, 100% 50%, 60% 60%, 50% 100%, 40% 60%, 0 50%, 40% 40%);
-  animation: saba-glint 4.5s ease-in-out infinite;
-}
-
-.saba-frame { position: relative; }
-.saba-frame::before, .saba-frame::after {
-  content: '✦'; position: absolute; top: 50%; transform: translateY(-50%);
-  color: var(--accent); font-size: .7rem; opacity: .8;
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .accent-text, .saba-coin, .saba-coin::after { animation: none !important; }
-  .saba-nav a:hover::before, .saba-nav a:focus-visible::before { animation: none !important; }
 }
