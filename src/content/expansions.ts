@@ -1,4 +1,5 @@
 import type { Article } from './types';
+import { TOPUP_1500_01 } from './expansions-1500-01';
 
 /**
  * Additive expansions for the jai.lat library.
@@ -5661,7 +5662,7 @@ export const EXPANSIONS: Expansion[] = [
 
 export function applyExpansions(all: Article[]): void {
   const bySlug = new Map(all.map((a) => [a.slug, a]));
-  for (const exp of EXPANSIONS) {
+  for (const exp of [...EXPANSIONS, ...TOPUP_1500_01]) {
     const article = bySlug.get(exp.slug);
     if (!article) continue;
     article.sections.push(...exp.sections);
