@@ -5657,6 +5657,130 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  // ── jai.lat (español): top-off to 1,500+ words, owner 13 Oct 2026:
+  // "Semua artikel yg kurang dr 1500 kata tambahkan". Written by hand.
+  {
+    slug: 'gastos-hormiga',
+    sections: [
+      {
+        h: "Un ejemplo de 30 días, con números",
+        p: [
+          "Imagina a una persona que gana un sueldo mensual estable y siente que el dinero \"se le va\" sin saber en qué. Durante 30 días anota cada compra menor: dos cafés para llevar a la semana, un refresco y una botana en la tarde casi todos los días laborales, tres pedidos a domicilio con cargo de envío, dos suscripciones que no recordaba tener y varias comisiones por retirar efectivo en cajeros de otro banco.",
+          "Al sumar el mes, el café representa el equivalente a unos tres días de comida en casa, las botanas de la tarde algo parecido, los envíos a domicilio pagan más en cargos y propinas que en comida, y las dos suscripciones olvidadas cuestan lo mismo que un servicio de streaming que sí usa. En total, los gastos hormiga equivalen a entre el ocho y el doce por ciento de su ingreso, una cifra frecuente en los registros reales.",
+          "Lo importante del ejemplo no es la cifra exacta, sino el resultado del ejercicio: de todos esos gastos, solo dos le generan verdadera satisfacción. Conserva el café del lunes con un colega y un pedido a domicilio el viernes. Cancela las suscripciones, cambia el retiro de efectivo a cajeros de su propio banco y lleva un termo y fruta para la tarde. El ahorro mensual resultante lo programa como transferencia automática el día de pago, para que no se diluya en otros gastos.",
+        ],
+      },
+      {
+        h: "Los gastos hormiga digitales",
+        p: [
+          "Cada vez más gastos pequeños ya no se pagan en efectivo, sino con un toque en el teléfono: compras dentro de aplicaciones, mejoras en juegos, renovaciones automáticas de pruebas gratuitas, propinas en aplicaciones de transporte y entregas, y almacenamiento en la nube que se amplía sin que lo notemos. Como no hay billetes que salgan de la cartera, se sienten menos y se acumulan más rápido.",
+          "Una revisión trimestral ayuda mucho: abre la sección de suscripciones de tu tienda de aplicaciones, revisa los cargos recurrentes en el estado de cuenta de tu tarjeta y desactiva la compra con un solo clic en las aplicaciones donde gastas sin pensar. Si compartes un dispositivo con niños, activa la aprobación de compras para evitar sorpresas.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'historial-crediticio',
+    sections: [
+      {
+        h: "Cuánto tarda en mejorar un historial",
+        p: [
+          "Una de las preguntas más comunes es cuánto tiempo hace falta para ver resultados. No hay una respuesta única, porque depende de qué haya en tu historial y de las reglas de cada país, pero hay patrones que se repiten. Los pagos puntuales empiezan a reflejarse desde los primeros meses, aunque su efecto en el puntaje es gradual: cada mes con todo al corriente suma un poco. Bajar el uso de tus tarjetas de crédito suele notarse más rápido, en cuanto el banco reporta el nuevo saldo.",
+          "Los atrasos graves y las cuentas enviadas a cobranza pesan más y por más tiempo. En muchos países permanecen visibles durante varios años, aunque su peso disminuye con el tiempo si el resto de tu comportamiento es bueno. Por eso conviene pensar en plazos de seis meses a dos años, no en semanas, y desconfiar de cualquier promesa de mejora inmediata.",
+        ],
+      },
+      {
+        h: "Construir historial desde cero",
+        p: [
+          "Si nunca has tenido un crédito, no tener historial también es un problema: el banco no tiene información para evaluar si eres buen pagador. Algunas formas prudentes de empezar son una tarjeta de crédito con límite bajo que uses para un gasto fijo pequeño y pagues completo cada mes, una tarjeta garantizada en la que tú depositas el límite como respaldo, o un crédito pequeño en una tienda departamental que pagues sin atrasos.",
+          "La clave es usar el crédito como herramienta para demostrar responsabilidad, no como dinero extra. Un buen patrón es cargar a la tarjeta solo un servicio que ya pagarías de todas formas, como el teléfono, y domiciliar el pago total. Después de seis a doce meses así, tu historial muestra un comportamiento constante, que es justo lo que las entidades buscan.",
+        ],
+      },
+      {
+        h: "Un plan de 90 días",
+        p: [
+          "Mes 1: consulta tu historial en el buró o central de riesgo de tu país, revisa cada cuenta y anota los errores. Pon todos tus pagos en domiciliación o con recordatorios. Mes 2: presenta las aclaraciones por los errores encontrados y empieza a bajar el saldo de la tarjeta con mayor uso. Mes 3: vuelve a consultar tu reporte para confirmar que las correcciones se aplicaron y fija una fecha cada año para revisarlo de nuevo.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'metodo-50-30-20',
+    sections: [
+      {
+        h: "Variantes útiles del método",
+        p: [
+          "El 50/30/20 es un punto de partida, no una regla rígida, y existen variantes que muchas personas encuentran más realistas según su etapa. La versión 60/20/20 da más espacio a las necesidades y funciona para quien vive en una ciudad con renta alta o mantiene a otras personas. La 70/20/10 prioriza cubrir lo básico y dedica un diez por ciento al ahorro, útil en meses de ingreso bajo o cuando se está saliendo de deudas. En sentido contrario, quien ya tiene sus necesidades cubiertas con holgura puede intentar un 40/30/30 para acelerar sus metas.",
+          "Lo que conviene mantener en cualquier variante es la lógica: separar lo indispensable de lo que se elige, y reservar una parte fija para el futuro antes de gastar en lo demás.",
+        ],
+      },
+      {
+        h: "Cómo llevarlo en la práctica",
+        p: [
+          "La forma más simple de aplicar el método sin vivir con una calculadora es usar cuentas separadas. El día de pago, el sueldo entra a la cuenta principal, de donde salen las necesidades fijas. Una transferencia automática mueve el porcentaje de ahorro a una cuenta distinta, preferentemente sin tarjeta de débito, y otra mueve el bloque de gustos a una cuenta o tarjeta de débito que usas para el día a día. Cuando esa cuenta se acaba, se acabaron los gustos del mes, sin necesidad de anotar cada compra.",
+          "Quien prefiere el efectivo puede hacer lo mismo con sobres. Y quien usa una aplicación de presupuesto puede crear tres categorías con los porcentajes. El método elegido importa menos que la constancia: revisa una vez al mes si los porcentajes reales se parecen a los planeados y ajusta lo que haga falta.",
+          "Un detalle que suele olvidarse: calcula los porcentajes sobre tu ingreso neto, es decir, lo que realmente llega a tu cuenta después de impuestos y descuentos. Usar el sueldo bruto hace que los bloques parezcan más amplios de lo que son y que el presupuesto no cuadre desde el primer mes.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'tarjeta-de-credito-sin-pagar-intereses',
+    sections: [
+      {
+        h: "Un mes típico, paso a paso",
+        p: [
+          "Supón que la fecha de corte de tu tarjeta es el día 5 y la fecha límite de pago el día 25. Todo lo que compres entre el 6 de un mes y el 5 del siguiente aparecerá en el estado de cuenta que se genera ese día 5, y tendrás hasta el 25 para pagarlo completo sin intereses. Una compra hecha el día 6 te da casi 50 días de plazo; una hecha el día 4 apenas unas tres semanas. Por eso, quien conoce su fecha de corte puede planear las compras grandes justo después de ella.",
+          "Para no fallar nunca, lo más seguro es domiciliar el pago para no generar intereses desde tu cuenta de nómina unos días antes de la fecha límite, y revisar el estado de cuenta en cuanto llega para detectar cargos que no reconoces.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'ahorrar-con-ingresos-irregulares',
+    sections: [
+      {
+        h: "Una revisión cada trimestre",
+        p: [
+          "Cada tres meses, compara el sueldo fijo que te asignas con lo que realmente entró. Si el colchón crece, puedes subir un poco ese sueldo; si se reduce, bájalo antes de que llegue un mes difícil. Este ajuste pequeño y regular es lo que mantiene el sistema estable cuando tus ingresos cambian de temporada.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'inflacion-y-poder-adquisitivo',
+    sections: [
+      {
+        h: "Inflación y deudas",
+        p: [
+          "La inflación también cambia el peso de lo que debes. Una deuda con tasa fija se vuelve más ligera en términos reales cuando los precios y los sueldos suben, porque pagas la misma cuota con un dinero que vale menos. Una deuda con tasa variable, en cambio, suele encarecerse cuando sube la inflación, porque las tasas de interés acompañan esa subida. Antes de contratar un crédito en un periodo de inflación alta, conviene entender qué tipo de tasa tiene y cuánto podría aumentar tu pago.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'metas-de-ahorro',
+    sections: [
+      {
+        h: "Celebra los avances",
+        p: [
+          "Las metas largas se sostienen mejor cuando se dividen en hitos. Marca en tu plantilla el 25, el 50 y el 75 por ciento del monto, y cuando llegues a cada uno date un pequeño reconocimiento que no comprometa el ahorro: una comida especial en casa, una tarde libre o compartir el avance con alguien que te apoye. Ver el progreso de forma concreta es una de las razones más fuertes para no abandonar.",
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'salir-de-deudas-bola-de-nieve-y-avalancha',
+    sections: [
+      {
+        h: "¿Conviene consolidar las deudas?",
+        p: [
+          "Consolidar significa juntar varias deudas en un solo crédito, idealmente con una tasa menor. Puede ser útil si la nueva tasa es claramente más baja, si el plazo no se alarga tanto que termines pagando más en total y si cierras o dejas de usar las tarjetas que liquidaste. El riesgo más común es justamente ese: liberar el límite de las tarjetas y volver a llenarlas, terminando con el crédito de consolidación y las deudas nuevas. Antes de firmar, compara el costo total del crédito, no solo la cuota mensual, y revisa comisiones por apertura o pago anticipado.",
+          "Si tu banco ofrece una reestructura o un convenio de pago, pide las condiciones por escrito y revisa cómo se reportará en tu historial crediticio antes de aceptarlo.",
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
@@ -5664,7 +5788,12 @@ export function applyExpansions(all: Article[]): void {
   for (const exp of EXPANSIONS) {
     const article = bySlug.get(exp.slug);
     if (!article) continue;
-    article.sections.push(...exp.sections);
+    // Added sections belong in the body, not after the closing summary: when
+    // the article ends in a summary or conclusion, insert before it.
+    const last = article.sections[article.sections.length - 1];
+    const closing = last && /^(resumen|conclusi[oó]n|summary|conclusion|in short|bottom line|final thoughts)/i.test(last.h.trim());
+    if (closing) article.sections.splice(article.sections.length - 1, 0, ...exp.sections);
+    else article.sections.push(...exp.sections);
     if (exp.title) article.title = exp.title;
     if (exp.excerpt) article.excerpt = exp.excerpt;
   }
