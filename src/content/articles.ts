@@ -2,6 +2,7 @@ import type { Article, Category } from './types';
 import { ARTICLES_BATCH2 } from './articles-batch2';
 import { ARTICLES_BATCH3 } from './articles-batch3';
 import { ARTICLES_BATCH4 } from './articles-batch4';
+import { ARTICLES_BATCH5 } from './articles-batch5';
 import { applyExpansions } from './expansions';
 import { ARTICLES_ES } from './articles-es';
 
@@ -324,6 +325,8 @@ export function getArticlesByCategory(cat: string): Article[] {
 ARTICLES.push(...ARTICLES_BATCH2);
 ARTICLES.push(...ARTICLES_BATCH3);
 ARTICLES.push(...ARTICLES_BATCH4);
+// Batch 5 — five new hand-written guides (13 Oct 2026).
+ARTICLES.push(...ARTICLES_BATCH5);
 
 // Machine-written articles are no longer published here: hand-written only.
 // The five that were removed redirect to their hand-written twins (next.config.js).
