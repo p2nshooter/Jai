@@ -71,6 +71,9 @@ export function SiteHeader() {
           <Link href="/about" className="mk-underline shrink-0 whitespace-nowrap opacity-70 transition hover:text-gold-300">
             About
           </Link>
+          <Link href="/tools" className="mk-underline eco-promo shrink-0 whitespace-nowrap font-semibold text-gold-300 transition">
+            ✦ Tools
+          </Link>
         </div>
       </nav>
     </header>
@@ -122,6 +125,7 @@ export function SiteFooter() {
             <p className="text-sm font-semibold text-gold-300">Site</p>
             <ul className="mt-3 space-y-2 text-sm text-ivory-100/70">
               <li><Link href="/about" className="transition hover:text-gold-300">About</Link></li>
+              <li><Link href="/tools" className="eco-promo font-semibold text-gold-300 transition hover:text-gold-300">✦ Tools</Link></li>
               <li><Link href="/contact" className="transition hover:text-gold-300">Contact</Link></li>
               <li><Link href="/privacy" className="transition hover:text-gold-300">Privacy Policy</Link></li>
               <li><Link href="/terms" className="transition hover:text-gold-300">Terms</Link></li>
