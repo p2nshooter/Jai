@@ -22,8 +22,8 @@ export default function ToolsPage() {
       <p className="mt-4 text-sm opacity-60">Last reviewed: 19 October 2026</p>
       <div className="article-body mt-6">
         <p>
-          Jai is about the slow, unglamorous habits that let money compound: low fees, steady contributions and fewer expensive mistakes. Here we break from
-          investing for one page to introduce two projects run by the same publisher as Jai. Because they are ours, this is an advertisement — and you should
+          Jai is about the slow, unglamorous habits that let money compound: low fees, steady contributions and fewer expensive mistakes. For one page we set
+          investing aside: the two projects below belong to the company that publishes Jai. Because they are ours, this is an advertisement — and you should
           weigh it the way we ask you to weigh every pitch: by cost, by what it really does, and by what it asks of you.
         </p>
 
@@ -38,8 +38,8 @@ export default function ToolsPage() {
             providers, such as Google Gemini and Groq, offer free tiers for light use.
           </li>
           <li>
-            <strong>Private paperwork.</strong> Privacy Vault removes account numbers, names and other personal details from statements, contracts and
-            spreadsheets on your own device before an AI reads them.
+            <strong>Private paperwork.</strong> Privacy Vault strips account numbers and names out of statements, contracts and spreadsheets locally, so
+            the AI only ever sees the redacted copy.
           </li>
           <li>
             <strong>Understanding, not deciding.</strong> AI Studio can explain a fund factsheet or compare two fee schedules side by side, with answers from
@@ -50,15 +50,14 @@ export default function ToolsPage() {
         <h2>XAA — a website for advisers and small finance firms</h2>
         <p>
           Independent advisers, bookkeepers and small fintech teams need a site that is clear, fast and trustworthy.{' '}
-          <a href={link('https://xaa.es')} className="text-gold-600 underline" rel="noopener">XAA</a> is a European studio that builds websites and platforms to
-          order — from a plain company site with a booking form to client portals and SaaS products. Every project is split into milestones that are agreed,
-          delivered and paid for one by one (PayPal, bank transfer or USDT), which keeps the total cost visible from the start. Templates are available for
-          a lower-cost beginning, and XAA’s site is in English, Spanish and Indonesian.
+          <a href={link('https://xaa.es')} className="text-gold-600 underline" rel="noopener">XAA</a> is a European studio that designs and codes made-to-measure sites and platforms — from a plain company site with a booking form to client portals and SaaS products. Each project moves in priced stages: you approve one,
+          see it finished, settle it by PayPal, bank transfer or USDT, and only then start the next — so the total stays visible from day one. Templates offer
+          a cheaper beginning, and the studio’s own pages are written in English, Spanish and Indonesian.
         </p>
 
         <h2>Jai stays independent</h2>
         <p>
-          No guide on Jai recommends AXTO or XAA, and none was written or changed because of them. Our articles are general education, not personal financial
+          Our guides never point you to AXTO or XAA, and their existence changed nothing we publish. Our articles are general education, not personal financial
           advice. If these tools fit your budget, use them; if not, the cheapest tool is still the one you never needed.
         </p>
       </div>
