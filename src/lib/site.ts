@@ -7,7 +7,7 @@ export const SITE = {
   url: 'https://jai.lat',
   tagline: 'Money that grows',
   description:
-    "Independent, plain-English guides to investing, saving and building lasting wealth — the slow, evidence-based moves that compound over a lifetime, with no tips and no hype.",
+    "Independent, plain-English guides to investing, saving and building lasting wealth: the slow, evidence-based moves that compound, with no tips and no hype.",
   locale: 'en',
   heroLead: 'Money that',
   heroAccent: 'grows',
