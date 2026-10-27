@@ -5,9 +5,9 @@ import type { Metadata } from 'next';
  * readers in Jai's own words — labelled openly, no financial advice, no ad slot.
  */
 export const metadata: Metadata = {
-  title: 'Low-cost tools for patient investors and small firms — AXTO & XAA',
+  title: 'Tools for patient investors — AXTO & XAA',
   description:
-    'A labelled note from our publisher: AXTO, AI that runs on your own key and keeps statements private, and XAA, which builds websites for advisers and small finance firms.',
+    'A labelled note from our publisher: AXTO, AI that runs on your own key and keeps statements private, and XAA, which builds websites for small finance firms.',
   alternates: { canonical: '/tools' }
 };
 
