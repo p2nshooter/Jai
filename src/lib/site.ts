@@ -11,7 +11,6 @@ export const SITE = {
   locale: 'en',
   heroLead: 'Money that',
   heroAccent: 'grows',
-  // 28 Oct 2026 (owner): jai.lat — google.com, pub-2717693315276182, DIRECT, f08c47fec0942fa0.
-  adClient: 'ca-pub-2717693315276182',
+  adClient: 'ca-pub-6019445914743449',
   analyticsEndpoint: 'https://api.ulyah.com/track',
 } as const;
