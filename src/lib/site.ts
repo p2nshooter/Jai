@@ -11,8 +11,7 @@ export const SITE = {
   locale: 'en',
   heroLead: 'Money that',
   heroAccent: 'grows',
-  // 7 Nov 2026 (owner): sixteen accounts stacked (src/lib/adsense.ts); ca-pub-5693981744147503 is the primary account — the only
-  // loader — and ca-pub-6019445914743449 is removed („Domain yg lain kode adsensenya boleh di hapus ikuti dengan perintah terbaru“).
-  adClient: 'ca-pub-5693981744147503',
+  // 22 Nov 2026 (pemilik): „hapus seluruh kode adsense tumpuk dan meta tag nya … sisakan 3 adsense saja“: akun utama = ca-pub-5928074389292014 (adsense-stack.json di ulyah.com).
+  adClient: 'ca-pub-5928074389292014',
   analyticsEndpoint: 'https://api.ulyah.com/track',
 } as const;
